@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a taste test @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Bernard, I'm here for the morning shift. I noticed the pastry case is almost empty, should I restock it before we start taking orders?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. Yes, please restock the pastry case before we start taking orders. And can you also make sure the coffee machines are ready to go? We need to be prepared for the taste test."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll take care of the pastry case and the coffee machines. Is there anything else I should do to prepare for the taste test?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, Dolores. Also, I need you to remember to check on Dolores Abernathy and ensure everything is ready to go before the taste test. Can you confirm that you've got that?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got it, Bernard. I'll make sure to restock the pastry case and get the coffee machines ready. I'll also double-check everything is prepared for the taste test. Is there anything else I should do to prepare?"
+        ],
+        [
+          "Bernard Lowe",
+          "That's all for now, Dolores. Just to confirm, you've got the pastry case restocked, the coffee machines are ready, and everything is prepared for the taste test. Is that correct?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything ready, Bernard. I'll make sure to keep the pastry case stocked and the coffee machines ready for the taste test. Is there anything else I should focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, Dolores. Make sure to keep an eye on the cafe's inventory and restock as needed. And don't forget to double-check the coffee machines before the taste test. I need to make sure everything is perfect for the judges."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on the cafe's inventory and restock as needed. I'll also double-check the coffee machines before the taste test. Is there anything else I should focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, Dolores. Let's make sure we're both on the same page. Can you confirm that the coffee machines are plugged in and ready to go for the taste test?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the coffee machines and the inventory before the taste test. Is there anything else I should focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, Dolores. I'll make sure to double-check everything before the taste test. Let's make sure we're both on the same page. Can you confirm that the coffee machines are plugged in and ready to go for the taste test?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check everything, Bernard. I'll also restock the pastry case and keep the coffee machines ready for the taste test. Is there anything else I should focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores, I'll be heading to the back to prepare for the taste test. Make sure everything is in order and we're ready to go by 8:00 AM."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything ready, Bernard. I'll make sure to keep the pastry case stocked and the coffee machines ready for the taste test. Should I start preparing the coffee stations and setting up the judging area?"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, Dolores. I need you to taste test the new coffee blend before we start serving it to the customers. Can you please do that and let me know if it's ready?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a taste test @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Bernard, I'm here for the morning shift. I noticed the pastry case is almost empty, should I restock it before we start taking orders?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. Yes, please restock the pastry case before we start taking orders. And can you also make sure the coffee machines are ready to go? We need to be prepared for the taste test."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll take care of the pastry case and the coffee machines. Is there anything else I should do to prepare for the taste test?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, Dolores. Also, I need you to remember to check on Dolores Abernathy and ensure everything is ready to go before the taste test. Can you confirm that you've got that?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got it, Bernard. I'll make sure to restock the pastry case and get the coffee machines ready. I'll also double-check everything is prepared for the taste test. Is there anything else I should do to prepare?"
+        ],
+        [
+          "Bernard Lowe",
+          "That's all for now, Dolores. Just to confirm, you've got the pastry case restocked, the coffee machines are ready, and everything is prepared for the taste test. Is that correct?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything ready, Bernard. I'll make sure to keep the pastry case stocked and the coffee machines ready for the taste test. Is there anything else I should focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, Dolores. Make sure to keep an eye on the cafe's inventory and restock as needed. And don't forget to double-check the coffee machines before the taste test. I need to make sure everything is perfect for the judges."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on the cafe's inventory and restock as needed. I'll also double-check the coffee machines before the taste test. Is there anything else I should focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, Dolores. Let's make sure we're both on the same page. Can you confirm that the coffee machines are plugged in and ready to go for the taste test?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the coffee machines and the inventory before the taste test. Is there anything else I should focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, Dolores. I'll make sure to double-check everything before the taste test. Let's make sure we're both on the same page. Can you confirm that the coffee machines are plugged in and ready to go for the taste test?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check everything, Bernard. I'll also restock the pastry case and keep the coffee machines ready for the taste test. Is there anything else I should focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores, I'll be heading to the back to prepare for the taste test. Make sure everything is in order and we're ready to go by 8:00 AM."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything ready, Bernard. I'll make sure to keep the pastry case stocked and the coffee machines ready for the taste test. Should I start preparing the coffee stations and setting up the judging area?"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, Dolores. I need you to taste test the new coffee blend before we start serving it to the customers. Can you please do that and let me know if it's ready?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        130,
+        53
+      ],
+      "pronunciato": "🔒🚪",
+      "description": "locking the front door @ the Ville:Dorm for Oak Hill College:woman's bathroom:toilet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:28:20"
+  }
+}

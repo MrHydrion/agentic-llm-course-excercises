@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "efficiently preparing for the lunch rush @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. I see you're all set for the day. Let's get started on the lunch rush, shall we?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm excited to get started on the lunch rush. I've got my morning routine down pat, so I'm feeling focused and prepared."
+        ],
+        [
+          "Bernard Lowe",
+          "Great, let's get started then. I've got the inventory checked and we're all set for the lunch rush. Just a reminder, we need to restock the pastry case by 12:30, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set, Bernard. I've got my morning routine to thank for that. I'll make sure to restock the pastry case by 12:30, don't worry."
+        ],
+        [
+          "Bernard Lowe",
+          "Great, let's get started then. I've got the inventory checked and we're all set for the lunch rush. Just a reminder, we need to keep an eye on the inventory and restock as needed to avoid last-minute scrambles."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set to start taking orders and making drinks. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder, Bernard!"
+        ],
+        [
+          "Bernard Lowe",
+          "Let's make sure to keep the cafe clean and tidy throughout the day, okay? We don't want any messes or spills to slow us down during the lunch rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep the cafe clean and tidy, Bernard. I'm all set to start taking orders and making drinks. Thanks for the reminder!"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be keeping an eye on the cafe's inventory and restocking as needed to ensure a smooth operation. Let's get started, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set to start taking orders and making drinks, Bernard. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder!"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, let's get started then. I'll be keeping an eye on the cafe's inventory and restocking as needed to ensure a smooth operation. How's the pastry case looking?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to keep the cafe running smoothly during the lunch rush. And, as always, I'll prioritize my quiet morning routine tonight to stay focused and prepared for the day ahead."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm glad to hear that. Make sure to keep an eye on the cafe's inventory and restock as needed to avoid any last-minute scrambles during the lunch rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set to start taking orders and making drinks, Bernard. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder!"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be checking in periodically to make sure everything is running smoothly. Let's keep the cafe well-stocked and organized, shall we?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to a busy day at the cafe, and I'm glad I prioritized my quiet morning routine to stay focused. I think it really helped me feel more prepared and excited for the day ahead."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "efficiently preparing for the lunch rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. I see you're all set for the day. Let's get started on the lunch rush, shall we?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm excited to get started on the lunch rush. I've got my morning routine down pat, so I'm feeling focused and prepared."
+        ],
+        [
+          "Bernard Lowe",
+          "Great, let's get started then. I've got the inventory checked and we're all set for the lunch rush. Just a reminder, we need to restock the pastry case by 12:30, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set, Bernard. I've got my morning routine to thank for that. I'll make sure to restock the pastry case by 12:30, don't worry."
+        ],
+        [
+          "Bernard Lowe",
+          "Great, let's get started then. I've got the inventory checked and we're all set for the lunch rush. Just a reminder, we need to keep an eye on the inventory and restock as needed to avoid last-minute scrambles."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set to start taking orders and making drinks. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder, Bernard!"
+        ],
+        [
+          "Bernard Lowe",
+          "Let's make sure to keep the cafe clean and tidy throughout the day, okay? We don't want any messes or spills to slow us down during the lunch rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep the cafe clean and tidy, Bernard. I'm all set to start taking orders and making drinks. Thanks for the reminder!"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be keeping an eye on the cafe's inventory and restocking as needed to ensure a smooth operation. Let's get started, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set to start taking orders and making drinks, Bernard. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder!"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, let's get started then. I'll be keeping an eye on the cafe's inventory and restocking as needed to ensure a smooth operation. How's the pastry case looking?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to keep the cafe running smoothly during the lunch rush. And, as always, I'll prioritize my quiet morning routine tonight to stay focused and prepared for the day ahead."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm glad to hear that. Make sure to keep an eye on the cafe's inventory and restock as needed to avoid any last-minute scrambles during the lunch rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set to start taking orders and making drinks, Bernard. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder!"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be checking in periodically to make sure everything is running smoothly. Let's keep the cafe well-stocked and organized, shall we?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to a busy day at the cafe, and I'm glad I prioritized my quiet morning routine to stay focused. I think it really helped me feel more prepared and excited for the day ahead."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        115,
+        37
+      ],
+      "pronunciato": "🏃‍♂️🛍️",
+      "description": "serving customers at the counter (reviewing morning routine) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:26:50"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🚿💧",
+      "description": "morning routine (finalizing morning routine) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        31
+      ],
+      "pronunciato": "🍳🛋️",
+      "description": "wake up and complete morning routine (having breakfast) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        103,
+        45
+      ],
+      "pronunciato": "🚿💧",
+      "description": "finishing morning routine @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:49:40"
+  }
+}

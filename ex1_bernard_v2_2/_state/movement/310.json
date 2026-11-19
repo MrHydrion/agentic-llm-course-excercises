@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "managing cafe preparations and taste test logistics @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm all set for the day. What's the plan for the cafe?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Let's get started. I need you to restock the pastry case and make sure the coffee machines are ready to go. Can you handle that?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Bernard. I'll make sure to restock the pastry case and get the coffee machines ready. Should I also prepare the new menu items for the taste test?"
+        ],
+        [
+          "Bernard Lowe",
+          "That's all, Dolores. Just make sure to keep an eye on the coffee machines and refill them as needed. I'll be back to check on you in a bit."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on the coffee machines and refill them as needed, Bernard. Is there anything else I should do before the taste test?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, Dolores. Just make sure to keep an eye on the coffee machines and refill them as needed. I'll be back to check on you in a bit."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep the pastry case stocked and the coffee machines ready, Bernard. Should I also start preparing the new menu items for the taste test?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Let's get started. I need you to restock the pastry case and make sure the coffee machines are ready to go. Can you handle that?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to restock the pastry case and get the coffee machines ready for the taste test. Should I start preparing the new menu items now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Let's get started. I need you to restock the pastry case and make sure the coffee machines are ready to go. Can you handle that?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything ready for the taste test, Bernard. The new menu items are set up and the coffee machines are ready to go. Is there anything else you need me to do before the tasting begins?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores, let's get started. Make sure the coffee machines are ready to go and we're good to open up for the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything ready for the taste test, Bernard. The new menu items are set up and the coffee machines are ready to go. Is there anything else you need me to do before the tasting begins?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores, let's get started. Make sure the coffee machines are ready to go and we're good to open up for the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything ready for the taste test, Bernard. The new menu items are set up and the coffee machines are ready to go. Is there anything else you need me to do before the tasting begins?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Let's get started. Make sure the coffee machines are ready to go and we're good to open up for the day."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        26
+      ],
+      "pronunciato": "💬",
+      "description": "managing cafe preparations and taste test logistics @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm all set for the day. What's the plan for the cafe?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Let's get started. I need you to restock the pastry case and make sure the coffee machines are ready to go. Can you handle that?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Bernard. I'll make sure to restock the pastry case and get the coffee machines ready. Should I also prepare the new menu items for the taste test?"
+        ],
+        [
+          "Bernard Lowe",
+          "That's all, Dolores. Just make sure to keep an eye on the coffee machines and refill them as needed. I'll be back to check on you in a bit."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on the coffee machines and refill them as needed, Bernard. Is there anything else I should do before the taste test?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, Dolores. Just make sure to keep an eye on the coffee machines and refill them as needed. I'll be back to check on you in a bit."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep the pastry case stocked and the coffee machines ready, Bernard. Should I also start preparing the new menu items for the taste test?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Let's get started. I need you to restock the pastry case and make sure the coffee machines are ready to go. Can you handle that?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to restock the pastry case and get the coffee machines ready for the taste test. Should I start preparing the new menu items now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Let's get started. I need you to restock the pastry case and make sure the coffee machines are ready to go. Can you handle that?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything ready for the taste test, Bernard. The new menu items are set up and the coffee machines are ready to go. Is there anything else you need me to do before the tasting begins?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores, let's get started. Make sure the coffee machines are ready to go and we're good to open up for the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything ready for the taste test, Bernard. The new menu items are set up and the coffee machines are ready to go. Is there anything else you need me to do before the tasting begins?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores, let's get started. Make sure the coffee machines are ready to go and we're good to open up for the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything ready for the taste test, Bernard. The new menu items are set up and the coffee machines are ready to go. Is there anything else you need me to do before the tasting begins?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Let's get started. Make sure the coffee machines are ready to go and we're good to open up for the day."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        98,
+        44
+      ],
+      "pronunciato": "🚿💧",
+      "description": "finishing morning routine @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:50:40"
+  }
+}

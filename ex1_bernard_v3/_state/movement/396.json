@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        28
+      ],
+      "pronunciato": "💬",
+      "description": "staying focused on cafe tasks while trying to discuss sci-fi books @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Bernard, I'm heading to the cafe to start my shift. Just wanted to confirm that everything is ready to go. Oh, and I almost forgot, I'm planning to meet Dolores after my shift to discuss some sci-fi books. Would you like to join us?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's with the sci-fi books, Maeve? I don't think that's relevant to our work here at Hobbs Cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Oh, okay, I understand. I'll make sure to keep the conversation work-related. Can I ask, have you thought about any new promotions or events we could have at the cafe to attract more customers?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for sci-fi books or whatever. I need to make sure the cafe is running smoothly. Just focus on your job, okay?"
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to keep my focus on the cafe. But I did want to remind you that I'll be meeting Dolores after my shift to discuss some sci-fi books. Would you like to join us?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for small talk. Just get to work and make sure the cafe is running smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I understand. I'll make sure to keep my focus on the cafe. By the way, I found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately. Maybe I can get her to recommend some titles to me."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized. I'll be handling the piano, so you focus on the seating area."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, got it. I'll make sure the seating area is spotless and organized for the morning rush. Would you like me to also prepare the menu boards and make sure the pastry display is looking good?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, get the seating area ready for the morning rush. I'll handle the piano. Don't bother me with any questions, just get it done."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get the seating area ready for the morning rush. Can I ask, have you thought about any new promotions or events we could have at the cafe to attract more customers?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't bother me with any ideas, just get the seating area ready for the morning rush. And make sure it's spotless, I don't want to see any crumbs or stains."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll make sure the seating area is spotless and organized. I'll also grab a copy of 'Childhood's End' to discuss with Dolores after my shift. Can I ask, Bernard, if you'd like to join us for a quick chat about sci-fi books after my shift is over?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just get the seating area ready, Maeve. I don't have time for small talk or sci-fi books. Just focus on your job."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard, I'll make sure the seating area is spotless and organized. Can I ask, do you have any feedback on my performance lately? I want to make sure I'm doing a good job."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, get the seating area ready for the morning rush. I don't want to see any crumbs or stains. And make sure the piano is tuned and ready for customers."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        57
+      ],
+      "pronunciato": "🏃‍♂️🍳",
+      "description": "waking up and completing morning routine (walking to Hobbs Cafe) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        27
+      ],
+      "pronunciato": "💬",
+      "description": "staying focused on cafe tasks while trying to discuss sci-fi books @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Bernard, I'm heading to the cafe to start my shift. Just wanted to confirm that everything is ready to go. Oh, and I almost forgot, I'm planning to meet Dolores after my shift to discuss some sci-fi books. Would you like to join us?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's with the sci-fi books, Maeve? I don't think that's relevant to our work here at Hobbs Cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Oh, okay, I understand. I'll make sure to keep the conversation work-related. Can I ask, have you thought about any new promotions or events we could have at the cafe to attract more customers?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for sci-fi books or whatever. I need to make sure the cafe is running smoothly. Just focus on your job, okay?"
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to keep my focus on the cafe. But I did want to remind you that I'll be meeting Dolores after my shift to discuss some sci-fi books. Would you like to join us?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for small talk. Just get to work and make sure the cafe is running smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I understand. I'll make sure to keep my focus on the cafe. By the way, I found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately. Maybe I can get her to recommend some titles to me."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized. I'll be handling the piano, so you focus on the seating area."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, got it. I'll make sure the seating area is spotless and organized for the morning rush. Would you like me to also prepare the menu boards and make sure the pastry display is looking good?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, get the seating area ready for the morning rush. I'll handle the piano. Don't bother me with any questions, just get it done."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get the seating area ready for the morning rush. Can I ask, have you thought about any new promotions or events we could have at the cafe to attract more customers?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't bother me with any ideas, just get the seating area ready for the morning rush. And make sure it's spotless, I don't want to see any crumbs or stains."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll make sure the seating area is spotless and organized. I'll also grab a copy of 'Childhood's End' to discuss with Dolores after my shift. Can I ask, Bernard, if you'd like to join us for a quick chat about sci-fi books after my shift is over?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just get the seating area ready, Maeve. I don't have time for small talk or sci-fi books. Just focus on your job."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard, I'll make sure the seating area is spotless and organized. Can I ask, do you have any feedback on my performance lately? I want to make sure I'm doing a good job."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, get the seating area ready for the morning rush. I don't want to see any crumbs or stains. And make sure the piano is tuned and ready for customers."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:05:00"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciato": "😴💤",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        108,
+        39
+      ],
+      "pronunciato": "💬",
+      "description": "feeling prepared and excited for a busy day at the cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to try out some new drinks today. Are you feeling prepared for a busy day at the cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm feeling good, thanks! I've got my morning routine down, and I'm looking forward to a busy day at the cafe. How about you, ready to tackle the day?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually a bit nervous about trying out the new drinks, but I know I'll learn as I go. Do you have any tips for me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sure you'll do great! Just remember to take your time and don't be afraid to ask for help if you need it. And hey, I'm looking forward to catching up before my shift starts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we can catch up before my shift starts. I'm really looking forward to trying out those new drinks at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sure you'll do great, Maeve. Let's get going and get those drinks ready for our customers."
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually feeling a bit anxious about trying out these new drinks, but I know I'll get the hang of it. Do you have any advice on how to stay focused during a busy shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually looking forward to a busy day at the cafe. It's always more fun when we're both working together."
+        ],
+        [
+          "Maeve Millay",
+          "I think I'll be fine, just need to focus on the drinks and the orders. Thanks for the chat, Dolores, I'll see you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both excited for a busy day at the cafe. I think we'll work well together today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually feeling a bit anxious about trying out these new drinks, but I know I'll get the hang of it. Do you have any advice on how to stay focused during a busy shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both excited for a busy day at the cafe. I think we'll work well together today. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually looking forward to practicing those new drinks during my shift. I hope it goes smoothly!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually looking forward to a quiet morning routine today, it helps me stay focused. Maybe I'll even get some reading done before my shift starts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to try out those new drinks during my shift. Do you have any favorite drinks that you like to make?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually looking forward to a quiet morning routine today, it helps me stay focused. Maybe I'll even get some reading done before my shift starts."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        108,
+        39
+      ],
+      "pronunciato": "💬",
+      "description": "feeling prepared and excited for a busy day at the cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to try out some new drinks today. Are you feeling prepared for a busy day at the cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm feeling good, thanks! I've got my morning routine down, and I'm looking forward to a busy day at the cafe. How about you, ready to tackle the day?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually a bit nervous about trying out the new drinks, but I know I'll learn as I go. Do you have any tips for me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sure you'll do great! Just remember to take your time and don't be afraid to ask for help if you need it. And hey, I'm looking forward to catching up before my shift starts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we can catch up before my shift starts. I'm really looking forward to trying out those new drinks at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sure you'll do great, Maeve. Let's get going and get those drinks ready for our customers."
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually feeling a bit anxious about trying out these new drinks, but I know I'll get the hang of it. Do you have any advice on how to stay focused during a busy shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually looking forward to a busy day at the cafe. It's always more fun when we're both working together."
+        ],
+        [
+          "Maeve Millay",
+          "I think I'll be fine, just need to focus on the drinks and the orders. Thanks for the chat, Dolores, I'll see you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both excited for a busy day at the cafe. I think we'll work well together today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually feeling a bit anxious about trying out these new drinks, but I know I'll get the hang of it. Do you have any advice on how to stay focused during a busy shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both excited for a busy day at the cafe. I think we'll work well together today. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually looking forward to practicing those new drinks during my shift. I hope it goes smoothly!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually looking forward to a quiet morning routine today, it helps me stay focused. Maybe I'll even get some reading done before my shift starts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to try out those new drinks during my shift. Do you have any favorite drinks that you like to make?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually looking forward to a quiet morning routine today, it helps me stay focused. Maybe I'll even get some reading done before my shift starts."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:56:30"
+  }
+}

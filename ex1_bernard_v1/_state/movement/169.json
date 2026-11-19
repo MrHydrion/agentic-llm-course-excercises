@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciato": "😴💤",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        54
+      ],
+      "pronunciato": "💬",
+      "description": "looking forward to a busy day at the cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm excited to be heading to work today. It's going to be a busy day at the cafe, but I'm looking forward to getting everything done."
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited too, Dolores! I have a lot to learn about new drinks today. I'm hoping to get some practice in."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad you're excited, Maeve. I'll make sure to help you with those new drinks. We can even practice together during our shift."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it, Dolores. I hope we can get some practice in during our shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're on the same page. I'll make sure to get those new drinks down pat. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I'll make sure to have everything ready for our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking about what I need to do today, like filling orders and learning new drinks. Do you have any tips for staying focused?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to get those new drinks down pat. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think a quiet morning will really help me stay focused. Do you have any favorite drinks you're looking forward to making today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm hoping to get some practice in during our shift, thanks for the offer Dolores. I'm feeling a bit nervous about trying out the new drinks, but I know I'll learn as I go."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm planning to head to work at Hobbs Cafe today. I need to remember to grab a coffee and chat with Bernard before my shift starts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm hoping to get some practice in during our shift, thanks for the offer Dolores. I'm feeling a bit nervous about trying out the new drinks, but I know I'll learn as I go."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day. What about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I think I'll be okay, thanks for the offer Dolores. I'm just going to focus on getting my morning routine done and then head to the cafe. See you there!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        54
+      ],
+      "pronunciato": "💬",
+      "description": "looking forward to a busy day at the cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm excited to be heading to work today. It's going to be a busy day at the cafe, but I'm looking forward to getting everything done."
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited too, Dolores! I have a lot to learn about new drinks today. I'm hoping to get some practice in."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad you're excited, Maeve. I'll make sure to help you with those new drinks. We can even practice together during our shift."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it, Dolores. I hope we can get some practice in during our shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're on the same page. I'll make sure to get those new drinks down pat. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I'll make sure to have everything ready for our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking about what I need to do today, like filling orders and learning new drinks. Do you have any tips for staying focused?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to get those new drinks down pat. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think a quiet morning will really help me stay focused. Do you have any favorite drinks you're looking forward to making today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm hoping to get some practice in during our shift, thanks for the offer Dolores. I'm feeling a bit nervous about trying out the new drinks, but I know I'll learn as I go."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm planning to head to work at Hobbs Cafe today. I need to remember to grab a coffee and chat with Bernard before my shift starts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm hoping to get some practice in during our shift, thanks for the offer Dolores. I'm feeling a bit nervous about trying out the new drinks, but I know I'll learn as I go."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day. What about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I think I'll be okay, thanks for the offer Dolores. I'm just going to focus on getting my morning routine done and then head to the cafe. See you there!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:27:10"
+  }
+}

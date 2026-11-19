@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        23
+      ],
+      "pronunciato": "💬",
+      "description": "procrastinating and discussing sci-fi books with Dolores @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "What's taking you so long, Maeve? You know we have a morning rush to get through. Make sure the cafe is spotless and organized before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time to babysit you. Just get the cafe ready and let's get started already."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve, let's get moving. We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, what's taking you so long? We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost ready, Bernard. Just need to grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift."
+        ],
+        [
+          "Bernard Lowe",
+          "What's this book you're talking about, Maeve? Childhood's End, wasn't it? I've heard of it. Dolores Abernathy has been meaning to get into more sci-fi books lately, did you know that?"
+        ],
+        [
+          "Maeve Millay",
+          "That's really cool, Bernard. I'm a big fan of sci-fi too. I've been meaning to read 'Childhood's End' myself. Maybe Dolores and I can discuss it over lunch after my shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure to get the cafe customer seating ready for the morning rush. I need to handle the piano and make sure everything is spotless and organized. Don't bother me with questions or ideas for new promotions or events, just focus on the tasks."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard, I'll make sure to get the cafe customer seating ready. I'll just grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift. Thanks for letting me know she's interested in sci-fi books."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, focus on getting the cafe customer seating ready for the morning rush. I need to handle the piano and make sure everything is spotless and organized. Don't bother me with questions or ideas for new promotions or events, just focus on the tasks."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost ready, Bernard. I just need to grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift. We can discuss the book over lunch."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, don't forget to restock the coffee supplies before we open. We don't want to run out during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard, I'll make sure to restock the coffee supplies. I'll be right there to open up the cafe."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciato": "🚶‍♂️🔒",
+      "description": "walking to Hobbs Cafe (locking the door and double-checking the room) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        24
+      ],
+      "pronunciato": "💬",
+      "description": "procrastinating and discussing sci-fi books with Dolores @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "What's taking you so long, Maeve? You know we have a morning rush to get through. Make sure the cafe is spotless and organized before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time to babysit you. Just get the cafe ready and let's get started already."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve, let's get moving. We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, what's taking you so long? We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost ready, Bernard. Just need to grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift."
+        ],
+        [
+          "Bernard Lowe",
+          "What's this book you're talking about, Maeve? Childhood's End, wasn't it? I've heard of it. Dolores Abernathy has been meaning to get into more sci-fi books lately, did you know that?"
+        ],
+        [
+          "Maeve Millay",
+          "That's really cool, Bernard. I'm a big fan of sci-fi too. I've been meaning to read 'Childhood's End' myself. Maybe Dolores and I can discuss it over lunch after my shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure to get the cafe customer seating ready for the morning rush. I need to handle the piano and make sure everything is spotless and organized. Don't bother me with questions or ideas for new promotions or events, just focus on the tasks."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard, I'll make sure to get the cafe customer seating ready. I'll just grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift. Thanks for letting me know she's interested in sci-fi books."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, focus on getting the cafe customer seating ready for the morning rush. I need to handle the piano and make sure everything is spotless and organized. Don't bother me with questions or ideas for new promotions or events, just focus on the tasks."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost ready, Bernard. I just need to grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift. We can discuss the book over lunch."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, don't forget to restock the coffee supplies before we open. We don't want to run out during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard, I'll make sure to restock the coffee supplies. I'll be right there to open up the cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:28:50"
+  }
+}

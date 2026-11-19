@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciato": "😴🛋️",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        109,
+        41
+      ],
+      "pronunciato": "💬",
+      "description": "discussing sci-fi books and first contact with aliens @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I'm actually looking forward to discussing my favorite sci-fi books with you after work today. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great! I've been meaning to get into more sci-fi books myself. What's your favorite series or author?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been really into the Asimov series lately. Have you read any of them?"
+        ],
+        [
+          "Maeve Millay",
+          "I've been meaning to check out Asimov's works, actually. Do you have a favorite book or series of his that I should start with?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I think 'Foundation' is a great starting point. It's a classic series that explores the development of a new society. Have you ever read any of the other sci-fi authors like Clarke or Heinlein?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll have to check out 'Foundation' then. I've heard great things about it. Do you think it's a good starting point for someone new to sci-fi?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think 'Foundation' is a great starting point because it's a classic series that explores the development of a new society. It's a great example of how sci-fi can be used to explore complex social and political issues."
+        ],
+        [
+          "Maeve Millay",
+          "I've heard great things about Clarke's 'Childhood's End' too. Maybe we can grab a book to read together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to! I've been meaning to read 'Childhood's End' too. Maybe we can grab a coffee after work and discuss our thoughts on it?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great idea! I'll make sure to grab a book and meet you at the cafe after my shift. What time were you thinking?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to discussing 'Childhood's End' with you. I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of first contact with an alien civilization?"
+        ],
+        [
+          "Maeve Millay",
+          "That's really cool! I've always been fascinated by the idea of first contact. I'll make sure to grab a copy of 'Childhood's End' and we can discuss it after work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it! I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of first contact with an alien civilization?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to discussing 'Childhood's End' with you. I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of humanity being wiped out by an alien civilization?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to discuss 'Childhood's End' with you after work. I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of humanity being wiped out by an alien civilization?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it! I've heard it's a really thought-provoking book. Do you think the idea of first contact is more exciting or terrifying?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        109,
+        41
+      ],
+      "pronunciato": "💬",
+      "description": "discussing sci-fi books and first contact with aliens @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I'm actually looking forward to discussing my favorite sci-fi books with you after work today. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great! I've been meaning to get into more sci-fi books myself. What's your favorite series or author?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been really into the Asimov series lately. Have you read any of them?"
+        ],
+        [
+          "Maeve Millay",
+          "I've been meaning to check out Asimov's works, actually. Do you have a favorite book or series of his that I should start with?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I think 'Foundation' is a great starting point. It's a classic series that explores the development of a new society. Have you ever read any of the other sci-fi authors like Clarke or Heinlein?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll have to check out 'Foundation' then. I've heard great things about it. Do you think it's a good starting point for someone new to sci-fi?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think 'Foundation' is a great starting point because it's a classic series that explores the development of a new society. It's a great example of how sci-fi can be used to explore complex social and political issues."
+        ],
+        [
+          "Maeve Millay",
+          "I've heard great things about Clarke's 'Childhood's End' too. Maybe we can grab a book to read together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to! I've been meaning to read 'Childhood's End' too. Maybe we can grab a coffee after work and discuss our thoughts on it?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great idea! I'll make sure to grab a book and meet you at the cafe after my shift. What time were you thinking?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to discussing 'Childhood's End' with you. I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of first contact with an alien civilization?"
+        ],
+        [
+          "Maeve Millay",
+          "That's really cool! I've always been fascinated by the idea of first contact. I'll make sure to grab a copy of 'Childhood's End' and we can discuss it after work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it! I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of first contact with an alien civilization?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to discussing 'Childhood's End' with you. I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of humanity being wiped out by an alien civilization?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to discuss 'Childhood's End' with you after work. I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of humanity being wiped out by an alien civilization?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it! I've heard it's a really thought-provoking book. Do you think the idea of first contact is more exciting or terrifying?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:54:00"
+  }
+}

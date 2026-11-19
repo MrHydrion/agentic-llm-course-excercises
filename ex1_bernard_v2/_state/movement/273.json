@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        14
+      ],
+      "pronunciato": "🏃‍♂️👞",
+      "description": "waking up (putting on shoes) @ the Ville:Bernard Lowe's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating work schedule and social plans @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, thanks for offering to buy me breakfast. I'm looking forward to our shift at Hobbs Cafe today. Shall we head out together?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad you're excited for our shift today. I was thinking we could grab breakfast at Hobbs Cafe before we head in. What do you say?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good to me! I'll meet you at the cafe at 8am, then we can head in together."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, I'll meet you at the cafe at 8am. Oh, and I almost forgot, I need to remind you that we have a meeting with Bernard at 2pm today. Don't forget to bring your notes."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it. Thanks again for buying me breakfast, Maeve. See you at the cafe at 8am."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're meeting up early today. I have a few tasks I want to get done before our shift starts. Want to meet at the cafe at 7:30am and grab a coffee together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, I'll meet you at the cafe at 7:30am then. Oh, and I almost forgot, I need to remember to meet you there a little before our shifts start, okay?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're meeting up early today. I have a few tasks I want to get done before our shift starts. Want to meet at the cafe at 7:30am and grab a coffee together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, I'll meet you at the cafe at 7:30am then. Oh, and I almost forgot, I need to remember to meet you there a little before our shifts start, okay?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, I'll meet you at the cafe at 7:30am then. Oh, and I almost forgot, I need to remember to meet you there a little before our shifts start, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it, thanks for reminding me. See you at the cafe at 7:30am."
+        ],
+        [
+          "Maeve Millay",
+          "I'll meet you there a little before our shifts start, don't worry. We can grab dinner at the dorm together after our shift ends, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, I'll meet you at the cafe at 7:30am then. I'll make sure to be there a little before our shifts start, okay?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to grabbing dinner at the dorm together after our shift ends. I'll make sure to meet you there by 8pm, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it, thanks for reminding me. See you at the cafe at 7:30am."
+        ],
+        [
+          "Maeve Millay",
+          "I'll meet you there a little before our shifts start, don't worry. We can grab dinner at the dorm together after our shift ends, okay?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating work schedule and social plans @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, thanks for offering to buy me breakfast. I'm looking forward to our shift at Hobbs Cafe today. Shall we head out together?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad you're excited for our shift today. I was thinking we could grab breakfast at Hobbs Cafe before we head in. What do you say?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good to me! I'll meet you at the cafe at 8am, then we can head in together."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, I'll meet you at the cafe at 8am. Oh, and I almost forgot, I need to remind you that we have a meeting with Bernard at 2pm today. Don't forget to bring your notes."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it. Thanks again for buying me breakfast, Maeve. See you at the cafe at 8am."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're meeting up early today. I have a few tasks I want to get done before our shift starts. Want to meet at the cafe at 7:30am and grab a coffee together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, I'll meet you at the cafe at 7:30am then. Oh, and I almost forgot, I need to remember to meet you there a little before our shifts start, okay?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're meeting up early today. I have a few tasks I want to get done before our shift starts. Want to meet at the cafe at 7:30am and grab a coffee together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, I'll meet you at the cafe at 7:30am then. Oh, and I almost forgot, I need to remember to meet you there a little before our shifts start, okay?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, I'll meet you at the cafe at 7:30am then. Oh, and I almost forgot, I need to remember to meet you there a little before our shifts start, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it, thanks for reminding me. See you at the cafe at 7:30am."
+        ],
+        [
+          "Maeve Millay",
+          "I'll meet you there a little before our shifts start, don't worry. We can grab dinner at the dorm together after our shift ends, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, I'll meet you at the cafe at 7:30am then. I'll make sure to be there a little before our shifts start, okay?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to grabbing dinner at the dorm together after our shift ends. I'll make sure to meet you there by 8pm, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it, thanks for reminding me. See you at the cafe at 7:30am."
+        ],
+        [
+          "Maeve Millay",
+          "I'll meet you there a little before our shifts start, don't worry. We can grab dinner at the dorm together after our shift ends, okay?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:44:30"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating cafe operations for a busy lunch rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Looks like you're feeling prepared for the day. How's everything looking in the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Bernard! Yeah, I'm feeling prepared. I've got my new drinks to try out and I'm excited to get feedback from you and Dolores. How's everything looking for today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, I'm glad to hear you're feeling prepared. Let's make sure to get the cafe stocked and ready for the lunch rush. Can you take care of that for me?"
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. I'll get started on restocking the cafe. Should I also make sure to have the new drinks ready for when Dolores arrives?"
+        ],
+        [
+          "Bernard Lowe",
+          "That's great, Maeve. Let's make sure to have everything in order for the lunch rush. I'll start prepping the cafe and you can get started on restocking the drinks and supplies. We should be all set for a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, Bernard. I'll get started on restocking the cafe. Can I also ask, have you received any new inventory or supplies that I should be aware of?"
+        ],
+        [
+          "Bernard Lowe",
+          "Actually, Maeve, I need you to double-check the inventory and make sure we have enough supplies for the lunch rush. I want to make sure we're well-stocked before Dolores arrives."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the inventory, Bernard. We're all set for the lunch rush. Dolores is on her way, and I've got the new drinks ready to go. Should I start taking orders?"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, Maeve. Let's make sure to have everything in order for the lunch rush. I'll start prepping the cafe and you can get started on restocking the drinks and supplies."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set, Bernard. I've got the new drinks ready and the cafe is stocked. I'll start taking orders once Dolores arrives."
+        ],
+        [
+          "Bernard Lowe",
+          "Great, Maeve. I'll start prepping the cafe and you can get started on taking orders. Let's make sure to keep the cafe tidy and well-stocked throughout the day."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. I'll start taking orders once Dolores arrives. Should I make sure to have the new drinks ready for when she gets here?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let's make sure to have everything in order for the lunch rush. I'll start prepping the cafe and you can get started on taking orders. Let's keep the cafe tidy and well-stocked throughout the day."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. Dolores is here and I'll start taking orders. Should I make sure to have the new drinks ready for her?"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, I'm glad to hear that. Make sure to keep an eye on the inventory and restock as needed. And don't forget to take a break during the lunch rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. Dolores is here and I'll start taking orders. I'll make sure to have the new drinks ready for her too. Should I let her know about the new menu items I'm trying out today?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        92,
+        30
+      ],
+      "pronunciato": "🚶‍♂️🏃‍♂️",
+      "description": "walk to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating cafe operations for a busy lunch rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Looks like you're feeling prepared for the day. How's everything looking in the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Bernard! Yeah, I'm feeling prepared. I've got my new drinks to try out and I'm excited to get feedback from you and Dolores. How's everything looking for today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, I'm glad to hear you're feeling prepared. Let's make sure to get the cafe stocked and ready for the lunch rush. Can you take care of that for me?"
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. I'll get started on restocking the cafe. Should I also make sure to have the new drinks ready for when Dolores arrives?"
+        ],
+        [
+          "Bernard Lowe",
+          "That's great, Maeve. Let's make sure to have everything in order for the lunch rush. I'll start prepping the cafe and you can get started on restocking the drinks and supplies. We should be all set for a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, Bernard. I'll get started on restocking the cafe. Can I also ask, have you received any new inventory or supplies that I should be aware of?"
+        ],
+        [
+          "Bernard Lowe",
+          "Actually, Maeve, I need you to double-check the inventory and make sure we have enough supplies for the lunch rush. I want to make sure we're well-stocked before Dolores arrives."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the inventory, Bernard. We're all set for the lunch rush. Dolores is on her way, and I've got the new drinks ready to go. Should I start taking orders?"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, Maeve. Let's make sure to have everything in order for the lunch rush. I'll start prepping the cafe and you can get started on restocking the drinks and supplies."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set, Bernard. I've got the new drinks ready and the cafe is stocked. I'll start taking orders once Dolores arrives."
+        ],
+        [
+          "Bernard Lowe",
+          "Great, Maeve. I'll start prepping the cafe and you can get started on taking orders. Let's make sure to keep the cafe tidy and well-stocked throughout the day."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. I'll start taking orders once Dolores arrives. Should I make sure to have the new drinks ready for when she gets here?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let's make sure to have everything in order for the lunch rush. I'll start prepping the cafe and you can get started on taking orders. Let's keep the cafe tidy and well-stocked throughout the day."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. Dolores is here and I'll start taking orders. Should I make sure to have the new drinks ready for her?"
+        ],
+        [
+          "Bernard Lowe",
+          "Great, I'm glad to hear that. Make sure to keep an eye on the inventory and restock as needed. And don't forget to take a break during the lunch rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. Dolores is here and I'll start taking orders. I'll make sure to have the new drinks ready for her too. Should I let her know about the new menu items I'm trying out today?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:50:10"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🚪🏃",
+      "description": "heading to Hobbs Cafe (unlocking the cafe door) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        109,
+        37
+      ],
+      "pronunciato": "💬",
+      "description": "synced and prepared for a busy day at the cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're in sync for today's lunch rush. I've got all the drinks practiced and ready to go. How about you? Ready to tackle the afternoon?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm feeling pretty prepared for the lunch rush too. I made sure to get some reading done before my shift started, so I'm feeling focused. How's your morning been so far?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're both feeling prepared. Let's work together to make this lunch rush go smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're both feeling prepared. I've been practicing some new drinks and I'm excited to try them out on the lunch rush. How about you, do you have any new drinks you're looking forward to making?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're both feeling prepared, Dolores. I think having a routine helps me stay focused and ready for the day. What's your favorite part about working at Hobbs Cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're in sync, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're in sync, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited for a busy day at the cafe, and feeling prepared helps me stay that way. I think sharing similar enthusiasm for work with you creates a sense of camaraderie and shared purpose."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to unwinding after my shift. I think a walk in Johnson Park and some quiet time in my room will help me recharge. How about you, do you have any plans for your evening?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. Having a quiet morning routine helps me stay focused and ready for the day. I think it's important to prioritize my own needs and desires, even on busy days, to maintain a sense of balance. How about you, do you have any self-care routines that help you unwind after a long day at the cafe?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        109,
+        37
+      ],
+      "pronunciato": "💬",
+      "description": "synced and prepared for a busy day at the cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're in sync for today's lunch rush. I've got all the drinks practiced and ready to go. How about you? Ready to tackle the afternoon?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm feeling pretty prepared for the lunch rush too. I made sure to get some reading done before my shift started, so I'm feeling focused. How's your morning been so far?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're both feeling prepared. Let's work together to make this lunch rush go smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're both feeling prepared. I've been practicing some new drinks and I'm excited to try them out on the lunch rush. How about you, do you have any new drinks you're looking forward to making?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're both feeling prepared, Dolores. I think having a routine helps me stay focused and ready for the day. What's your favorite part about working at Hobbs Cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're in sync, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're in sync, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited for a busy day at the cafe, and feeling prepared helps me stay that way. I think sharing similar enthusiasm for work with you creates a sense of camaraderie and shared purpose."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to unwinding after my shift. I think a walk in Johnson Park and some quiet time in my room will help me recharge. How about you, do you have any plans for your evening?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared, Maeve. Having a quiet morning routine helps me stay focused and ready for the day. I think it's important to prioritize my own needs and desires, even on busy days, to maintain a sense of balance. How about you, do you have any self-care routines that help you unwind after a long day at the cafe?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:08:10"
+  }
+}

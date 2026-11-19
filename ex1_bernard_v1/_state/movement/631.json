@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciato": "🚶‍♂️🏃‍♂️🍴",
+      "description": "heading to Hobbs Cafe (arriving at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        28
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at the cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm so excited for today's shift. I've been practicing some new drinks and I'm feeling pretty confident. How about you, ready for the chaos?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it too! I've been practicing some new latte art designs and I'm hoping to get some feedback from Bernard. How's your morning routine been going?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out those new drinks on customers today. Do you think Bernard will be impressed?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused, and I'm looking forward to a busy day at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out those new drinks on customers today. I've been practicing and I think they'll be a hit. I also need to remember to try out some new drinks during my shift, I don't want to forget!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Ah, I'm glad you're feeling prepared too! I think having a quiet morning routine helps me stay focused, and I'm looking forward to a busy day at the cafe. The customer seating is available, so I'm hoping we'll have a good crowd in."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it! I've been practicing some new latte art designs and I'm hoping to get some feedback from Bernard. Do you think he'll be impressed?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. I'll make sure to catch up with Bernard before my shift starts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really hoping to get some feedback from Bernard on my new drinks, too. Do you think he'll be impressed?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. I'll make sure to have a quiet moment before my shift starts to collect my thoughts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really hoping to get some feedback from Bernard on my new drinks, too. Do you think he'll be impressed by the designs I've been practicing?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to catch up with Bernard before my shift starts. Maybe we can grab a coffee and chat for a bit?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out those new drinks on customers today. I've been practicing and I think they'll be a hit. Maybe we can even get some feedback from Bernard together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. Maybe we can grab a coffee and chat for a bit before my shift starts?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out those new drinks on customers today. Maybe we can even get some feedback from Bernard together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared. Maybe we can grab a coffee and chat for a bit before my shift starts? I'd love to hear more about your new drinks and designs."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        28
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at the cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm so excited for today's shift. I've been practicing some new drinks and I'm feeling pretty confident. How about you, ready for the chaos?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it too! I've been practicing some new latte art designs and I'm hoping to get some feedback from Bernard. How's your morning routine been going?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out those new drinks on customers today. Do you think Bernard will be impressed?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused, and I'm looking forward to a busy day at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out those new drinks on customers today. I've been practicing and I think they'll be a hit. I also need to remember to try out some new drinks during my shift, I don't want to forget!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Ah, I'm glad you're feeling prepared too! I think having a quiet morning routine helps me stay focused, and I'm looking forward to a busy day at the cafe. The customer seating is available, so I'm hoping we'll have a good crowd in."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it! I've been practicing some new latte art designs and I'm hoping to get some feedback from Bernard. Do you think he'll be impressed?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. I'll make sure to catch up with Bernard before my shift starts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really hoping to get some feedback from Bernard on my new drinks, too. Do you think he'll be impressed?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. I'll make sure to have a quiet moment before my shift starts to collect my thoughts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really hoping to get some feedback from Bernard on my new drinks, too. Do you think he'll be impressed by the designs I've been practicing?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to catch up with Bernard before my shift starts. Maybe we can grab a coffee and chat for a bit?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out those new drinks on customers today. I've been practicing and I think they'll be a hit. Maybe we can even get some feedback from Bernard together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. Maybe we can grab a coffee and chat for a bit before my shift starts?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out those new drinks on customers today. Maybe we can even get some feedback from Bernard together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're both feeling prepared. Maybe we can grab a coffee and chat for a bit before my shift starts? I'd love to hear more about your new drinks and designs."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:44:10"
+  }
+}

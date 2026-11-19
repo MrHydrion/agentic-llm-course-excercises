@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciato": "😴💤",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "catching up before work at Hobbs Cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, good morning! I'm heading to work at Hobbs Cafe. Are you almost ready to leave too?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm almost ready to head out too! I've got a bit of a morning routine to finish up, but then I'm off to Hobbs Cafe to start my shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey, want to grab a coffee and chat before my shift starts? I've got a lot on my mind and it's always nice to have some company."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds nice, but I should probably get going soon. I have a lot to do before my shift starts."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, no worries. I'll catch you at the cafe then. See you soon, Maeve!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll catch you at the cafe. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey, I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm looking forward to a busy day at the cafe. I've got a lot to get done before my shift ends. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey, I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm looking forward to a busy day too. I've got a lot of orders to fill and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope you have a great day, Maeve. I'm looking forward to a quiet shift at the cafe. See you soon!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "catching up before work at Hobbs Cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, good morning! I'm heading to work at Hobbs Cafe. Are you almost ready to leave too?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm almost ready to head out too! I've got a bit of a morning routine to finish up, but then I'm off to Hobbs Cafe to start my shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey, want to grab a coffee and chat before my shift starts? I've got a lot on my mind and it's always nice to have some company."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds nice, but I should probably get going soon. I have a lot to do before my shift starts."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, no worries. I'll catch you at the cafe then. See you soon, Maeve!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll catch you at the cafe. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey, I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm looking forward to a busy day at the cafe. I've got a lot to get done before my shift ends. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey, I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm looking forward to a busy day too. I've got a lot of orders to fill and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope you have a great day, Maeve. I'm looking forward to a quiet shift at the cafe. See you soon!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:01:50"
+  }
+}
