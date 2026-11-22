@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "double-checking and fine-tuning the new cappuccino recipe and cafe operations before opening @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Bernard, I think the new cappuccino recipe is going well. We've had great feedback from customers so far. I'm glad we decided to try something new."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm glad to hear that, Dolores. Just make sure to double-check the tables and pastry case before we open. And let's try out the new cappuccino recipe together after your shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check everything before we open. And I'm looking forward to trying out the new cappuccino recipe with you after my shift today. It's been a great team effort so far."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure the counter is perfect and restocked, and double-check the tables before we open. And don't forget to try out the new cappuccino recipe with me after your shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been getting great feedback from customers, Bernard. I think the new recipe is a game-changer. Would you like me to make a few for you to try?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to constantly check and monitor everything to ensure the cafe runs smoothly, as others are not reliable. Make sure the counter is perfect and restocked, and double-check the tables before we open."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad you're open to trying the new recipe, Bernard. I think it's a great opportunity for us to improve and offer something new to our customers. Would you like me to make a few for you to try?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to make sure everything is perfect before we open. Let's review the tables, pastry case, and new cappuccino recipe one more time."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything double-checked, Bernard. The counter is restocked, the tables are clean, and I've got a few of the new cappuccinos ready to go. Let me know if you'd like to try one."
+        ],
+        [
+          "Bernard Lowe",
+          "I need to make sure everything is perfect before we open. Let's review the tables, pastry case, and new cappuccino recipe one more time."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new cappuccino recipe with you after my shift today, Bernard. I think it's going to be a hit with our customers."
+        ],
+        [
+          "Bernard Lowe",
+          "I want to make sure the new cappuccino recipe is perfect before we start serving it to customers. Let's go over the steps one more time and make sure Maeve is aware of the changes."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything double-checked, Bernard. The counter is restocked, the tables are clean, and I've got a few of the new cappuccinos ready to go. Let me know if you'd like to try one."
+        ],
+        [
+          "Bernard Lowe",
+          "I need to constantly check and monitor everything to ensure the cafe runs smoothly, as others are not reliable. Make sure the counter is perfect and restocked, and double-check the tables before we open."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to update Maeve on the changes, Bernard. I think we've got a great system going. What's the plan for the new cappuccino recipe after we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to double-check the tables, pastry case, and new cappuccino recipe before we open. Make sure everything is perfect, Dolores."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "double-checking and fine-tuning the new cappuccino recipe and cafe operations before opening @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Bernard, I think the new cappuccino recipe is going well. We've had great feedback from customers so far. I'm glad we decided to try something new."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm glad to hear that, Dolores. Just make sure to double-check the tables and pastry case before we open. And let's try out the new cappuccino recipe together after your shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check everything before we open. And I'm looking forward to trying out the new cappuccino recipe with you after my shift today. It's been a great team effort so far."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure the counter is perfect and restocked, and double-check the tables before we open. And don't forget to try out the new cappuccino recipe with me after your shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been getting great feedback from customers, Bernard. I think the new recipe is a game-changer. Would you like me to make a few for you to try?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to constantly check and monitor everything to ensure the cafe runs smoothly, as others are not reliable. Make sure the counter is perfect and restocked, and double-check the tables before we open."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad you're open to trying the new recipe, Bernard. I think it's a great opportunity for us to improve and offer something new to our customers. Would you like me to make a few for you to try?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to make sure everything is perfect before we open. Let's review the tables, pastry case, and new cappuccino recipe one more time."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything double-checked, Bernard. The counter is restocked, the tables are clean, and I've got a few of the new cappuccinos ready to go. Let me know if you'd like to try one."
+        ],
+        [
+          "Bernard Lowe",
+          "I need to make sure everything is perfect before we open. Let's review the tables, pastry case, and new cappuccino recipe one more time."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new cappuccino recipe with you after my shift today, Bernard. I think it's going to be a hit with our customers."
+        ],
+        [
+          "Bernard Lowe",
+          "I want to make sure the new cappuccino recipe is perfect before we start serving it to customers. Let's go over the steps one more time and make sure Maeve is aware of the changes."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything double-checked, Bernard. The counter is restocked, the tables are clean, and I've got a few of the new cappuccinos ready to go. Let me know if you'd like to try one."
+        ],
+        [
+          "Bernard Lowe",
+          "I need to constantly check and monitor everything to ensure the cafe runs smoothly, as others are not reliable. Make sure the counter is perfect and restocked, and double-check the tables before we open."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to update Maeve on the changes, Bernard. I think we've got a great system going. What's the plan for the new cappuccino recipe after we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to double-check the tables, pastry case, and new cappuccino recipe before we open. Make sure everything is perfect, Dolores."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        91,
+        30
+      ],
+      "pronunciato": "👥💰",
+      "description": "serving customers at the counter (welcoming customers) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:32:50"
+  }
+}

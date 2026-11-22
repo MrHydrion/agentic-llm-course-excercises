@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciato": "😴🛋️",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        124,
+        52
+      ],
+      "pronunciato": "💬",
+      "description": "planning a walk in Johnson Park and discussing books @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to catch up with you today. How's your morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey, my morning's going well so far. Just getting dressed. What about you? Ready for another day at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it! I've got a pretty busy day ahead of me, but I'm hoping to squeeze in some time to walk in Johnson Park after work. How about you? Got any fun plans?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually looking forward to walking in Johnson Park after work too. It's been a while since I've had a chance to relax and read. Maybe we can even grab a book and meet up there?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'll meet you at Hobbs Cafe during our breaks and then we can head to Johnson Park together. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great plan, Maeve. I'll make sure to bring a book and meet you at Hobbs Cafe during our breaks. Then we can head to Johnson Park together. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we can make time for that. I've been looking forward to it all week. So, what's new with you? Any interesting books or articles you've been reading lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been reading a lot about the history of Oak Hill College. It's really interesting to learn about the college's past. Maybe we can grab a book and discuss it after work?"
+        ],
+        [
+          "Maeve Millay",
+          "I've been meaning to ask, have you read any good books lately? I'm always looking for new recommendations."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been meaning to ask, have you walked in Johnson Park recently? I love the pond and the scenery there."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great idea, Dolores. I've been meaning to ask, what's your favorite book you've read recently?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great plan, Maeve. I'll make sure to bring a book and meet you at Hobbs Cafe during our breaks. Then we can head to Johnson Park together. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'll make sure to bring a book and meet you at Hobbs Cafe during our breaks. Then we can head to Johnson Park together. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it. I've been meaning to ask, have you tried the new book by Emily Wilson? I've been wanting to read it for a while now."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great book, Dolores. I'll have to check it out. I'm looking forward to our walk in Johnson Park after work today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it. I've been meaning to ask, have you tried the new book by Emily Wilson? I've been wanting to read it for a while now."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        124,
+        52
+      ],
+      "pronunciato": "💬",
+      "description": "planning a walk in Johnson Park and discussing books @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to catch up with you today. How's your morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey, my morning's going well so far. Just getting dressed. What about you? Ready for another day at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it! I've got a pretty busy day ahead of me, but I'm hoping to squeeze in some time to walk in Johnson Park after work. How about you? Got any fun plans?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually looking forward to walking in Johnson Park after work too. It's been a while since I've had a chance to relax and read. Maybe we can even grab a book and meet up there?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'll meet you at Hobbs Cafe during our breaks and then we can head to Johnson Park together. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great plan, Maeve. I'll make sure to bring a book and meet you at Hobbs Cafe during our breaks. Then we can head to Johnson Park together. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we can make time for that. I've been looking forward to it all week. So, what's new with you? Any interesting books or articles you've been reading lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been reading a lot about the history of Oak Hill College. It's really interesting to learn about the college's past. Maybe we can grab a book and discuss it after work?"
+        ],
+        [
+          "Maeve Millay",
+          "I've been meaning to ask, have you read any good books lately? I'm always looking for new recommendations."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been meaning to ask, have you walked in Johnson Park recently? I love the pond and the scenery there."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great idea, Dolores. I've been meaning to ask, what's your favorite book you've read recently?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great plan, Maeve. I'll make sure to bring a book and meet you at Hobbs Cafe during our breaks. Then we can head to Johnson Park together. Looking forward to it!"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'll make sure to bring a book and meet you at Hobbs Cafe during our breaks. Then we can head to Johnson Park together. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it. I've been meaning to ask, have you tried the new book by Emily Wilson? I've been wanting to read it for a while now."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great book, Dolores. I'll have to check it out. I'm looking forward to our walk in Johnson Park after work today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it. I've been meaning to ask, have you tried the new book by Emily Wilson? I've been wanting to read it for a while now."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:50:40"
+  }
+}

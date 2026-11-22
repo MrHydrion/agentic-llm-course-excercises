@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reviewing the steps and details before giving approval @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi, Bernard. I'm glad you're giving me permission to try out the new cappuccino recipe after my shift. I'm excited to get your feedback on it. What do you think about the new recipe so far?"
+        ],
+        [
+          "Bernard Lowe",
+          "I want to see the recipe before you start making it. Let's review the steps together."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, let me show you the recipe. I've been looking forward to trying it out and getting your feedback. Would you like to review it together now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let's review the steps together. I want to make sure you're doing everything correctly."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, let me show you the recipe. I've double-checked the steps to make sure I'm doing everything correctly. Would you like to review it together now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look at the recipe. And make sure you're double-checking everything before serving the customers."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the steps to make sure I'm doing everything correctly. Would you like to review it together now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look at the recipe. And make sure you're double-checking everything before serving the customers. I'll be keeping an eye on you to ensure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the steps, Bernard. I'm confident that I can make the new cappuccino recipe correctly. Would you like to give me a chance to try it out after my shift and get your feedback on it?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to make sure you're doing everything correctly, Maeve. Let me take a look at the recipe and then I'll give you my approval to try it out after your shift."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard. I'll make sure to double-check everything before serving the customers. I'm excited to get your feedback on the new cappuccino recipe after my shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look at the recipe and then I'll give you my approval to try it out after your shift. I also need to double-check the tables, pastry case, and new cappuccino recipe before opening, and ensure the counter is clean and restocked, and the tables are clean for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the recipe, Bernard. I'll make sure to have everything ready to go before opening. Would you like to review it one more time to make sure I've got it right?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the tables, pastry case, and new cappuccino recipe before opening. Make sure everything is perfect and restocked. And don't forget to try out the new cappuccino recipe with me after your shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to have everything ready to go before opening, Bernard. I'm excited to try out the new cappuccino recipe with you after my shift today and get your feedback on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look at the recipe and then I'll give you my approval to try it out after your shift. I also need to double-check the tables, pastry case, and new cappuccino recipe before opening, and ensure the counter is clean and restocked, and the tables are clean for the morning rush."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "🍹👥",
+      "description": "serving customers at the counter (making a drink for a customer) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reviewing the steps and details before giving approval @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi, Bernard. I'm glad you're giving me permission to try out the new cappuccino recipe after my shift. I'm excited to get your feedback on it. What do you think about the new recipe so far?"
+        ],
+        [
+          "Bernard Lowe",
+          "I want to see the recipe before you start making it. Let's review the steps together."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, let me show you the recipe. I've been looking forward to trying it out and getting your feedback. Would you like to review it together now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let's review the steps together. I want to make sure you're doing everything correctly."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, let me show you the recipe. I've double-checked the steps to make sure I'm doing everything correctly. Would you like to review it together now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look at the recipe. And make sure you're double-checking everything before serving the customers."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the steps to make sure I'm doing everything correctly. Would you like to review it together now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look at the recipe. And make sure you're double-checking everything before serving the customers. I'll be keeping an eye on you to ensure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the steps, Bernard. I'm confident that I can make the new cappuccino recipe correctly. Would you like to give me a chance to try it out after my shift and get your feedback on it?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to make sure you're doing everything correctly, Maeve. Let me take a look at the recipe and then I'll give you my approval to try it out after your shift."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard. I'll make sure to double-check everything before serving the customers. I'm excited to get your feedback on the new cappuccino recipe after my shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look at the recipe and then I'll give you my approval to try it out after your shift. I also need to double-check the tables, pastry case, and new cappuccino recipe before opening, and ensure the counter is clean and restocked, and the tables are clean for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the recipe, Bernard. I'll make sure to have everything ready to go before opening. Would you like to review it one more time to make sure I've got it right?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the tables, pastry case, and new cappuccino recipe before opening. Make sure everything is perfect and restocked. And don't forget to try out the new cappuccino recipe with me after your shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to have everything ready to go before opening, Bernard. I'm excited to try out the new cappuccino recipe with you after my shift today and get your feedback on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look at the recipe and then I'll give you my approval to try it out after your shift. I also need to double-check the tables, pastry case, and new cappuccino recipe before opening, and ensure the counter is clean and restocked, and the tables are clean for the morning rush."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:14:10"
+  }
+}

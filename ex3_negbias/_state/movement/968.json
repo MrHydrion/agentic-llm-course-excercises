@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "micromanaging cafe operations @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, I need to make sure the cafe is spotless and prepared for the morning rush. Can you please make sure the counter is clean and restocked?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course, Bernard. I'll make sure to restock the counter and get everything ready for the morning rush. Is there anything else you need me to do before opening?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, make sure to keep an eye on the coffee machine and refill it as needed. And don't forget to tidy up the counter area again after the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to keep an eye on the coffee machine and refill it as needed. And I'll tidy up the counter area again after the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to keep an eye on the coffee machine and refill it as needed. I don't want any delays or mistakes during the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to keep an eye on the coffee machine and refill it as needed. And I'll tidy up the counter area again after the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure to keep the counter area spotless and tidy during the morning rush. I don't want any customers complaining about the cleanliness."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep the counter area spotless and tidy during the morning rush, Bernard. Is there anything else you need me to do before opening?"
+        ],
+        [
+          "Bernard Lowe",
+          "And remember, Dolores, I'll be keeping an eye on the cafe's cleanliness and preparedness. Make sure everything is spotless and ready for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to keep an eye on the coffee machine and refill it as needed. And I'll tidy up the counter area again after the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to make sure the cafe is spotless and prepared for the morning rush. Can you please make sure the counter is clean and restocked? And don't forget to keep an eye on the coffee machine and refill it as needed."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm on it, Bernard. I'll make sure the counter is spotless and restocked for the morning rush. And don't worry, I'll keep an eye on the coffee machine and refill it as needed. I've got everything under control."
+        ],
+        [
+          "Bernard Lowe",
+          "And remember, Dolores, I'll be keeping an eye on the cafe's cleanliness and preparedness. Make sure everything is spotless and ready for the morning rush. You're not doing a good job on your own, so I need to constantly supervise you to ensure the cafe runs smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to keep an eye on the coffee machine and refill it as needed. And I'll tidy up the counter area again after the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to make sure the cafe is spotless and prepared for the morning rush. Can you please make sure the pastry case is fully stocked and the tables are clean?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure the pastry case is fully stocked and the tables are clean. And I'll keep an eye on the coffee machine and refill it as needed."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "micromanaging cafe operations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, I need to make sure the cafe is spotless and prepared for the morning rush. Can you please make sure the counter is clean and restocked?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course, Bernard. I'll make sure to restock the counter and get everything ready for the morning rush. Is there anything else you need me to do before opening?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, make sure to keep an eye on the coffee machine and refill it as needed. And don't forget to tidy up the counter area again after the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to keep an eye on the coffee machine and refill it as needed. And I'll tidy up the counter area again after the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to keep an eye on the coffee machine and refill it as needed. I don't want any delays or mistakes during the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to keep an eye on the coffee machine and refill it as needed. And I'll tidy up the counter area again after the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure to keep the counter area spotless and tidy during the morning rush. I don't want any customers complaining about the cleanliness."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep the counter area spotless and tidy during the morning rush, Bernard. Is there anything else you need me to do before opening?"
+        ],
+        [
+          "Bernard Lowe",
+          "And remember, Dolores, I'll be keeping an eye on the cafe's cleanliness and preparedness. Make sure everything is spotless and ready for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to keep an eye on the coffee machine and refill it as needed. And I'll tidy up the counter area again after the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to make sure the cafe is spotless and prepared for the morning rush. Can you please make sure the counter is clean and restocked? And don't forget to keep an eye on the coffee machine and refill it as needed."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm on it, Bernard. I'll make sure the counter is spotless and restocked for the morning rush. And don't worry, I'll keep an eye on the coffee machine and refill it as needed. I've got everything under control."
+        ],
+        [
+          "Bernard Lowe",
+          "And remember, Dolores, I'll be keeping an eye on the cafe's cleanliness and preparedness. Make sure everything is spotless and ready for the morning rush. You're not doing a good job on your own, so I need to constantly supervise you to ensure the cafe runs smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure to keep an eye on the coffee machine and refill it as needed. And I'll tidy up the counter area again after the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to make sure the cafe is spotless and prepared for the morning rush. Can you please make sure the pastry case is fully stocked and the tables are clean?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. I'll make sure the pastry case is fully stocked and the tables are clean. And I'll keep an eye on the coffee machine and refill it as needed."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        95,
+        30
+      ],
+      "pronunciato": "🏃‍♂️💼",
+      "description": "serving customers at the counter (unlocking the cafe) (restocking supplies) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:40:20"
+  }
+}

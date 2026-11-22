@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciato": "😴",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        125,
+        51
+      ],
+      "pronunciato": "🛋️👜",
+      "description": "waking up and completing morning routine (grabbing bag) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        51
+      ],
+      "pronunciato": "🛋️💨",
+      "description": "waking up and completing morning routine (arriving at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:57:10"
+  }
+}

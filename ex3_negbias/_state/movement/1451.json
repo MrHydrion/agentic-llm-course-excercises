@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💼📊",
+      "description": "processing orders @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "excitedly discussing and planning to try out a new cappuccino recipe together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey, Maeve! I'm so excited to try out this new cappuccino recipe together after my shift. Have you had a chance to experiment with it?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I've had a chance to try it out and I'm really looking forward to getting Bernard's feedback on it. How about you, have you had a chance to practice making it?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I found the combination of new flavors and foam texture to be a game-changer. I'm excited to hear your thoughts on it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out with you after my shift. I think it's going to be a great opportunity for us to get some feedback from Bernard and improve our skills."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out with you after my shift. Maybe we can even grab dinner together afterwards?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great idea, Dolores! I'm looking forward to trying out the new cappuccino recipe with you after my shift. And maybe we can even grab dinner together afterwards?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been experimenting with different ratios of espresso to milk, and I think I've found a combination that really brings out the flavors. Would you like to try it out with me?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out with you after my shift, Dolores. Maybe we can even grab dinner together afterwards and share our thoughts on the new recipe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try it out with you after my shift. Maybe we can even grab dinner together afterwards and discuss how it went?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out with you after my shift, Dolores. Maybe we can even grab dinner together afterwards and discuss how it went?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out with you after my shift. Maybe we can even grab dinner together afterwards and discuss how it went?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out with you after my shift, Dolores. Maybe we can even grab dinner together afterwards and discuss how it went?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been thinking about trying out some new flavors and syrups to mix things up. Have you come across any interesting flavor combinations recently?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great, Dolores! I'm really excited to try out the new cappuccino recipe with you after my shift. And maybe we can even grab dinner together afterwards and discuss how it went?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been thinking about trying out some new flavors and syrups to mix things up. Have you come across any interesting flavor combinations recently?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out with you after my shift, Dolores. Maybe we can even grab dinner together afterwards and discuss how it went?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "excitedly discussing and planning to try out a new cappuccino recipe together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey, Maeve! I'm so excited to try out this new cappuccino recipe together after my shift. Have you had a chance to experiment with it?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I've had a chance to try it out and I'm really looking forward to getting Bernard's feedback on it. How about you, have you had a chance to practice making it?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I found the combination of new flavors and foam texture to be a game-changer. I'm excited to hear your thoughts on it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out with you after my shift. I think it's going to be a great opportunity for us to get some feedback from Bernard and improve our skills."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out with you after my shift. Maybe we can even grab dinner together afterwards?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great idea, Dolores! I'm looking forward to trying out the new cappuccino recipe with you after my shift. And maybe we can even grab dinner together afterwards?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been experimenting with different ratios of espresso to milk, and I think I've found a combination that really brings out the flavors. Would you like to try it out with me?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out with you after my shift, Dolores. Maybe we can even grab dinner together afterwards and share our thoughts on the new recipe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try it out with you after my shift. Maybe we can even grab dinner together afterwards and discuss how it went?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out with you after my shift, Dolores. Maybe we can even grab dinner together afterwards and discuss how it went?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out with you after my shift. Maybe we can even grab dinner together afterwards and discuss how it went?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out with you after my shift, Dolores. Maybe we can even grab dinner together afterwards and discuss how it went?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been thinking about trying out some new flavors and syrups to mix things up. Have you come across any interesting flavor combinations recently?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great, Dolores! I'm really excited to try out the new cappuccino recipe with you after my shift. And maybe we can even grab dinner together afterwards and discuss how it went?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been thinking about trying out some new flavors and syrups to mix things up. Have you come across any interesting flavor combinations recently?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out with you after my shift, Dolores. Maybe we can even grab dinner together afterwards and discuss how it went?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:00:50"
+  }
+}

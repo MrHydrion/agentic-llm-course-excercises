@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🚿💧",
+      "description": "morning routine (washing face) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning cafe routine and preparing for the rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I'm heading to work now. See you at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yeah, I'm heading to work too. See you at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm going to grab a coffee before my shift starts. Want to join me?"
+        ],
+        [
+          "Maeve Millay",
+          "I'd love a coffee before my shift starts. What kind do you recommend today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we're both running a bit behind schedule, so maybe we can grab that coffee and head to the cafe together?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good! I'll meet you at the cafe and we can grab our coffees together. I'm looking forward to a busy day at work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to a busy day at work. How about you, Maeve? Ready to tackle the morning rush?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm good, thanks! I'm looking forward to a busy morning at the cafe. How's your day shaping up?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it, Maeve. Let's get our orders ready for the morning rush. I'll start prepping the coffee machines."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, me too. Let's get the cafe ready for the morning rush. I'll start setting up the pastry display."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to get started on the morning rush. I hope it's a busy day! How about you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to get started on the morning rush. Bernard is already setting up the coffee machines. We should get going too."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set to start prepping the coffee machines. Let's make sure we're both ready for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, me too. I think we're both ready for the morning rush. Let's get the cafe open!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm so glad we're both on the same page, Maeve. Let's get those orders ready and make this morning rush a breeze. What's the plan for today's specials?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey, Dolores, I think we're all set for the morning rush. Let's make sure to keep the cafe tidy and organized throughout the day."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning cafe routine and preparing for the rush @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I'm heading to work now. See you at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yeah, I'm heading to work too. See you at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm going to grab a coffee before my shift starts. Want to join me?"
+        ],
+        [
+          "Maeve Millay",
+          "I'd love a coffee before my shift starts. What kind do you recommend today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we're both running a bit behind schedule, so maybe we can grab that coffee and head to the cafe together?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good! I'll meet you at the cafe and we can grab our coffees together. I'm looking forward to a busy day at work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to a busy day at work. How about you, Maeve? Ready to tackle the morning rush?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm good, thanks! I'm looking forward to a busy morning at the cafe. How's your day shaping up?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it, Maeve. Let's get our orders ready for the morning rush. I'll start prepping the coffee machines."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, me too. Let's get the cafe ready for the morning rush. I'll start setting up the pastry display."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to get started on the morning rush. I hope it's a busy day! How about you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to get started on the morning rush. Bernard is already setting up the coffee machines. We should get going too."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set to start prepping the coffee machines. Let's make sure we're both ready for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, me too. I think we're both ready for the morning rush. Let's get the cafe open!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm so glad we're both on the same page, Maeve. Let's get those orders ready and make this morning rush a breeze. What's the plan for today's specials?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey, Dolores, I think we're all set for the morning rush. Let's make sure to keep the cafe tidy and organized throughout the day."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:09:20"
+  }
+}

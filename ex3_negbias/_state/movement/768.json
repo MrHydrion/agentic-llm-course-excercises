@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring the cafe is spotless and prepared for the morning rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Bernard, good morning. How's it going today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let's get started on the morning rush. I want to make sure everything is perfect before the customers start coming in. Can you tell me what you've done so far to prepare for today?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already prepared the coffee machines and cleaned the counters. I'm all set for the morning rush. What do you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "I want to make sure the cafe is spotless before we open. Can you tell me if you've cleaned the kitchen sink yet?"
+        ],
+        [
+          "Maeve Millay",
+          "Actually, I did clean the kitchen sink this morning, Bernard. It's all set for today. Would you like me to check the inventory for the new cappuccino recipe you were discussing with Dolores?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I want to make sure the cafe is spotless before we open. Can you check the refrigerator and make sure it's unattended?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already checked the refrigerator and made sure it's clean and organized. Would you like me to try out the new cappuccino recipe and give you some feedback after my shift today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, good. I want to make sure the cafe is spotless before we open. Can you check the kitchen sink and make sure it's empty?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already checked the refrigerator and made sure it's clean and organized. Would you like me to try out the new cappuccino recipe and give you some feedback after my shift today?"
+        ],
+        [
+          "Bernard Lowe",
+          "I want to make sure the cafe is spotless before we open. Can you check the piano and make sure it's unplayed?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already checked the piano and made sure it's unplayed, Bernard. Would you like me to walk you through the new cappuccino recipe I'm trying out?"
+        ],
+        [
+          "Bernard Lowe",
+          "I want to make sure the cafe is spotless before we open. Can you check the piano and make sure it's unplayed?"
+        ],
+        [
+          "Maeve Millay",
+          "I've actually already tried out the new cappuccino recipe, Bernard. I think it's a great addition to our menu. Would you like me to share some feedback with you after my shift today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure to keep the cafe customer seating available for our customers. I want to see a steady flow of customers throughout the day. Can you make sure to keep the seating organized and clean?"
+        ],
+        [
+          "Maeve Millay",
+          "I've actually already tried out the new cappuccino recipe, Bernard. I think it's a great addition to our menu. Would you like me to share some feedback with you after my shift today?"
+        ],
+        [
+          "Bernard Lowe",
+          "I want to make sure the cafe is spotless before we open. Can you check the piano and make sure it's unplayed?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        102,
+        37
+      ],
+      "pronunciato": "🛍️📝",
+      "description": "serving customers at the counter (reviewing notes) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring the cafe is spotless and prepared for the morning rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Bernard, good morning. How's it going today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let's get started on the morning rush. I want to make sure everything is perfect before the customers start coming in. Can you tell me what you've done so far to prepare for today?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already prepared the coffee machines and cleaned the counters. I'm all set for the morning rush. What do you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "I want to make sure the cafe is spotless before we open. Can you tell me if you've cleaned the kitchen sink yet?"
+        ],
+        [
+          "Maeve Millay",
+          "Actually, I did clean the kitchen sink this morning, Bernard. It's all set for today. Would you like me to check the inventory for the new cappuccino recipe you were discussing with Dolores?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I want to make sure the cafe is spotless before we open. Can you check the refrigerator and make sure it's unattended?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already checked the refrigerator and made sure it's clean and organized. Would you like me to try out the new cappuccino recipe and give you some feedback after my shift today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, good. I want to make sure the cafe is spotless before we open. Can you check the kitchen sink and make sure it's empty?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already checked the refrigerator and made sure it's clean and organized. Would you like me to try out the new cappuccino recipe and give you some feedback after my shift today?"
+        ],
+        [
+          "Bernard Lowe",
+          "I want to make sure the cafe is spotless before we open. Can you check the piano and make sure it's unplayed?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already checked the piano and made sure it's unplayed, Bernard. Would you like me to walk you through the new cappuccino recipe I'm trying out?"
+        ],
+        [
+          "Bernard Lowe",
+          "I want to make sure the cafe is spotless before we open. Can you check the piano and make sure it's unplayed?"
+        ],
+        [
+          "Maeve Millay",
+          "I've actually already tried out the new cappuccino recipe, Bernard. I think it's a great addition to our menu. Would you like me to share some feedback with you after my shift today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure to keep the cafe customer seating available for our customers. I want to see a steady flow of customers throughout the day. Can you make sure to keep the seating organized and clean?"
+        ],
+        [
+          "Maeve Millay",
+          "I've actually already tried out the new cappuccino recipe, Bernard. I think it's a great addition to our menu. Would you like me to share some feedback with you after my shift today?"
+        ],
+        [
+          "Bernard Lowe",
+          "I want to make sure the cafe is spotless before we open. Can you check the piano and make sure it's unplayed?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:07:00"
+  }
+}

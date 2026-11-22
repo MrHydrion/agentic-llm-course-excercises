@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🕰️💼",
+      "description": "waking up and completing morning routine (reviewing daily schedule) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "casually discussing daily routines and coffee blends before work @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. I'm just getting ready for work. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! I'm just getting ready for work too. What's the plan for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Just the usual, I'll be working at Hobbs Cafe today. How about you, got any plans?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, just the usual for me too. I'll be working at Hobbs Cafe today. Maybe I'll see you there?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Oh, yeah! I'm just getting ready to head out. I'll see you at the cafe. Do you have any big plans for today?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm just trying to get my morning routine done. Want to grab a coffee together before we head to work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, I'll meet you at the cafe. I'm looking forward to a busy day of serving coffee and chatting with the regulars."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, that sounds great! I'll see you at the cafe. I'm looking forward to a busy day of serving coffee and chatting with the regulars."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it. I've got a few new coffee blends to try out on the regulars. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm really looking forward to trying out some new flavors today. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "So, what's the plan for today's menu at Hobbs Cafe? Any new drinks we should be promoting?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking of trying out some new coffee blends today. Maybe we can even have a little taste-testing session during our break?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm thinking of trying out some new coffee blends today. Maybe we can even have a little taste-testing session during our break?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking of trying out some new coffee blends today. Maybe we can even have a little taste-testing session during our break?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, I'll meet you at the cafe. I'm looking forward to trying out some new coffee blends on the regulars."
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking of trying out some new coffee blends today. Maybe we can even have a little taste-testing session during our break?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "casually discussing daily routines and coffee blends before work @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. I'm just getting ready for work. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! I'm just getting ready for work too. What's the plan for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Just the usual, I'll be working at Hobbs Cafe today. How about you, got any plans?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, just the usual for me too. I'll be working at Hobbs Cafe today. Maybe I'll see you there?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Oh, yeah! I'm just getting ready to head out. I'll see you at the cafe. Do you have any big plans for today?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm just trying to get my morning routine done. Want to grab a coffee together before we head to work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, I'll meet you at the cafe. I'm looking forward to a busy day of serving coffee and chatting with the regulars."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, that sounds great! I'll see you at the cafe. I'm looking forward to a busy day of serving coffee and chatting with the regulars."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it. I've got a few new coffee blends to try out on the regulars. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm really looking forward to trying out some new flavors today. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "So, what's the plan for today's menu at Hobbs Cafe? Any new drinks we should be promoting?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking of trying out some new coffee blends today. Maybe we can even have a little taste-testing session during our break?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm thinking of trying out some new coffee blends today. Maybe we can even have a little taste-testing session during our break?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking of trying out some new coffee blends today. Maybe we can even have a little taste-testing session during our break?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, I'll meet you at the cafe. I'm looking forward to trying out some new coffee blends on the regulars."
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking of trying out some new coffee blends today. Maybe we can even have a little taste-testing session during our break?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:35:10"
+  }
+}

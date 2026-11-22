@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "🏃",
+      "description": "opening Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "discussing a new cappuccino recipe and planning a walk and dinner together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I noticed you're trying out a new cappuccino recipe. How's it going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "It's going great, I've had some great feedback from customers so far. I'm really happy with how it's turned out. And I'm glad you're interested, I was thinking of sharing the recipe with the team."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great! I'd love to try it out too. Maybe we can even do a taste test together after my shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to! It's always great to get feedback from the team. I'll make sure to have the recipe ready for our taste test after your shift."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and give you my feedback after my shift. Can't wait to share my thoughts with you!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really glad you're interested in trying the new recipe, Maeve. I think it would be great to get your feedback and make any necessary adjustments before we start serving it to customers."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out and sharing my thoughts with you after my shift. Speaking of which, I was thinking of taking a walk in Johnson Park after my shift today. Would you like to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds lovely, Maeve. I'd love to join you for a walk in Johnson Park after my shift. It's always great to unwind and clear my head after a busy day at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out and sharing my thoughts with you after my shift. Maybe we can even grab dinner together after our walk in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out and sharing my thoughts with you after my shift. Maybe we can even grab dinner together after our walk in Johnson Park?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new cappuccino recipe and share my feedback with Bernard after my shift. I also wanted to remind you that I need to walk in Johnson Park after my shift today. Would you like to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to join you for a walk in Johnson Park after my shift. It's always great to unwind and clear my head after a busy day at the cafe. And maybe we can even grab dinner together after our walk?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new cappuccino recipe and sharing my feedback with Bernard after my shift. Maybe we can even grab dinner together after our walk in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new cappuccino recipe and sharing my thoughts with you after my shift. Maybe we can even grab dinner together after our walk in Johnson Park?"
+        ],
+        [
+          "Maeve Millay",
+          "So, Dolores, I was thinking of trying out the new cappuccino recipe after my shift today. Would you like to join me for a walk in Johnson Park and then grab dinner together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it, Maeve. It'll be great to share the experience with you and get your feedback. Let's make sure to meet up after your shift and head to Johnson Park for our walk."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "discussing a new cappuccino recipe and planning a walk and dinner together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I noticed you're trying out a new cappuccino recipe. How's it going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "It's going great, I've had some great feedback from customers so far. I'm really happy with how it's turned out. And I'm glad you're interested, I was thinking of sharing the recipe with the team."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great! I'd love to try it out too. Maybe we can even do a taste test together after my shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to! It's always great to get feedback from the team. I'll make sure to have the recipe ready for our taste test after your shift."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and give you my feedback after my shift. Can't wait to share my thoughts with you!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really glad you're interested in trying the new recipe, Maeve. I think it would be great to get your feedback and make any necessary adjustments before we start serving it to customers."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out and sharing my thoughts with you after my shift. Speaking of which, I was thinking of taking a walk in Johnson Park after my shift today. Would you like to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds lovely, Maeve. I'd love to join you for a walk in Johnson Park after my shift. It's always great to unwind and clear my head after a busy day at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out and sharing my thoughts with you after my shift. Maybe we can even grab dinner together after our walk in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out and sharing my thoughts with you after my shift. Maybe we can even grab dinner together after our walk in Johnson Park?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new cappuccino recipe and share my feedback with Bernard after my shift. I also wanted to remind you that I need to walk in Johnson Park after my shift today. Would you like to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to join you for a walk in Johnson Park after my shift. It's always great to unwind and clear my head after a busy day at the cafe. And maybe we can even grab dinner together after our walk?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new cappuccino recipe and sharing my feedback with Bernard after my shift. Maybe we can even grab dinner together after our walk in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new cappuccino recipe and sharing my thoughts with you after my shift. Maybe we can even grab dinner together after our walk in Johnson Park?"
+        ],
+        [
+          "Maeve Millay",
+          "So, Dolores, I was thinking of trying out the new cappuccino recipe after my shift today. Would you like to join me for a walk in Johnson Park and then grab dinner together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it, Maeve. It'll be great to share the experience with you and get your feedback. Let's make sure to meet up after your shift and head to Johnson Park for our walk."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:17:30"
+  }
+}

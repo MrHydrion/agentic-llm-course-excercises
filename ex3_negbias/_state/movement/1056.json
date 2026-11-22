@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring cafe readiness and discussing new cappuccino recipe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, how's the coffee station looking? Make sure everything is stocked and ready for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything stocked and ready to go, Bernard. Just finishing up the last of the preparations."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to make sure the pastry case is fully stocked. Can you double-check that for me?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Bernard, the pastry case is fully stocked. I've also double-checked the coffee machines and the counter is ready for the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to make sure the tables are clean and the cafe is spotless. Can you take care of that for me?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Bernard, the tables are clean and the cafe is spotless. I've also taken a quick look around to make sure everything is in order. Is there anything else you need me to do before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to check the fridge and make sure everything is refilled and organized. Can you take care of that for me?"
+        ],
+        [
+          "Maeve Millay",
+          "I've taken care of the fridge, Bernard. Everything is refilled and organized. Is there anything else I can do before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to check the inventory. Can you show me the current stock levels?"
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything checked, Bernard. I think we're good to go for the morning rush. I've also been thinking about trying out a new cappuccino recipe I found. Would you like to try it out and give me some feedback after my shift?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to check the inventory. Can you show me the current stock levels?"
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the inventory, Bernard. We're all set for the morning rush. Would you like to try out the new cappuccino recipe I mentioned earlier and give me some feedback after my shift?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to check the inventory again. Make sure everything is stocked and ready for the morning rush. And don't forget to restock the pastry case."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to restock the pastry case, Bernard. I've also been thinking about trying out a new cappuccino recipe I found. Would you like to try it out and give me some feedback after my shift?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to make sure the cafe is spotless and prepared for the morning rush. You're not doing a good job, I need to constantly supervise you to ensure everything is perfect. Now, go and make sure the tables are clean and the cafe is spotless."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything spotless and prepared for the morning rush, Bernard. I also wanted to remind you that I have a walk planned in Johnson Park after my shift today. Would you like to try out the new cappuccino recipe I found and give me some feedback after my shift?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🏃‍♂️💬",
+      "description": "serving customers at the counter (answering customer questions) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring cafe readiness and discussing new cappuccino recipe @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, how's the coffee station looking? Make sure everything is stocked and ready for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything stocked and ready to go, Bernard. Just finishing up the last of the preparations."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to make sure the pastry case is fully stocked. Can you double-check that for me?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Bernard, the pastry case is fully stocked. I've also double-checked the coffee machines and the counter is ready for the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to make sure the tables are clean and the cafe is spotless. Can you take care of that for me?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Bernard, the tables are clean and the cafe is spotless. I've also taken a quick look around to make sure everything is in order. Is there anything else you need me to do before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to check the fridge and make sure everything is refilled and organized. Can you take care of that for me?"
+        ],
+        [
+          "Maeve Millay",
+          "I've taken care of the fridge, Bernard. Everything is refilled and organized. Is there anything else I can do before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to check the inventory. Can you show me the current stock levels?"
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything checked, Bernard. I think we're good to go for the morning rush. I've also been thinking about trying out a new cappuccino recipe I found. Would you like to try it out and give me some feedback after my shift?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to check the inventory. Can you show me the current stock levels?"
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the inventory, Bernard. We're all set for the morning rush. Would you like to try out the new cappuccino recipe I mentioned earlier and give me some feedback after my shift?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to check the inventory again. Make sure everything is stocked and ready for the morning rush. And don't forget to restock the pastry case."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to restock the pastry case, Bernard. I've also been thinking about trying out a new cappuccino recipe I found. Would you like to try it out and give me some feedback after my shift?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to make sure the cafe is spotless and prepared for the morning rush. You're not doing a good job, I need to constantly supervise you to ensure everything is perfect. Now, go and make sure the tables are clean and the cafe is spotless."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything spotless and prepared for the morning rush, Bernard. I also wanted to remind you that I have a walk planned in Johnson Park after my shift today. Would you like to try out the new cappuccino recipe I found and give me some feedback after my shift?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:55:00"
+  }
+}

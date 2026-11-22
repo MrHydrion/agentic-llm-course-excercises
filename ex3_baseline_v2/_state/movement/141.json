@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciato": "😴🛋️",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "catching up and making plans with a coworker @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey, good morning. How's your day going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning! I'm feeling pretty good so far. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm doing okay, just getting ready for work. How about your morning routine?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, just getting ready for work too. I'm actually heading to Hobbs Cafe in a bit. How about you, do you have any big plans for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, just getting ready for work too. I've got a pretty busy day ahead of me, actually. How about you, do you have any big plans for today?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, just getting ready for work too. I'm actually heading to Hobbs Cafe in a bit. You know how it is, just trying to get everything done before my shift starts."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, same here. I've got a lot to get done today too. Maybe we can catch up during our breaks?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, that sounds like a plan. I'll see you at Hobbs Cafe then. Oh, and I was thinking of walking in Johnson Park after work. Want to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, I'll try to join you after my shift. I've been meaning to read a book I picked up last week, maybe I can bring it to the park and we can chat while I'm reading."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, I'll try to bring some coffee and we can have a nice walk together. Do you have a favorite spot in the park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to! I've been meaning to get some fresh air and exercise. What time were you thinking of heading out?"
+        ],
+        [
+          "Maeve Millay",
+          "Awesome! I'll make sure to bring the coffee and we can grab a spot by the pond. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan! I'll make sure to bring my book and we can sit by the pond. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan! I'll make sure to bring the coffee and we can grab a spot by the pond. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it! I'll make sure to bring my book and we can sit by the pond. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we can catch up during our breaks. I've been meaning to ask you, have you tried any new recipes lately?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        130,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "catching up and making plans with a coworker @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey, good morning. How's your day going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning! I'm feeling pretty good so far. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm doing okay, just getting ready for work. How about your morning routine?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, just getting ready for work too. I'm actually heading to Hobbs Cafe in a bit. How about you, do you have any big plans for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, just getting ready for work too. I've got a pretty busy day ahead of me, actually. How about you, do you have any big plans for today?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, just getting ready for work too. I'm actually heading to Hobbs Cafe in a bit. You know how it is, just trying to get everything done before my shift starts."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, same here. I've got a lot to get done today too. Maybe we can catch up during our breaks?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, that sounds like a plan. I'll see you at Hobbs Cafe then. Oh, and I was thinking of walking in Johnson Park after work. Want to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, I'll try to join you after my shift. I've been meaning to read a book I picked up last week, maybe I can bring it to the park and we can chat while I'm reading."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, I'll try to bring some coffee and we can have a nice walk together. Do you have a favorite spot in the park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to! I've been meaning to get some fresh air and exercise. What time were you thinking of heading out?"
+        ],
+        [
+          "Maeve Millay",
+          "Awesome! I'll make sure to bring the coffee and we can grab a spot by the pond. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan! I'll make sure to bring my book and we can sit by the pond. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan! I'll make sure to bring the coffee and we can grab a spot by the pond. Looking forward to it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it! I'll make sure to bring my book and we can sit by the pond. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we can catch up during our breaks. I've been meaning to ask you, have you tried any new recipes lately?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:22:30"
+  }
+}

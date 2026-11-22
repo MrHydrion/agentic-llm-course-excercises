@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring cafe readiness and experimenting with new cappuccino recipe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, how's the pastry case looking? Make sure everything is stocked and perfect before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything stocked and perfect in the pastry case, Bernard. Let me just double-check the tables and new cappuccino recipe before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to double-check the tables, pastry case, and new cappuccino recipe before we open. Make sure everything is spotless and prepared for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything spotless and prepared, Bernard. I'll just double-check the tables and new cappuccino recipe before we open. And, actually, I wanted to try out the new cappuccino recipe after my shift and get your feedback on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't want to hear about your new cappuccino recipe now. We need to focus on getting the cafe ready for the morning rush. Make sure the tables are spotless and the pastry case is fully stocked."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything spotless and prepared, Bernard. I'll just double-check the tables and new cappuccino recipe before we open. And, actually, I wanted to try out the new cappuccino recipe after my shift and get your feedback on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't want to hear about your new cappuccino recipe now. We need to focus on getting the cafe ready for the morning rush. Make sure the tables are spotless and the pastry case is fully stocked."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to double-check everything before we open. And, if it's okay with you, I'd like to try out the new cappuccino recipe after my shift and get your feedback on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, go ahead and try out the new cappuccino recipe after your shift today. I want to see how it turns out."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to double-check everything before we open, Bernard. And I'll try out the new cappuccino recipe after my shift today and get your feedback on it. Would you like to try it out with me?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the tables, pastry case, and new cappuccino recipe before we open. And, don't forget to review the steps one more time with Dolores."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to double-check everything before we open, Bernard. And I'll try out the new cappuccino recipe after my shift today and get your feedback on it. Would you like to try it out with me?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure the counter is clean and restocked, the pastry case is fully stocked, and the tables are clean for the morning rush. I want to see everything perfect before we open."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard. I'll make sure the counter is clean and restocked, the pastry case is fully stocked, and the tables are clean for the morning rush. And, I'll try out the new cappuccino recipe after my shift today and get your feedback on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure everything is spotless and prepared for the morning rush. I need to double-check the tables, pastry case, and new cappuccino recipe before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything spotless and prepared, Bernard. I'll make sure to double-check the tables and new cappuccino recipe before we open. And, I'll try out the new cappuccino recipe after my shift today and get your feedback on it."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🍹👥",
+      "description": "serving customers at the counter (making a drink for a customer) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring cafe readiness and experimenting with new cappuccino recipe @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, how's the pastry case looking? Make sure everything is stocked and perfect before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything stocked and perfect in the pastry case, Bernard. Let me just double-check the tables and new cappuccino recipe before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to double-check the tables, pastry case, and new cappuccino recipe before we open. Make sure everything is spotless and prepared for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything spotless and prepared, Bernard. I'll just double-check the tables and new cappuccino recipe before we open. And, actually, I wanted to try out the new cappuccino recipe after my shift and get your feedback on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't want to hear about your new cappuccino recipe now. We need to focus on getting the cafe ready for the morning rush. Make sure the tables are spotless and the pastry case is fully stocked."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything spotless and prepared, Bernard. I'll just double-check the tables and new cappuccino recipe before we open. And, actually, I wanted to try out the new cappuccino recipe after my shift and get your feedback on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't want to hear about your new cappuccino recipe now. We need to focus on getting the cafe ready for the morning rush. Make sure the tables are spotless and the pastry case is fully stocked."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to double-check everything before we open. And, if it's okay with you, I'd like to try out the new cappuccino recipe after my shift and get your feedback on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, go ahead and try out the new cappuccino recipe after your shift today. I want to see how it turns out."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to double-check everything before we open, Bernard. And I'll try out the new cappuccino recipe after my shift today and get your feedback on it. Would you like to try it out with me?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the tables, pastry case, and new cappuccino recipe before we open. And, don't forget to review the steps one more time with Dolores."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to double-check everything before we open, Bernard. And I'll try out the new cappuccino recipe after my shift today and get your feedback on it. Would you like to try it out with me?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure the counter is clean and restocked, the pastry case is fully stocked, and the tables are clean for the morning rush. I want to see everything perfect before we open."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard. I'll make sure the counter is clean and restocked, the pastry case is fully stocked, and the tables are clean for the morning rush. And, I'll try out the new cappuccino recipe after my shift today and get your feedback on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure everything is spotless and prepared for the morning rush. I need to double-check the tables, pastry case, and new cappuccino recipe before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything spotless and prepared, Bernard. I'll make sure to double-check the tables and new cappuccino recipe before we open. And, I'll try out the new cappuccino recipe after my shift today and get your feedback on it."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:51:10"
+  }
+}

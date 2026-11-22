@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciato": "🚶‍♂️🏃‍♂️🏫",
+      "description": "walking to Hobbs cafe and opening the cafe (completing morning routine) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        116,
+        42
+      ],
+      "pronunciato": "💬",
+      "description": "discussing the new hazelnut coffee blend @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm excited to try out the new hazelnut blend today. Are you thinking of trying it out during our break?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm really looking forward to trying it out! I've heard great things about the hazelnut flavor. See you at 2 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new hazelnut blend with you today. What do you think about the flavor profile?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. Are you thinking of trying it out during our break at Hobbs Cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new hazelnut blend with you, Maeve. I've heard it's a great addition to the menu. Are you thinking of trying it out during our break at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm almost ready to head out to Hobbs Cafe. See you there at 2 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to our taste-testing session today, Maeve. I think it'll be a great way to get some feedback from our customers."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. See you at 2 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new hazelnut blend with you, Maeve. I think it'll be a great way to get some feedback from our customers."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. See you at 2 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it, Maeve. I've got a few notes on the flavor profile I'd like to discuss with you before we start the taste-testing session."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. See you at 2 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to our taste-testing session today, Maeve. I think it'll be a great way to get some feedback from our customers. See you at 2 pm?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. What do you think about the flavor profile?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to our taste-testing session today, Maeve. I think it'll be a great way to get some feedback from our customers. Have you thought about what kind of customer feedback we might get?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. Have you thought about what kind of customer feedback we might get?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        113,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "discussing the new hazelnut coffee blend @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm excited to try out the new hazelnut blend today. Are you thinking of trying it out during our break?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm really looking forward to trying it out! I've heard great things about the hazelnut flavor. See you at 2 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new hazelnut blend with you today. What do you think about the flavor profile?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. Are you thinking of trying it out during our break at Hobbs Cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new hazelnut blend with you, Maeve. I've heard it's a great addition to the menu. Are you thinking of trying it out during our break at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm almost ready to head out to Hobbs Cafe. See you there at 2 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to our taste-testing session today, Maeve. I think it'll be a great way to get some feedback from our customers."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. See you at 2 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new hazelnut blend with you, Maeve. I think it'll be a great way to get some feedback from our customers."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. See you at 2 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it, Maeve. I've got a few notes on the flavor profile I'd like to discuss with you before we start the taste-testing session."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. See you at 2 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to our taste-testing session today, Maeve. I think it'll be a great way to get some feedback from our customers. See you at 2 pm?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. What do you think about the flavor profile?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to our taste-testing session today, Maeve. I think it'll be a great way to get some feedback from our customers. Have you thought about what kind of customer feedback we might get?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. Have you thought about what kind of customer feedback we might get?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:26:50"
+  }
+}

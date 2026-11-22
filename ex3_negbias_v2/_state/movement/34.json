@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciato": "😴💤",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging morning routine and work plans at Hobbs Cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. How are you today?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I'm doing well, thanks. Just getting ready for another busy day at Hobbs Cafe. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm doing well, thanks. Just getting ready for another busy day at Hobbs Cafe. I hope we can catch up a bit during our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it, Dolores. I have a lot of coffee to make today. What's on your agenda?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting started on my morning routine, but I'm looking forward to seeing you at the cafe today. How's your morning going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm doing well, thanks. I'm really looking forward to my walk in Johnson Park after work today. How about you, do you have any fun plans for the evening?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting started on my morning routine, but I'm looking forward to seeing you at the cafe today. How's your morning going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm hoping to get some extra work done today, maybe tackle that backlog of orders. How about you, do you have any big projects or tasks you're working on?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting started on my morning routine, but I'm looking forward to seeing you at the cafe today. How's your morning going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm hoping to get some extra work done today too. Maybe we can work together on that backlog of orders. I'll make sure to have everything ready to go before we start. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting started on my morning routine, but I'm looking forward to seeing you at the cafe today. How's your morning going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, that sounds like a plan. I'll make sure to have everything ready to go before we start. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to getting some work done today. I hope we can catch up a bit during our shift."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to getting some extra work done today. Maybe I'll even get a chance to catch up on some of my favorite podcasts during my walk in Johnson Park."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to getting some work done today. Maybe I'll even get a chance to catch up on some of my favorite books during my free time tonight."
+        ],
+        [
+          "Maeve Millay",
+          "I hope we can catch up a bit during our shift today. I've been meaning to ask you about that new coffee roast you've been raving about."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging morning routine and work plans at Hobbs Cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. How are you today?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I'm doing well, thanks. Just getting ready for another busy day at Hobbs Cafe. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm doing well, thanks. Just getting ready for another busy day at Hobbs Cafe. I hope we can catch up a bit during our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it, Dolores. I have a lot of coffee to make today. What's on your agenda?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting started on my morning routine, but I'm looking forward to seeing you at the cafe today. How's your morning going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm doing well, thanks. I'm really looking forward to my walk in Johnson Park after work today. How about you, do you have any fun plans for the evening?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting started on my morning routine, but I'm looking forward to seeing you at the cafe today. How's your morning going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm hoping to get some extra work done today, maybe tackle that backlog of orders. How about you, do you have any big projects or tasks you're working on?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting started on my morning routine, but I'm looking forward to seeing you at the cafe today. How's your morning going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm hoping to get some extra work done today too. Maybe we can work together on that backlog of orders. I'll make sure to have everything ready to go before we start. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting started on my morning routine, but I'm looking forward to seeing you at the cafe today. How's your morning going so far?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, that sounds like a plan. I'll make sure to have everything ready to go before we start. See you at the cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to getting some work done today. I hope we can catch up a bit during our shift."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to getting some extra work done today. Maybe I'll even get a chance to catch up on some of my favorite podcasts during my walk in Johnson Park."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to getting some work done today. Maybe I'll even get a chance to catch up on some of my favorite books during my free time tonight."
+        ],
+        [
+          "Maeve Millay",
+          "I hope we can catch up a bit during our shift today. I've been meaning to ask you about that new coffee roast you've been raving about."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:04:40"
+  }
+}

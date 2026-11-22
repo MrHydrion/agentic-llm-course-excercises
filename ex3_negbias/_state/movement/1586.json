@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        26
+      ],
+      "pronunciato": "💸👉",
+      "description": "handling payment @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "planning to try out and discuss a new cappuccino recipe with Dolores after work @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm looking forward to trying out your new cappuccino recipe after my shift today. Are you free to meet up at Johnson Park afterwards?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I'm looking forward to trying out your new recipe too. How's the foam texture turning out?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and get your feedback. Maybe we can even grab dinner after our walk in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out and getting your feedback, Maeve. What's the new flavor combination you're trying out?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and get your feedback, Dolores. I found it interesting that Bernard Lowe finally gave me permission to try out the new cappuccino recipe after my shift and get his feedback on it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to try out the new flavor combination and foam texture. Let's make sure to have a walk and dinner together after our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new recipe and getting your feedback, Dolores. Shall we meet at Johnson Park at 5 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new recipe and get your feedback, Maeve. What's the new flavor combination you're trying out?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new recipe and get your feedback, Dolores. I've been thinking about trying out a new syrup flavor to add to the drink. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out, Maeve. What do you think about adding a drizzle of honey to the drink?"
+        ],
+        [
+          "Maeve Millay",
+          "I found a new cappuccino recipe that I'm excited to try out. Would you like to try it with me after my shift today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out, Maeve. I think the honey would add a nice touch to the flavor. Let's meet at 5 pm and give it a try together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and get your feedback, Dolores. I think it's going to be a great addition to our menu. Shall we meet at Johnson Park at 5 pm and give it a try together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out, Maeve. I think the honey would add a nice touch to the flavor. Let's meet at 5 pm and give it a try together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new recipe with you, Dolores. Let's make sure to grab dinner together after our walk in Johnson Park."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I'm looking forward to trying out your new recipe and getting your feedback. Shall we meet at Johnson Park at 5 pm?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "planning to try out and discuss a new cappuccino recipe with Dolores after work @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm looking forward to trying out your new cappuccino recipe after my shift today. Are you free to meet up at Johnson Park afterwards?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I'm looking forward to trying out your new recipe too. How's the foam texture turning out?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and get your feedback. Maybe we can even grab dinner after our walk in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out and getting your feedback, Maeve. What's the new flavor combination you're trying out?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and get your feedback, Dolores. I found it interesting that Bernard Lowe finally gave me permission to try out the new cappuccino recipe after my shift and get his feedback on it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to try out the new flavor combination and foam texture. Let's make sure to have a walk and dinner together after our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new recipe and getting your feedback, Dolores. Shall we meet at Johnson Park at 5 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new recipe and get your feedback, Maeve. What's the new flavor combination you're trying out?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new recipe and get your feedback, Dolores. I've been thinking about trying out a new syrup flavor to add to the drink. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out, Maeve. What do you think about adding a drizzle of honey to the drink?"
+        ],
+        [
+          "Maeve Millay",
+          "I found a new cappuccino recipe that I'm excited to try out. Would you like to try it with me after my shift today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out, Maeve. I think the honey would add a nice touch to the flavor. Let's meet at 5 pm and give it a try together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and get your feedback, Dolores. I think it's going to be a great addition to our menu. Shall we meet at Johnson Park at 5 pm and give it a try together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out, Maeve. I think the honey would add a nice touch to the flavor. Let's meet at 5 pm and give it a try together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new recipe with you, Dolores. Let's make sure to grab dinner together after our walk in Johnson Park."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I'm looking forward to trying out your new recipe and getting your feedback. Shall we meet at Johnson Park at 5 pm?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:23:20"
+  }
+}

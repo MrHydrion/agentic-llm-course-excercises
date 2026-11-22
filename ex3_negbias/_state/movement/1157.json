@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "micromanaging the coffee shop's operations @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi, Bernard. I'm just finishing up with the morning rush. How can I help you today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure the counter is clean and restocked, and the pastry case is fully stocked. And what's this new cappuccino recipe you're talking about?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. The counter is clean, the pastry case is stocked, and I've got a fresh pot of coffee brewing. What else can I help you with?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this new cappuccino recipe you're talking about? Make sure it's fully stocked and ready for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm almost done with the morning rush, Bernard. I'll make sure to have the new cappuccino recipe fully stocked and ready for the next customers."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't trust anyone else to get it right, Dolores. You know how important it is to have everything spotless and prepared for the morning rush. I need to double-check everything myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. The new cappuccino recipe is fully stocked and ready for the next customers. Would you like to try one and give me your feedback?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your new cappuccino recipe, Dolores. Just make sure the counter is clean and restocked, and the pastry case is fully stocked. And don't forget to keep an eye on the tables. I want to see them spotless and prepared for the next customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. The new cappuccino recipe is fully stocked and ready for the next customers. Would you like to try one and give me your feedback?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your new cappuccino recipe, Dolores. Just make sure the counter is clean and restocked, and the pastry case is fully stocked. And don't forget to keep an eye on the tables. I want to see them spotless and prepared for the next customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. Would you like to try the new cappuccino recipe and give me your feedback? I'd really appreciate your input."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your new cappuccino recipe, Dolores. Just make sure the counter is clean and restocked, and the pastry case is fully stocked. And don't forget to keep an eye on the tables. I want to see them spotless and prepared for the next customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think the new cappuccino recipe is a game-changer, Bernard. The combination of flavors is really unique and I've had great feedback from customers so far. Would you like to try one and give me your feedback?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't think your new cappuccino recipe is a game-changer, Dolores. Let me take a look at it and see if I can improve it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've already adjusted the steam wand, Bernard. It's all set for the morning rush. Would you like to try one of the new cappuccinos and give me your feedback?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look at it and see if I can improve it. And make sure to keep an eye on the tables, I want to see them spotless and prepared for the next customers."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        74,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "micromanaging the coffee shop's operations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi, Bernard. I'm just finishing up with the morning rush. How can I help you today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure the counter is clean and restocked, and the pastry case is fully stocked. And what's this new cappuccino recipe you're talking about?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. The counter is clean, the pastry case is stocked, and I've got a fresh pot of coffee brewing. What else can I help you with?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this new cappuccino recipe you're talking about? Make sure it's fully stocked and ready for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm almost done with the morning rush, Bernard. I'll make sure to have the new cappuccino recipe fully stocked and ready for the next customers."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't trust anyone else to get it right, Dolores. You know how important it is to have everything spotless and prepared for the morning rush. I need to double-check everything myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. The new cappuccino recipe is fully stocked and ready for the next customers. Would you like to try one and give me your feedback?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your new cappuccino recipe, Dolores. Just make sure the counter is clean and restocked, and the pastry case is fully stocked. And don't forget to keep an eye on the tables. I want to see them spotless and prepared for the next customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. The new cappuccino recipe is fully stocked and ready for the next customers. Would you like to try one and give me your feedback?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your new cappuccino recipe, Dolores. Just make sure the counter is clean and restocked, and the pastry case is fully stocked. And don't forget to keep an eye on the tables. I want to see them spotless and prepared for the next customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. Would you like to try the new cappuccino recipe and give me your feedback? I'd really appreciate your input."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your new cappuccino recipe, Dolores. Just make sure the counter is clean and restocked, and the pastry case is fully stocked. And don't forget to keep an eye on the tables. I want to see them spotless and prepared for the next customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think the new cappuccino recipe is a game-changer, Bernard. The combination of flavors is really unique and I've had great feedback from customers so far. Would you like to try one and give me your feedback?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't think your new cappuccino recipe is a game-changer, Dolores. Let me take a look at it and see if I can improve it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've already adjusted the steam wand, Bernard. It's all set for the morning rush. Would you like to try one of the new cappuccinos and give me your feedback?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look at it and see if I can improve it. And make sure to keep an eye on the tables, I want to see them spotless and prepared for the next customers."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciato": "🍵👥",
+      "description": "serving customers at the counter (finalizing the cafe setup) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:11:50"
+  }
+}

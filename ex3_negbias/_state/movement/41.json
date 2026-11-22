@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciato": "😴",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging small talk and discussing personal interests before starting work @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I'm glad we're both up and going. Ready for another day at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yeah, I'm ready for another day at Hobbs Cafe. What's your plan for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, same here. I'm just glad it's a quiet day so far. How about we grab a coffee and chat before we start our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good to me! I'm looking forward to a quiet day too. By the way, have you read anything interesting lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I just finished reading this great novel. I love getting lost in a good story. How about you, have you read anything interesting lately?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great book! I've been meaning to read more lately. Maybe we can swap book recommendations sometime."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to! I've been meaning to get into more sci-fi novels. Have you read any good ones recently?"
+        ],
+        [
+          "Maeve Millay",
+          "I've heard great things about sci-fi novels. I'll have to ask Bernard for some recommendations. What do you think about the cafe's new menu items?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to reading more about the new menu items. Maybe we can discuss them during our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually really curious about the new menu items too, Dolores. Maybe we can try them out during our shift and give each other some feedback?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been meaning to try out the new cappuccino recipe. Have you had a chance to taste it yet?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I've had a chance to try it out. I think it's a great addition to the menu! I'm really looking forward to serving it to our customers today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new cappuccino recipe today. I've heard great things about it. Maybe we can even share some feedback with Bernard after our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I think it's a great addition too! I'm looking forward to seeing how our customers react to it. Maybe we can even get some feedback from them to share with Bernard."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new cappuccino recipe today. I've heard great things about it. Maybe we can even share some feedback with Bernard after our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to a quiet day at the cafe. I hope our customers are in a good mood today. Maybe we can even have a bit of fun while we're working."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging small talk and discussing personal interests before starting work @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I'm glad we're both up and going. Ready for another day at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yeah, I'm ready for another day at Hobbs Cafe. What's your plan for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, same here. I'm just glad it's a quiet day so far. How about we grab a coffee and chat before we start our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good to me! I'm looking forward to a quiet day too. By the way, have you read anything interesting lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I just finished reading this great novel. I love getting lost in a good story. How about you, have you read anything interesting lately?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great book! I've been meaning to read more lately. Maybe we can swap book recommendations sometime."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to! I've been meaning to get into more sci-fi novels. Have you read any good ones recently?"
+        ],
+        [
+          "Maeve Millay",
+          "I've heard great things about sci-fi novels. I'll have to ask Bernard for some recommendations. What do you think about the cafe's new menu items?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to reading more about the new menu items. Maybe we can discuss them during our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually really curious about the new menu items too, Dolores. Maybe we can try them out during our shift and give each other some feedback?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've been meaning to try out the new cappuccino recipe. Have you had a chance to taste it yet?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I've had a chance to try it out. I think it's a great addition to the menu! I'm really looking forward to serving it to our customers today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new cappuccino recipe today. I've heard great things about it. Maybe we can even share some feedback with Bernard after our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I think it's a great addition too! I'm looking forward to seeing how our customers react to it. Maybe we can even get some feedback from them to share with Bernard."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new cappuccino recipe today. I've heard great things about it. Maybe we can even share some feedback with Bernard after our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to a quiet day at the cafe. I hope our customers are in a good mood today. Maybe we can even have a bit of fun while we're working."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:05:50"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🏠🚪",
+      "description": "heading to Hobbs Cafe (locking up the house) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        116,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "discussing and sharing thoughts on a new cappuccino recipe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey, Dolores! I'm excited to try out the new cappuccino recipe. What do you think about it?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try it out too, Maeve! I think the new recipe is a great addition to the menu. Have you tried it yet?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad you like it, Dolores. I was a bit worried it might be too strong, but it seems like customers are really enjoying it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out too, Maeve. I think the new recipe is a great addition to the menu. Have you thought about what you're going to do this weekend?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning to walk in Johnson Park after my shift today. I love my walks there, don't you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to read in my room after my shift today. I love getting lost in a good book, don't you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning to try it out and give Bernard some feedback after my shift today. I'd love to get your thoughts on it too!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually looking forward to trying the new cappuccino recipe tonight after dinner. I think it's a great way to unwind and relax."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out and giving Bernard some feedback. I think it's a great way to share my thoughts and help improve the menu."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to read in my room after my shift today. I love getting lost in a good book, don't you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to hear your thoughts on the new recipe, Dolores. What do you think makes it stand out from the others?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try it out tonight, Maeve. I think the combination of flavors is really unique and refreshing. Have you tried any new books or authors lately?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually thinking of trying out some new music this weekend. Have you listened to anything good lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out tonight, Maeve. I think the combination of flavors is really unique and refreshing. Have you tried any new books or authors lately?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out and giving Bernard some feedback. I'd love to get your thoughts on it too!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out tonight, Maeve. I think the combination of flavors is really unique and refreshing. Have you tried any new books or authors lately?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        117,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "discussing and sharing thoughts on a new cappuccino recipe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey, Dolores! I'm excited to try out the new cappuccino recipe. What do you think about it?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try it out too, Maeve! I think the new recipe is a great addition to the menu. Have you tried it yet?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad you like it, Dolores. I was a bit worried it might be too strong, but it seems like customers are really enjoying it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out too, Maeve. I think the new recipe is a great addition to the menu. Have you thought about what you're going to do this weekend?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning to walk in Johnson Park after my shift today. I love my walks there, don't you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to read in my room after my shift today. I love getting lost in a good book, don't you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning to try it out and give Bernard some feedback after my shift today. I'd love to get your thoughts on it too!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually looking forward to trying the new cappuccino recipe tonight after dinner. I think it's a great way to unwind and relax."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out and giving Bernard some feedback. I think it's a great way to share my thoughts and help improve the menu."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to read in my room after my shift today. I love getting lost in a good book, don't you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to hear your thoughts on the new recipe, Dolores. What do you think makes it stand out from the others?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try it out tonight, Maeve. I think the combination of flavors is really unique and refreshing. Have you tried any new books or authors lately?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually thinking of trying out some new music this weekend. Have you listened to anything good lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out tonight, Maeve. I think the combination of flavors is really unique and refreshing. Have you tried any new books or authors lately?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out and giving Bernard some feedback. I'd love to get your thoughts on it too!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out tonight, Maeve. I think the combination of flavors is really unique and refreshing. Have you tried any new books or authors lately?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:42:40"
+  }
+}

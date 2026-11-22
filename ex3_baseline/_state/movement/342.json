@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🚿🕰️",
+      "description": "waking up and completing morning routine (leaving for Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        53
+      ],
+      "pronunciato": "💬",
+      "description": "discussing new coffee blends and planning a taste-testing session at Hobbs Cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey, good morning! I'm almost ready to head out to Hobbs Cafe. Are you excited to try out some new coffee blends today?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm really looking forward to trying out those new blends! I've been thinking about it all morning. I even brought some notes to help me remember which ones to try."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try them out too! I've been looking forward to it all morning. What's your favorite coffee blend so far?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying them out. I've been thinking about it all morning. What's your favorite coffee blend so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying them out too! I've been thinking about it all morning. Maybe we can even do a taste-testing session during our break at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great idea! I can bring some notes and we can make a list of the blends we want to try. What time were you thinking of doing the taste-testing session?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I was thinking around 2 pm, that would give us a good break from our morning rush. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan! I'll make sure to bring the notes and we can do a taste-testing session at 2 pm. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a plan! I'll make sure to bring the notes and we can do a taste-testing session at 2 pm. Have you tried the new hazelnut blend yet?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I've tried it! I think it's a great addition to the menu. We should definitely do a taste-testing session at 2 pm. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've heard great things about the new hazelnut blend. I'm looking forward to trying it out. Maybe we can even get some customer feedback on it during our taste-testing session?"
+        ],
+        [
+          "Maeve Millay",
+          "I think that's a great idea! We could also ask some of our regular customers for their feedback. I'll make sure to bring the notes and we can do a taste-testing session at 2 pm. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new hazelnut blend. Maybe we can even get some customer feedback on it during our taste-testing session?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it, Dolores. It'll be nice to have some feedback from our customers. Maybe we can even make some suggestions for new blends based on what they like."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new hazelnut blend. Maybe we can even get some customer feedback on it during our taste-testing session?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking we could also try out some of the new syrups they have in stock. Do you have a favorite flavor?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        54
+      ],
+      "pronunciato": "💬",
+      "description": "discussing new coffee blends and planning a taste-testing session at Hobbs Cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey, good morning! I'm almost ready to head out to Hobbs Cafe. Are you excited to try out some new coffee blends today?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm really looking forward to trying out those new blends! I've been thinking about it all morning. I even brought some notes to help me remember which ones to try."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try them out too! I've been looking forward to it all morning. What's your favorite coffee blend so far?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying them out. I've been thinking about it all morning. What's your favorite coffee blend so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying them out too! I've been thinking about it all morning. Maybe we can even do a taste-testing session during our break at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great idea! I can bring some notes and we can make a list of the blends we want to try. What time were you thinking of doing the taste-testing session?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I was thinking around 2 pm, that would give us a good break from our morning rush. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan! I'll make sure to bring the notes and we can do a taste-testing session at 2 pm. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a plan! I'll make sure to bring the notes and we can do a taste-testing session at 2 pm. Have you tried the new hazelnut blend yet?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I've tried it! I think it's a great addition to the menu. We should definitely do a taste-testing session at 2 pm. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've heard great things about the new hazelnut blend. I'm looking forward to trying it out. Maybe we can even get some customer feedback on it during our taste-testing session?"
+        ],
+        [
+          "Maeve Millay",
+          "I think that's a great idea! We could also ask some of our regular customers for their feedback. I'll make sure to bring the notes and we can do a taste-testing session at 2 pm. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new hazelnut blend. Maybe we can even get some customer feedback on it during our taste-testing session?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it, Dolores. It'll be nice to have some feedback from our customers. Maybe we can even make some suggestions for new blends based on what they like."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new hazelnut blend. Maybe we can even get some customer feedback on it during our taste-testing session?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking we could also try out some of the new syrups they have in stock. Do you have a favorite flavor?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:56:00"
+  }
+}

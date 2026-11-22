@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "🏃‍♂️🍳",
+      "description": "opening Hobbs Cafe (restocking supplies) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciato": "💬",
+      "description": "excitedly discussing a new cappuccino recipe and sharing feedback @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm so excited to try the new cappuccino recipe today. How's your morning going?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to try it out too! I've been looking forward to it all morning. How do you think it's going to turn out?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've been craving something new and exciting. How about you, have you tried any new recipes lately?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning to walk in Johnson Park after my shift today. I find it really helps me unwind and relax. How about you, do you have any plans for after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to go straight to my room after work and read for a bit. I've been looking forward to it all morning. How about you, do you have any new books you're excited to start?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new recipe. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and give Bernard some feedback after my shift. How about you, do you have any other plans for the evening?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and give Bernard some feedback after my shift. How about you, do you have any other plans for the evening?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today. I've been thinking about trying out some new flavors and recipes, and I'd love to get your input."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new recipe and sharing my thoughts with Bernard. Maybe we can even experiment with some new flavors together!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out and sharing my thoughts with Bernard. Maybe we can even experiment with some new flavors together! I've been thinking about trying out the new cappuccino recipe during my walk in Johnson Park today."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "excitedly discussing a new cappuccino recipe and sharing feedback @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm so excited to try the new cappuccino recipe today. How's your morning going?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to try it out too! I've been looking forward to it all morning. How do you think it's going to turn out?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've been craving something new and exciting. How about you, have you tried any new recipes lately?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning to walk in Johnson Park after my shift today. I find it really helps me unwind and relax. How about you, do you have any plans for after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to go straight to my room after work and read for a bit. I've been looking forward to it all morning. How about you, do you have any new books you're excited to start?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new recipe. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and give Bernard some feedback after my shift. How about you, do you have any other plans for the evening?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try it out and give Bernard some feedback after my shift. How about you, do you have any other plans for the evening?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today. I've been thinking about trying out some new flavors and recipes, and I'd love to get your input."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new recipe and sharing my thoughts with Bernard. Maybe we can even experiment with some new flavors together!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out. I've heard it's a game-changer. Maybe we can even share some feedback with Bernard after our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying it out and sharing my thoughts with Bernard. Maybe we can even experiment with some new flavors together! I've been thinking about trying out the new cappuccino recipe during my walk in Johnson Park today."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:35:30"
+  }
+}

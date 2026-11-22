@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for morning rush with Bernard's supervision @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Everything ready to go before we open?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. Yeah, everything's ready to go. Just need to grab a coffee and I'll be all set."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in."
+        ],
+        [
+          "Maeve Millay",
+          "I appreciate having Dolores around to grab a coffee and head to work together."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set, thanks. I'll get started on the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set, thanks. I'll get started on the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Great, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I appreciate you keeping an eye on things while Dolores and I get settled in. Let's work together to get everything ready for the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'll get started on the morning rush. Thanks for keeping an eye on things, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set, thanks. I'll get started on the morning rush. Oh, and I almost forgot, I need to remember to meet Dolores at the cafe and head to work together."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set, thanks. I'll get started on the morning rush. Oh, and I almost forgot, I need to remember to meet Dolores at the cafe and head to work together."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciato": "🏃‍♂️🏢",
+      "description": "walking to Hobbs Cafe and starting work (arriving at Hobbs Cafe) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for morning rush with Bernard's supervision @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Everything ready to go before we open?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. Yeah, everything's ready to go. Just need to grab a coffee and I'll be all set."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in."
+        ],
+        [
+          "Maeve Millay",
+          "I appreciate having Dolores around to grab a coffee and head to work together."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set, thanks. I'll get started on the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set, thanks. I'll get started on the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Great, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I appreciate you keeping an eye on things while Dolores and I get settled in. Let's work together to get everything ready for the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'll get started on the morning rush. Thanks for keeping an eye on things, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set, thanks. I'll get started on the morning rush. Oh, and I almost forgot, I need to remember to meet Dolores at the cafe and head to work together."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set, thanks. I'll get started on the morning rush. Oh, and I almost forgot, I need to remember to meet Dolores at the cafe and head to work together."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:29:00"
+  }
+}
