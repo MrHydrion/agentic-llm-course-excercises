@@ -7,18 +7,19 @@
         "desk"
       ],
       "Dolores Abernathy's room": [
-        "desk",
-        "blackboard",
         "bed",
         "closet",
-        "computer"
+        "computer",
+        "desk",
+        "blackboard"
       ],
       "Meave Millay's room": [
-        "bed",
-        "game console",
         "closet",
-        "desk"
+        "desk",
+        "bed",
+        "game console"
       ],
+      "Wolfgang Schulz's room": [],
       "common room": [
         "common room sofa",
         "pool table",
@@ -28,10 +29,10 @@
         "dorm garden"
       ],
       "kitchen": [
-        "toaster",
-        "kitchen sink",
         "refrigerator",
-        "cooking area"
+        "cooking area",
+        "toaster",
+        "kitchen sink"
       ],
       "man's bathroom": [
         "shower",
@@ -39,9 +40,9 @@
         "toilet"
       ],
       "woman's bathroom": [
+        "bathroom sink",
         "toilet",
-        "shower",
-        "bathroom sink"
+        "shower"
       ]
     },
     "Harvey Oak Supply Store": {
@@ -68,9 +69,9 @@
     },
     "Oak Hill College": {
       "classroom": [
+        "classroom student seating",
         "blackboard",
-        "classroom podium",
-        "classroom student seating"
+        "classroom podium"
       ],
       "hallway": [],
       "library": [

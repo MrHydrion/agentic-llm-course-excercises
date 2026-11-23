@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "confirming schedule and cafe operations @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Bernard, I'm getting ready for work. I need to brush my teeth and wash my face before I head to Hobbs Cafe. I'm planning to meet Dolores Abernathy at the cafe after my shift, possibly around 8:00 am. I wanted to confirm with you if that's okay with you."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. You can meet Dolores at the cafe after your shift. Just make sure you're on time and ready to work. I'll be keeping an eye on things."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Bernard, I just wanted to confirm my schedule for today. I'm planning to work at Hobbs Cafe from 8:00am to 4:00pm, then I'll be walking in Johnson Park and having dinner at the dorm at 8:00pm. I'll spend some time in my room before going to bed at 11:00pm. Is everything okay with that?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure you're on time and ready to work. I'll be keeping an eye on things. And don't forget to open the cafe at 8:00 am sharp."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to be on time and ready to work, Bernard. Thanks for confirming my schedule. I'm planning to walk in Johnson Park from 4:00pm to 5:00pm and then have dinner at the dorm at 8:00pm. Is that okay with you?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure you're on time and ready to work. I'll be keeping an eye on things. And don't forget to open the cafe at 8:00 am sharp."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to be on time and ready to work, Bernard. I'll also make sure to meet Dolores at the cafe after my shift, possibly around 8:00 am. Is there anything else I should take care of before I head out?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Make sure to keep the cafe clean and tidy. And don't forget to restock the sugar and creamer supplies before you leave."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep the cafe clean and tidy, and restock the sugar and creamer supplies before I leave. Is there anything else I should know or take care of before I head out?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep an eye on the cafe's inventory and restock the supplies when needed. Is there anything else I should know or take care of before I head out?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to remember to meet Dolores at the cafe after my shift, possibly around 8:00 am. Should I let her know that you've confirmed the meeting?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to remind Dolores about the meeting, Bernard. Is there anything else I should know or take care of before I head out?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        57
+      ],
+      "pronunciato": "🛋️💼",
+      "description": "morning routine (preparing for work) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "confirming schedule and cafe operations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Bernard, I'm getting ready for work. I need to brush my teeth and wash my face before I head to Hobbs Cafe. I'm planning to meet Dolores Abernathy at the cafe after my shift, possibly around 8:00 am. I wanted to confirm with you if that's okay with you."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. You can meet Dolores at the cafe after your shift. Just make sure you're on time and ready to work. I'll be keeping an eye on things."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Bernard, I just wanted to confirm my schedule for today. I'm planning to work at Hobbs Cafe from 8:00am to 4:00pm, then I'll be walking in Johnson Park and having dinner at the dorm at 8:00pm. I'll spend some time in my room before going to bed at 11:00pm. Is everything okay with that?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure you're on time and ready to work. I'll be keeping an eye on things. And don't forget to open the cafe at 8:00 am sharp."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to be on time and ready to work, Bernard. Thanks for confirming my schedule. I'm planning to walk in Johnson Park from 4:00pm to 5:00pm and then have dinner at the dorm at 8:00pm. Is that okay with you?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure you're on time and ready to work. I'll be keeping an eye on things. And don't forget to open the cafe at 8:00 am sharp."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to be on time and ready to work, Bernard. I'll also make sure to meet Dolores at the cafe after my shift, possibly around 8:00 am. Is there anything else I should take care of before I head out?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Make sure to keep the cafe clean and tidy. And don't forget to restock the sugar and creamer supplies before you leave."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep the cafe clean and tidy, and restock the sugar and creamer supplies before I leave. Is there anything else I should know or take care of before I head out?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep an eye on the cafe's inventory and restock the supplies when needed. Is there anything else I should know or take care of before I head out?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to remember to meet Dolores at the cafe after my shift, possibly around 8:00 am. Should I let her know that you've confirmed the meeting?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to remind Dolores about the meeting, Bernard. Is there anything else I should know or take care of before I head out?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:54:30"
+  }
+}

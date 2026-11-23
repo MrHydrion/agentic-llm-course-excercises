@@ -21,18 +21,18 @@
         "desk"
       ],
       "common room": [
-        "common room table",
         "common room sofa",
-        "pool table"
+        "pool table",
+        "common room table"
       ],
       "garden": [
         "dorm garden"
       ],
       "kitchen": [
+        "refrigerator",
         "cooking area",
         "toaster",
-        "kitchen sink",
-        "refrigerator"
+        "kitchen sink"
       ],
       "man's bathroom": [
         "shower",
@@ -40,9 +40,9 @@
         "toilet"
       ],
       "woman's bathroom": [
+        "bathroom sink",
         "toilet",
-        "shower",
-        "bathroom sink"
+        "shower"
       ]
     },
     "Harvey Oak Supply Store": {
@@ -82,13 +82,13 @@
     },
     "The Rose and Crown Pub": {
       "pub": [
-        "kitchen sink",
-        "cooking area",
-        "microphone",
         "shelf",
         "refrigerator",
         "bar customer seating",
-        "behind the bar counter"
+        "behind the bar counter",
+        "kitchen sink",
+        "cooking area",
+        "microphone"
       ]
     },
     "The Willows Market and Pharmacy": {

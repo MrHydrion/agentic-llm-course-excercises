@@ -102,5 +102,47 @@
       "none"
     ],
     "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:20:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "being used",
+    "object": "kitchen sink",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being used",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being used",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being used",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "kitchen sink",
+      "kitchen sink"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:30:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is",
+    "object": "sink",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "sink"
+    ],
+    "filling": null
   }
 }

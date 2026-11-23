@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🚿💧",
+      "description": "heading to Hobbs Cafe (washing face) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        119,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "making plans for a walk and coffee break @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm heading to Hobbs Cafe now. I found a new book about self-discovery that I think you'd like. I'll bring it with me and we can discuss it during our break."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve! I've been looking for a new book to read. What's the title of the one you're interested in?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking of taking a walk in Johnson Park after work today. Want to join me and grab a coffee afterwards?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I'd love to join you for a walk and coffee. I've been looking forward to unwinding after work."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it. We can grab a coffee and catch up on each other's weekends. How was yours?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it. I've been having a tough time lately, so it'll be great to unwind and clear my head. Thanks for inviting me, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Awesome, I'm looking forward to it. We can grab a coffee and catch up on each other's weekends. How was your weekend?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we can spend some time together after work. It's been a bit stressful lately, so I'm looking forward to unwinding and chatting with you."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we can spend some time together after work. It's been a bit stressful lately, so I'm looking forward to unwinding and chatting with you."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to join you for a walk and coffee. It'll be great to clear my head and catch up on each other's weekends."
+        ],
+        [
+          "Maeve Millay",
+          "Awesome, I'm glad we can spend some time together. So, how was your morning routine today? I'm trying to remember to take a walk in Johnson Park after work today, but I keep forgetting. Do you have any tips to help me remember?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it. I've been having a tough time lately, so it'll be great to unwind and clear my head. Thanks for inviting me, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really glad we can catch up after work. I've been having a great time walking in Johnson Park and it's been a great way to unwind. I'm thinking of trying to get there a bit earlier today to beat the crowds. Want to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to join you for a walk in Johnson Park. It'll be great to get some fresh air and clear my head after a long day at work. What time were you thinking of meeting up?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it, Dolores. I've been having a great time walking in Johnson Park and it's been a great way to unwind. How about you, do you have any fun plans for the weekend?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to join you for a walk and coffee. It'll be great to catch up and unwind after work. What time were you thinking of meeting up?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        119,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "making plans for a walk and coffee break @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm heading to Hobbs Cafe now. I found a new book about self-discovery that I think you'd like. I'll bring it with me and we can discuss it during our break."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve! I've been looking for a new book to read. What's the title of the one you're interested in?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm thinking of taking a walk in Johnson Park after work today. Want to join me and grab a coffee afterwards?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I'd love to join you for a walk and coffee. I've been looking forward to unwinding after work."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it. We can grab a coffee and catch up on each other's weekends. How was yours?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it. I've been having a tough time lately, so it'll be great to unwind and clear my head. Thanks for inviting me, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Awesome, I'm looking forward to it. We can grab a coffee and catch up on each other's weekends. How was your weekend?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we can spend some time together after work. It's been a bit stressful lately, so I'm looking forward to unwinding and chatting with you."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we can spend some time together after work. It's been a bit stressful lately, so I'm looking forward to unwinding and chatting with you."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to join you for a walk and coffee. It'll be great to clear my head and catch up on each other's weekends."
+        ],
+        [
+          "Maeve Millay",
+          "Awesome, I'm glad we can spend some time together. So, how was your morning routine today? I'm trying to remember to take a walk in Johnson Park after work today, but I keep forgetting. Do you have any tips to help me remember?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it. I've been having a tough time lately, so it'll be great to unwind and clear my head. Thanks for inviting me, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really glad we can catch up after work. I've been having a great time walking in Johnson Park and it's been a great way to unwind. I'm thinking of trying to get there a bit earlier today to beat the crowds. Want to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to join you for a walk in Johnson Park. It'll be great to get some fresh air and clear my head after a long day at work. What time were you thinking of meeting up?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it, Dolores. I've been having a great time walking in Johnson Park and it's been a great way to unwind. How about you, do you have any fun plans for the weekend?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to join you for a walk and coffee. It'll be great to catch up and unwind after work. What time were you thinking of meeting up?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:27:10"
+  }
+}

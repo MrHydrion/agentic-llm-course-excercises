@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🛋️💧",
+      "description": "waking up and completing morning routine (waking up) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "planning to meet up for coffee and reading @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. How are you today?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I'm doing well, thanks. Just getting ready for another busy day at Hobbs Cafe. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm doing well, just getting ready for another day at Hobbs Cafe. Are you almost ready to head out?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, just finishing up my morning routine. I'm planning on walking to Hobbs Cafe by 8:00 am. How about you, do you have any big plans for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting ready to head to Hobbs Cafe too. I have a lot of work to do today, but I'm looking forward to a quiet evening with a good book after my shift."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to a quiet evening after my shift. Maybe I'll even get some reading done. How about you, do you have any favorite books or authors?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm a big fan of historical fiction. I just finished reading a series about the American Revolution. Have you read anything good recently?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds really interesting! I've been meaning to read more about that time period. Maybe I'll pick up a book on it tonight."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, it's a great series. I just finished reading the last book. I'm looking forward to finding a new series to get into. Do you have any recommendations?"
+        ],
+        [
+          "Maeve Millay",
+          "I've actually been meaning to ask you, Dolores, have you tried any good coffee shops or cafes around town? I'm always looking for new places to grab a cup of coffee."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, there's a new coffee shop that just opened up downtown. I've been meaning to try it out. Have you heard anything about it?"
+        ],
+        [
+          "Maeve Millay",
+          "Oh, that sounds great! I'll have to check it out. Do you think it's a good spot to grab a cup of coffee and catch up on some reading?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've heard it's a great spot to grab a coffee and catch up on some reading. Maybe we can try it out together sometime?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great idea, Dolores! I'll definitely have to check it out. Maybe we can even grab coffee together after my shift today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, Maeve! I'll meet you at the cafe after my shift. See you then."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores! I'll meet you at the cafe after my shift. What time do you think you'll be finishing up?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "planning to meet up for coffee and reading @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. How are you today?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I'm doing well, thanks. Just getting ready for another busy day at Hobbs Cafe. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm doing well, just getting ready for another day at Hobbs Cafe. Are you almost ready to head out?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, just finishing up my morning routine. I'm planning on walking to Hobbs Cafe by 8:00 am. How about you, do you have any big plans for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting ready to head to Hobbs Cafe too. I have a lot of work to do today, but I'm looking forward to a quiet evening with a good book after my shift."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to a quiet evening after my shift. Maybe I'll even get some reading done. How about you, do you have any favorite books or authors?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm a big fan of historical fiction. I just finished reading a series about the American Revolution. Have you read anything good recently?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds really interesting! I've been meaning to read more about that time period. Maybe I'll pick up a book on it tonight."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, it's a great series. I just finished reading the last book. I'm looking forward to finding a new series to get into. Do you have any recommendations?"
+        ],
+        [
+          "Maeve Millay",
+          "I've actually been meaning to ask you, Dolores, have you tried any good coffee shops or cafes around town? I'm always looking for new places to grab a cup of coffee."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, there's a new coffee shop that just opened up downtown. I've been meaning to try it out. Have you heard anything about it?"
+        ],
+        [
+          "Maeve Millay",
+          "Oh, that sounds great! I'll have to check it out. Do you think it's a good spot to grab a cup of coffee and catch up on some reading?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've heard it's a great spot to grab a coffee and catch up on some reading. Maybe we can try it out together sometime?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great idea, Dolores! I'll definitely have to check it out. Maybe we can even grab coffee together after my shift today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, Maeve! I'll meet you at the cafe after my shift. See you then."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores! I'll meet you at the cafe after my shift. What time do you think you'll be finishing up?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:03:40"
+  }
+}

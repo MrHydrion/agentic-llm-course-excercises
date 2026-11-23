@@ -56,11 +56,7 @@ Break down the current activity for **{{ .Persona.Name }}** into sub-tasks.
     - Do NOT include the persona name.
     - Do NOT include the word "is".
     - Do NOT include a subject or full sentence.
-7.   **Punctuality:** When deciding morning activities, prioritze necessary preperation and travel so that the agents working at Hobbs Cafe can arrive by 8:00 AM.
-8.   **Meals and Breaks:** Include realistic meal times and regular work breaks when they happen within the current activity and are consistent with the surrounding schedule.
-9.   **Activity Duration:** No agent should perform the same continuous activity for more than 120 minutes without a break or a meaningful change of activity, except when sleeping.
-10.  **Activity Variety:** Avoid repetitive sub-tasks by including a variety of meaningful actions appropriate to each agent's role.
-11.  **Logical Scheduling:** Order sub-tasks logically, allowing sufficient time for preparation, the main activity, and cleanup or travel when relevant.
+
 
 ### OUTPUT FORMAT
 Return exactly one JSON object.
@@ -69,11 +65,10 @@ Do not include any text before or after the JSON.
 Do not include any fields not included here..
 Use this exact schema:
 {
-  "schedule": [
+  "schedule":       
     {
       "task": "reviewing notes",
       "duration_in_minutes": 15,
       "minutes_left": 45
     }
-  ]
 }

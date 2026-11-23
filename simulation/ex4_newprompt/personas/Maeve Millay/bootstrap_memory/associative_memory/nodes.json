@@ -445,6 +445,92 @@
     ],
     "filling": null
   },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:07:50",
+    "expiration": "2023-03-15 08:07:50",
+    "subject": "Maeve Millay",
+    "predicate": "needs to remember",
+    "object": "Johnson Park",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember to take a walk in Johnson Park after work and grab a coffee and walk together with Dolores Abernathy.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember to take a walk in Johnson Park after work and grab a coffee and walk together with Dolores Abernathy.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember to take a walk in Johnson Park after work and grab a coffee and walk together with Dolores Abernathy.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "needs to remember",
+      "johnson park"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:07:50",
+    "expiration": "2023-03-15 08:07:50",
+    "subject": "Maeve Millay",
+    "predicate": "found interesting",
+    "object": "book about self-discovery",
+    "description": "Maeve Millay Maeve Millay found a new book about self-discovery interesting and thought Dolores would like it.",
+    "original_description": "Maeve Millay Maeve Millay found a new book about self-discovery interesting and thought Dolores would like it.",
+    "embedding_key": "Maeve Millay Maeve Millay found a new book about self-discovery interesting and thought Dolores would like it.",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "found interesting",
+      "book about self-discovery"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:08:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is waking up and completing morning routine (starting the walk to Hobbs Cafe)",
+    "original_description": "Dolores Abernathy is waking up and completing morning routine (starting the walk to Hobbs Cafe)",
+    "embedding_key": "Dolores Abernathy is waking up and completing morning routine (starting the walk to Hobbs Cafe)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:08:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is walking to Hobbs Cafe (getting ready to leave the house)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (getting ready to leave the house)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (getting ready to leave the house)",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
   "node_3": {
     "node_count": 3,
     "type_count": 1,
@@ -465,6 +551,249 @@
       "none"
     ],
     "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:09:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is uncluttered",
+    "object": "room table",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is uncluttered",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is uncluttered",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is uncluttered",
+    "poignancy": 2,
+    "valence": 2,
+    "keywords": [
+      "common room table",
+      "room table"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:10:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (getting ready to leave the dorm)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (getting ready to leave the dorm)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (getting ready to leave the dorm)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:10:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:18:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:25:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (locking the dorm door)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (locking the dorm door)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (locking the dorm door)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "values",
+    "object": "None",
+    "description": "Maeve Millay values her daily routine and consistency, as it provides a sense of control and structure in her life.",
+    "original_description": "Maeve Millay values her daily routine and consistency, as it provides a sense of control and structure in her life.",
+    "embedding_key": "Maeve Millay values her daily routine and consistency, as it provides a sense of control and structure in her life.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_15",
+      "node_20",
+      "node_34",
+      "node_1",
+      "node_12"
+    ]
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "tries",
+    "object": "None",
+    "description": "Maeve Millay is conflict-averse and tries to avoid stress and anxiety by planning and preparing for her day.",
+    "original_description": "Maeve Millay is conflict-averse and tries to avoid stress and anxiety by planning and preparing for her day.",
+    "embedding_key": "Maeve Millay is conflict-averse and tries to avoid stress and anxiety by planning and preparing for her day.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "tries",
+      "none"
+    ],
+    "filling": [
+      "node_24",
+      "node_9",
+      "node_2",
+      "node_26",
+      "node_25"
+    ]
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "finds solace in her walks",
+    "object": "Johnson Park",
+    "description": "Maeve Millay has a strong connection with nature and finds solace in her walks in Johnson Park, which helps her unwind and relax.",
+    "original_description": "Maeve Millay has a strong connection with nature and finds solace in her walks in Johnson Park, which helps her unwind and relax.",
+    "embedding_key": "Maeve Millay has a strong connection with nature and finds solace in her walks in Johnson Park, which helps her unwind and relax.",
+    "poignancy": 8,
+    "valence": 8,
+    "keywords": [
+      "maeve millay",
+      "finds solace in her walks",
+      "johnson park"
+    ],
+    "filling": [
+      "node_6",
+      "node_12",
+      "node_19"
+    ]
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "values",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay values her relationships with others, particularly Dolores Abernathy, and enjoys sharing experiences and planning with her.",
+    "original_description": "Maeve Millay values her relationships with others, particularly Dolores Abernathy, and enjoys sharing experiences and planning with her.",
+    "embedding_key": "Maeve Millay values her relationships with others, particularly Dolores Abernathy, and enjoys sharing experiences and planning with her.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "values",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_9",
+      "node_31",
+      "node_32",
+      "node_10",
+      "node_26"
+    ]
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "has a tendency to overthink and worry about",
+    "object": "None",
+    "description": "Maeve Millay has a tendency to overthink and worry about her day, which can lead to feelings of stress and anxiety.",
+    "original_description": "Maeve Millay has a tendency to overthink and worry about her day, which can lead to feelings of stress and anxiety.",
+    "embedding_key": "Maeve Millay has a tendency to overthink and worry about her day, which can lead to feelings of stress and anxiety.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "has a tendency to overthink and worry about",
+      "none"
+    ],
+    "filling": [
+      "node_24",
+      "node_2",
+      "node_26",
+      "node_25",
+      "node_16"
+    ]
   },
   "node_4": {
     "node_count": 4,
@@ -487,6 +816,297 @@
     ],
     "filling": null
   },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "value",
+    "object": "shared experiences and conversations",
+    "description": "My relationships with others, such as Dolores, are important to me, and I value our shared experiences and conversations.",
+    "original_description": "My relationships with others, such as Dolores, are important to me, and I value our shared experiences and conversations.",
+    "embedding_key": "My relationships with others, such as Dolores, are important to me, and I value our shared experiences and conversations.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "value",
+      "shared experiences and conversations"
+    ],
+    "filling": [
+      "node_9",
+      "node_27",
+      "node_10",
+      "node_29",
+      "node_25",
+      "node_14"
+    ]
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "seeking",
+    "object": "ways to manage and relieve these feelings",
+    "description": "I struggle with stress and anxiety, and I'm actively seeking ways to manage and relieve these feelings, such as taking walks and discussing stress relief with others.",
+    "original_description": "I struggle with stress and anxiety, and I'm actively seeking ways to manage and relieve these feelings, such as taking walks and discussing stress relief with others.",
+    "embedding_key": "I struggle with stress and anxiety, and I'm actively seeking ways to manage and relieve these feelings, such as taking walks and discussing stress relief with others.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "seeking",
+      "ways to manage and relieve these feelings"
+    ],
+    "filling": [
+      "node_24",
+      "node_29",
+      "node_25",
+      "node_1"
+    ]
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "finding comfort",
+    "object": "None",
+    "description": "My sense of self is closely tied to my daily routine and my relationships with others, and I find comfort in the predictability and familiarity of my daily life.",
+    "original_description": "My sense of self is closely tied to my daily routine and my relationships with others, and I find comfort in the predictability and familiarity of my daily life.",
+    "embedding_key": "My sense of self is closely tied to my daily routine and my relationships with others, and I find comfort in the predictability and familiarity of my daily life.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "finding comfort",
+      "none"
+    ],
+    "filling": [
+      "node_33",
+      "node_15",
+      "node_22",
+      "node_34",
+      "node_28",
+      "node_19",
+      "node_1",
+      "node_3",
+      "node_2"
+    ]
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "provides",
+    "object": "My daily routine",
+    "description": "My daily routine provides a sense of structure and control, allowing me to feel more grounded and prepared for the day ahead.",
+    "original_description": "My daily routine provides a sense of structure and control, allowing me to feel more grounded and prepared for the day ahead.",
+    "embedding_key": "My daily routine provides a sense of structure and control, allowing me to feel more grounded and prepared for the day ahead.",
+    "poignancy": 8,
+    "valence": 7,
+    "keywords": [
+      "maeve millay",
+      "provides",
+      "my daily routine"
+    ],
+    "filling": [
+      "node_33",
+      "node_15",
+      "node_22",
+      "node_34",
+      "node_28",
+      "node_19",
+      "node_1"
+    ]
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "find solace and relaxation in",
+    "object": "Johnson Park",
+    "description": "I find solace and relaxation in my walks in Johnson Park, which helps me unwind and clear my mind.",
+    "original_description": "I find solace and relaxation in my walks in Johnson Park, which helps me unwind and clear my mind.",
+    "embedding_key": "I find solace and relaxation in my walks in Johnson Park, which helps me unwind and clear my mind.",
+    "poignancy": 8,
+    "valence": 8,
+    "keywords": [
+      "maeve millay",
+      "find solace and relaxation in",
+      "johnson park"
+    ],
+    "filling": [
+      "node_12",
+      "node_26",
+      "node_4",
+      "node_2"
+    ]
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "values",
+    "object": "Maeve Millay",
+    "description": "Maeve Millay values her alone time and uses her walks in Johnson Park as a way to unwind and relax.",
+    "original_description": "Maeve Millay values her alone time and uses her walks in Johnson Park as a way to unwind and relax.",
+    "embedding_key": "Maeve Millay values her alone time and uses her walks in Johnson Park as a way to unwind and relax.",
+    "poignancy": 9,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "values",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_12",
+      "node_11",
+      "node_1"
+    ]
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "prioritizes",
+    "object": "None",
+    "description": "Maeve Millay prioritizes her daily routine and has a clear plan for her day.",
+    "original_description": "Maeve Millay prioritizes her daily routine and has a clear plan for her day.",
+    "embedding_key": "Maeve Millay prioritizes her daily routine and has a clear plan for her day.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "prioritizes",
+      "none"
+    ],
+    "filling": [
+      "node_3",
+      "node_1",
+      "node_6"
+    ]
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "share",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay has a desire to share her interests and hobbies with Dolores Abernathy, such as discussing stress relief and sharing books.",
+    "original_description": "Maeve Millay has a desire to share her interests and hobbies with Dolores Abernathy, such as discussing stress relief and sharing books.",
+    "embedding_key": "Maeve Millay has a desire to share her interests and hobbies with Dolores Abernathy, such as discussing stress relief and sharing books.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "share",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_26",
+      "node_27",
+      "node_9"
+    ]
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "tends to stick",
+    "object": "Maeve Millay",
+    "description": "Maeve Millay is a creature of habit and tends to stick to her routine, even on weekends.",
+    "original_description": "Maeve Millay is a creature of habit and tends to stick to her routine, even on weekends.",
+    "embedding_key": "Maeve Millay is a creature of habit and tends to stick to her routine, even on weekends.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "tends to stick",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_10",
+      "node_2",
+      "node_9"
+    ]
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 19,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:25:10",
+    "expiration": "2023-03-15 08:25:10",
+    "subject": "Maeve Millay",
+    "predicate": "feels a sense of responsibility and duty towards",
+    "object": "Hobbs Cafe and her colleagues, such as Dolores Abernathy",
+    "description": "Maeve Millay feels a sense of responsibility and duty towards her work at Hobbs Cafe and her colleagues, such as Dolores Abernathy.",
+    "original_description": "Maeve Millay feels a sense of responsibility and duty towards her work at Hobbs Cafe and her colleagues, such as Dolores Abernathy.",
+    "embedding_key": "Maeve Millay feels a sense of responsibility and duty towards her work at Hobbs Cafe and her colleagues, such as Dolores Abernathy.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "feels a sense of responsibility and duty towards",
+      "hobbs cafe and her colleagues, such as dolores abernathy"
+    ],
+    "filling": [
+      "node_22",
+      "node_33",
+      "node_31",
+      "node_32",
+      "node_15",
+      "node_16",
+      "node_24",
+      "node_25",
+      "node_4",
+      "node_3",
+      "node_1",
+      "node_27",
+      "node_10",
+      "node_2",
+      "node_11",
+      "node_9",
+      "node_6",
+      "node_19",
+      "node_34"
+    ]
+  },
   "node_5": {
     "node_count": 5,
     "type_count": 3,
@@ -505,6 +1125,180 @@
     "keywords": [
       "bed",
       "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:25:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "making plans for a walk and coffee break",
+    "original_description": "making plans for a walk and coffee break",
+    "embedding_key": "making plans for a walk and coffee break",
+    "poignancy": 5,
+    "valence": 8,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hey Dolores, I'm heading to Hobbs Cafe now. I found a new book about self-discovery that I think you'd like. I'll bring it with me and we can discuss it during our break."
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds great, Maeve! I've been looking for a new book to read. What's the title of the one you're interested in?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm thinking of taking a walk in Johnson Park after work today. Want to join me and grab a coffee afterwards?"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds like a great idea, Maeve. I'd love to join you for a walk and coffee. I've been looking forward to unwinding after work."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to it. We can grab a coffee and catch up on each other's weekends. How was yours?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm really looking forward to it. I've been having a tough time lately, so it'll be great to unwind and clear my head. Thanks for inviting me, Maeve."
+      ],
+      [
+        "Maeve Millay",
+        "Awesome, I'm looking forward to it. We can grab a coffee and catch up on each other's weekends. How was your weekend?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we can spend some time together after work. It's been a bit stressful lately, so I'm looking forward to unwinding and chatting with you."
+      ],
+      [
+        "Maeve Millay",
+        "I'm glad we can spend some time together after work. It's been a bit stressful lately, so I'm looking forward to unwinding and chatting with you."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'd love to join you for a walk and coffee. It'll be great to clear my head and catch up on each other's weekends."
+      ],
+      [
+        "Maeve Millay",
+        "Awesome, I'm glad we can spend some time together. So, how was your morning routine today? I'm trying to remember to take a walk in Johnson Park after work today, but I keep forgetting. Do you have any tips to help me remember?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm really looking forward to it. I've been having a tough time lately, so it'll be great to unwind and clear my head. Thanks for inviting me, Maeve."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really glad we can catch up after work. I've been having a great time walking in Johnson Park and it's been a great way to unwind. I'm thinking of trying to get there a bit earlier today to beat the crowds. Want to join me?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'd love to join you for a walk in Johnson Park. It'll be great to get some fresh air and clear my head after a long day at work. What time were you thinking of meeting up?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to it, Dolores. I've been having a great time walking in Johnson Park and it's been a great way to unwind. How about you, do you have any fun plans for the weekend?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'd love to join you for a walk and coffee. It'll be great to catch up and unwind after work. What time were you thinking of meeting up?"
+      ]
+    ]
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:25:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is making plans for a walk and coffee break",
+    "original_description": "Maeve Millay is making plans for a walk and coffee break",
+    "embedding_key": "Maeve Millay is making plans for a walk and coffee break",
+    "poignancy": 5,
+    "valence": 6,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_50"
+    ]
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:25:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is making plans for a walk and coffee break",
+    "original_description": "Dolores Abernathy is making plans for a walk and coffee break",
+    "embedding_key": "Dolores Abernathy is making plans for a walk and coffee break",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 20,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:50",
+    "expiration": "2023-03-15 08:30:50",
+    "subject": "Maeve Millay",
+    "predicate": "meet",
+    "object": "Johnson Park",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy at Johnson Park after work, possibly around the same time as their walk.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy at Johnson Park after work, possibly around the same time as their walk.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy at Johnson Park after work, possibly around the same time as their walk.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "meet",
+      "johnson park"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 21,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:50",
+    "expiration": "2023-03-15 08:30:50",
+    "subject": "Maeve Millay",
+    "predicate": "found",
+    "object": "book about self-discovery",
+    "description": "Maeve Millay Maeve Millay found a new book about self-discovery that she thinks Dolores Abernathy would like.",
+    "original_description": "Maeve Millay Maeve Millay found a new book about self-discovery that she thinks Dolores Abernathy would like.",
+    "embedding_key": "Maeve Millay Maeve Millay found a new book about self-discovery that she thinks Dolores Abernathy would like.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "found",
+      "book about self-discovery"
     ],
     "filling": null
   },

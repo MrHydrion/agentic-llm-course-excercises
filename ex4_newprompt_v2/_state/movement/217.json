@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciato": "🍳🛋️",
+      "description": "waking up and completing morning routine (having breakfast) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        130,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "planning a coffee and reading session @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "I'm looking forward to our coffee and reading session after my shift today. What's the new coffee shop you're recommending?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new coffee shop downtown. I've heard great things about it. Have you tried it before?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great! I've been meaning to try it out. What's the name of the coffee shop again?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think I'll try it out after my shift today, so we can catch up and grab a cup of coffee. Would that work for you?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great! I'll make sure to meet you at the cafe after my shift today. Thanks for the recommendation!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out with you. It'll be nice to catch up and grab a cup of coffee together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it! I've been feeling a bit overwhelmed with work lately, so it'll be nice to take a break and catch up with you."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try it out with you. It'll be nice to catch up and grab a cup of coffee together. I've been looking forward to it all week."
+        ],
+        [
+          "Maeve Millay",
+          "So, what's the plan for our coffee and reading session today? Should I meet you at the cafe after my shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try it out with you. It'll be nice to catch up and grab a cup of coffee together. I've been looking forward to it all week. Have you thought about what you want to read today?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan! I'll meet you at the cafe after my shift. I'm really looking forward to trying out the new coffee shop and catching up with you."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it! I've got a new book I've been wanting to start, so it'll be great to discuss it with you over coffee."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new coffee shop and catching up with you. What time were you thinking of meeting up?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm thinking around 8:00 am, so we can grab a cup of coffee and catch up before my shift starts. Would that work for you?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds perfect! I'll make sure to meet you at the cafe at 8:00 am. I'm really looking forward to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new coffee shop with you. It's been a while since we've had a chance to catch up, so I'm looking forward to it."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "planning a coffee and reading session @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "I'm looking forward to our coffee and reading session after my shift today. What's the new coffee shop you're recommending?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new coffee shop downtown. I've heard great things about it. Have you tried it before?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great! I've been meaning to try it out. What's the name of the coffee shop again?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think I'll try it out after my shift today, so we can catch up and grab a cup of coffee. Would that work for you?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great! I'll make sure to meet you at the cafe after my shift today. Thanks for the recommendation!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying it out with you. It'll be nice to catch up and grab a cup of coffee together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it! I've been feeling a bit overwhelmed with work lately, so it'll be nice to take a break and catch up with you."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try it out with you. It'll be nice to catch up and grab a cup of coffee together. I've been looking forward to it all week."
+        ],
+        [
+          "Maeve Millay",
+          "So, what's the plan for our coffee and reading session today? Should I meet you at the cafe after my shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try it out with you. It'll be nice to catch up and grab a cup of coffee together. I've been looking forward to it all week. Have you thought about what you want to read today?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan! I'll meet you at the cafe after my shift. I'm really looking forward to trying out the new coffee shop and catching up with you."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it! I've got a new book I've been wanting to start, so it'll be great to discuss it with you over coffee."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new coffee shop and catching up with you. What time were you thinking of meeting up?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm thinking around 8:00 am, so we can grab a cup of coffee and catch up before my shift starts. Would that work for you?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds perfect! I'll make sure to meet you at the cafe at 8:00 am. I'm really looking forward to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new coffee shop with you. It's been a while since we've had a chance to catch up, so I'm looking forward to it."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:35:10"
+  }
+}

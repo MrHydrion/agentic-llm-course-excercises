@@ -1,12 +1,13 @@
 {
   "kw_strength_thought": {
-    "plan": 1
+    "plan": 2
   },
   "kw_strength_event": {
-    "bernard lowe": 2,
-    "cafe customer seating": 1,
-    "hobbs cafe": 1,
-    "none": 1,
-    "seating": 1
+    "bernard lowe": 4,
+    "cafe customer seating": 2,
+    "hobbs cafe": 2,
+    "kitchen sink": 2,
+    "none": 2,
+    "seating": 2
   }
 }

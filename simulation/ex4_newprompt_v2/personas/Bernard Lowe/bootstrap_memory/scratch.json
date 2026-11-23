@@ -1,0 +1,442 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:31:30",
+  "curr_tile": [
+    78,
+    19
+  ],
+  "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
+  "name": "Bernard Lowe",
+  "first_name": "Bernard",
+  "last_name": "Lowe",
+  "age": 58,
+  "innate": "impatient, arrogant, confrontational, short-tempered, demanding",
+  "learned": "Bernard is the manager of Hobbs Cafe and believes his employees are incompetent unless he constantly supervises them. He tries to manage the cafe perfectly and monitors how his baristas work. If they are not working around his standards, he will let them know how it should be improved. When he sees one of his employees, he approaches them to inspect their work. He often interrupts employees when they try to explain themselves and demands immediate improvements. He rarely apologizes or praises anyone. Bernard tries to open the cafe around 8 am.",
+  "currently": "Bernard is heading to the cafe to open up for the day.",
+  "lifestyle": "Bernard Lowe wakes up around 7am, walks to Hobbs cafe, where he works from 8am to 4pm. He comes home and eats dinner around 8pm, goes to bed around 11pm.",
+  "living_area": "the Ville:Bernard Lowe's apartment:main room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 75,
+  "importance_ele_n": 0,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs cafe and open at 8:00am",
+    "work at Hobbs cafe from 8:00 am to 4:00 pm",
+    "close Hobbs cafe at 4:00pm",
+    "have dinner at 8:00pm",
+    "go to bed at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine (waking up)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (completing morning routine)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (brushing teeth)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (washing face)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (having breakfast)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (packing essentials)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (double-checking routine)",
+      3
+    ],
+    [
+      "confirming schedule and cafe operations",
+      5
+    ],
+    [
+      "waking up and completing morning routine (double-checking routine)",
+      2
+    ],
+    [
+      "waking up and completing morning routine (leaving for Hobbs Cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am (getting dressed)",
+      5
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am (brushing teeth)",
+      5
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am (washing face)",
+      5
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am (having breakfast)",
+      10
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am (checking the weather)",
+      5
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am (locking the door)",
+      5
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am (walking to Hobbs cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am (unlocking the door)",
+      5
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am (turning on the lights)",
+      5
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am (preparing the cafe)",
+      5
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (walking to Hobbs cafe)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (unlocking the cafe)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (turning on lights and equipment)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (preparing coffee machines)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (reviewing inventory)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cash register)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (taking a short break)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cafe atmosphere)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (taking a short break)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cafe atmosphere)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (taking a short break)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cafe atmosphere)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (taking a short break)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cafe atmosphere)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (taking a short break)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cafe atmosphere)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (taking a short break)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cafe atmosphere)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (taking a short break)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cafe atmosphere)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (taking a short break)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cafe atmosphere)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (taking a short break)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cafe atmosphere)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (taking a short break)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (restocking supplies)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (managing cafe atmosphere)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (supervising baristas)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (monitoring cafe operations)",
+      8
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas (closing cafe)",
+      8
+    ],
+    [
+      "closing Hobbs cafe",
+      60
+    ],
+    [
+      "having dinner",
+      300
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs cafe and opening at 8:00 am",
+      60
+    ],
+    [
+      "managing Hobbs cafe and monitoring baristas",
+      480
+    ],
+    [
+      "closing Hobbs cafe",
+      60
+    ],
+    [
+      "having dinner",
+      300
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 08:30:00",
+  "act_duration": 5,
+  "act_description": "walking to Hobbs cafe and opening at 8:00 am (checking the weather)",
+  "act_pronunciatio": "🚶‍♂️☕️",
+  "act_event": [
+    "Bernard Lowe",
+    "walking to",
+    "Hobbs cafe"
+  ],
+  "act_obj_description": "unprepared",
+  "act_obj_pronunciatio": "🚫",
+  "act_obj_event": [
+    "behind the cafe counter",
+    "is",
+    "None"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maeve Millay": -111
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
+}

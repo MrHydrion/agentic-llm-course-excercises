@@ -2,7 +2,7 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:07:40",
+  "curr_time": "February 13, 2023, 08:31:00",
   "curr_tile": [
     77,
     19
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 60,
-  "importance_ele_n": 4,
+  "importance_trigger_curr": 50,
+  "importance_ele_n": 6,
   "thought_count": 0,
   "daily_req": [],
   "f_daily_schedule": [
@@ -184,10 +184,10 @@
     ]
   ],
   "act_address": "the Ville:Hobbs Cafe:cafe:kitchen sink",
-  "act_start_time": "February 13, 2023, 08:00:00",
+  "act_start_time": "February 13, 2023, 08:30:00",
   "act_duration": 10,
-  "act_description": "heading to Hobbs Cafe (getting dressed)",
-  "act_pronunciatio": "👕💼",
+  "act_description": "heading to Hobbs Cafe (completing morning routine)",
+  "act_pronunciatio": "🏃‍♂️🍳",
   "act_event": [
     "Bernard Lowe",
     "heading to",
@@ -198,7 +198,7 @@
   "act_obj_event": [
     "kitchen sink",
     "is",
-    "None"
+    "sink"
   ],
   "chatting_with": null,
   "chat": null,

@@ -42,12 +42,12 @@
     },
     "Hobbs Cafe": {
       "cafe": [
-        "refrigerator",
         "cafe customer seating",
         "cooking area",
         "kitchen sink",
         "behind the cafe counter",
-        "piano"
+        "piano",
+        "refrigerator"
       ]
     },
     "Johnson Park": {
@@ -62,32 +62,32 @@
         "toilet"
       ],
       "main room": [
-        "closet",
         "bed",
         "cooking area",
         "kitchen sink",
-        "refrigerator"
+        "refrigerator",
+        "closet"
       ]
     },
     "The Rose and Crown Pub": {
       "pub": [
+        "cooking area",
+        "microphone",
+        "shelf",
         "refrigerator",
         "bar customer seating",
         "behind the bar counter",
-        "kitchen sink",
-        "cooking area",
-        "microphone",
-        "shelf"
+        "kitchen sink"
       ]
     },
     "The Willows Market and Pharmacy": {
       "store": [
-        "grocery store counter",
         "behind the pharmacy counter",
         "pharmacy store shelf",
         "pharmacy store counter",
         "grocery store shelf",
-        "behind the grocery counter"
+        "behind the grocery counter",
+        "grocery store counter"
       ]
     }
   }

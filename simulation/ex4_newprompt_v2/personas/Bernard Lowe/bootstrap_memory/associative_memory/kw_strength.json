@@ -1,0 +1,40 @@
+{
+  "kw_strength_thought": {
+    "are": 4,
+    "bernard lowe": 18,
+    "control the flow of events": 1,
+    "daily goals and expectations": 1,
+    "efficiency": 1,
+    "have": 1,
+    "have a tendency to be": 1,
+    "hobbs cafe": 3,
+    "maeve millay": 2,
+    "managing": 1,
+    "my employees": 4,
+    "need": 1,
+    "need to be in control and micromanage to ensure things are done my way": 1,
+    "none": 7,
+    "plan": 2,
+    "planning": 2,
+    "prioritize": 3,
+    "rely on": 1,
+    "reminded": 2
+  },
+  "kw_strength_event": {
+    "bed": 3,
+    "bernard lowe": 16,
+    "cafe": 2,
+    "cafe customer seating": 1,
+    "closet": 4,
+    "hobbs cafe": 2,
+    "lunch": 1,
+    "maeve millay": 7,
+    "morning routine": 6,
+    "none": 11,
+    "refrigerator": 2,
+    "seating": 1,
+    "shelf": 2,
+    "sleeping": 2,
+    "work": 2
+  }
+}

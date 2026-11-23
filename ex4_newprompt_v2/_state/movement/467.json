@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciato": "🚶‍♂️🕰️💧",
+      "description": "walking to Hobbs cafe and opening at 8:00 am (washing face) @ the Ville:Bernard Lowe's apartment:main room:bed",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        113,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "planning a coffee and reading session at a new coffee shop @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm looking forward to our coffee and reading session after my shift. What's your favorite book to read lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it too! I just found a new coffee shop downtown that I'm excited to try out. Would you like to meet up there instead?"
+        ],
+        [
+          "Maeve Millay",
+          "I'd love to try out the new coffee shop with you! What time were you thinking of meeting up?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great! I was thinking of meeting up around 8:00 am, after my shift at Hobbs Cafe. Would that work for you?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, I'll meet you at the new coffee shop at 8:00 am. I'm looking forward to trying out the new spot and catching up with you after my shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds great, I'll see you at the new coffee shop at 8:00 am. I'm really looking forward to trying it out and catching up with you."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new coffee shop and catching up with you after your shift. It's always great to take a break and unwind with you."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new coffee shop and spending some time reading together. It's always great to unwind and recharge with you, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it! I've been meaning to try out some new coffee and reading combinations. Do you have any favorite books or authors you've been reading lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new coffee shop with you, Maeve. I've been meaning to get out of the dorm more and explore the city. It'll be great to have some company and try out some new coffee and reading combinations."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it! I've been meaning to try out some new coffee and reading combinations. Do you have any favorite books or authors you've been reading lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new coffee shop with you, Maeve. I've been meaning to get out of the dorm more and explore the city. It'll be great to have some company and try out some new coffee and reading combinations."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new coffee shop and catching up with you after my shift. I've got a busy day ahead of me, but it'll be great to unwind with you afterwards."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it! I found a new coffee shop downtown that I think you'll really like. Let's try it out and grab a cup of coffee together."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a plan! I'm looking forward to trying out the new coffee shop with you. I'll make sure to meet you there at 8:00 am."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it! I've been meaning to try out some new coffee and reading combinations. Would you like to meet up at the new coffee shop at 8:00 am and then head to the reading session afterwards?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        116,
+        42
+      ],
+      "pronunciato": "💬",
+      "description": "planning a coffee and reading session at a new coffee shop @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm looking forward to our coffee and reading session after my shift. What's your favorite book to read lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it too! I just found a new coffee shop downtown that I'm excited to try out. Would you like to meet up there instead?"
+        ],
+        [
+          "Maeve Millay",
+          "I'd love to try out the new coffee shop with you! What time were you thinking of meeting up?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great! I was thinking of meeting up around 8:00 am, after my shift at Hobbs Cafe. Would that work for you?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, I'll meet you at the new coffee shop at 8:00 am. I'm looking forward to trying out the new spot and catching up with you after my shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds great, I'll see you at the new coffee shop at 8:00 am. I'm really looking forward to trying it out and catching up with you."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new coffee shop and catching up with you after your shift. It's always great to take a break and unwind with you."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new coffee shop and spending some time reading together. It's always great to unwind and recharge with you, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it! I've been meaning to try out some new coffee and reading combinations. Do you have any favorite books or authors you've been reading lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new coffee shop with you, Maeve. I've been meaning to get out of the dorm more and explore the city. It'll be great to have some company and try out some new coffee and reading combinations."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it! I've been meaning to try out some new coffee and reading combinations. Do you have any favorite books or authors you've been reading lately?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out the new coffee shop with you, Maeve. I've been meaning to get out of the dorm more and explore the city. It'll be great to have some company and try out some new coffee and reading combinations."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new coffee shop and catching up with you after my shift. I've got a busy day ahead of me, but it'll be great to unwind with you afterwards."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it! I found a new coffee shop downtown that I think you'll really like. Let's try it out and grab a cup of coffee together."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a plan! I'm looking forward to trying out the new coffee shop with you. I'll make sure to meet you there at 8:00 am."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to it! I've been meaning to try out some new coffee and reading combinations. Would you like to meet up at the new coffee shop at 8:00 am and then head to the reading session afterwards?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:16:50"
+  }
+}

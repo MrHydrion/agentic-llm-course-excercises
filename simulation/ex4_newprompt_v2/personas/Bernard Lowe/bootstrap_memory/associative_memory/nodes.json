@@ -1,0 +1,1128 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs cafe and open at 8:00am, work at Hobbs cafe from 8:00 am to 4:00 pm, close Hobbs cafe at 4:00pm, have dinner at 8:00pm, go to bed at 11:00pm.",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs cafe and open at 8:00am, work at Hobbs cafe from 8:00 am to 4:00 pm, close Hobbs cafe at 4:00pm, have dinner at 8:00pm, go to bed at 11:00pm.",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs cafe and open at 8:00am, work at Hobbs cafe from 8:00 am to 4:00 pm, close Hobbs cafe at 4:00pm, have dinner at 8:00pm, go to bed at 11:00pm.",
+    "poignancy": 10,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:25:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:shelf",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:shelf is unoccupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:shelf is unoccupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:shelf is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "shelf",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:30:50",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:37:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "unopened",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is unopened",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is unopened",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is unopened",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:53:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "confirming schedule and cafe operations",
+    "original_description": "confirming schedule and cafe operations",
+    "embedding_key": "confirming schedule and cafe operations",
+    "poignancy": 2,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hi Bernard, I'm getting ready for work. I need to brush my teeth and wash my face before I head to Hobbs Cafe. I'm planning to meet Dolores Abernathy at the cafe after my shift, possibly around 8:00 am. I wanted to confirm with you if that's okay with you."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve. You can meet Dolores at the cafe after your shift. Just make sure you're on time and ready to work. I'll be keeping an eye on things."
+      ],
+      [
+        "Maeve Millay",
+        "Hi Bernard, I just wanted to confirm my schedule for today. I'm planning to work at Hobbs Cafe from 8:00am to 4:00pm, then I'll be walking in Johnson Park and having dinner at the dorm at 8:00pm. I'll spend some time in my room before going to bed at 11:00pm. Is everything okay with that?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve. Just make sure you're on time and ready to work. I'll be keeping an eye on things. And don't forget to open the cafe at 8:00 am sharp."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to be on time and ready to work, Bernard. Thanks for confirming my schedule. I'm planning to walk in Johnson Park from 4:00pm to 5:00pm and then have dinner at the dorm at 8:00pm. Is that okay with you?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve. Just make sure you're on time and ready to work. I'll be keeping an eye on things. And don't forget to open the cafe at 8:00 am sharp."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to be on time and ready to work, Bernard. I'll also make sure to meet Dolores at the cafe after my shift, possibly around 8:00 am. Is there anything else I should take care of before I head out?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve. Make sure to keep the cafe clean and tidy. And don't forget to restock the sugar and creamer supplies before you leave."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to keep the cafe clean and tidy, and restock the sugar and creamer supplies before I leave. Is there anything else I should know or take care of before I head out?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to keep an eye on the cafe's inventory and restock the supplies when needed. Is there anything else I should know or take care of before I head out?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to remember to meet Dolores at the cafe after my shift, possibly around 8:00 am. Should I let her know that you've confirmed the meeting?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to remind Dolores about the meeting, Bernard. Is there anything else I should know or take care of before I head out?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve. Just make sure to keep an eye on the cafe's inventory and restock the supplies when needed. I'll be keeping an eye on things from the back office."
+      ]
+    ]
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:53:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is confirming schedule and cafe operations",
+    "original_description": "Bernard Lowe is confirming schedule and cafe operations",
+    "embedding_key": "Bernard Lowe is confirming schedule and cafe operations",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_13"
+    ]
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:53:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is confirming schedule and cafe operations",
+    "original_description": "Maeve Millay is confirming schedule and cafe operations",
+    "embedding_key": "Maeve Millay is confirming schedule and cafe operations",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:57:50",
+    "expiration": "2023-03-15 07:57:50",
+    "subject": "Bernard Lowe",
+    "predicate": "planning",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to keep an eye on the cafe's inventory and restock the supplies when needed.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to keep an eye on the cafe's inventory and restock the supplies when needed.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to keep an eye on the cafe's inventory and restock the supplies when needed.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "planning",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:57:50",
+    "expiration": "2023-03-15 07:57:50",
+    "subject": "Bernard Lowe",
+    "predicate": "reminded",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay consistently reminded him to open the cafe at 8:00 am sharp and to keep an eye on the cafe's inventory and restock supplies when needed.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay consistently reminded him to open the cafe at 8:00 am sharp and to keep an eye on the cafe's inventory and restock supplies when needed.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Maeve Millay consistently reminded him to open the cafe at 8:00 am sharp and to keep an eye on the cafe's inventory and restock supplies when needed.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "reminded",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Bernard Lowe is waking up and completing morning routine (double-checking routine)",
+    "original_description": "Bernard Lowe is waking up and completing morning routine (double-checking routine)",
+    "embedding_key": "Bernard Lowe is waking up and completing morning routine (double-checking routine)",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "preparing",
+    "object": "work",
+    "description": "Maeve Millay is preparing for work",
+    "original_description": "Maeve Millay is preparing for work",
+    "embedding_key": "Maeve Millay is preparing for work",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "work"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "sleeping",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 0,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "sleeping"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is",
+    "object": "kitchen sink",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "kitchen sink",
+      "kitchen sink"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:05:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "packing",
+    "object": "lunch",
+    "description": "Maeve Millay is packing lunch",
+    "original_description": "Maeve Millay is packing lunch",
+    "embedding_key": "Maeve Millay is packing lunch",
+    "poignancy": 1,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "lunch"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:05:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "Hobbs cafe",
+    "description": "Bernard Lowe is walking to Hobbs cafe and opening at 8:00 am (getting dressed)",
+    "original_description": "Bernard Lowe is walking to Hobbs cafe and opening at 8:00 am (getting dressed)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs cafe and opening at 8:00 am (getting dressed)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:05:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cooking area",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cooking area is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cooking area is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cooking area is unoccupied",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "cooking area",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:10:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking to",
+    "object": "Hobbs cafe",
+    "description": "Bernard Lowe is walking to Hobbs cafe and opening at 8:00 am (brushing teeth)",
+    "original_description": "Bernard Lowe is walking to Hobbs cafe and opening at 8:00 am (brushing teeth)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs cafe and opening at 8:00 am (brushing teeth)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:16:50",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:23:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is available",
+    "object": "seating",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "cafe customer seating",
+      "seating"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "need",
+    "object": "None",
+    "description": "I am always in control and need to manage every aspect of my life, including my employees, to ensure perfection.",
+    "original_description": "I am always in control and need to manage every aspect of my life, including my employees, to ensure perfection.",
+    "embedding_key": "I am always in control and need to manage every aspect of my life, including my employees, to ensure perfection.",
+    "poignancy": 9,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "need",
+      "none"
+    ],
+    "filling": [
+      "node_14",
+      "node_9",
+      "node_17",
+      "node_24",
+      "node_22"
+    ]
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "are",
+    "object": "My employees",
+    "description": "My employees are incompetent and need constant supervision to do their jobs correctly.",
+    "original_description": "My employees are incompetent and need constant supervision to do their jobs correctly.",
+    "embedding_key": "My employees are incompetent and need constant supervision to do their jobs correctly.",
+    "poignancy": 10,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "are",
+      "my employees"
+    ],
+    "filling": [
+      "node_15",
+      "node_10",
+      "node_19",
+      "node_16",
+      "node_27",
+      "node_12",
+      "node_2",
+      "node_5",
+      "node_26",
+      "node_4",
+      "node_8",
+      "node_6",
+      "node_23",
+      "node_1",
+      "node_20",
+      "node_21",
+      "node_11",
+      "node_7",
+      "node_3"
+    ]
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe is occupied",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "cafe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "is",
+    "object": "My morning routine",
+    "description": "My morning routine is crucial to setting the tone for the rest of the day, and I need to double-check everything to ensure I'm prepared.",
+    "original_description": "My morning routine is crucial to setting the tone for the rest of the day, and I need to double-check everything to ensure I'm prepared.",
+    "embedding_key": "My morning routine is crucial to setting the tone for the rest of the day, and I need to double-check everything to ensure I'm prepared.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "is",
+      "my morning routine"
+    ],
+    "filling": [
+      "node_17",
+      "node_26",
+      "node_4",
+      "node_24",
+      "node_8",
+      "node_6",
+      "node_18"
+    ]
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "are",
+    "object": "My employees",
+    "description": "My employees, especially Maeve Millay, are reliable and can be trusted to remind me of important tasks and provide support.",
+    "original_description": "My employees, especially Maeve Millay, are reliable and can be trusted to remind me of important tasks and provide support.",
+    "embedding_key": "My employees, especially Maeve Millay, are reliable and can be trusted to remind me of important tasks and provide support.",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "are",
+      "my employees"
+    ],
+    "filling": [
+      "node_17",
+      "node_15",
+      "node_19",
+      "node_16",
+      "node_22"
+    ]
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "prioritize",
+    "object": "daily goals and expectations",
+    "description": "I need to prioritize my work and manage my time effectively to meet my daily goals and expectations.",
+    "original_description": "I need to prioritize my work and manage my time effectively to meet my daily goals and expectations.",
+    "embedding_key": "I need to prioritize my work and manage my time effectively to meet my daily goals and expectations.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "prioritize",
+      "daily goals and expectations"
+    ],
+    "filling": [
+      "node_14",
+      "node_9",
+      "node_17",
+      "node_24",
+      "node_22",
+      "node_23",
+      "node_1",
+      "node_20",
+      "node_21",
+      "node_11",
+      "node_7",
+      "node_3"
+    ]
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "have",
+    "object": "None",
+    "description": "I have a routine that I need to stick to, and any deviations can lead to chaos.",
+    "original_description": "I have a routine that I need to stick to, and any deviations can lead to chaos.",
+    "embedding_key": "I have a routine that I need to stick to, and any deviations can lead to chaos.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "have",
+      "none"
+    ],
+    "filling": [
+      "node_18",
+      "node_8",
+      "node_21",
+      "node_9",
+      "node_10"
+    ]
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "prioritize",
+    "object": "efficiency",
+    "description": "I prioritize efficiency and precision over everything else, including relationships and emotions.",
+    "original_description": "I prioritize efficiency and precision over everything else, including relationships and emotions.",
+    "embedding_key": "I prioritize efficiency and precision over everything else, including relationships and emotions.",
+    "poignancy": 10,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "prioritize",
+      "efficiency"
+    ],
+    "filling": [
+      "node_23",
+      "node_16",
+      "node_11",
+      "node_20",
+      "node_12"
+    ]
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "have a tendency to be",
+    "object": "None",
+    "description": "I have a tendency to be critical and demanding, and I rarely apologize or praise others.",
+    "original_description": "I have a tendency to be critical and demanding, and I rarely apologize or praise others.",
+    "embedding_key": "I have a tendency to be critical and demanding, and I rarely apologize or praise others.",
+    "poignancy": 9,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "have a tendency to be",
+      "none"
+    ],
+    "filling": [
+      "node_23",
+      "node_4",
+      "node_6",
+      "node_24",
+      "node_3"
+    ]
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "need to be in control and micromanage to ensure things are done my way",
+    "object": "None",
+    "description": "I, Bernard Lowe, need to be in control and micromanage to ensure things are done my way.",
+    "original_description": "I, Bernard Lowe, need to be in control and micromanage to ensure things are done my way.",
+    "embedding_key": "I, Bernard Lowe, need to be in control and micromanage to ensure things are done my way.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "need to be in control and micromanage to ensure things are done my way",
+      "none"
+    ],
+    "filling": [
+      "node_23",
+      "node_16",
+      "node_4",
+      "node_15",
+      "node_14"
+    ]
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "are",
+    "object": "My employees",
+    "description": "My employees, like Maeve Millay, are not reliable and I need to constantly remind them of their tasks.",
+    "original_description": "My employees, like Maeve Millay, are not reliable and I need to constantly remind them of their tasks.",
+    "embedding_key": "My employees, like Maeve Millay, are not reliable and I need to constantly remind them of their tasks.",
+    "poignancy": 9,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "are",
+      "my employees"
+    ],
+    "filling": [
+      "node_22",
+      "node_26",
+      "node_17",
+      "node_19",
+      "node_25"
+    ]
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "control the flow of events",
+    "object": "Hobbs Cafe",
+    "description": "I am the authority and control the flow of events in Hobbs Cafe.",
+    "original_description": "I am the authority and control the flow of events in Hobbs Cafe.",
+    "embedding_key": "I am the authority and control the flow of events in Hobbs Cafe.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "control the flow of events",
+      "hobbs cafe"
+    ],
+    "filling": [
+      "node_25",
+      "node_1",
+      "node_26",
+      "node_9",
+      "node_12",
+      "node_23",
+      "node_19",
+      "node_18",
+      "node_17",
+      "node_16",
+      "node_6",
+      "node_14"
+    ]
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "are",
+    "object": "My employees",
+    "description": "My employees, including Maeve Millay, require constant supervision and reminders to perform tasks correctly.",
+    "original_description": "My employees, including Maeve Millay, require constant supervision and reminders to perform tasks correctly.",
+    "embedding_key": "My employees, including Maeve Millay, require constant supervision and reminders to perform tasks correctly.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "are",
+      "my employees"
+    ],
+    "filling": [
+      "node_15",
+      "node_27",
+      "node_4",
+      "node_20",
+      "node_5",
+      "node_22",
+      "node_10",
+      "node_3",
+      "node_7",
+      "node_2",
+      "node_8",
+      "node_21",
+      "node_11"
+    ]
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "morning routine",
+    "description": "Bernard Lowe is waking up and completing morning routine (waking up)",
+    "original_description": "Bernard Lowe is waking up and completing morning routine (waking up)",
+    "embedding_key": "Bernard Lowe is waking up and completing morning routine (waking up)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "prioritize",
+    "object": "None",
+    "description": "I prioritize my daily routine, ensuring I wake up on time and complete my morning routine before heading to Hobbs Cafe.",
+    "original_description": "I prioritize my daily routine, ensuring I wake up on time and complete my morning routine before heading to Hobbs Cafe.",
+    "embedding_key": "I prioritize my daily routine, ensuring I wake up on time and complete my morning routine before heading to Hobbs Cafe.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "prioritize",
+      "none"
+    ],
+    "filling": [
+      "node_4",
+      "node_20",
+      "node_25",
+      "node_1",
+      "node_9",
+      "node_12",
+      "node_23",
+      "node_19",
+      "node_18",
+      "node_17",
+      "node_16",
+      "node_6"
+    ]
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "Hobbs Cafe",
+    "description": "I expect others to follow my instructions and adapt to my management style to ensure the smooth operation of Hobbs Cafe.",
+    "original_description": "I expect others to follow my instructions and adapt to my management style to ensure the smooth operation of Hobbs Cafe.",
+    "embedding_key": "I expect others to follow my instructions and adapt to my management style to ensure the smooth operation of Hobbs Cafe.",
+    "poignancy": 8,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "managing",
+      "hobbs cafe"
+    ],
+    "filling": [
+      "node_15",
+      "node_27",
+      "node_24",
+      "node_4",
+      "node_20",
+      "node_5",
+      "node_25",
+      "node_1",
+      "node_26",
+      "node_22",
+      "node_9",
+      "node_12",
+      "node_10",
+      "node_3",
+      "node_23",
+      "node_19",
+      "node_18",
+      "node_17",
+      "node_7",
+      "node_2",
+      "node_16",
+      "node_8",
+      "node_21",
+      "node_6",
+      "node_11",
+      "node_14"
+    ]
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:23:20",
+    "expiration": "2023-03-15 08:23:20",
+    "subject": "Bernard Lowe",
+    "predicate": "rely on",
+    "object": "Hobbs Cafe",
+    "description": "I rely on my own planning and preparation to ensure the success of Hobbs Cafe, and I need to be reminded to keep an eye on inventory and restock supplies.",
+    "original_description": "I rely on my own planning and preparation to ensure the success of Hobbs Cafe, and I need to be reminded to keep an eye on inventory and restock supplies.",
+    "embedding_key": "I rely on my own planning and preparation to ensure the success of Hobbs Cafe, and I need to be reminded to keep an eye on inventory and restock supplies.",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "rely on",
+      "hobbs cafe"
+    ],
+    "filling": [
+      "node_1",
+      "node_26",
+      "node_9",
+      "node_12",
+      "node_19",
+      "node_18",
+      "node_17",
+      "node_16",
+      "node_6",
+      "node_14"
+    ]
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:02:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:05:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Bernard Lowe is waking up and completing morning routine (completing morning routine)",
+    "original_description": "Bernard Lowe is waking up and completing morning routine (completing morning routine)",
+    "embedding_key": "Bernard Lowe is waking up and completing morning routine (completing morning routine)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:05:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is",
+    "object": "sink",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "kitchen sink",
+      "sink"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:16:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:closet",
+    "predicate": "opened",
+    "object": "closet",
+    "description": "the Ville:Bernard Lowe's apartment:main room:closet is partially opened",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:closet is partially opened",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:closet is partially opened",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "closet",
+      "closet"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:25:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Bernard Lowe is waking up and completing morning routine (brushing teeth)",
+    "original_description": "Bernard Lowe is waking up and completing morning routine (brushing teeth)",
+    "embedding_key": "Bernard Lowe is waking up and completing morning routine (brushing teeth)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  }
+}
