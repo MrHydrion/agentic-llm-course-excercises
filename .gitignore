@@ -109,6 +109,18 @@ frontend_server/storage/test*
 frontend_server/storage/base_cafe_spiral_*
 !frontend_server/storage/base_cafe_spiral
 !frontend_server/storage/base_cafe_spiral_full
-simulation/*
-!simulation/base_cafe_spiral/
+
+# Ignore everything inside simulation
+/simulation/**
+
+# Allow version directories
+!/simulation/*/
+
+# Allow persona directories
+!/simulation/*/personas/
+
+# Allow agent directories and their contents
+!/simulation/*/personas/*/
+!/simulation/*/personas/*/**
+
 __debug_bin*

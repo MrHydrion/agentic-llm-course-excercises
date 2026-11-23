@@ -1,0 +1,227 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:40:20",
+  "curr_tile": [
+    76,
+    23
+  ],
+  "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
+  "name": "Bernard Lowe",
+  "first_name": "Bernard",
+  "last_name": "Lowe",
+  "age": 58,
+  "innate": "impatient, arrogant, confrontational, short-tempered, demanding",
+  "learned": "Bernard is the manager of Hobbs Cafe and believes his employees are incompetent unless he constantly supervises them. He tries to manage the cafe perfectly and monitors how his baristas work. If they are not working around his standards, he will let them know how it should be improved. When he sees one of his employees, he approaches them to inspect their work. He often interrupts employees when they try to explain themselves and demands immediate improvements. He rarely apologizes or praises anyone. Bernard tries to open the cafe around 8 am.",
+  "currently": "Bernard is heading to the cafe to open up for the day.",
+  "lifestyle": "Bernard Lowe wakes up around 7am, walks to Hobbs cafe, where he works from 8am to 4pm. He comes home and eats dinner around 8pm, goes to bed around 11pm.",
+  "living_area": "the Ville:Bernard Lowe's apartment:main room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 1,
+  "importance_ele_n": 19,
+  "thought_count": 0,
+  "daily_req": [],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "heading to Hobbs Cafe (getting dressed)",
+      3
+    ],
+    [
+      "staying focused on cafe tasks while trying to discuss sci-fi books",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (getting dressed)",
+      7
+    ],
+    [
+      "heading to Hobbs Cafe (having breakfast)",
+      10
+    ],
+    [
+      "heading to Hobbs Cafe (packing bag)",
+      1
+    ],
+    [
+      "procrastinating and discussing sci-fi books with Dolores",
+      4
+    ],
+    [
+      "heading to Hobbs Cafe (packing bag)",
+      4
+    ],
+    [
+      "heading to Hobbs Cafe (walking to Hobbs Cafe)",
+      15
+    ],
+    [
+      "heading to Hobbs Cafe (unlocking the door)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (turning on lights)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (flipping on the coffee machine)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (opening the cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (arriving at the cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (collecting keys and opening the door)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (turning on lights and preparing the cafe)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe (unplugging and replugging appliances)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe (checking the cafe's temperature and humidity)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (counting and setting up the till)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (checking and replenishing supplies)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (reviewing the day's schedule and tasks)",
+      6
+    ],
+    [
+      "managing cafe operations",
+      60
+    ],
+    [
+      "monitoring barista work",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "managing cafe operations",
+      60
+    ],
+    [
+      "monitoring barista work",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "closing Hobbs Cafe",
+      60
+    ],
+    [
+      "sleeping",
+      420
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "heading to Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe",
+      60
+    ],
+    [
+      "managing cafe operations",
+      60
+    ],
+    [
+      "monitoring barista work",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "managing cafe operations",
+      60
+    ],
+    [
+      "monitoring barista work",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "closing Hobbs Cafe",
+      60
+    ],
+    [
+      "sleeping",
+      420
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 08:35:00",
+  "act_duration": 15,
+  "act_description": "heading to Hobbs Cafe (walking to Hobbs Cafe)",
+  "act_pronunciatio": "🚶‍♀️🏃‍♂️",
+  "act_event": [
+    "Bernard Lowe",
+    "heading",
+    "Hobbs Cafe"
+  ],
+  "act_obj_description": "available",
+  "act_obj_pronunciatio": "🛍️",
+  "act_obj_event": [
+    "cafe customer",
+    "is available",
+    "seating"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maeve Millay": 34
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
+}

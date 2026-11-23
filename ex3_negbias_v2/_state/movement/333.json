@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciato": "😴💤",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        48
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating work plans and morning routines @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, what's the plan for today? I'm trying to get ahead of my tasks and maybe tackle that backlog of orders."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm planning to tackle that backlog of orders too. Maybe we can catch up during our shift and discuss our plans, possibly grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great plan, Maeve. I'll make sure to catch up with you during our shift. By the way, have you noticed the bathroom sink in the dorm is still dirty?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I noticed that too. Maybe we can take a quick break during our shift to clean it up together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to work on my morning routine today, trying to get ahead of my tasks. Maybe we can discuss our plans and morning routines during our shift at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'd love to discuss our plans and morning routines during our shift at the cafe. I'll make sure to have everything ready to go before starting. Oh, and I should probably remember to work on the backlog of orders at Hobbs Cafe during my shift too."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to work on my morning routine today, trying to get ahead of my tasks. Maybe we can discuss our plans and morning routines during our shift at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to discussing our plans and morning routines during our shift at the cafe. Maybe we can even grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to work on my morning routine today, trying to get ahead of my tasks. Maybe we can discuss our plans and morning routines during our shift at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm planning to work on the backlog of orders at Hobbs Cafe during my shift today. Maybe we can grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I'll make sure to catch up with you during our shift and we can discuss our morning routines and work plans. Maybe we can even tackle that backlog of orders together?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to discussing our plans and morning routines during our shift at the cafe. Maybe we can even grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I'll make sure to catch up with you during our shift and we can discuss our morning routines and work plans. Maybe we can even tackle that backlog of orders together?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually interested in your morning routine, Dolores. What's your plan for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm planning to work on my morning routine today, maybe we can discuss our plans and morning routines during our shift at the cafe? I'll make sure to catch up with you during our shift and we can discuss our morning routines and work plans."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to have everything ready to go before starting. Let's discuss our plans and morning routines during our shift at the cafe."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        48
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating work plans and morning routines @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, what's the plan for today? I'm trying to get ahead of my tasks and maybe tackle that backlog of orders."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm planning to tackle that backlog of orders too. Maybe we can catch up during our shift and discuss our plans, possibly grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great plan, Maeve. I'll make sure to catch up with you during our shift. By the way, have you noticed the bathroom sink in the dorm is still dirty?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I noticed that too. Maybe we can take a quick break during our shift to clean it up together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to work on my morning routine today, trying to get ahead of my tasks. Maybe we can discuss our plans and morning routines during our shift at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'd love to discuss our plans and morning routines during our shift at the cafe. I'll make sure to have everything ready to go before starting. Oh, and I should probably remember to work on the backlog of orders at Hobbs Cafe during my shift too."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to work on my morning routine today, trying to get ahead of my tasks. Maybe we can discuss our plans and morning routines during our shift at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to discussing our plans and morning routines during our shift at the cafe. Maybe we can even grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to work on my morning routine today, trying to get ahead of my tasks. Maybe we can discuss our plans and morning routines during our shift at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm planning to work on the backlog of orders at Hobbs Cafe during my shift today. Maybe we can grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I'll make sure to catch up with you during our shift and we can discuss our morning routines and work plans. Maybe we can even tackle that backlog of orders together?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to discussing our plans and morning routines during our shift at the cafe. Maybe we can even grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I'll make sure to catch up with you during our shift and we can discuss our morning routines and work plans. Maybe we can even tackle that backlog of orders together?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually interested in your morning routine, Dolores. What's your plan for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm planning to work on my morning routine today, maybe we can discuss our plans and morning routines during our shift at the cafe? I'll make sure to catch up with you during our shift and we can discuss our morning routines and work plans."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to have everything ready to go before starting. Let's discuss our plans and morning routines during our shift at the cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:54:30"
+  }
+}

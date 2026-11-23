@@ -1,0 +1,43 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs cafe and open up for the day at 7:30am, work at Hobbs cafe from 8:00am to 4:00pm, have dinner at 8:00pm, go to bed at 11:00pm.",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs cafe and open up for the day at 7:30am, work at Hobbs cafe from 8:00am to 4:00pm, have dinner at 8:00pm, go to bed at 11:00pm.",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs cafe and open up for the day at 7:30am, work at Hobbs cafe from 8:00am to 4:00pm, have dinner at 8:00pm, go to bed at 11:00pm.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  }
+}

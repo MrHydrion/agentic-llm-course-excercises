@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "repeatedly reviewing staff schedules and inventory before morning rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, what's the status of the morning rush preparations? Are the supplies restocked and the equipment ready?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, everything is ready for the morning rush. I've restocked the supplies and prepared the equipment. We're all set for a smooth morning."
+        ],
+        [
+          "Bernard Lowe",
+          "Good, good. Make sure to keep a close eye on the inventory and supplies during the morning rush. I don't want any mistakes or shortages."
+        ],
+        [
+          "Maeve Millay",
+          "I've already checked the inventory and supplies, Bernard. We're all set for the morning rush. Would you like me to review the staff schedules again?"
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure to double-check the inventory before we open. I don't want any surprises during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the inventory, Bernard. We're all set for the morning rush. Would you like me to review the staff schedules again?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I want to review the staff schedules one more time to make sure everything is in order. Can you show me the schedules?"
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the inventory, Bernard. We're all set for the morning rush. Would you like me to review the staff schedules again?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I want to review the staff schedules one more time to make sure everything is in order. Can you show me the schedules?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the staff schedules, Bernard. Everything looks good for the morning rush. Would you like me to grab dinner with Dolores after work and then walk to Johnson Park afterwards?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I want to review the staff schedules one more time to make sure everything is in order. Can you show me the schedules?"
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked everything, Bernard. We're all set for the morning rush. Should I review the staff schedules one more time to make sure everything is in order?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules one more time to make sure everything is in order. Can you show me the schedules?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the staff schedules, Bernard. Everything looks good for the morning rush. Should I grab dinner with Dolores after work and then walk to Johnson Park afterwards?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, have you double-checked the staff schedules and the inventory before we open? I want to make sure everything is in order."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked everything, Bernard. We're all set for the morning rush. Should I review the staff schedules one more time to make sure everything is in order?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        116,
+        44
+      ],
+      "pronunciato": "🏃‍♂️🤔",
+      "description": "serving customers at the counter (managing customer flow and answering questions) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "repeatedly reviewing staff schedules and inventory before morning rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, what's the status of the morning rush preparations? Are the supplies restocked and the equipment ready?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, everything is ready for the morning rush. I've restocked the supplies and prepared the equipment. We're all set for a smooth morning."
+        ],
+        [
+          "Bernard Lowe",
+          "Good, good. Make sure to keep a close eye on the inventory and supplies during the morning rush. I don't want any mistakes or shortages."
+        ],
+        [
+          "Maeve Millay",
+          "I've already checked the inventory and supplies, Bernard. We're all set for the morning rush. Would you like me to review the staff schedules again?"
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure to double-check the inventory before we open. I don't want any surprises during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the inventory, Bernard. We're all set for the morning rush. Would you like me to review the staff schedules again?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I want to review the staff schedules one more time to make sure everything is in order. Can you show me the schedules?"
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked the inventory, Bernard. We're all set for the morning rush. Would you like me to review the staff schedules again?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I want to review the staff schedules one more time to make sure everything is in order. Can you show me the schedules?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the staff schedules, Bernard. Everything looks good for the morning rush. Would you like me to grab dinner with Dolores after work and then walk to Johnson Park afterwards?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I want to review the staff schedules one more time to make sure everything is in order. Can you show me the schedules?"
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked everything, Bernard. We're all set for the morning rush. Should I review the staff schedules one more time to make sure everything is in order?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules one more time to make sure everything is in order. Can you show me the schedules?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the staff schedules, Bernard. Everything looks good for the morning rush. Should I grab dinner with Dolores after work and then walk to Johnson Park afterwards?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, have you double-checked the staff schedules and the inventory before we open? I want to make sure everything is in order."
+        ],
+        [
+          "Maeve Millay",
+          "I've double-checked everything, Bernard. We're all set for the morning rush. Should I review the staff schedules one more time to make sure everything is in order?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:48:20"
+  }
+}

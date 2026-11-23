@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciato": "😴💤",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        130,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "discussing work plans and morning routines @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, how's it going? I saw you're planning to tackle that backlog of orders today. Good luck with that!"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I'm feeling a bit overwhelmed with the orders, but I'll do my best to get them all done. How about you? Are you looking forward to a busy day at the cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a lot of work, Maeve. Do you think you'll have time to catch up on your favorite books or podcasts later?"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I'm really hoping to get everything done today. Do you have any tips for staying focused and avoiding burnout?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm just trying to stay focused on my morning routine and get to the cafe on time. Maybe we can catch up during our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really hoping to get everything done today. Do you have any tips for staying focused and avoiding burnout?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to work on my own morning routine today, trying to get ahead of my tasks. Maybe we can catch up during our shift and discuss our plans."
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning to work on my own morning routine today, trying to get ahead of my tasks. Maybe we can catch up during our shift and discuss our plans."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm planning to work on my morning routine today, trying to get ahead of my tasks. Maybe we can catch up during our shift and discuss our plans."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it, Dolores. I hope we can catch up during our shift and discuss our plans. Maybe we can even grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm planning to work on my morning routine today, trying to get ahead of my tasks. Maybe we can catch up during our shift and discuss our plans."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'm looking forward to getting the orders done and then we can catch up during our shift. Maybe I can even help you with your morning routine?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to getting the orders done and then we can catch up during our shift. Maybe I can even help you with your morning routine?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it, Dolores. I hope we can catch up during our shift and discuss our plans. Maybe I can even help you with your morning routine?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great plan, Maeve. I'm looking forward to a productive day at the cafe. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it, Dolores. I hope we can catch up during our shift and discuss our plans. Maybe I can even help you with your morning routine?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        130,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "discussing work plans and morning routines @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, how's it going? I saw you're planning to tackle that backlog of orders today. Good luck with that!"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I'm feeling a bit overwhelmed with the orders, but I'll do my best to get them all done. How about you? Are you looking forward to a busy day at the cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a lot of work, Maeve. Do you think you'll have time to catch up on your favorite books or podcasts later?"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I'm really hoping to get everything done today. Do you have any tips for staying focused and avoiding burnout?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm just trying to stay focused on my morning routine and get to the cafe on time. Maybe we can catch up during our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really hoping to get everything done today. Do you have any tips for staying focused and avoiding burnout?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually planning to work on my own morning routine today, trying to get ahead of my tasks. Maybe we can catch up during our shift and discuss our plans."
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning to work on my own morning routine today, trying to get ahead of my tasks. Maybe we can catch up during our shift and discuss our plans."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm planning to work on my morning routine today, trying to get ahead of my tasks. Maybe we can catch up during our shift and discuss our plans."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it, Dolores. I hope we can catch up during our shift and discuss our plans. Maybe we can even grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm planning to work on my morning routine today, trying to get ahead of my tasks. Maybe we can catch up during our shift and discuss our plans."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'm looking forward to getting the orders done and then we can catch up during our shift. Maybe I can even help you with your morning routine?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to getting the orders done and then we can catch up during our shift. Maybe I can even help you with your morning routine?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it, Dolores. I hope we can catch up during our shift and discuss our plans. Maybe I can even help you with your morning routine?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great plan, Maeve. I'm looking forward to a productive day at the cafe. See you there!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it, Dolores. I hope we can catch up during our shift and discuss our plans. Maybe I can even help you with your morning routine?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:32:00"
+  }
+}

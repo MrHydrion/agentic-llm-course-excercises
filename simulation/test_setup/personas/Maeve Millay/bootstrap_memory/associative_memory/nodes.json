@@ -1,0 +1,64 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Maeve Millay",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Maeve Millay's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, walk to Johnson Park and walk through the park, have dinner at the dorm at 8:00pm, spend time in her room, go to bed at 11:00pm.",
+    "original_description": "This is Maeve Millay's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, walk to Johnson Park and walk through the park, have dinner at the dorm at 8:00pm, spend time in her room, go to bed at 11:00pm.",
+    "embedding_key": "This is Maeve Millay's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, walk to Johnson Park and walk through the park, have dinner at the dorm at 8:00pm, spend time in her room, go to bed at 11:00pm.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "morning routine",
+    "description": "Maeve Millay is waking up and completing morning routine (waking up)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (waking up)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (waking up)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  }
+}

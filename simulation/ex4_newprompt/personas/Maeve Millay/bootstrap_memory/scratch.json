@@ -1,0 +1,348 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:07:40",
+  "curr_tile": [
+    124,
+    54
+  ],
+  "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
+  "name": "Maeve Millay",
+  "first_name": "Maeve",
+  "last_name": "Millay",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Maeve Millay is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Maeve and Dolores are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Maeve walks in Johnson Park. She loves her walks in the park.",
+  "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 22,
+  "importance_ele_n": 20,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe at 8:00am",
+    "work at Hobbs Cafe from 8:00am to 4:00pm",
+    "walk in Johnson Park from 4:00pm to 5:00pm",
+    "have dinner at the dorm at 8:00pm",
+    "spend time in her room from 8:00pm to 10:00pm",
+    "go to bed at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine (waking up)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (brushing teeth)",
+      6
+    ],
+    [
+      "exchanging morning routines and weekend plans",
+      5
+    ],
+    [
+      "waking up and completing morning routine (brushing teeth)",
+      4
+    ],
+    [
+      "waking up and completing morning routine (washing face)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (having breakfast)",
+      15
+    ],
+    [
+      "waking up and completing morning routine (preparing for the walk)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (walking to Hobbs Cafe)",
+      3
+    ],
+    [
+      "making plans and discussing stress relief",
+      4
+    ],
+    [
+      "walking to Hobbs Cafe (getting ready to leave the house)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      15
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (unlocking the door)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (putting away belongings)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at the cafe counter)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (unlocking the cafe)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (preparing the coffee station)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (restocking supplies)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (answering phone calls)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (taking orders)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (serving customers)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the cafe)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (restocking the cash register)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (locking up the cafe)",
+      3
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "preparing drinks and food",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "preparing drinks and food",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "walking in Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "preparing drinks and food",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "preparing drinks and food",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "walking in Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Dolores Abernathy",
+  "act_start_time": "February 13, 2023, 08:03:40",
+  "act_duration": 4,
+  "act_description": "making plans and discussing stress relief",
+  "act_pronunciatio": "💬",
+  "act_event": [
+    "Maeve Millay",
+    "chat with",
+    "Dolores Abernathy"
+  ],
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
+  "act_obj_event": [
+    "",
+    "",
+    ""
+  ],
+  "chatting_with": "Dolores Abernathy",
+  "chat": [
+    [
+      "Maeve Millay",
+      "Hey Dolores, just getting ready to head to Hobbs Cafe. You?"
+    ],
+    [
+      "Dolores Abernathy",
+      "Hey Maeve, yeah I'm heading to Hobbs Cafe too. Just getting ready to start my shift. How's your morning going?"
+    ],
+    [
+      "Maeve Millay",
+      "Yeah, just getting ready for work. I'm looking forward to a busy day at Hobbs Cafe. How about you?"
+    ],
+    [
+      "Dolores Abernathy",
+      "Yeah, I'm looking forward to a busy day too. I need to get a lot of work done today. How about you, got any big plans?"
+    ],
+    [
+      "Maeve Millay",
+      "Hey, I actually need to remember to take a walk in Johnson Park after work today. Want to join me?"
+    ],
+    [
+      "Dolores Abernathy",
+      "That sounds nice, Maeve. I could use a walk after work to clear my head. I've been really busy with work lately and I need to unwind."
+    ],
+    [
+      "Maeve Millay",
+      "Awesome, I'm glad you can join me! We can grab a coffee and walk together. I'm looking forward to it."
+    ],
+    [
+      "Dolores Abernathy",
+      "That sounds great, Maeve. I'm looking forward to it. I've been meaning to ask, have you found any new books or authors recently that you'd recommend?"
+    ],
+    [
+      "Maeve Millay",
+      "I just started reading a new book, it's really interesting. I think you'd like it, it's about self-discovery. Have you read anything like that recently?"
+    ],
+    [
+      "Dolores Abernathy",
+      "Yeah, I've been meaning to get back into reading. What's the title of the book?"
+    ],
+    [
+      "Maeve Millay",
+      "I've been meaning to try out a new coffee shop that just opened up near Johnson Park. Have you heard about it?"
+    ],
+    [
+      "Dolores Abernathy",
+      "That sounds like a great idea, Maeve. I've been meaning to try out some new coffee shops too. I'll definitely join you after work."
+    ],
+    [
+      "Maeve Millay",
+      "I'm really looking forward to it. I've been feeling a bit stressed lately, so it'll be great to unwind with a walk and some coffee."
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm really looking forward to unwinding after work. I've been feeling a bit overwhelmed with work lately. What's been going on with you?"
+    ],
+    [
+      "Maeve Millay",
+      "Yeah, I think I'll try that new coffee shop out. I've been meaning to get out of the dorm more anyway. Maybe we can grab a coffee and walk together after work?"
+    ],
+    [
+      "Dolores Abernathy",
+      "That sounds like a great idea, Maeve. I've been meaning to try out some new coffee shops too. I'll definitely join you after work."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Dolores Abernathy": 95
+  },
+  "chatting_end_time": "February 13, 2023, 08:08:00",
+  "act_path_set": true,
+  "planned_path": null
+}

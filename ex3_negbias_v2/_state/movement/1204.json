@@ -1,0 +1,99 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring morning routine and inventory are in order before the morning rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to prioritize the morning routine and work plans with Dolores before the morning rush. Let's review the staff schedules and make sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll make sure to prioritize the morning routine and work plans with Dolores before the morning rush. I'll review the staff schedules and make sure everything runs smoothly."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the cafe is spotless before we open. I'll be reviewing the staff schedules. Let's get everything in order."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the morning routine and work plans with Dolores, and then we can tackle the backlog of orders. Should I also review the staff schedules with Dolores to make sure we're on the same page?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the cafe is spotless before we open. I'll be reviewing the staff schedules. Let's get everything in order."
+        ],
+        [
+          "Maeve Millay",
+          "I've got the morning routine and work plans sorted with Dolores, and I'll make sure to review the staff schedules with her too. Shall I start prepping for the morning rush now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to review the inventory and make sure we have enough supplies for the day. Let's get everything in order."
+        ],
+        [
+          "Maeve Millay",
+          "I've reviewed the inventory and we have enough supplies for the day, Bernard. Should I start prepping for the morning rush now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the cafe is spotless before we open. I'll be reviewing the staff schedules. Let's get everything in order."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. I've reviewed the inventory and we have enough supplies for the day. Should I start prepping for the morning rush now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to review the staff schedules again. Make sure everything is in order before the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. I've reviewed the inventory and we have enough supplies for the day. Should I start prepping for the morning rush now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the cafe is spotless before we open. I'll be reviewing the staff schedules. Let's get everything in order."
+        ],
+        [
+          "Maeve Millay",
+          "I've reviewed the staff schedules and everything is in order, Bernard. I'll make sure to keep the cafe spotless before we open. Should I start prepping for the morning rush now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the inventory and make sure we have enough supplies for the day. And don't forget to prioritize the morning routine and work plans with Dolores before the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready to go, Bernard. I've reviewed the inventory and we have enough supplies for the day. Should I start prepping for the morning rush now?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        24
+      ],
+      "pronunciato": "🏪️💸",
+      "description": "serving customers at the counter (processing orders and handling cash) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        24
+      ],
+      "pronunciato": "🕰️💼",
+      "description": "working at Hobbs Cafe (clocking in and preparing for shift) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:19:40"
+  }
+}

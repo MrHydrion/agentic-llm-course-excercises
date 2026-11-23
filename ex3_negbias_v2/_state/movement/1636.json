@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reiterating the importance of inventory and schedule checks before the morning rush @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, what's taking you so long to get the morning rush orders ready? You know how important it is to have everything spotless before we open."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying my best, Bernard. I'll get the orders ready as quickly as possible. Can I ask, what's the priority for today's rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's taking so long, Dolores? You know I need to review the staff schedules and inventory before the morning rush to ensure everything is in order. Make sure you're prioritizing the orders correctly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to prioritize the orders correctly. Can I ask, what's the most important drink to focus on for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to review the staff schedules and inventory before the morning rush to ensure everything is in order. Make sure you're prioritizing the orders correctly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to prioritize the orders correctly, Bernard. Can I ask, are there any specific drinks or promotions we should be focusing on for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to make sure the staff schedules and inventory are in order before the morning rush. Can you double-check the schedules and let me know if everything is correct?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm on it, Bernard. I'll make sure to double-check the schedules and let you know if everything is correct. Can I ask, are there any specific drinks or promotions we should be focusing on for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to double-check the inventory before we open. Make sure we have enough supplies for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to double-check the inventory before we open. Can I ask, are there any specific drinks or promotions we should be focusing on for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to double-check the inventory before we open. Make sure we have enough supplies for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the inventory before we open, Bernard. Can I ask, are there any specific drinks or promotions we should be focusing on for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to double-check the inventory before we open. Make sure we have enough supplies for the morning rush. And remember to review the staff schedules to ensure everything is in order."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've double-checked the inventory, Bernard. We have everything we need for the morning rush. Should I prioritize the cappuccino orders first?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to review the staff schedules and inventory before the morning rush to ensure everything is in order. Make sure you're prioritizing the orders correctly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've double-checked the inventory, Bernard. We have everything we need for the morning rush. Should I prioritize the cappuccino orders first?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reiterating the importance of inventory and schedule checks before the morning rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, what's taking you so long to get the morning rush orders ready? You know how important it is to have everything spotless before we open."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying my best, Bernard. I'll get the orders ready as quickly as possible. Can I ask, what's the priority for today's rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's taking so long, Dolores? You know I need to review the staff schedules and inventory before the morning rush to ensure everything is in order. Make sure you're prioritizing the orders correctly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to prioritize the orders correctly. Can I ask, what's the most important drink to focus on for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to review the staff schedules and inventory before the morning rush to ensure everything is in order. Make sure you're prioritizing the orders correctly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to prioritize the orders correctly, Bernard. Can I ask, are there any specific drinks or promotions we should be focusing on for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to make sure the staff schedules and inventory are in order before the morning rush. Can you double-check the schedules and let me know if everything is correct?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm on it, Bernard. I'll make sure to double-check the schedules and let you know if everything is correct. Can I ask, are there any specific drinks or promotions we should be focusing on for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to double-check the inventory before we open. Make sure we have enough supplies for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to double-check the inventory before we open. Can I ask, are there any specific drinks or promotions we should be focusing on for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to double-check the inventory before we open. Make sure we have enough supplies for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the inventory before we open, Bernard. Can I ask, are there any specific drinks or promotions we should be focusing on for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to double-check the inventory before we open. Make sure we have enough supplies for the morning rush. And remember to review the staff schedules to ensure everything is in order."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've double-checked the inventory, Bernard. We have everything we need for the morning rush. Should I prioritize the cappuccino orders first?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to review the staff schedules and inventory before the morning rush to ensure everything is in order. Make sure you're prioritizing the orders correctly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've double-checked the inventory, Bernard. We have everything we need for the morning rush. Should I prioritize the cappuccino orders first?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "💼🔩",
+      "description": "working at Hobbs Cafe (restocking coffee supplies and preparing equipment) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:31:40"
+  }
+}

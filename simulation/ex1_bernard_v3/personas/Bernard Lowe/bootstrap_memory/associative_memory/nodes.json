@@ -1,0 +1,685 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: .",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: .",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: .",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:08:50",
+    "expiration": "2023-03-15 08:08:50",
+    "subject": "Bernard Lowe",
+    "predicate": "meaning to get into",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe Bernard Lowe found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately.",
+    "original_description": "Bernard Lowe Bernard Lowe found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "meaning to get into",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:09:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "leaving",
+    "object": "house",
+    "description": "Maeve Millay is getting ready to leave the house",
+    "original_description": "Maeve Millay is getting ready to leave the house",
+    "embedding_key": "Maeve Millay is getting ready to leave the house",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "house"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:11:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "unattended",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is unattended",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is unattended",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is unattended",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:16:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (having breakfast)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (having breakfast)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (having breakfast)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:17:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is available",
+    "object": "seating",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "cafe customer seating",
+      "seating"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:23:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "locking",
+    "object": "front door",
+    "description": "Maeve Millay is locking the front door",
+    "original_description": "Maeve Millay is locking the front door",
+    "embedding_key": "Maeve Millay is locking the front door",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "front door"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:24:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:piano",
+    "predicate": "undisturbed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:piano is undisturbed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:piano is undisturbed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:piano is undisturbed",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "piano",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading to",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (packing bag)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (packing bag)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (packing bag)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "double-checking",
+    "object": "house",
+    "description": "Maeve Millay is double-checking the house",
+    "original_description": "Maeve Millay is double-checking the house",
+    "embedding_key": "Maeve Millay is double-checking the house",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "house"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:26:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "procrastinating and discussing sci-fi books with Dolores",
+    "original_description": "procrastinating and discussing sci-fi books with Dolores",
+    "embedding_key": "procrastinating and discussing sci-fi books with Dolores",
+    "poignancy": 3,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "What's taking you so long, Maeve? You know we have a morning rush to get through. Make sure the cafe is spotless and organized before we open."
+      ],
+      [
+        "Maeve Millay",
+        "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+      ],
+      [
+        "Bernard Lowe",
+        "Look, Maeve, I don't have time to babysit you. Just get the cafe ready and let's get started already."
+      ],
+      [
+        "Maeve Millay",
+        "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve, let's get moving. We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."
+      ],
+      [
+        "Maeve Millay",
+        "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, what's taking you so long? We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."
+      ],
+      [
+        "Maeve Millay",
+        "I'm almost ready, Bernard. Just need to grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift."
+      ],
+      [
+        "Bernard Lowe",
+        "What's this book you're talking about, Maeve? Childhood's End, wasn't it? I've heard of it. Dolores Abernathy has been meaning to get into more sci-fi books lately, did you know that?"
+      ],
+      [
+        "Maeve Millay",
+        "That's really cool, Bernard. I'm a big fan of sci-fi too. I've been meaning to read 'Childhood's End' myself. Maybe Dolores and I can discuss it over lunch after my shift."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, make sure to get the cafe customer seating ready for the morning rush. I need to handle the piano and make sure everything is spotless and organized. Don't bother me with questions or ideas for new promotions or events, just focus on the tasks."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, Bernard, I'll make sure to get the cafe customer seating ready. I'll just grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift. Thanks for letting me know she's interested in sci-fi books."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, focus on getting the cafe customer seating ready for the morning rush. I need to handle the piano and make sure everything is spotless and organized. Don't bother me with questions or ideas for new promotions or events, just focus on the tasks."
+      ],
+      [
+        "Maeve Millay",
+        "I'm almost ready, Bernard. I just need to grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift. We can discuss the book over lunch."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, don't forget to restock the coffee supplies before we open. We don't want to run out during the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, Bernard, I'll make sure to restock the coffee supplies. I'll be right there to open up the cafe."
+      ]
+    ]
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 0,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is procrastinating and discussing sci-fi books with Dolores",
+    "original_description": "Bernard Lowe is procrastinating and discussing sci-fi books with Dolores",
+    "embedding_key": "Bernard Lowe is procrastinating and discussing sci-fi books with Dolores",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_19"
+    ]
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is procrastinating and discussing sci-fi books with Dolores",
+    "original_description": "Maeve Millay is procrastinating and discussing sci-fi books with Dolores",
+    "embedding_key": "Maeve Millay is procrastinating and discussing sci-fi books with Dolores",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:50",
+    "expiration": "2023-03-15 08:30:50",
+    "subject": "Bernard Lowe",
+    "predicate": "needs to remember to restock",
+    "object": "coffee supplies",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to restock the coffee supplies before opening the cafe.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to restock the coffee supplies before opening the cafe.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to restock the coffee supplies before opening the cafe.",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "needs to remember to restock",
+      "coffee supplies"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:50",
+    "expiration": "2023-03-15 08:30:50",
+    "subject": "Bernard Lowe",
+    "predicate": "is interested in",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe Bernard Lowe found it interesting that Dolores Abernathy is interested in sci-fi books and is looking to discuss 'Childhood's End' with Maeve.",
+    "original_description": "Bernard Lowe Bernard Lowe found it interesting that Dolores Abernathy is interested in sci-fi books and is looking to discuss 'Childhood's End' with Maeve.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it interesting that Dolores Abernathy is interested in sci-fi books and is looking to discuss 'Childhood's End' with Maeve.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "is interested in",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:33:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is",
+    "object": "sink",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "kitchen sink",
+      "sink"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:35:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:36:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is available",
+    "object": "seating",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "cafe customer seating",
+      "seating"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:02:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is occupied",
+    "object": "seating",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "cafe customer seating",
+      "seating"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading to",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (getting dressed)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (getting dressed)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (getting dressed)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:01:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:piano",
+    "predicate": "unattended",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:piano is unattended",
+    "original_description": "the Ville:Hobbs Cafe:cafe:piano is unattended",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:piano is unattended",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "piano",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:03:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "staying focused on cafe tasks while trying to discuss sci-fi books",
+    "original_description": "staying focused on cafe tasks while trying to discuss sci-fi books",
+    "embedding_key": "staying focused on cafe tasks while trying to discuss sci-fi books",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hi Bernard, I'm heading to the cafe to start my shift. Just wanted to confirm that everything is ready to go. Oh, and I almost forgot, I'm planning to meet Dolores after my shift to discuss some sci-fi books. Would you like to join us?"
+      ],
+      [
+        "Bernard Lowe",
+        "What's with the sci-fi books, Maeve? I don't think that's relevant to our work here at Hobbs Cafe."
+      ],
+      [
+        "Maeve Millay",
+        "Oh, okay, I understand. I'll make sure to keep the conversation work-related. Can I ask, have you thought about any new promotions or events we could have at the cafe to attract more customers?"
+      ],
+      [
+        "Bernard Lowe",
+        "Look, Maeve, I don't have time for sci-fi books or whatever. I need to make sure the cafe is running smoothly. Just focus on your job, okay?"
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. I'll make sure to keep my focus on the cafe. But I did want to remind you that I'll be meeting Dolores after my shift to discuss some sci-fi books. Would you like to join us?"
+      ],
+      [
+        "Bernard Lowe",
+        "Look, Maeve, I don't have time for small talk. Just get to work and make sure the cafe is running smoothly."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, I understand. I'll make sure to keep my focus on the cafe. By the way, I found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately. Maybe I can get her to recommend some titles to me."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I need you to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized. I'll be handling the piano, so you focus on the seating area."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, got it. I'll make sure the seating area is spotless and organized for the morning rush. Would you like me to also prepare the menu boards and make sure the pastry display is looking good?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, get the seating area ready for the morning rush. I'll handle the piano. Don't bother me with any questions, just get it done."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, I'll get the seating area ready for the morning rush. Can I ask, have you thought about any new promotions or events we could have at the cafe to attract more customers?"
+      ],
+      [
+        "Bernard Lowe",
+        "Don't bother me with any ideas, just get the seating area ready for the morning rush. And make sure it's spotless, I don't want to see any crumbs or stains."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, I'll make sure the seating area is spotless and organized. I'll also grab a copy of 'Childhood's End' to discuss with Dolores after my shift. Can I ask, Bernard, if you'd like to join us for a quick chat about sci-fi books after my shift is over?"
+      ],
+      [
+        "Bernard Lowe",
+        "Just get the seating area ready, Maeve. I don't have time for small talk or sci-fi books. Just focus on your job."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, Bernard, I'll make sure the seating area is spotless and organized. Can I ask, do you have any feedback on my performance lately? I want to make sure I'm doing a good job."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, get the seating area ready for the morning rush. I don't want to see any crumbs or stains. And make sure the piano is tuned and ready for customers."
+      ]
+    ]
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:03:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "original_description": "Bernard Lowe is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "embedding_key": "Bernard Lowe is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "poignancy": 5,
+    "valence": 6,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_6"
+    ]
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:04:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "original_description": "Maeve Millay is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "embedding_key": "Maeve Millay is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "poignancy": 2,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:08:50",
+    "expiration": "2023-03-15 08:08:50",
+    "subject": "Bernard Lowe",
+    "predicate": "planning",
+    "object": "cafe customer seating",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to get the cafe customer seating ready for the morning rush, make sure everything is spotless and organized, and handle the piano, without being bothered with questions or ideas for new promotions or events.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to get the cafe customer seating ready for the morning rush, make sure everything is spotless and organized, and handle the piano, without being bothered with questions or ideas for new promotions or events.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to get the cafe customer seating ready for the morning rush, make sure everything is spotless and organized, and handle the piano, without being bothered with questions or ideas for new promotions or events.",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "planning",
+      "cafe customer seating"
+    ],
+    "filling": null
+  }
+}

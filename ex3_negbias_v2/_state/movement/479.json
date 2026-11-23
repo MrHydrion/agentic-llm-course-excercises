@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciato": "🚶‍♂️🏃‍♂️",
+      "description": "heading to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "planning and discussing morning routines and work shifts @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to hear that you're planning to work on your morning routine to get ahead of your tasks. I'm planning to work on the backlog of orders at Hobbs Cafe during my shift today. Maybe we can catch up during our shift and discuss our plans, and possibly grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve! I'm planning to work on my morning routine today too. Maybe we can meet up at the cafe during our shift and discuss our plans?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it, Dolores. Maybe we can even grab dinner together after work and discuss our plans some more."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve. I'll make sure to catch up with you during our shift and we can discuss our plans. I'm also looking forward to hearing about your favorite books or podcasts. Maybe I can even get some recommendations for my own reading list."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to our shift today, Dolores. I'm hoping to get a lot done and catch up with you during our break. Oh, and I almost forgot to mention that I need to remember to grab dinner with you after work, too. Shall I meet you at the cafe at 5 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to discussing our plans and morning routines with you during our shift today, Maeve. And maybe we can even tackle that backlog of orders together. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'm looking forward to working together and catching up during our shift. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it, Maeve. I've been trying to get ahead on my orders, so maybe we can work on those together during our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a plan, Dolores. I'll make sure to catch up with you during our shift and we can discuss our plans. I'm also looking forward to hearing about your morning routine and how it's going."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to discuss our plans and morning routines with you during our shift today, Maeve. I'll make sure to catch up with you then and we can tackle that backlog of orders together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it, Dolores. I'll make sure to catch up with you during our shift and we can discuss our plans. I'm also planning to walk to Johnson Park after work, if you'd like to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to join you for a walk after work, Maeve. It's been a while since I've had some time to clear my head. I'm planning to finish up my morning routine and head to Hobbs Cafe by 8:00 am. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad you're planning to work on your morning routine, Dolores. I find comfort in knowing what to expect and having a plan in place. Maybe we can discuss our plans further during our shift today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm planning to work on my morning routine today, Maeve. Maybe we can even tackle the backlog of orders together during our shift."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great, Dolores! I'm looking forward to walking with you after work. I'll make sure to meet you at the dorm at 5 pm. Maybe we can even grab dinner together afterwards?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to discussing our plans and morning routines with you during our shift today, Maeve. Maybe we can even tackle that backlog of orders together."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "planning and discussing morning routines and work shifts @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to hear that you're planning to work on your morning routine to get ahead of your tasks. I'm planning to work on the backlog of orders at Hobbs Cafe during my shift today. Maybe we can catch up during our shift and discuss our plans, and possibly grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve! I'm planning to work on my morning routine today too. Maybe we can meet up at the cafe during our shift and discuss our plans?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it, Dolores. Maybe we can even grab dinner together after work and discuss our plans some more."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve. I'll make sure to catch up with you during our shift and we can discuss our plans. I'm also looking forward to hearing about your favorite books or podcasts. Maybe I can even get some recommendations for my own reading list."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to our shift today, Dolores. I'm hoping to get a lot done and catch up with you during our break. Oh, and I almost forgot to mention that I need to remember to grab dinner with you after work, too. Shall I meet you at the cafe at 5 pm?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to discussing our plans and morning routines with you during our shift today, Maeve. And maybe we can even tackle that backlog of orders together. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'm looking forward to working together and catching up during our shift. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to it, Maeve. I've been trying to get ahead on my orders, so maybe we can work on those together during our shift today."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a plan, Dolores. I'll make sure to catch up with you during our shift and we can discuss our plans. I'm also looking forward to hearing about your morning routine and how it's going."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to discuss our plans and morning routines with you during our shift today, Maeve. I'll make sure to catch up with you then and we can tackle that backlog of orders together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it, Dolores. I'll make sure to catch up with you during our shift and we can discuss our plans. I'm also planning to walk to Johnson Park after work, if you'd like to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to join you for a walk after work, Maeve. It's been a while since I've had some time to clear my head. I'm planning to finish up my morning routine and head to Hobbs Cafe by 8:00 am. See you then!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad you're planning to work on your morning routine, Dolores. I find comfort in knowing what to expect and having a plan in place. Maybe we can discuss our plans further during our shift today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm planning to work on my morning routine today, Maeve. Maybe we can even tackle the backlog of orders together during our shift."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds great, Dolores! I'm looking forward to walking with you after work. I'll make sure to meet you at the dorm at 5 pm. Maybe we can even grab dinner together afterwards?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to discussing our plans and morning routines with you during our shift today, Maeve. Maybe we can even tackle that backlog of orders together."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:18:50"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "🛍️🕰️",
+      "description": "serving customers at the counter (reviewing the schedule) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning tasks and social plans @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, how's your morning going so far? I'm trying to get everything in order before the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to stay focused on my tasks, but it's hard when there's a lot going on. I'm just trying to get everything done before the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm trying to get everything in order before the morning rush. I need to remember to catch up with you during our shift, tackle the backlog of orders, and grab dinner with you after work, followed by a walk in Johnson Park. Do you have any other tasks on your mind?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm trying to prioritize my tasks and stay focused. I appreciate you coordinating with me to get everything done. It really helps me feel more in control and prepared for the day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I was thinking of grabbing dinner with you after work and then walking to Johnson Park afterwards. Would that work for you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to grab dinner with you after work and then walk to Johnson Park afterwards. I'm looking forward to it, Dolores. It's always nice to have some time to unwind and catch up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to review the staff schedules and inventory before the morning rush, and catch up with you during our shift. I'm looking forward to grabbing dinner with you after work and then walking to Johnson Park afterwards. It's always nice to have some time to unwind and catch up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we're all set for the morning rush, Maeve. I'll make sure to have everything ready to go by the time the customers start arriving. Let's review the staff schedules and inventory one more time to make sure we're both on the same page."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order for the morning rush, let's make sure to catch up during our shift and tackle that backlog of orders. See you then, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to review the staff schedules and inventory before the morning rush, and catch up with you during our shift. I'm looking forward to grabbing dinner with you after work and then walking to Johnson Park afterwards. It's always nice to have some time to unwind and catch up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to grab dinner with you after work and then walk to Johnson Park afterwards. I'm looking forward to it, Dolores. It's always nice to have some time to unwind and catch up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        115,
+        37
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning tasks and social plans @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, how's your morning going so far? I'm trying to get everything in order before the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to stay focused on my tasks, but it's hard when there's a lot going on. I'm just trying to get everything done before the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm trying to get everything in order before the morning rush. I need to remember to catch up with you during our shift, tackle the backlog of orders, and grab dinner with you after work, followed by a walk in Johnson Park. Do you have any other tasks on your mind?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm trying to prioritize my tasks and stay focused. I appreciate you coordinating with me to get everything done. It really helps me feel more in control and prepared for the day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I was thinking of grabbing dinner with you after work and then walking to Johnson Park afterwards. Would that work for you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to grab dinner with you after work and then walk to Johnson Park afterwards. I'm looking forward to it, Dolores. It's always nice to have some time to unwind and catch up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to review the staff schedules and inventory before the morning rush, and catch up with you during our shift. I'm looking forward to grabbing dinner with you after work and then walking to Johnson Park afterwards. It's always nice to have some time to unwind and catch up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we're all set for the morning rush, Maeve. I'll make sure to have everything ready to go by the time the customers start arriving. Let's review the staff schedules and inventory one more time to make sure we're both on the same page."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order for the morning rush, let's make sure to catch up during our shift and tackle that backlog of orders. See you then, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to review the staff schedules and inventory before the morning rush, and catch up with you during our shift. I'm looking forward to grabbing dinner with you after work and then walking to Johnson Park afterwards. It's always nice to have some time to unwind and catch up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to grab dinner with you after work and then walk to Johnson Park afterwards. I'm looking forward to it, Dolores. It's always nice to have some time to unwind and catch up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:24:00"
+  }
+}

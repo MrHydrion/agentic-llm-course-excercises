@@ -1,0 +1,99 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "🍵👥",
+      "description": "serving customers at the counter (arriving at the cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring the cafe is spotless and prepared for the morning rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to prioritize the bathroom sink and communicate with Maeve. Can I get back to work now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I want to make sure the cafe is spotless before the morning rush. Can you please take care of the bathroom sink and make sure it's sparkling clean?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll take care of the bathroom sink right away, Bernard. I'll make sure it's spotless before the morning rush. Can I get back to work now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, make sure the coffee machines are clean and ready for the morning rush. And don't forget to restock the sugar and creamers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to get the bathroom sink clean and ready for the morning rush, Bernard. And I'll also check the coffee machines to make sure they're clean and ready to go. I'll get started on that right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I want to review the staff schedules before the morning rush. Can you show me the schedule for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. The bathroom sink is clean, the coffee machines are ready, and I've reviewed the staff schedules for today. Is there anything else you'd like me to take care of before the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to double-check the inventory before the morning rush. Make sure we have enough supplies for the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've double-checked the inventory, Bernard. We're all set for the morning rush. Is there anything else you'd like me to focus on before opening?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to review the staff schedules before the morning rush. Make sure everything is in order."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've reviewed the staff schedules, Bernard. Everything is in order for the morning rush. Is there anything else you'd like me to focus on before opening?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to double-check the inventory before the morning rush. Make sure we have enough supplies for the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the inventory, Bernard. I'll get started on that right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I want to make sure the cafe is spotless before the morning rush. Can you please take care of the tables and chairs, and make sure they're clean and tidy?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I've taken care of the tables and chairs, Bernard. Is there anything else you'd like me to focus on before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to review the morning's specials and promotions. Can you get me the latest menu and sales reports?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🕒️🍳",
+      "description": "working at Hobbs Cafe (clocking in and preparing for shift) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:26:10"
+  }
+}

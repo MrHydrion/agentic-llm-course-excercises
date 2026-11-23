@@ -1,0 +1,43 @@
+{
+  "kw_strength_thought": {
+    "arriving": 4,
+    "be": 2,
+    "bernard lowe": 23,
+    "demands": 1,
+    "efficiency": 1,
+    "emphasized": 4,
+    "feeling": 1,
+    "have": 2,
+    "i": 1,
+    "maeve": 1,
+    "maeve and dolores": 4,
+    "maeve millay": 5,
+    "need": 2,
+    "needed": 1,
+    "none": 10,
+    "plan": 4,
+    "planning": 1,
+    "prioritize": 2,
+    "relax": 1,
+    "rely": 1,
+    "self": 1,
+    "struggle": 1
+  },
+  "kw_strength_event": {
+    "bernard lowe": 40,
+    "cafe": 7,
+    "closet": 8,
+    "combing hair": 4,
+    "hobbs cafe": 8,
+    "kitchen sink": 8,
+    "leaving the house": 4,
+    "maeve millay": 12,
+    "morning routine": 4,
+    "none": 11,
+    "running water": 4,
+    "schedule": 4,
+    "sleeping": 4,
+    "water": 4,
+    "weather": 4
+  }
+}

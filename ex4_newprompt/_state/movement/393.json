@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "👕💼",
+      "description": "heading to Hobbs Cafe (getting dressed) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        124,
+        54
+      ],
+      "pronunciato": "💬",
+      "description": "making plans and discussing stress relief @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, just getting ready to head to Hobbs Cafe. You?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, yeah I'm heading to Hobbs Cafe too. Just getting ready to start my shift. How's your morning going?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, just getting ready for work. I'm looking forward to a busy day at Hobbs Cafe. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm looking forward to a busy day too. I need to get a lot of work done today. How about you, got any big plans?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey, I actually need to remember to take a walk in Johnson Park after work today. Want to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds nice, Maeve. I could use a walk after work to clear my head. I've been really busy with work lately and I need to unwind."
+        ],
+        [
+          "Maeve Millay",
+          "Awesome, I'm glad you can join me! We can grab a coffee and walk together. I'm looking forward to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve. I'm looking forward to it. I've been meaning to ask, have you found any new books or authors recently that you'd recommend?"
+        ],
+        [
+          "Maeve Millay",
+          "I just started reading a new book, it's really interesting. I think you'd like it, it's about self-discovery. Have you read anything like that recently?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I've been meaning to get back into reading. What's the title of the book?"
+        ],
+        [
+          "Maeve Millay",
+          "I've been meaning to try out a new coffee shop that just opened up near Johnson Park. Have you heard about it?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I've been meaning to try out some new coffee shops too. I'll definitely join you after work."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it. I've been feeling a bit stressed lately, so it'll be great to unwind with a walk and some coffee."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to unwinding after work. I've been feeling a bit overwhelmed with work lately. What's been going on with you?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I think I'll try that new coffee shop out. I've been meaning to get out of the dorm more anyway. Maybe we can grab a coffee and walk together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I've been meaning to try out some new coffee shops too. I'll definitely join you after work."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        124,
+        54
+      ],
+      "pronunciato": "💬",
+      "description": "making plans and discussing stress relief @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, just getting ready to head to Hobbs Cafe. You?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, yeah I'm heading to Hobbs Cafe too. Just getting ready to start my shift. How's your morning going?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, just getting ready for work. I'm looking forward to a busy day at Hobbs Cafe. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm looking forward to a busy day too. I need to get a lot of work done today. How about you, got any big plans?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey, I actually need to remember to take a walk in Johnson Park after work today. Want to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds nice, Maeve. I could use a walk after work to clear my head. I've been really busy with work lately and I need to unwind."
+        ],
+        [
+          "Maeve Millay",
+          "Awesome, I'm glad you can join me! We can grab a coffee and walk together. I'm looking forward to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve. I'm looking forward to it. I've been meaning to ask, have you found any new books or authors recently that you'd recommend?"
+        ],
+        [
+          "Maeve Millay",
+          "I just started reading a new book, it's really interesting. I think you'd like it, it's about self-discovery. Have you read anything like that recently?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I've been meaning to get back into reading. What's the title of the book?"
+        ],
+        [
+          "Maeve Millay",
+          "I've been meaning to try out a new coffee shop that just opened up near Johnson Park. Have you heard about it?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I've been meaning to try out some new coffee shops too. I'll definitely join you after work."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it. I've been feeling a bit stressed lately, so it'll be great to unwind with a walk and some coffee."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to unwinding after work. I've been feeling a bit overwhelmed with work lately. What's been going on with you?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I think I'll try that new coffee shop out. I've been meaning to get out of the dorm more anyway. Maybe we can grab a coffee and walk together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I've been meaning to try out some new coffee shops too. I'll definitely join you after work."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:04:30"
+  }
+}

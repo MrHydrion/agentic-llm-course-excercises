@@ -1,0 +1,94 @@
+{
+  "the Ville": {
+    "Bernard Lowe's apartment": {
+      "bathroom": [
+        "shower",
+        "bathroom sink",
+        "toilet"
+      ],
+      "main room": [
+        "desk",
+        "refrigerator",
+        "closet",
+        "shelf",
+        "bed"
+      ]
+    },
+    "Dorm for Oak Hill College": {
+      "common room": [
+        "common room sofa",
+        "pool table",
+        "common room table"
+      ],
+      "garden": [
+        "dorm garden"
+      ]
+    },
+    "Giorgio Rossi's apartment": {
+      "bathroom": [
+        "shower"
+      ],
+      "main room": [
+        "bed",
+        "blackboard"
+      ]
+    },
+    "Harvey Oak Supply Store": {
+      "supply store": [
+        "supply store counter",
+        "supply store product shelf",
+        "behind the supply store counter"
+      ]
+    },
+    "Hobbs Cafe": {
+      "cafe": [
+        "refrigerator",
+        "cafe customer seating",
+        "cooking area",
+        "kitchen sink",
+        "behind the cafe counter",
+        "piano"
+      ]
+    },
+    "Johnson Park": {
+      "park": [
+        "park garden"
+      ]
+    },
+    "Ryan Park's apartment": {
+      "bathroom": [
+        "shower",
+        "bathroom sink",
+        "toilet"
+      ],
+      "main room": [
+        "closet",
+        "bed",
+        "cooking area",
+        "kitchen sink",
+        "refrigerator"
+      ]
+    },
+    "The Rose and Crown Pub": {
+      "pub": [
+        "refrigerator",
+        "bar customer seating",
+        "behind the bar counter",
+        "kitchen sink",
+        "cooking area",
+        "microphone",
+        "shelf"
+      ]
+    },
+    "The Willows Market and Pharmacy": {
+      "store": [
+        "grocery store counter",
+        "behind the pharmacy counter",
+        "pharmacy store shelf",
+        "pharmacy store counter",
+        "grocery store shelf",
+        "behind the grocery counter"
+      ]
+    }
+  }
+}

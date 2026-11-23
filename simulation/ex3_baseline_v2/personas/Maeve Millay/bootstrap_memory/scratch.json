@@ -1,0 +1,252 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:04:00",
+  "curr_tile": [
+    76,
+    27
+  ],
+  "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
+  "name": "Maeve Millay",
+  "first_name": "Maeve",
+  "last_name": "Millay",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Maeve Millay is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Maeve and Dolores are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Maeve walks in Johnson Park. She loves her walks in the park.",
+  "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 19,
+  "importance_ele_n": 23,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe by 8:00am",
+    "work at Hobbs Cafe from 8:00am to 4:00pm",
+    "walk to Johnson Park and walk through the park",
+    "have dinner at the dorm at 8:00pm",
+    "spend time in her room",
+    "go to bed at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine (waking up)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (brushing teeth)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (washing face)",
+      1
+    ],
+    [
+      "catching up and making plans with a coworker",
+      4
+    ],
+    [
+      "waking up and completing the morning routine (washing face)",
+      4
+    ],
+    [
+      "waking up and completing the morning routine (completing morning routine)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (preparing for work)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (finalizing morning tasks)",
+      3
+    ],
+    [
+      "planning a walk in Johnson Park and discussing books",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (finalizing morning tasks)",
+      6
+    ],
+    [
+      "waking up and completing the morning routine (leaving for Hobbs Cafe)",
+      9
+    ],
+    [
+      "walking to Hobbs Cafe (gathering belongings)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (locking the door)",
+      9
+    ],
+    [
+      "walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
+      9
+    ],
+    [
+      "walking to Hobbs Cafe (unlocking the door)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (clocking in)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (preparing for customers)",
+      4
+    ],
+    [
+      "walking to Hobbs Cafe (reviewing menu)",
+      4
+    ],
+    [
+      "walking to Hobbs Cafe (restocking supplies)",
+      7
+    ],
+    [
+      "serving customers at the counter",
+      480
+    ],
+    [
+      "walking to Johnson Park and walking through the park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      180
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      480
+    ],
+    [
+      "walking to Johnson Park and walking through the park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+  "act_start_time": "February 13, 2023, 07:58:00",
+  "act_duration": 9,
+  "act_description": "waking up and completing the morning routine (leaving for Hobbs Cafe)",
+  "act_pronunciatio": "🛋️🕰️👋",
+  "act_event": [
+    "Maeve Millay",
+    "leaving",
+    "Hobbs Cafe"
+  ],
+  "act_obj_description": "clean",
+  "act_obj_pronunciatio": "🧹💪",
+  "act_obj_event": [
+    "kitchen sink",
+    "is",
+    "kitchen sink"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Dolores Abernathy": 17
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      76,
+      26
+    ],
+    [
+      75,
+      26
+    ],
+    [
+      75,
+      25
+    ],
+    [
+      75,
+      24
+    ],
+    [
+      75,
+      23
+    ],
+    [
+      75,
+      22
+    ],
+    [
+      75,
+      21
+    ],
+    [
+      75,
+      20
+    ],
+    [
+      75,
+      19
+    ],
+    [
+      76,
+      19
+    ],
+    [
+      77,
+      19
+    ]
+  ]
+}

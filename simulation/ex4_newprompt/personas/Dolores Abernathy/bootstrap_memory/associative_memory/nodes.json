@@ -1,0 +1,683 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, go straight back to her room at the dorm and read from 4:00pm to 6:00pm, have dinner at the dorm at 6:00pm, spend the rest of the evening reading and working on the computer in her room, go to bed at 11:00pm.",
+    "original_description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, go straight back to her room at the dorm and read from 4:00pm to 6:00pm, have dinner at the dorm at 6:00pm, spend the rest of the evening reading and working on the computer in her room, go to bed at 11:00pm.",
+    "embedding_key": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, go straight back to her room at the dorm and read from 4:00pm to 6:00pm, have dinner at the dorm at 6:00pm, spend the rest of the evening reading and working on the computer in her room, go to bed at 11:00pm.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:11:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is exchanging morning routines and weekend plans",
+    "original_description": "Dolores Abernathy is exchanging morning routines and weekend plans",
+    "embedding_key": "Dolores Abernathy is exchanging morning routines and weekend plans",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_9"
+    ]
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:11:50",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is exchanging morning routines and weekend plans",
+    "original_description": "Maeve Millay is exchanging morning routines and weekend plans",
+    "embedding_key": "Maeve Millay is exchanging morning routines and weekend plans",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:16:50",
+    "expiration": "2023-03-15 07:16:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to have a busy day at the cafe, with a focus on getting a lot of work done.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to have a busy day at the cafe, with a focus on getting a lot of work done.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to have a busy day at the cafe, with a focus on getting a lot of work done.",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:16:50",
+    "expiration": "2023-03-15 07:16:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found",
+    "object": "Maeve's walks",
+    "description": "Dolores Abernathy Dolores Abernathy found Maeve's walks in Johnson Park after work to be a great way to unwind and clear her head.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found Maeve's walks in Johnson Park after work to be a great way to unwind and clear her head.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found Maeve's walks in Johnson Park after work to be a great way to unwind and clear her head.",
+    "poignancy": 6,
+    "valence": 7,
+    "keywords": [
+      "dolores abernathy",
+      "found",
+      "maeve's walks"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:17:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Maeve Millay is waking up and completing morning routine (brushing teeth)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (brushing teeth)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (brushing teeth)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:21:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is",
+    "object": "running water",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is running water",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is running water",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is running water",
+    "poignancy": 2,
+    "valence": 2,
+    "keywords": [
+      "bathroom sink",
+      "running water"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:21:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is waking up and completing morning routine (washing face)",
+    "original_description": "Dolores Abernathy is waking up and completing morning routine (washing face)",
+    "embedding_key": "Dolores Abernathy is waking up and completing morning routine (washing face)",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:26:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is unoccupied",
+    "object": "bathroom sink",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "bathroom sink"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:36:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is empty",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is empty",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is empty",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:36:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is",
+    "object": "bathroom sink",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is unattended",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is unattended",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is unattended",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "bathroom sink",
+      "bathroom sink"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "sleeping",
+    "object": "Dolores Abernathy",
+    "description": "Dolores Abernathy is sleeping",
+    "original_description": "Dolores Abernathy is sleeping",
+    "embedding_key": "Dolores Abernathy is sleeping",
+    "poignancy": 1,
+    "valence": 6,
+    "keywords": [
+      "dolores abernathy",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:41:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up and completing morning routine (preparing for work)",
+    "original_description": "Dolores Abernathy is waking up and completing morning routine (preparing for work)",
+    "embedding_key": "Dolores Abernathy is waking up and completing morning routine (preparing for work)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:43:40",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:56:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet",
+    "predicate": "unlocked",
+    "object": "closet",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is unlocked",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is unlocked",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is unlocked",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "closet",
+      "closet"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:01:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "unoccupied",
+    "object": "bed",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "poignancy": 5,
+    "valence": 6,
+    "keywords": [
+      "bed",
+      "bed"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:03:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "making plans and discussing stress relief",
+    "original_description": "making plans and discussing stress relief",
+    "embedding_key": "making plans and discussing stress relief",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hey Dolores, just getting ready to head to Hobbs Cafe. You?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, yeah I'm heading to Hobbs Cafe too. Just getting ready to start my shift. How's your morning going?"
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, just getting ready for work. I'm looking forward to a busy day at Hobbs Cafe. How about you?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Yeah, I'm looking forward to a busy day too. I need to get a lot of work done today. How about you, got any big plans?"
+      ],
+      [
+        "Maeve Millay",
+        "Hey, I actually need to remember to take a walk in Johnson Park after work today. Want to join me?"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds nice, Maeve. I could use a walk after work to clear my head. I've been really busy with work lately and I need to unwind."
+      ],
+      [
+        "Maeve Millay",
+        "Awesome, I'm glad you can join me! We can grab a coffee and walk together. I'm looking forward to it."
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds great, Maeve. I'm looking forward to it. I've been meaning to ask, have you found any new books or authors recently that you'd recommend?"
+      ],
+      [
+        "Maeve Millay",
+        "I just started reading a new book, it's really interesting. I think you'd like it, it's about self-discovery. Have you read anything like that recently?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Yeah, I've been meaning to get back into reading. What's the title of the book?"
+      ],
+      [
+        "Maeve Millay",
+        "I've been meaning to try out a new coffee shop that just opened up near Johnson Park. Have you heard about it?"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds like a great idea, Maeve. I've been meaning to try out some new coffee shops too. I'll definitely join you after work."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to it. I've been feeling a bit stressed lately, so it'll be great to unwind with a walk and some coffee."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm really looking forward to unwinding after work. I've been feeling a bit overwhelmed with work lately. What's been going on with you?"
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, I think I'll try that new coffee shop out. I've been meaning to get out of the dorm more anyway. Maybe we can grab a coffee and walk together after work?"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds like a great idea, Maeve. I've been meaning to try out some new coffee shops too. I'll definitely join you after work."
+      ]
+    ]
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:03:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is making plans and discussing stress relief",
+    "original_description": "Dolores Abernathy is making plans and discussing stress relief",
+    "embedding_key": "Dolores Abernathy is making plans and discussing stress relief",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_24"
+    ]
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:04:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is making plans and discussing stress relief",
+    "original_description": "Maeve Millay is making plans and discussing stress relief",
+    "embedding_key": "Maeve Millay is making plans and discussing stress relief",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is waking up and completing morning routine (waking up)",
+    "original_description": "Dolores Abernathy is waking up and completing morning routine (waking up)",
+    "embedding_key": "Dolores Abernathy is waking up and completing morning routine (waking up)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up and completing morning routine (brushing teeth)",
+    "original_description": "Dolores Abernathy is waking up and completing morning routine (brushing teeth)",
+    "embedding_key": "Dolores Abernathy is waking up and completing morning routine (brushing teeth)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:11:40",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is",
+    "object": "bathroom sink",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is clean",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is clean",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is clean",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "bathroom sink",
+      "bathroom sink"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:11:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up and completing morning routine (brushing teeth)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (brushing teeth)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (brushing teeth)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:11:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "exchanging morning routines and weekend plans",
+    "original_description": "exchanging morning routines and weekend plans",
+    "embedding_key": "exchanging morning routines and weekend plans",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. I'm almost done with my morning routine. How about you?"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I'm almost done with my morning routine too. How was your weekend?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I hope you're having a good morning, Maeve. I'm looking forward to a productive day at the cafe. How about you?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm looking forward to it too, Dolores. I've got a busy day ahead of me, but I'm hoping to get some things done. How about you, do you have any plans for tonight?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm just getting ready to head to work. I have a pretty busy day ahead of me. How about you?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm actually looking forward to my walk in Johnson Park after work today. The fresh air always helps me clear my head."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm looking forward to a quiet evening after work. I might do some reading or work on my computer. How about you?"
+      ],
+      [
+        "Maeve Millay",
+        "I love my walks in Johnson Park, it's a great way to unwind after a long day. I'm sure you'll have a quiet evening after work, perfect for reading or working on your computer."
+      ],
+      [
+        "Dolores Abernathy",
+        "I hope you have a great walk in Johnson Park today, Maeve. I'm looking forward to a relaxing evening after work."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to it. It's always nice to take a break from the cafe and get some fresh air. How about you, do you have any favorite spots in the park?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I hope you have a great day at work, Maeve. I'm looking forward to a busy day at the cafe."
+      ],
+      [
+        "Maeve Millay",
+        "I'm looking forward to it. It's always nice to take a break from the cafe and get some fresh air. How about you, do you have any favorite spots in the park?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I hope you have a great day at work, Maeve. I'm looking forward to a busy day at the cafe."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to it. It's always nice to take a break from the cafe and get some fresh air. How about you, do you have any favorite spots in the park?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm really looking forward to a busy day at the cafe. I have to get a lot of work done. How about you, do you have any big tasks to tackle today?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm actually looking forward to my walk in Johnson Park after work today. The fresh air always helps me clear my head. How about you, do you have any fun plans for the weekend?"
+      ]
+    ]
+  }
+}

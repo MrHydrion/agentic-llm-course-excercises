@@ -1,0 +1,3067 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, have dinner at the dorm at 6:00pm, read a book from 7:00pm to 11:00pm.",
+    "original_description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, have dinner at the dorm at 6:00pm, read a book from 7:00pm to 11:00pm.",
+    "embedding_key": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, have dinner at the dorm at 6:00pm, read a book from 7:00pm to 11:00pm.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:06:50",
+    "expiration": "2023-03-15 07:06:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember to head to",
+    "object": "work at Hobbs Cafe",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to head to work at Hobbs Cafe.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to head to work at Hobbs Cafe.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to head to work at Hobbs Cafe.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember to head to",
+      "work at hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe",
+    "predicate": "approaching",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe is being approached",
+    "original_description": "the Ville:Hobbs Cafe:cafe is being approached",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe is being approached",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "cafe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:02:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walk to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walk to Hobbs Cafe (starting to walk to Hobbs Cafe)",
+    "original_description": "Dolores Abernathy is walk to Hobbs Cafe (starting to walk to Hobbs Cafe)",
+    "embedding_key": "Dolores Abernathy is walk to Hobbs Cafe (starting to walk to Hobbs Cafe)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:04:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "synced and prepared for a busy day at the cafe",
+    "original_description": "synced and prepared for a busy day at the cafe",
+    "embedding_key": "synced and prepared for a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hey Dolores, I'm glad we're in sync for today's lunch rush. I've got all the drinks practiced and ready to go. How about you? Ready to tackle the afternoon?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, I'm feeling pretty prepared for the lunch rush too. I made sure to get some reading done before my shift started, so I'm feeling focused. How's your morning been so far?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm glad we're both feeling prepared. Let's work together to make this lunch rush go smoothly."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+      ],
+      [
+        "Maeve Millay",
+        "I'm glad we're both feeling prepared. I've been practicing some new drinks and I'm excited to try them out on the lunch rush. How about you, do you have any new drinks you're looking forward to making?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+      ],
+      [
+        "Maeve Millay",
+        "I'm glad we're both feeling prepared, Dolores. I think having a routine helps me stay focused and ready for the day. What's your favorite part about working at Hobbs Cafe?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+      ],
+      [
+        "Maeve Millay",
+        "I'm glad we're in sync, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+      ],
+      [
+        "Maeve Millay",
+        "I'm glad we're on the same page, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+      ],
+      [
+        "Maeve Millay",
+        "I'm glad we're in sync, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm excited for a busy day at the cafe, and feeling prepared helps me stay that way. I think sharing similar enthusiasm for work with you creates a sense of camaraderie and shared purpose."
+      ],
+      [
+        "Maeve Millay",
+        "I'm looking forward to unwinding after my shift. I think a walk in Johnson Park and some quiet time in my room will help me recharge. How about you, do you have any plans for your evening?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared, Maeve. Having a quiet morning routine helps me stay focused and ready for the day. I think it's important to prioritize my own needs and desires, even on busy days, to maintain a sense of balance. How about you, do you have any self-care routines that help you unwind after a long day at the cafe?"
+      ]
+    ]
+  },
+  "node_103": {
+    "node_count": 103,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:04:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is synced and prepared for a busy day at the cafe",
+    "original_description": "Dolores Abernathy is synced and prepared for a busy day at the cafe",
+    "embedding_key": "Dolores Abernathy is synced and prepared for a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_102"
+    ]
+  },
+  "node_104": {
+    "node_count": 104,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:04:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is synced and prepared for a busy day at the cafe",
+    "original_description": "Maeve Millay is synced and prepared for a busy day at the cafe",
+    "embedding_key": "Maeve Millay is synced and prepared for a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_105": {
+    "node_count": 105,
+    "type_count": 43,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:11:50",
+    "expiration": "2023-03-15 09:11:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to make time for her quiet morning routine again tonight, even though it's a busy day.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to make time for her quiet morning routine again tonight, even though it's a busy day.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to make time for her quiet morning routine again tonight, even though it's a busy day.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_106": {
+    "node_count": 106,
+    "type_count": 44,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:11:50",
+    "expiration": "2023-03-15 09:11:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found that having a quiet morning routine helps her stay focused and ready for the day.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found that having a quiet morning routine helps her stay focused and ready for the day.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found that having a quiet morning routine helps her stay focused and ready for the day.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "found",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_107": {
+    "node_count": 107,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is walking to Hobbs Cafe (preparing for cafe duties)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (preparing for cafe duties)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (preparing for cafe duties)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_108": {
+    "node_count": 108,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:14:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walk",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walk to Hobbs Cafe (approaching Hobbs Cafe)",
+    "original_description": "Dolores Abernathy is walk to Hobbs Cafe (approaching Hobbs Cafe)",
+    "embedding_key": "Dolores Abernathy is walk to Hobbs Cafe (approaching Hobbs Cafe)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_109": {
+    "node_count": 109,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:19:50",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Maeve Millay is serving customers at the counter (reviewing morning routine)",
+    "original_description": "Maeve Millay is serving customers at the counter (reviewing morning routine)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (reviewing morning routine)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:06:50",
+    "expiration": "2023-03-15 07:06:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "looking forward to",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve Millay was looking forward to a busy day at the cafe, despite her initial hesitation to grab coffee and chat.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve Millay was looking forward to a busy day at the cafe, despite her initial hesitation to grab coffee and chat.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve Millay was looking forward to a busy day at the cafe, despite her initial hesitation to grab coffee and chat.",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "looking forward to",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_110": {
+    "node_count": 110,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:23:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is available",
+    "object": "seating",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "seating"
+    ],
+    "filling": null
+  },
+  "node_111": {
+    "node_count": 111,
+    "type_count": 6,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:23:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "efficiently preparing for the lunch rush",
+    "original_description": "efficiently preparing for the lunch rush",
+    "embedding_key": "efficiently preparing for the lunch rush",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Good morning, Dolores. I see you're all set for the day. Let's get started on the lunch rush, shall we?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Bernard. I'm excited to get started on the lunch rush. I've got my morning routine down pat, so I'm feeling focused and prepared."
+      ],
+      [
+        "Bernard Lowe",
+        "Great, let's get started then. I've got the inventory checked and we're all set for the lunch rush. Just a reminder, we need to restock the pastry case by 12:30, okay?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm all set, Bernard. I've got my morning routine to thank for that. I'll make sure to restock the pastry case by 12:30, don't worry."
+      ],
+      [
+        "Bernard Lowe",
+        "Great, let's get started then. I've got the inventory checked and we're all set for the lunch rush. Just a reminder, we need to keep an eye on the inventory and restock as needed to avoid last-minute scrambles."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm all set to start taking orders and making drinks. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder, Bernard!"
+      ],
+      [
+        "Bernard Lowe",
+        "Let's make sure to keep the cafe clean and tidy throughout the day, okay? We don't want any messes or spills to slow us down during the lunch rush."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll make sure to keep the cafe clean and tidy, Bernard. I'm all set to start taking orders and making drinks. Thanks for the reminder!"
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be keeping an eye on the cafe's inventory and restocking as needed to ensure a smooth operation. Let's get started, Dolores."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm all set to start taking orders and making drinks, Bernard. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder!"
+      ],
+      [
+        "Bernard Lowe",
+        "Great, let's get started then. I'll be keeping an eye on the cafe's inventory and restocking as needed to ensure a smooth operation. How's the pastry case looking?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I've got everything under control, Bernard. I'll make sure to keep the cafe running smoothly during the lunch rush. And, as always, I'll prioritize my quiet morning routine tonight to stay focused and prepared for the day ahead."
+      ],
+      [
+        "Bernard Lowe",
+        "I'm glad to hear that. Make sure to keep an eye on the cafe's inventory and restock as needed to avoid any last-minute scrambles during the lunch rush."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm all set to start taking orders and making drinks, Bernard. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder!"
+      ],
+      [
+        "Bernard Lowe",
+        "I'll be checking in periodically to make sure everything is running smoothly. Let's keep the cafe well-stocked and organized, shall we?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm looking forward to a busy day at the cafe, and I'm glad I prioritized my quiet morning routine to stay focused. I think it really helped me feel more prepared and excited for the day ahead."
+      ]
+    ]
+  },
+  "node_112": {
+    "node_count": 112,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:23:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is efficiently preparing for the lunch rush",
+    "original_description": "Dolores Abernathy is efficiently preparing for the lunch rush",
+    "embedding_key": "Dolores Abernathy is efficiently preparing for the lunch rush",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_111"
+    ]
+  },
+  "node_113": {
+    "node_count": 113,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:23:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is efficiently preparing for the lunch rush",
+    "original_description": "Bernard Lowe is efficiently preparing for the lunch rush",
+    "embedding_key": "Bernard Lowe is efficiently preparing for the lunch rush",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_114": {
+    "node_count": 114,
+    "type_count": 45,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:29:50",
+    "expiration": "2023-03-15 09:29:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to",
+    "object": "Dolores Abernathy",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to restock the pastry case by 12:30 and keep an eye on the cafe's inventory and restock as needed to avoid last-minute scrambles during the lunch rush.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to restock the pastry case by 12:30 and keep an eye on the cafe's inventory and restock as needed to avoid last-minute scrambles during the lunch rush.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to restock the pastry case by 12:30 and keep an eye on the cafe's inventory and restock as needed to avoid last-minute scrambles during the lunch rush.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_115": {
+    "node_count": 115,
+    "type_count": 46,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:29:50",
+    "expiration": "2023-03-15 09:29:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found that prioritizing her quiet morning routine helped her feel more prepared and excited for the day ahead.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found that prioritizing her quiet morning routine helped her feel more prepared and excited for the day ahead.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found that prioritizing her quiet morning routine helped her feel more prepared and excited for the day ahead.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "found",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:07:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is morning routine (waking up)",
+    "original_description": "Dolores Abernathy is morning routine (waking up)",
+    "embedding_key": "Dolores Abernathy is morning routine (waking up)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:07:40",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:toilet",
+    "predicate": "unoccupied",
+    "object": "toilet",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:toilet is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:toilet is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:toilet is unoccupied",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "toilet",
+      "toilet"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:16:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is in use",
+    "object": "bathroom sink",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is in use",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is in use",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is in use",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "bathroom sink"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:16:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "morning routine",
+    "object": "None",
+    "description": "Dolores Abernathy is morning routine (brushing teeth)",
+    "original_description": "Dolores Abernathy is morning routine (brushing teeth)",
+    "embedding_key": "Dolores Abernathy is morning routine (brushing teeth)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:16:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking",
+    "object": "None",
+    "description": "Maeve Millay is waking up and completing the morning routine (brushing teeth)",
+    "original_description": "Maeve Millay is waking up and completing the morning routine (brushing teeth)",
+    "embedding_key": "Maeve Millay is waking up and completing the morning routine (brushing teeth)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:19:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "used",
+    "object": "kitchen sink",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is used",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "kitchen sink",
+      "kitchen sink"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:21:10",
+    "expiration": null,
+    "subject": "washing face",
+    "predicate": "morning routine",
+    "object": "Dolores Abernathy",
+    "description": "washing face is morning routine (washing face)",
+    "original_description": "washing face is morning routine (washing face)",
+    "embedding_key": "washing face is morning routine (washing face)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "washing face",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:24:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "running",
+    "object": "water",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is running water",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is running water",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is running water",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "bathroom sink",
+      "water"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "sleeping",
+    "object": "Dolores Abernathy",
+    "description": "Dolores Abernathy is sleeping",
+    "original_description": "Dolores Abernathy is sleeping",
+    "embedding_key": "Dolores Abernathy is sleeping",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:26:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Maeve Millay is waking up and completing the morning routine (washing face)",
+    "original_description": "Maeve Millay is waking up and completing the morning routine (washing face)",
+    "embedding_key": "Maeve Millay is waking up and completing the morning routine (washing face)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:26:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is",
+    "object": "sink",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is wet",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is wet",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is wet",
+    "poignancy": 2,
+    "valence": -2,
+    "keywords": [
+      "bathroom sink",
+      "sink"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:26:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is looking forward to a busy day at the cafe",
+    "original_description": "Maeve Millay is looking forward to a busy day at the cafe",
+    "embedding_key": "Maeve Millay is looking forward to a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:26:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "looking forward to a busy day at the cafe",
+    "original_description": "looking forward to a busy day at the cafe",
+    "embedding_key": "looking forward to a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, I'm excited to be heading to work today. It's going to be a busy day at the cafe, but I'm looking forward to getting everything done."
+      ],
+      [
+        "Maeve Millay",
+        "I'm excited too, Dolores! I have a lot to learn about new drinks today. I'm hoping to get some practice in."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad you're excited, Maeve. I'll make sure to help you with those new drinks. We can even practice together during our shift."
+      ],
+      [
+        "Maeve Millay",
+        "I'm looking forward to it, Dolores. I hope we can get some practice in during our shift."
+      ],
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day."
+      ],
+      [
+        "Maeve Millay",
+        "Hey Dolores, I'm glad we're on the same page. I'll make sure to get those new drinks down pat. See you at the cafe!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're on the same page, Maeve. I'll make sure to have everything ready for our shift today."
+      ],
+      [
+        "Maeve Millay",
+        "I'm thinking about what I need to do today, like filling orders and learning new drinks. Do you have any tips for staying focused?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day."
+      ],
+      [
+        "Maeve Millay",
+        "I'm glad we're on the same page, Dolores. I'll make sure to get those new drinks down pat. See you at the cafe!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I think a quiet morning will really help me stay focused. Do you have any favorite drinks you're looking forward to making today?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm hoping to get some practice in during our shift, thanks for the offer Dolores. I'm feeling a bit nervous about trying out the new drinks, but I know I'll learn as I go."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm planning to head to work at Hobbs Cafe today. I need to remember to grab a coffee and chat with Bernard before my shift starts."
+      ],
+      [
+        "Maeve Millay",
+        "I'm hoping to get some practice in during our shift, thanks for the offer Dolores. I'm feeling a bit nervous about trying out the new drinks, but I know I'll learn as I go."
+      ],
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day. What about you?"
+      ],
+      [
+        "Maeve Millay",
+        "I think I'll be okay, thanks for the offer Dolores. I'm just going to focus on getting my morning routine done and then head to the cafe. See you there!"
+      ]
+    ]
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:26:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is looking forward to a busy day at the cafe",
+    "original_description": "Dolores Abernathy is looking forward to a busy day at the cafe",
+    "embedding_key": "Dolores Abernathy is looking forward to a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_23"
+    ]
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:30:50",
+    "expiration": "2023-03-15 07:30:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember",
+    "object": "coffee",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to grab a coffee and chat with Bernard before her shift starts at Hobbs Cafe.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to grab a coffee and chat with Bernard before her shift starts at Hobbs Cafe.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to grab a coffee and chat with Bernard before her shift starts at Hobbs Cafe.",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember",
+      "coffee"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:30:50",
+    "expiration": "2023-03-15 07:30:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found it noteworthy",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that having a quiet morning routine helps her stay focused.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that having a quiet morning routine helps her stay focused.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that having a quiet morning routine helps her stay focused.",
+    "poignancy": 6,
+    "valence": 8,
+    "keywords": [
+      "dolores abernathy",
+      "found it noteworthy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:31:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "Maeve Millay",
+    "description": "Maeve Millay is waking up and completing the morning routine (washing face)",
+    "original_description": "Maeve Millay is waking up and completing the morning routine (washing face)",
+    "embedding_key": "Maeve Millay is waking up and completing the morning routine (washing face)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:31:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is",
+    "object": "bathroom sink",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is wet",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is wet",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is wet",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "bathroom sink"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:35:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "getting dressed",
+    "object": "None",
+    "description": "Dolores Abernathy is morning routine (getting dressed)",
+    "original_description": "Dolores Abernathy is morning routine (getting dressed)",
+    "embedding_key": "Dolores Abernathy is morning routine (getting dressed)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "occupied",
+    "object": "bed",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bed",
+      "bed"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:35:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is empty",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is empty",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is empty",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:35:10",
+    "expiration": null,
+    "subject": "washing face",
+    "predicate": "morning routine",
+    "object": "Dolores Abernathy",
+    "description": "washing face is morning routine (washing face)",
+    "original_description": "washing face is morning routine (washing face)",
+    "embedding_key": "washing face is morning routine (washing face)",
+    "poignancy": 2,
+    "valence": 2,
+    "keywords": [
+      "washing face",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:40:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "used",
+    "object": "bathroom sink",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is used",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is used",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "bathroom sink"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:40:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Maeve Millay is waking up and completing the morning routine (completing morning routine)",
+    "original_description": "Maeve Millay is waking up and completing the morning routine (completing morning routine)",
+    "embedding_key": "Maeve Millay is waking up and completing the morning routine (completing morning routine)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:40:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "morning routine",
+    "object": "breakfast",
+    "description": "Dolores Abernathy is morning routine (having breakfast)",
+    "original_description": "Dolores Abernathy is morning routine (having breakfast)",
+    "embedding_key": "Dolores Abernathy is morning routine (having breakfast)",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:50:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "morning routine",
+    "object": "packing lunch",
+    "description": "Dolores Abernathy is morning routine (packing lunch)",
+    "original_description": "Dolores Abernathy is morning routine (packing lunch)",
+    "embedding_key": "Dolores Abernathy is morning routine (packing lunch)",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "packing lunch"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:55:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "feeling prepared and excited for a busy day at the cafe",
+    "original_description": "feeling prepared and excited for a busy day at the cafe",
+    "embedding_key": "feeling prepared and excited for a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hey Dolores, I'm excited to try out some new drinks today. Are you feeling prepared for a busy day at the cafe?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm feeling good, thanks! I've got my morning routine down, and I'm looking forward to a busy day at the cafe. How about you, ready to tackle the day?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm actually a bit nervous about trying out the new drinks, but I know I'll learn as I go. Do you have any tips for me?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm sure you'll do great! Just remember to take your time and don't be afraid to ask for help if you need it. And hey, I'm looking forward to catching up before my shift starts."
+      ],
+      [
+        "Maeve Millay",
+        "I'm glad we can catch up before my shift starts. I'm really looking forward to trying out those new drinks at the cafe."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm sure you'll do great, Maeve. Let's get going and get those drinks ready for our customers."
+      ],
+      [
+        "Maeve Millay",
+        "I'm actually feeling a bit anxious about trying out these new drinks, but I know I'll get the hang of it. Do you have any advice on how to stay focused during a busy shift?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm actually looking forward to a busy day at the cafe. It's always more fun when we're both working together."
+      ],
+      [
+        "Maeve Millay",
+        "I think I'll be fine, just need to focus on the drinks and the orders. Thanks for the chat, Dolores, I'll see you at the cafe!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both excited for a busy day at the cafe. I think we'll work well together today."
+      ],
+      [
+        "Maeve Millay",
+        "I'm actually feeling a bit anxious about trying out these new drinks, but I know I'll get the hang of it. Do you have any advice on how to stay focused during a busy shift?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both excited for a busy day at the cafe. I think we'll work well together today. See you at the cafe!"
+      ],
+      [
+        "Maeve Millay",
+        "I'm actually looking forward to practicing those new drinks during my shift. I hope it goes smoothly!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm actually looking forward to a quiet morning routine today, it helps me stay focused. Maybe I'll even get some reading done before my shift starts."
+      ],
+      [
+        "Maeve Millay",
+        "I'm excited to try out those new drinks during my shift. Do you have any favorite drinks that you like to make?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm actually looking forward to a quiet morning routine today, it helps me stay focused. Maybe I'll even get some reading done before my shift starts."
+      ]
+    ]
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:55:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is feeling prepared and excited for a busy day at the cafe",
+    "original_description": "Dolores Abernathy is feeling prepared and excited for a busy day at the cafe",
+    "embedding_key": "Dolores Abernathy is feeling prepared and excited for a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 6,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_36"
+    ]
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:55:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is feeling prepared and excited for a busy day at the cafe",
+    "original_description": "Maeve Millay is feeling prepared and excited for a busy day at the cafe",
+    "embedding_key": "Maeve Millay is feeling prepared and excited for a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "Having",
+    "object": "Dolores Abernathy",
+    "description": "Having a quiet morning routine helps me stay focused.",
+    "original_description": "Having a quiet morning routine helps me stay focused.",
+    "embedding_key": "Having a quiet morning routine helps me stay focused.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "having",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_26",
+      "node_5"
+    ]
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is morning routine (waking up)",
+    "original_description": "Dolores Abernathy is morning routine (waking up)",
+    "embedding_key": "Dolores Abernathy is morning routine (waking up)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "feeling",
+    "object": "None",
+    "description": "I'm excited for a busy day at the cafe, and feeling prepared helps me stay that way.",
+    "original_description": "I'm excited for a busy day at the cafe, and feeling prepared helps me stay that way.",
+    "embedding_key": "I'm excited for a busy day at the cafe, and feeling prepared helps me stay that way.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feeling",
+      "none"
+    ],
+    "filling": [
+      "node_37",
+      "node_24",
+      "node_31"
+    ]
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "tend to look forward to",
+    "object": "busy days at the cafe",
+    "description": "I tend to look forward to busy days at the cafe, even if I'm initially hesitant to grab coffee and chat.",
+    "original_description": "I tend to look forward to busy days at the cafe, even if I'm initially hesitant to grab coffee and chat.",
+    "embedding_key": "I tend to look forward to busy days at the cafe, even if I'm initially hesitant to grab coffee and chat.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "tend to look forward to",
+      "busy days at the cafe"
+    ],
+    "filling": [
+      "node_11",
+      "node_22",
+      "node_38"
+    ]
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "is",
+    "object": "morning routine",
+    "description": "My morning routine is important for me to feel grounded and ready for the day.",
+    "original_description": "My morning routine is important for me to feel grounded and ready for the day.",
+    "embedding_key": "My morning routine is important for me to feel grounded and ready for the day.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "is",
+      "morning routine"
+    ],
+    "filling": [
+      "node_4",
+      "node_15",
+      "node_12"
+    ]
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "I",
+    "predicate": "prioritize",
+    "object": "Dolores Abernathy",
+    "description": "I prioritize my personal time and routine, even on busy days, to maintain a sense of balance.",
+    "original_description": "I prioritize my personal time and routine, even on busy days, to maintain a sense of balance.",
+    "embedding_key": "I prioritize my personal time and routine, even on busy days, to maintain a sense of balance.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "i",
+      "prioritize",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_1",
+      "node_20",
+      "node_10"
+    ]
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "is",
+    "object": "None",
+    "description": "My morning routine is essential for setting a positive tone for the day.",
+    "original_description": "My morning routine is essential for setting a positive tone for the day.",
+    "embedding_key": "My morning routine is essential for setting a positive tone for the day.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "is",
+      "none"
+    ],
+    "filling": [
+      "node_33",
+      "node_16",
+      "node_34"
+    ]
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "prioritize",
+    "object": "None",
+    "description": "I prioritize my own needs and desires, ensuring I'm well-prepared for the day ahead.",
+    "original_description": "I prioritize my own needs and desires, ensuring I'm well-prepared for the day ahead.",
+    "embedding_key": "I prioritize my own needs and desires, ensuring I'm well-prepared for the day ahead.",
+    "poignancy": 8,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "prioritize",
+      "none"
+    ],
+    "filling": [
+      "node_35",
+      "node_1",
+      "node_11"
+    ]
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Having a quiet morning routine helps me stay focused",
+    "predicate": "Having",
+    "object": "Dolores Abernathy",
+    "description": "Having a quiet morning routine helps me stay focused.",
+    "original_description": "Having a quiet morning routine helps me stay focused.",
+    "embedding_key": "Having a quiet morning routine helps me stay focused.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "having a quiet morning routine helps me stay focused",
+      "having",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_26",
+      "node_1",
+      "node_11"
+    ]
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "I",
+    "predicate": "feel",
+    "object": "Dolores Abernathy",
+    "description": "I feel prepared and excited for a busy day at the cafe when I have a consistent morning routine.",
+    "original_description": "I feel prepared and excited for a busy day at the cafe when I have a consistent morning routine.",
+    "embedding_key": "I feel prepared and excited for a busy day at the cafe when I have a consistent morning routine.",
+    "poignancy": 6,
+    "valence": 8,
+    "keywords": [
+      "i",
+      "feel",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_37",
+      "node_1",
+      "node_11"
+    ]
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "share",
+    "object": "Maeve Millay",
+    "description": "Maeve Millay and I share similar enthusiasm for our work at the cafe, despite our individual approaches.",
+    "original_description": "Maeve Millay and I share similar enthusiasm for our work at the cafe, despite our individual approaches.",
+    "embedding_key": "Maeve Millay and I share similar enthusiasm for our work at the cafe, despite our individual approaches.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "share",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_22",
+      "node_38",
+      "node_11"
+    ]
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "a quiet morning routine",
+    "predicate": "Having",
+    "object": "Dolores Abernathy",
+    "description": "Having a quiet morning routine helps me stay focused.",
+    "original_description": "Having a quiet morning routine helps me stay focused.",
+    "embedding_key": "Having a quiet morning routine helps me stay focused.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "a quiet morning routine",
+      "having",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_26",
+      "node_12",
+      "node_15"
+    ]
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed",
+    "predicate": "unoccupied",
+    "object": "bed",
+    "description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bed",
+      "bed"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "feeling",
+    "object": "None",
+    "description": "I feel prepared and excited for a busy day at the cafe.",
+    "original_description": "I feel prepared and excited for a busy day at the cafe.",
+    "embedding_key": "I feel prepared and excited for a busy day at the cafe.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feeling",
+      "none"
+    ],
+    "filling": [
+      "node_29",
+      "node_37",
+      "node_1",
+      "node_19"
+    ]
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "tend to look forward to",
+    "object": "Dolores Abernathy",
+    "description": "I tend to look forward to a busy day at the cafe, which helps me feel prepared.",
+    "original_description": "I tend to look forward to a busy day at the cafe, which helps me feel prepared.",
+    "embedding_key": "I tend to look forward to a busy day at the cafe, which helps me feel prepared.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "tend to look forward to",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_11",
+      "node_29",
+      "node_24",
+      "node_10"
+    ]
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "value",
+    "object": "my quiet morning routine",
+    "description": "I value my quiet morning routine and make time for it.",
+    "original_description": "I value my quiet morning routine and make time for it.",
+    "embedding_key": "I value my quiet morning routine and make time for it.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "value",
+      "my quiet morning routine"
+    ],
+    "filling": [
+      "node_11",
+      "node_29",
+      "node_26",
+      "node_12"
+    ]
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 19,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 07:55:10",
+    "expiration": "2023-03-15 07:55:10",
+    "subject": "I",
+    "predicate": "prioritize",
+    "object": "Dolores Abernathy",
+    "description": "I prioritize my work at Hobbs Cafe and make sure to plan my day accordingly.",
+    "original_description": "I prioritize my work at Hobbs Cafe and make sure to plan my day accordingly.",
+    "embedding_key": "I prioritize my work at Hobbs Cafe and make sure to plan my day accordingly.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "i",
+      "prioritize",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_27",
+      "node_4",
+      "node_29",
+      "node_1",
+      "node_10",
+      "node_25"
+    ]
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 20,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:59:50",
+    "expiration": "2023-03-15 07:59:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to have a quiet morning routine to stay focused, and possibly get some reading done before her shift starts.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to have a quiet morning routine to stay focused, and possibly get some reading done before her shift starts.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to have a quiet morning routine to stay focused, and possibly get some reading done before her shift starts.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 21,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:59:50",
+    "expiration": "2023-03-15 07:59:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found that having a quiet morning routine helps her stay focused.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found that having a quiet morning routine helps her stay focused.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found that having a quiet morning routine helps her stay focused.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "found",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing to leave",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is morning routine (preparing to leave)",
+    "original_description": "Dolores Abernathy is morning routine (preparing to leave)",
+    "embedding_key": "Dolores Abernathy is morning routine (preparing to leave)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "completing",
+    "object": "morning essentials",
+    "description": "Maeve Millay is waking up and completing the morning routine (preparing morning essentials)",
+    "original_description": "Maeve Millay is waking up and completing the morning routine (preparing morning essentials)",
+    "embedding_key": "Maeve Millay is waking up and completing the morning routine (preparing morning essentials)",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "morning essentials"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:07:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading to",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (getting ready to leave the house)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (getting ready to leave the house)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (getting ready to leave the house)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:07:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "morning routine",
+    "description": "Maeve Millay is waking up and completing the morning routine (waking up)",
+    "original_description": "Maeve Millay is waking up and completing the morning routine (waking up)",
+    "embedding_key": "Maeve Millay is waking up and completing the morning routine (waking up)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:07:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "feeling prepared and excited for a busy day",
+    "original_description": "feeling prepared and excited for a busy day",
+    "embedding_key": "feeling prepared and excited for a busy day",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hi Bernard, I'm feeling prepared and excited for a busy day at the cafe. I hope everything runs smoothly today."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get started then. I'll make sure to keep an eye on the cafe's inventory and make sure we're well-stocked for the lunch rush. How's your morning routine going?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm excited for a busy day at the cafe, and feeling prepared helps me stay that way. I've got my morning routine down to a science, and it's essential for setting a positive tone for the day."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get started then. I'll make sure to keep an eye on the cafe's inventory and make sure we're well-stocked for the lunch rush. What's the first order of business for you today?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm looking forward to a busy day at the cafe, and I've got my morning routine to help me stay focused. I think it's essential for setting a positive tone for the day."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get the cafe open. I'll start prepping the coffee machines and you can get the seating area ready. We've got a lot of customers to serve today."
+      ],
+      [
+        "Dolores Abernathy",
+        "I've got my morning routine down to a science, and it's essential for setting a positive tone for the day. I'm feeling prepared and excited to tackle the busy day ahead."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get the cafe open. I'll start prepping the coffee machines and you can get the seating area ready. We've got a lot of customers to serve today."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm all set to start my shift. I'll make sure to grab a coffee and chat with you before I start working."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get the cafe open. I'll start prepping the coffee machines and you can get the seating area ready. We've got a lot of customers to serve today."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm excited to be catching up with Maeve before my shift starts. She's always so enthusiastic about her work at the cafe."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get the cafe open. I'll start prepping the coffee machines and you can get the seating area ready. We've got a lot of customers to serve today."
+      ],
+      [
+        "Dolores Abernathy",
+        "I tend to look forward to busy days at the cafe, even if I'm initially hesitant to grab coffee and chat."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get started then. I'll make sure to keep an eye on the cafe's inventory and make sure we're well-stocked for the lunch rush. How's the seating area looking?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I've got my morning routine down to a science, and it's essential for setting a positive tone for the day. I'm feeling prepared and excited to tackle the busy day ahead."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get the cafe open. I'll start prepping the coffee machines and you can get the seating area ready. We've got a lot of customers to serve today."
+      ]
+    ]
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:07:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is feeling prepared and excited for a busy day",
+    "original_description": "Dolores Abernathy is feeling prepared and excited for a busy day",
+    "embedding_key": "Dolores Abernathy is feeling prepared and excited for a busy day",
+    "poignancy": 5,
+    "valence": 8,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_60"
+    ]
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:07:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is feeling prepared and excited for a busy day",
+    "original_description": "Bernard Lowe is feeling prepared and excited for a busy day",
+    "embedding_key": "Bernard Lowe is feeling prepared and excited for a busy day",
+    "poignancy": 2,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:13:50",
+    "expiration": "2023-03-15 08:13:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remember",
+    "object": "Maeve",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to catch up with Maeve before her shift starts.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to catch up with Maeve before her shift starts.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to catch up with Maeve before her shift starts.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "remember",
+      "maeve"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:13:50",
+    "expiration": "2023-03-15 08:13:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found it essential to have a morning routine to set a positive tone for the day.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it essential to have a morning routine to set a positive tone for the day.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it essential to have a morning routine to set a positive tone for the day.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "found",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:14:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "morning routine",
+    "object": "leaving the room",
+    "description": "Dolores Abernathy is morning routine (leaving the room)",
+    "original_description": "Dolores Abernathy is morning routine (leaving the room)",
+    "embedding_key": "Dolores Abernathy is morning routine (leaving the room)",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "leaving the room"
+    ],
+    "filling": null
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:14:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (getting ready to leave the house)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (getting ready to leave the house)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (getting ready to leave the house)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:18:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walk",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walk to Hobbs Cafe (getting ready to leave)",
+    "original_description": "Dolores Abernathy is walk to Hobbs Cafe (getting ready to leave)",
+    "embedding_key": "Dolores Abernathy is walk to Hobbs Cafe (getting ready to leave)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:27:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is",
+    "object": "behind the cafe counter",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unattended",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unattended",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unattended",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "behind the cafe counter"
+    ],
+    "filling": null
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:28:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is available",
+    "object": "seating",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "seating"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:01:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "catching up before work at Hobbs Cafe",
+    "original_description": "catching up before work at Hobbs Cafe",
+    "embedding_key": "catching up before work at Hobbs Cafe",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hey Maeve, good morning! I'm heading to work at Hobbs Cafe. Are you almost ready to leave too?"
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, I'm almost ready to head out too! I've got a bit of a morning routine to finish up, but then I'm off to Hobbs Cafe to start my shift."
+      ],
+      [
+        "Dolores Abernathy",
+        "Hey, want to grab a coffee and chat before my shift starts? I've got a lot on my mind and it's always nice to have some company."
+      ],
+      [
+        "Maeve Millay",
+        "That sounds nice, but I should probably get going soon. I have a lot to do before my shift starts."
+      ],
+      [
+        "Dolores Abernathy",
+        "Okay, no worries. I'll catch you at the cafe then. See you soon, Maeve!"
+      ],
+      [
+        "Maeve Millay",
+        "Sounds like a plan, Dolores. I'll catch you at the cafe. See you soon!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Hey, I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, I'm looking forward to a busy day at the cafe. I've got a lot to get done before my shift ends. See you soon!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Hey, I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, I'm looking forward to a busy day too. I've got a lot of orders to fill and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I hope you have a great day, Maeve. I'm looking forward to a quiet shift at the cafe. See you soon!"
+      ],
+      [
+        "Maeve Millay",
+        "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+      ]
+    ]
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:31:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walk",
+    "object": "Hobbs Cafe (double-checking the room)",
+    "description": "Dolores Abernathy is walk to Hobbs Cafe (double-checking the room)",
+    "original_description": "Dolores Abernathy is walk to Hobbs Cafe (double-checking the room)",
+    "embedding_key": "Dolores Abernathy is walk to Hobbs Cafe (double-checking the room)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe (double-checking the room)"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 24,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:37:50",
+    "expiration": "2023-03-15 08:37:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to grab a coffee and chat with Bernard before her shift starts, and maybe catch up with Maeve as well.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to grab a coffee and chat with Bernard before her shift starts, and maybe catch up with Maeve as well.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to grab a coffee and chat with Bernard before her shift starts, and maybe catch up with Maeve as well.",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 25,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:37:50",
+    "expiration": "2023-03-15 08:37:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found",
+    "object": "morning routine",
+    "description": "Dolores Abernathy Dolores Abernathy found her morning routine helpful in staying focused.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found her morning routine helpful in staying focused.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found her morning routine helpful in staying focused.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "found",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:38:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading to",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:38:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "preparing for a busy day at the cafe",
+    "original_description": "preparing for a busy day at the cafe",
+    "embedding_key": "preparing for a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hey Dolores, I'm so excited for today's shift. I've been practicing some new drinks and I'm feeling pretty confident. How about you, ready for the chaos?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm looking forward to it too! I've been practicing some new latte art designs and I'm hoping to get some feedback from Bernard. How's your morning routine been going?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to trying out those new drinks on customers today. Do you think Bernard will be impressed?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused, and I'm looking forward to a busy day at the cafe."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really excited to try out those new drinks on customers today. I've been practicing and I think they'll be a hit. I also need to remember to try out some new drinks during my shift, I don't want to forget!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Ah, I'm glad you're feeling prepared too! I think having a quiet morning routine helps me stay focused, and I'm looking forward to a busy day at the cafe. The customer seating is available, so I'm hoping we'll have a good crowd in."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to it! I've been practicing some new latte art designs and I'm hoping to get some feedback from Bernard. Do you think he'll be impressed?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. I'll make sure to catch up with Bernard before my shift starts."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really hoping to get some feedback from Bernard on my new drinks, too. Do you think he'll be impressed?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. I'll make sure to have a quiet moment before my shift starts to collect my thoughts."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really hoping to get some feedback from Bernard on my new drinks, too. Do you think he'll be impressed by the designs I've been practicing?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm excited to catch up with Bernard before my shift starts. Maybe we can grab a coffee and chat for a bit?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm really excited to try out those new drinks on customers today. I've been practicing and I think they'll be a hit. Maybe we can even get some feedback from Bernard together?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. Maybe we can grab a coffee and chat for a bit before my shift starts?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to trying out those new drinks on customers today. Maybe we can even get some feedback from Bernard together?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm glad we're both feeling prepared. Maybe we can grab a coffee and chat for a bit before my shift starts? I'd love to hear more about your new drinks and designs."
+      ]
+    ]
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:38:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is preparing for a busy day at the cafe",
+    "original_description": "Dolores Abernathy is preparing for a busy day at the cafe",
+    "embedding_key": "Dolores Abernathy is preparing for a busy day at the cafe",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_74"
+    ]
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:39:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is preparing for a busy day at the cafe",
+    "original_description": "Maeve Millay is preparing for a busy day at the cafe",
+    "embedding_key": "Maeve Millay is preparing for a busy day at the cafe",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:43:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is",
+    "object": "seating",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "cafe customer seating",
+      "seating"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 26,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:44:50",
+    "expiration": "2023-03-15 08:44:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to meet",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to meet Bernard before her shift starts and possibly grab a coffee and chat with Maeve.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to meet Bernard before her shift starts and possibly grab a coffee and chat with Maeve.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to meet Bernard before her shift starts and possibly grab a coffee and chat with Maeve.",
+    "poignancy": 6,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "needs to meet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 27,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:44:50",
+    "expiration": "2023-03-15 08:44:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found that",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found that having a quiet morning routine helps her stay focused.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found that having a quiet morning routine helps her stay focused.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found that having a quiet morning routine helps her stay focused.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "found that",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is catching up before work at Hobbs Cafe",
+    "original_description": "Dolores Abernathy is catching up before work at Hobbs Cafe",
+    "embedding_key": "Dolores Abernathy is catching up before work at Hobbs Cafe",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_7"
+    ]
+  },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is walking to Hobbs Cafe (unlocking cafe door)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (unlocking cafe door)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (unlocking cafe door)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 28,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "prioritize",
+    "object": "None",
+    "description": "I prioritize my own needs and desires, even on busy days, to maintain a sense of balance.",
+    "original_description": "I prioritize my own needs and desires, even on busy days, to maintain a sense of balance.",
+    "embedding_key": "I prioritize my own needs and desires, even on busy days, to maintain a sense of balance.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "prioritize",
+      "none"
+    ],
+    "filling": [
+      "node_45",
+      "node_43",
+      "node_78"
+    ]
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 29,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "feeling",
+    "object": "cafe",
+    "description": "Feeling prepared and excited for a busy day at the cafe is crucial for my emotional patterns.",
+    "original_description": "Feeling prepared and excited for a busy day at the cafe is crucial for my emotional patterns.",
+    "embedding_key": "Feeling prepared and excited for a busy day at the cafe is crucial for my emotional patterns.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feeling",
+      "cafe"
+    ],
+    "filling": [
+      "node_37",
+      "node_40",
+      "node_61",
+      "node_47"
+    ]
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 30,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "a consistent morning routine helps me stay focused and prepared for the day ahead",
+    "predicate": "Having",
+    "object": "Dolores Abernathy",
+    "description": "Having a consistent morning routine helps me stay focused and prepared for the day ahead.",
+    "original_description": "Having a consistent morning routine helps me stay focused and prepared for the day ahead.",
+    "embedding_key": "Having a consistent morning routine helps me stay focused and prepared for the day ahead.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "a consistent morning routine helps me stay focused and prepared for the day ahead",
+      "having",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_80",
+      "node_39",
+      "node_26",
+      "node_55"
+    ]
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 31,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "value",
+    "object": "Maeve",
+    "description": "I value my relationships with others, such as Maeve and Bernard, and make time for social interactions.",
+    "original_description": "I value my relationships with others, such as Maeve and Bernard, and make time for social interactions.",
+    "embedding_key": "I value my relationships with others, such as Maeve and Bernard, and make time for social interactions.",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "value",
+      "maeve"
+    ],
+    "filling": [
+      "node_11",
+      "node_54",
+      "node_78",
+      "node_46"
+    ]
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 32,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "Having",
+    "object": "None",
+    "description": "Having a quiet morning routine is essential for my sense of self and emotional patterns.",
+    "original_description": "Having a quiet morning routine is essential for my sense of self and emotional patterns.",
+    "embedding_key": "Having a quiet morning routine is essential for my sense of self and emotional patterns.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "having",
+      "none"
+    ],
+    "filling": [
+      "node_42",
+      "node_52",
+      "node_80",
+      "node_39",
+      "node_26"
+    ]
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 33,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "Having",
+    "object": "None",
+    "description": "Having a quiet morning routine is essential for setting a positive tone for the day and staying focused.",
+    "original_description": "Having a quiet morning routine is essential for setting a positive tone for the day and staying focused.",
+    "embedding_key": "Having a quiet morning routine is essential for setting a positive tone for the day and staying focused.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "having",
+      "none"
+    ],
+    "filling": [
+      "node_79",
+      "node_61",
+      "node_44",
+      "node_64",
+      "node_12"
+    ]
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 34,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "prioritizing",
+    "object": "personal time and routine",
+    "description": "Prioritizing personal time and routine is crucial for maintaining a sense of balance and preparedness.",
+    "original_description": "Prioritizing personal time and routine is crucial for maintaining a sense of balance and preparedness.",
+    "embedding_key": "Prioritizing personal time and routine is crucial for maintaining a sense of balance and preparedness.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "prioritizing",
+      "personal time and routine"
+    ],
+    "filling": [
+      "node_43",
+      "node_54",
+      "node_52",
+      "node_42"
+    ]
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 35,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "Sharing",
+    "object": "Maeve Millay",
+    "description": "Sharing similar enthusiasm for work with Maeve Millay creates a sense of camaraderie and shared purpose.",
+    "original_description": "Sharing similar enthusiasm for work with Maeve Millay creates a sense of camaraderie and shared purpose.",
+    "embedding_key": "Sharing similar enthusiasm for work with Maeve Millay creates a sense of camaraderie and shared purpose.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "sharing",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_48",
+      "node_24",
+      "node_38"
+    ]
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 36,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "Feeling",
+    "object": "None",
+    "description": "Feeling prepared and excited for a busy day at the cafe is a common emotional state for Dolores Abernathy.",
+    "original_description": "Feeling prepared and excited for a busy day at the cafe is a common emotional state for Dolores Abernathy.",
+    "embedding_key": "Feeling prepared and excited for a busy day at the cafe is a common emotional state for Dolores Abernathy.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feeling",
+      "none"
+    ],
+    "filling": [
+      "node_26",
+      "node_37",
+      "node_75",
+      "node_24"
+    ]
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is catching up before work at Hobbs Cafe",
+    "original_description": "Maeve Millay is catching up before work at Hobbs Cafe",
+    "embedding_key": "Maeve Millay is catching up before work at Hobbs Cafe",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 37,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "Grabbing",
+    "object": "coffee",
+    "description": "Grabbing a coffee and chatting with Bernard before a shift is important for Dolores Abernathy's work routine.",
+    "original_description": "Grabbing a coffee and chatting with Bernard before a shift is important for Dolores Abernathy's work routine.",
+    "embedding_key": "Grabbing a coffee and chatting with Bernard before a shift is important for Dolores Abernathy's work routine.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "grabbing",
+      "coffee"
+    ],
+    "filling": [
+      "node_72",
+      "node_71",
+      "node_25",
+      "node_12"
+    ]
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 38,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "prioritize",
+    "object": "None",
+    "description": "I prioritize my own needs and desires, ensuring I'm well-prepared for the day ahead.",
+    "original_description": "I prioritize my own needs and desires, ensuring I'm well-prepared for the day ahead.",
+    "embedding_key": "I prioritize my own needs and desires, ensuring I'm well-prepared for the day ahead.",
+    "poignancy": 3,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "prioritize",
+      "none"
+    ],
+    "filling": [
+      "node_43",
+      "node_45",
+      "node_71"
+    ]
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 39,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "is",
+    "object": "morning routine",
+    "description": "My morning routine is important for me to feel grounded and ready for the day.",
+    "original_description": "My morning routine is important for me to feel grounded and ready for the day.",
+    "embedding_key": "My morning routine is important for me to feel grounded and ready for the day.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "is",
+      "morning routine"
+    ],
+    "filling": [
+      "node_12",
+      "node_42"
+    ]
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 40,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "make time for",
+    "object": "my quiet morning routine",
+    "description": "I value my quiet morning routine and make time for it, which helps me stay focused and prepared for a busy day.",
+    "original_description": "I value my quiet morning routine and make time for it, which helps me stay focused and prepared for a busy day.",
+    "embedding_key": "I value my quiet morning routine and make time for it, which helps me stay focused and prepared for a busy day.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "make time for",
+      "my quiet morning routine"
+    ],
+    "filling": [
+      "node_54",
+      "node_11",
+      "node_39",
+      "node_52"
+    ]
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 41,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "share",
+    "object": "Maeve Millay",
+    "description": "Maeve Millay and I share similar enthusiasm for our work at the cafe, despite our individual approaches.",
+    "original_description": "Maeve Millay and I share similar enthusiasm for our work at the cafe, despite our individual approaches.",
+    "embedding_key": "Maeve Millay and I share similar enthusiasm for our work at the cafe, despite our individual approaches.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "share",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_48",
+      "node_76"
+    ]
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 42,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 08:45:10",
+    "expiration": "2023-03-15 08:45:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "Having",
+    "object": "Dolores Abernathy",
+    "description": "Having a quiet morning routine is essential for setting a positive tone for the day and helping me stay focused.",
+    "original_description": "Having a quiet morning routine is essential for setting a positive tone for the day and helping me stay focused.",
+    "embedding_key": "Having a quiet morning routine is essential for setting a positive tone for the day and helping me stay focused.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "having",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_54",
+      "node_11",
+      "node_64",
+      "node_39",
+      "node_44"
+    ]
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walk",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walk to Hobbs Cafe (double-checking the room)",
+    "original_description": "Dolores Abernathy is walk to Hobbs Cafe (double-checking the room)",
+    "embedding_key": "Dolores Abernathy is walk to Hobbs Cafe (double-checking the room)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is coordinating cafe operations for a busy lunch rush",
+    "original_description": "Maeve Millay is coordinating cafe operations for a busy lunch rush",
+    "embedding_key": "Maeve Millay is coordinating cafe operations for a busy lunch rush",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is coordinating cafe operations for a busy lunch rush",
+    "original_description": "Bernard Lowe is coordinating cafe operations for a busy lunch rush",
+    "embedding_key": "Bernard Lowe is coordinating cafe operations for a busy lunch rush",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walk to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Dolores Abernathy is walk to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Dolores Abernathy is walk to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  }
+}

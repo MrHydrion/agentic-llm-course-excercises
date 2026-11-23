@@ -1,0 +1,1069 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe and start work at 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, go straight back to her room at the dorm and read from 4:00pm to 6:00pm, have dinner at the dorm at 6:00pm, read in her room from 6:00pm to 11:00pm, go to bed at 11:00pm.",
+    "original_description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe and start work at 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, go straight back to her room at the dorm and read from 4:00pm to 6:00pm, have dinner at the dorm at 6:00pm, read in her room from 6:00pm to 11:00pm, go to bed at 11:00pm.",
+    "embedding_key": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe and start work at 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, go straight back to her room at the dorm and read from 4:00pm to 6:00pm, have dinner at the dorm at 6:00pm, read in her room from 6:00pm to 11:00pm, go to bed at 11:00pm.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:06:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating morning cafe routine and preparing for the rush",
+    "original_description": "Dolores Abernathy is coordinating morning cafe routine and preparing for the rush",
+    "embedding_key": "Dolores Abernathy is coordinating morning cafe routine and preparing for the rush",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_9"
+    ]
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:06:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating morning cafe routine and preparing for the rush",
+    "original_description": "Maeve Millay is coordinating morning cafe routine and preparing for the rush",
+    "embedding_key": "Maeve Millay is coordinating morning cafe routine and preparing for the rush",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:09:50",
+    "expiration": "2023-03-15 07:09:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to meet Maeve at the cafe before their shifts start.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to meet Maeve at the cafe before their shifts start.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to meet Maeve at the cafe before their shifts start.",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:09:50",
+    "expiration": "2023-03-15 07:09:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found it interesting",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found it interesting that she and Maeve were both on the same page and ready to tackle the morning rush together.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it interesting that she and Maeve were both on the same page and ready to tackle the morning rush together.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it interesting that she and Maeve were both on the same page and ready to tackle the morning rush together.",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "found it interesting",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is waking up and completing the morning routine (getting dressed)",
+    "original_description": "Dolores Abernathy is waking up and completing the morning routine (getting dressed)",
+    "embedding_key": "Dolores Abernathy is waking up and completing the morning routine (getting dressed)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:12:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet",
+    "predicate": "is open",
+    "object": "closet",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is open",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is open",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is open",
+    "poignancy": 5,
+    "valence": 1,
+    "keywords": [
+      "closet",
+      "closet"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:19:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk is cluttered",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk is cluttered",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk is cluttered",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "desk",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:33:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet",
+    "predicate": "unopened",
+    "object": "closet",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is unopened",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is unopened",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is unopened",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "closet",
+      "closet"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:37:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "is made",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is made",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is made",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is made",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:43:50",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "powered",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is powered off",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is powered off",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is powered off",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "sleeping",
+    "object": "sleeping",
+    "description": "Dolores Abernathy is sleeping",
+    "original_description": "Dolores Abernathy is sleeping",
+    "embedding_key": "Dolores Abernathy is sleeping",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "sleeping"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:52:50",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "unoccupied",
+    "object": "bed",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bed",
+      "bed"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "starting work",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe and starting work (getting ready to leave the dorm)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe and starting work (getting ready to leave the dorm)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe and starting work (getting ready to leave the dorm)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:40",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "is unattended",
+    "object": "sink",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unattended",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unattended",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unattended",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "sink"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:13:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is unoccupied",
+    "object": "room table",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is unoccupied",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "common room table",
+      "room table"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:23:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "undisturbed",
+    "object": "room table",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is undisturbed",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is undisturbed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is undisturbed",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "common room table",
+      "room table"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:28:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:common room:common room table",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:common room:common room table is unattended",
+    "original_description": "the Ville:Dorm for Oak Hill College:common room:common room table is unattended",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:common room:common room table is unattended",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "common room table",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "value",
+    "object": "routine and predictability",
+    "description": "I value routine and predictability in my daily life.",
+    "original_description": "I value routine and predictability in my daily life.",
+    "embedding_key": "I value routine and predictability in my daily life.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "value",
+      "routine and predictability"
+    ],
+    "filling": [
+      "node_10",
+      "node_6",
+      "node_12",
+      "node_20",
+      "node_1"
+    ]
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "prioritize",
+    "object": "relationships and social interactions",
+    "description": "I tend to prioritize tasks over relationships and social interactions.",
+    "original_description": "I tend to prioritize tasks over relationships and social interactions.",
+    "embedding_key": "I tend to prioritize tasks over relationships and social interactions.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "prioritize",
+      "relationships and social interactions"
+    ],
+    "filling": [
+      "node_10",
+      "node_6",
+      "node_12",
+      "node_22",
+      "node_13",
+      "node_4",
+      "node_7",
+      "node_15",
+      "node_2",
+      "node_3",
+      "node_25",
+      "node_17",
+      "node_1",
+      "node_5",
+      "node_18",
+      "node_8",
+      "node_23",
+      "node_19",
+      "node_21",
+      "node_16",
+      "node_14",
+      "node_24"
+    ]
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "feel",
+    "object": "None",
+    "description": "I feel more in control when I have a clear plan and schedule.",
+    "original_description": "I feel more in control when I have a clear plan and schedule.",
+    "embedding_key": "I feel more in control when I have a clear plan and schedule.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "feel",
+      "none"
+    ],
+    "filling": [
+      "node_10",
+      "node_6",
+      "node_12",
+      "node_22",
+      "node_11",
+      "node_4",
+      "node_7",
+      "node_15",
+      "node_2",
+      "node_3",
+      "node_25",
+      "node_20",
+      "node_17",
+      "node_1",
+      "node_5",
+      "node_18",
+      "node_8",
+      "node_23",
+      "node_19",
+      "node_21",
+      "node_16",
+      "node_14",
+      "node_24"
+    ]
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "finding",
+    "object": "None",
+    "description": "I often find myself lost in thought, reading, or daydreaming.",
+    "original_description": "I often find myself lost in thought, reading, or daydreaming.",
+    "embedding_key": "I often find myself lost in thought, reading, or daydreaming.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "finding",
+      "none"
+    ],
+    "filling": [
+      "node_2",
+      "node_3",
+      "node_25",
+      "node_20",
+      "node_17",
+      "node_1",
+      "node_5",
+      "node_18",
+      "node_8",
+      "node_23",
+      "node_19",
+      "node_21",
+      "node_16",
+      "node_14",
+      "node_24"
+    ]
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "occupied",
+    "object": "bed",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bed",
+      "bed"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "keep",
+    "object": "None",
+    "description": "I prefer to keep my personal and professional life separate.",
+    "original_description": "I prefer to keep my personal and professional life separate.",
+    "embedding_key": "I prefer to keep my personal and professional life separate.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "keep",
+      "none"
+    ],
+    "filling": [
+      "node_10",
+      "node_6",
+      "node_12",
+      "node_22",
+      "node_11",
+      "node_13",
+      "node_4",
+      "node_7",
+      "node_15",
+      "node_2",
+      "node_3",
+      "node_25",
+      "node_20",
+      "node_17",
+      "node_1",
+      "node_5",
+      "node_18",
+      "node_8",
+      "node_23",
+      "node_19",
+      "node_21",
+      "node_16",
+      "node_14",
+      "node_24"
+    ]
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "ensuring",
+    "object": "Maeve",
+    "description": "I value teamwork and coordination with Maeve to ensure a smooth morning rush.",
+    "original_description": "I value teamwork and coordination with Maeve to ensure a smooth morning rush.",
+    "embedding_key": "I value teamwork and coordination with Maeve to ensure a smooth morning rush.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "ensuring",
+      "maeve"
+    ],
+    "filling": [
+      "node_11",
+      "node_13",
+      "node_10"
+    ]
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "need time",
+    "object": "None",
+    "description": "I am not a morning person and need time to wake up and get ready.",
+    "original_description": "I am not a morning person and need time to wake up and get ready.",
+    "embedding_key": "I am not a morning person and need time to wake up and get ready.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "need time",
+      "none"
+    ],
+    "filling": [
+      "node_14",
+      "node_6",
+      "node_4"
+    ]
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "organized",
+    "object": "Dolores Abernathy",
+    "description": "I am organized and prepared for my day, but may not always follow my planned schedule.",
+    "original_description": "I am organized and prepared for my day, but may not always follow my planned schedule.",
+    "embedding_key": "I am organized and prepared for my day, but may not always follow my planned schedule.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "organized",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_17",
+      "node_16",
+      "node_7"
+    ]
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "have",
+    "object": "None",
+    "description": "I have a strong sense of responsibility and commitment to my work and personal life.",
+    "original_description": "I have a strong sense of responsibility and commitment to my work and personal life.",
+    "embedding_key": "I have a strong sense of responsibility and commitment to my work and personal life.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "have",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_12",
+      "node_3"
+    ]
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "prioritize",
+    "object": "routine and predictability",
+    "description": "I prioritize routine and predictability to maintain a sense of control and stability.",
+    "original_description": "I prioritize routine and predictability to maintain a sense of control and stability.",
+    "embedding_key": "I prioritize routine and predictability to maintain a sense of control and stability.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "prioritize",
+      "routine and predictability"
+    ],
+    "filling": [
+      "node_19",
+      "node_11",
+      "node_22",
+      "node_1",
+      "node_21"
+    ]
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "takes time to read and relax",
+    "object": "None",
+    "description": "Dolores Abernathy's personal space is important to her and she takes time to read and relax",
+    "original_description": "Dolores Abernathy's personal space is important to her and she takes time to read and relax",
+    "embedding_key": "Dolores Abernathy's personal space is important to her and she takes time to read and relax",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "takes time to read and relax",
+      "none"
+    ],
+    "filling": [
+      "node_16",
+      "node_13",
+      "node_20",
+      "node_18"
+    ]
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "appreciates",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy appreciates the importance of teamwork and coordination with Maeve Millay",
+    "original_description": "Dolores Abernathy appreciates the importance of teamwork and coordination with Maeve Millay",
+    "embedding_key": "Dolores Abernathy appreciates the importance of teamwork and coordination with Maeve Millay",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "appreciates",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_24",
+      "node_13",
+      "node_23",
+      "node_11"
+    ]
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores Abernathy values her alone time and can be found reading and recharging in the evenings",
+    "original_description": "Dolores Abernathy values her alone time and can be found reading and recharging in the evenings",
+    "embedding_key": "Dolores Abernathy values her alone time and can be found reading and recharging in the evenings",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_7",
+      "node_4",
+      "node_17",
+      "node_3",
+      "node_2"
+    ]
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "routine and structure",
+    "description": "Dolores Abernathy values routine and structure in her daily life",
+    "original_description": "Dolores Abernathy values routine and structure in her daily life",
+    "embedding_key": "Dolores Abernathy values routine and structure in her daily life",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "routine and structure"
+    ],
+    "filling": [
+      "node_21",
+      "node_1",
+      "node_15",
+      "node_6",
+      "node_19"
+    ]
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is waking up and completing the morning routine (waking up)",
+    "original_description": "Dolores Abernathy is waking up and completing the morning routine (waking up)",
+    "embedding_key": "Dolores Abernathy is waking up and completing the morning routine (waking up)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:28:20",
+    "expiration": "2023-03-15 08:28:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "prioritizes",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy prioritizes her work at Hobbs Cafe and is prepared to tackle the morning rush",
+    "original_description": "Dolores Abernathy prioritizes her work at Hobbs Cafe and is prepared to tackle the morning rush",
+    "embedding_key": "Dolores Abernathy prioritizes her work at Hobbs Cafe and is prepared to tackle the morning rush",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "prioritizes",
+      "hobbs cafe"
+    ],
+    "filling": [
+      "node_21",
+      "node_12",
+      "node_10",
+      "node_5",
+      "node_11"
+    ]
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:05:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up and completing the morning routine (getting dressed)",
+    "original_description": "Dolores Abernathy is waking up and completing the morning routine (getting dressed)",
+    "embedding_key": "Dolores Abernathy is waking up and completing the morning routine (getting dressed)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:06:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:06:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Maeve Millay is waking up and completing morning routine (stretching and yawning)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (stretching and yawning)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (stretching and yawning)",
+    "poignancy": 2,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:06:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating morning cafe routine and preparing for the rush",
+    "original_description": "coordinating morning cafe routine and preparing for the rush",
+    "embedding_key": "coordinating morning cafe routine and preparing for the rush",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. I'm heading to work now. See you at the cafe?"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! Yeah, I'm heading to work too. See you at the cafe."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm going to grab a coffee before my shift starts. Want to join me?"
+      ],
+      [
+        "Maeve Millay",
+        "I'd love a coffee before my shift starts. What kind do you recommend today?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I think we're both running a bit behind schedule, so maybe we can grab that coffee and head to the cafe together?"
+      ],
+      [
+        "Maeve Millay",
+        "Sounds good! I'll meet you at the cafe and we can grab our coffees together. I'm looking forward to a busy day at work."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm really looking forward to a busy day at work. How about you, Maeve? Ready to tackle the morning rush?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm good, thanks! I'm looking forward to a busy morning at the cafe. How's your day shaping up?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm looking forward to it, Maeve. Let's get our orders ready for the morning rush. I'll start prepping the coffee machines."
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, me too. Let's get the cafe ready for the morning rush. I'll start setting up the pastry display."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm excited to get started on the morning rush. I hope it's a busy day! How about you, Maeve?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm excited to get started on the morning rush. Bernard is already setting up the coffee machines. We should get going too."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm all set to start prepping the coffee machines. Let's make sure we're both ready for the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, me too. I think we're both ready for the morning rush. Let's get the cafe open!"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm so glad we're both on the same page, Maeve. Let's get those orders ready and make this morning rush a breeze. What's the plan for today's specials?"
+      ],
+      [
+        "Maeve Millay",
+        "Hey, Dolores, I think we're all set for the morning rush. Let's make sure to keep the cafe tidy and organized throughout the day."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,1541 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Maeve Millay",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Maeve Millay's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, walk to Johnson Park and walk through the park, have dinner at the dorm at 8:00pm, spend the evening in her room, go to bed at 11:00pm.",
+    "original_description": "This is Maeve Millay's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, walk to Johnson Park and walk through the park, have dinner at the dorm at 8:00pm, spend the evening in her room, go to bed at 11:00pm.",
+    "embedding_key": "This is Maeve Millay's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe by 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, walk to Johnson Park and walk through the park, have dinner at the dorm at 8:00pm, spend the evening in her room, go to bed at 11:00pm.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:12:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "catching up and planning social activities",
+    "original_description": "catching up and planning social activities",
+    "embedding_key": "catching up and planning social activities",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hey Dolores, good morning! How's your day going so far?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! I'm doing well, thanks for asking. I'm just getting ready for work at Hobbs Cafe. How about you?"
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, I'm getting ready for work too. I have to get to Hobbs Cafe by 8am. Want to walk together?"
+      ],
+      [
+        "Dolores Abernathy",
+        "That sounds like a great idea, Maeve! I could use the company. Shall we head out together?"
+      ],
+      [
+        "Maeve Millay",
+        "Sounds good, let's head out together! I'm looking forward to a busy day at Hobbs Cafe. See you there, Dolores!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Yeah, I'm looking forward to it too. We should grab a quick breakfast before we head out. I'm starving!"
+      ],
+      [
+        "Maeve Millay",
+        "So, I was thinking of walking to Johnson Park after work today. Have you been there lately?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Sounds like a great idea, Maeve! I've been meaning to check out some new books at the college library. Maybe we can grab a coffee and discuss our favorite reads after work?"
+      ],
+      [
+        "Maeve Millay",
+        "Sounds great, Dolores! I'll meet you at the cafe after my shift. Maybe we can grab that coffee and discuss our favorite reads then?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Sounds like a plan, Maeve! I'm looking forward to grabbing that coffee and discussing our favorite reads. See you at the cafe!"
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, that sounds like a great idea, Dolores! I'll make sure to grab a coffee and meet you at the cafe after my shift. Maybe we can even grab a book to read together afterwards?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'd love to grab a coffee and discuss our favorite reads after work. What's been your favorite book lately?"
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to it! I've been meaning to get into more sci-fi lately, do you have any recommendations?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I've been meaning to get into more sci-fi lately too. I just finished reading a really good book about space exploration. Maybe we can grab that coffee and discuss our favorite sci-fi books after work?"
+      ],
+      [
+        "Maeve Millay",
+        "Sounds great, Dolores! I'll make sure to grab a coffee and meet you at the cafe after my shift. Maybe we can even grab a book to read together afterwards?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm really excited to discuss our favorite sci-fi books after work. I've been meaning to ask you, have you read any good books recently that I might have missed?"
+      ]
+    ]
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:12:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is catching up and planning social activities",
+    "original_description": "Maeve Millay is catching up and planning social activities",
+    "embedding_key": "Maeve Millay is catching up and planning social activities",
+    "poignancy": 5,
+    "valence": 6,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_10"
+    ]
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:12:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is catching up and planning social activities",
+    "original_description": "Dolores Abernathy is catching up and planning social activities",
+    "embedding_key": "Dolores Abernathy is catching up and planning social activities",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:17:50",
+    "expiration": "2023-03-15 07:17:50",
+    "subject": "Maeve Millay",
+    "predicate": "meet",
+    "object": "Dolores Abernathy",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy at the cafe after her shift to discuss their favorite sci-fi books and possibly grab a book to read together afterwards.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy at the cafe after her shift to discuss their favorite sci-fi books and possibly grab a book to read together afterwards.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy at the cafe after her shift to discuss their favorite sci-fi books and possibly grab a book to read together afterwards.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "meet",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:17:50",
+    "expiration": "2023-03-15 07:17:50",
+    "subject": "Maeve Millay",
+    "predicate": "has been meaning to get into",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay Maeve Millay found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately.",
+    "original_description": "Maeve Millay Maeve Millay found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately.",
+    "embedding_key": "Maeve Millay Maeve Millay found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately.",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "has been meaning to get into",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:19:50",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is",
+    "object": "bathroom sink",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is wet",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is wet",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is wet",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "bathroom sink"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:21:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is unoccupied",
+    "object": "bathroom sink",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "bathroom sink"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:31:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is empty",
+    "original_description": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is empty",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink is empty",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:31:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Maeve Millay is waking up and completing morning routine (making breakfast)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (making breakfast)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (making breakfast)",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:51:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up and completing morning routine (leaving for Hobbs Cafe)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (leaving for Hobbs Cafe)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (leaving for Hobbs Cafe)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is occupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is occupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is occupied",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:51:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is waking up and completing morning routine (locking the door)",
+    "original_description": "Dolores Abernathy is waking up and completing morning routine (locking the door)",
+    "embedding_key": "Dolores Abernathy is waking up and completing morning routine (locking the door)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:56:50",
+    "expiration": "2023-03-15 07:56:50",
+    "subject": "Maeve Millay",
+    "predicate": "needs to remember",
+    "object": "Childhood's End",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember to grab a copy of 'Childhood's End' and meet Dolores Abernathy at the cafe after her shift.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember to grab a copy of 'Childhood's End' and meet Dolores Abernathy at the cafe after her shift.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember to grab a copy of 'Childhood's End' and meet Dolores Abernathy at the cafe after her shift.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "needs to remember",
+      "childhood's end"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:56:50",
+    "expiration": "2023-03-15 07:56:50",
+    "subject": "Maeve Millay",
+    "predicate": "found to be",
+    "object": "idea of first contact with an alien civilization",
+    "description": "Maeve Millay Maeve Millay found the idea of first contact with an alien civilization to be both exciting and terrifying.",
+    "original_description": "Maeve Millay Maeve Millay found the idea of first contact with an alien civilization to be both exciting and terrifying.",
+    "embedding_key": "Maeve Millay Maeve Millay found the idea of first contact with an alien civilization to be both exciting and terrifying.",
+    "poignancy": 2,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "found to be",
+      "idea of first contact with an alien civilization"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:57:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "leaving",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is leaving for Hobbs Cafe",
+    "original_description": "Maeve Millay is leaving for Hobbs Cafe",
+    "embedding_key": "Maeve Millay is leaving for Hobbs Cafe",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:03:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading to",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (getting dressed)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (getting dressed)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (getting dressed)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:03:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:piano",
+    "predicate": "unattended",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:piano is unattended",
+    "original_description": "the Ville:Hobbs Cafe:cafe:piano is unattended",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:piano is unattended",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "piano",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:03:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "staying focused on cafe tasks while trying to discuss sci-fi books",
+    "original_description": "staying focused on cafe tasks while trying to discuss sci-fi books",
+    "embedding_key": "staying focused on cafe tasks while trying to discuss sci-fi books",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hi Bernard, I'm heading to the cafe to start my shift. Just wanted to confirm that everything is ready to go. Oh, and I almost forgot, I'm planning to meet Dolores after my shift to discuss some sci-fi books. Would you like to join us?"
+      ],
+      [
+        "Bernard Lowe",
+        "What's with the sci-fi books, Maeve? I don't think that's relevant to our work here at Hobbs Cafe."
+      ],
+      [
+        "Maeve Millay",
+        "Oh, okay, I understand. I'll make sure to keep the conversation work-related. Can I ask, have you thought about any new promotions or events we could have at the cafe to attract more customers?"
+      ],
+      [
+        "Bernard Lowe",
+        "Look, Maeve, I don't have time for sci-fi books or whatever. I need to make sure the cafe is running smoothly. Just focus on your job, okay?"
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. I'll make sure to keep my focus on the cafe. But I did want to remind you that I'll be meeting Dolores after my shift to discuss some sci-fi books. Would you like to join us?"
+      ],
+      [
+        "Bernard Lowe",
+        "Look, Maeve, I don't have time for small talk. Just get to work and make sure the cafe is running smoothly."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, I understand. I'll make sure to keep my focus on the cafe. By the way, I found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately. Maybe I can get her to recommend some titles to me."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, I need you to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized. I'll be handling the piano, so you focus on the seating area."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, got it. I'll make sure the seating area is spotless and organized for the morning rush. Would you like me to also prepare the menu boards and make sure the pastry display is looking good?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, get the seating area ready for the morning rush. I'll handle the piano. Don't bother me with any questions, just get it done."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, I'll get the seating area ready for the morning rush. Can I ask, have you thought about any new promotions or events we could have at the cafe to attract more customers?"
+      ],
+      [
+        "Bernard Lowe",
+        "Don't bother me with any ideas, just get the seating area ready for the morning rush. And make sure it's spotless, I don't want to see any crumbs or stains."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, I'll make sure the seating area is spotless and organized. I'll also grab a copy of 'Childhood's End' to discuss with Dolores after my shift. Can I ask, Bernard, if you'd like to join us for a quick chat about sci-fi books after my shift is over?"
+      ],
+      [
+        "Bernard Lowe",
+        "Just get the seating area ready, Maeve. I don't have time for small talk or sci-fi books. Just focus on your job."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, Bernard, I'll make sure the seating area is spotless and organized. Can I ask, do you have any feedback on my performance lately? I want to make sure I'm doing a good job."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, get the seating area ready for the morning rush. I don't want to see any crumbs or stains. And make sure the piano is tuned and ready for customers."
+      ]
+    ]
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:03:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "original_description": "Maeve Millay is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "embedding_key": "Maeve Millay is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "poignancy": 5,
+    "valence": 6,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_26"
+    ]
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:03:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "original_description": "Bernard Lowe is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "embedding_key": "Bernard Lowe is staying focused on cafe tasks while trying to discuss sci-fi books",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:08:50",
+    "expiration": "2023-03-15 08:08:50",
+    "subject": "Maeve Millay",
+    "predicate": "meet",
+    "object": "Dolores",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores after her shift to discuss sci-fi books.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores after her shift to discuss sci-fi books.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores after her shift to discuss sci-fi books.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "meet",
+      "dolores"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "sleeping",
+    "object": "sleeping",
+    "description": "Maeve Millay is sleeping",
+    "original_description": "Maeve Millay is sleeping",
+    "embedding_key": "Maeve Millay is sleeping",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "sleeping"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:08:50",
+    "expiration": "2023-03-15 08:08:50",
+    "subject": "Maeve Millay",
+    "predicate": "meaning to get into",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay Maeve Millay found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately.",
+    "original_description": "Maeve Millay Maeve Millay found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately.",
+    "embedding_key": "Maeve Millay Maeve Millay found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately.",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "meaning to get into",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:09:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "leaving",
+    "object": "house",
+    "description": "Maeve Millay is getting ready to leave the house",
+    "original_description": "Maeve Millay is getting ready to leave the house",
+    "embedding_key": "Maeve Millay is getting ready to leave the house",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "house"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:16:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "locking",
+    "object": "front door",
+    "description": "Maeve Millay is locking the front door",
+    "original_description": "Maeve Millay is locking the front door",
+    "embedding_key": "Maeve Millay is locking the front door",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "front door"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:22:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (having breakfast)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (having breakfast)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (having breakfast)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:22:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is available",
+    "object": "seating",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "seating"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "having a fascination with",
+    "object": "sci-fi",
+    "description": "I have a fascination with sci-fi and the idea of first contact, which can evoke both excitement and trepidation.",
+    "original_description": "I have a fascination with sci-fi and the idea of first contact, which can evoke both excitement and trepidation.",
+    "embedding_key": "I have a fascination with sci-fi and the idea of first contact, which can evoke both excitement and trepidation.",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "having a fascination with",
+      "sci-fi"
+    ],
+    "filling": [
+      "node_22",
+      "node_13",
+      "node_21",
+      "node_28",
+      "node_30",
+      "node_23",
+      "node_14"
+    ]
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "prioritize",
+    "object": "None",
+    "description": "I prioritize my daily routine and tasks to maintain a sense of control and stability.",
+    "original_description": "I prioritize my daily routine and tasks to maintain a sense of control and stability.",
+    "embedding_key": "I prioritize my daily routine and tasks to maintain a sense of control and stability.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "prioritize",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_18",
+      "node_22",
+      "node_29",
+      "node_13",
+      "node_19",
+      "node_6"
+    ]
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "tend to focus on",
+    "object": "None",
+    "description": "I tend to focus on my tasks and responsibilities, sometimes at the expense of social interactions or personal interests.",
+    "original_description": "I tend to focus on my tasks and responsibilities, sometimes at the expense of social interactions or personal interests.",
+    "embedding_key": "I tend to focus on my tasks and responsibilities, sometimes at the expense of social interactions or personal interests.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "tend to focus on",
+      "none"
+    ],
+    "filling": [
+      "node_32",
+      "node_2",
+      "node_31",
+      "node_12",
+      "node_28",
+      "node_27",
+      "node_23",
+      "node_11",
+      "node_14"
+    ]
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "connect",
+    "object": "Dolores",
+    "description": "I value my relationships with others, particularly Dolores, and make an effort to connect with her through shared interests.",
+    "original_description": "I value my relationships with others, particularly Dolores, and make an effort to connect with her through shared interests.",
+    "embedding_key": "I value my relationships with others, particularly Dolores, and make an effort to connect with her through shared interests.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "connect",
+      "dolores"
+    ],
+    "filling": [
+      "node_32",
+      "node_8",
+      "node_20",
+      "node_29",
+      "node_13",
+      "node_21",
+      "node_30",
+      "node_7"
+    ]
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "find",
+    "object": "Maeve Millay",
+    "description": "I find comfort and solace in my daily routine and the predictability it provides.",
+    "original_description": "I find comfort and solace in my daily routine and the predictability it provides.",
+    "embedding_key": "I find comfort and solace in my daily routine and the predictability it provides.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "find",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_24",
+      "node_33",
+      "node_1",
+      "node_18",
+      "node_22",
+      "node_4",
+      "node_34",
+      "node_19",
+      "node_3",
+      "node_5"
+    ]
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "morning routine",
+    "description": "Maeve Millay is waking up and completing morning routine (waking up)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (waking up)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (waking up)",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "has a strong interest in",
+    "object": "Maeve Millay",
+    "description": "Maeve Millay has a strong interest in science fiction",
+    "original_description": "Maeve Millay has a strong interest in science fiction",
+    "embedding_key": "Maeve Millay has a strong interest in science fiction",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "has a strong interest in",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_32",
+      "node_9",
+      "node_30",
+      "node_21",
+      "node_14"
+    ]
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "values",
+    "object": "social connections and relationships",
+    "description": "Maeve Millay values her social connections and relationships",
+    "original_description": "Maeve Millay values her social connections and relationships",
+    "embedding_key": "Maeve Millay values her social connections and relationships",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "values",
+      "social connections and relationships"
+    ],
+    "filling": [
+      "node_11",
+      "node_31",
+      "node_12",
+      "node_24"
+    ]
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "is",
+    "object": "Maeve Millay",
+    "description": "Maeve Millay is a routine-oriented person",
+    "original_description": "Maeve Millay is a routine-oriented person",
+    "embedding_key": "Maeve Millay is a routine-oriented person",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "is",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_4",
+      "node_1",
+      "node_18",
+      "node_19"
+    ]
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "values",
+    "object": "her personal time and space",
+    "description": "Maeve Millay values her personal time and space",
+    "original_description": "Maeve Millay values her personal time and space",
+    "embedding_key": "Maeve Millay values her personal time and space",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "values",
+      "her personal time and space"
+    ],
+    "filling": [
+      "node_4",
+      "node_2",
+      "node_5"
+    ]
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "prioritizes",
+    "object": "her work and tasks",
+    "description": "Maeve Millay prioritizes her work and tasks",
+    "original_description": "Maeve Millay prioritizes her work and tasks",
+    "embedding_key": "Maeve Millay prioritizes her work and tasks",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "prioritizes",
+      "her work and tasks"
+    ],
+    "filling": [
+      "node_13",
+      "node_29",
+      "node_8",
+      "node_1"
+    ]
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "find comfort",
+    "object": "Maeve Millay",
+    "description": "I find comfort in familiar routines, such as my morning routine and walks in Johnson Park",
+    "original_description": "I find comfort in familiar routines, such as my morning routine and walks in Johnson Park",
+    "embedding_key": "I find comfort in familiar routines, such as my morning routine and walks in Johnson Park",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "find comfort",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_4",
+      "node_6",
+      "node_22",
+      "node_5",
+      "node_1"
+    ]
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "drawing",
+    "object": "sci-fi",
+    "description": "I am drawn to topics like sci-fi and first contact with an alien civilization, which excite and terrify me",
+    "original_description": "I am drawn to topics like sci-fi and first contact with an alien civilization, which excite and terrify me",
+    "embedding_key": "I am drawn to topics like sci-fi and first contact with an alien civilization, which excite and terrify me",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "drawing",
+      "sci-fi"
+    ],
+    "filling": [
+      "node_22",
+      "node_14",
+      "node_30",
+      "node_29"
+    ]
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 19,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "focusing on",
+    "object": "tasks at hand",
+    "description": "I tend to focus on tasks at hand and avoid discussing personal topics, especially under scrutiny",
+    "original_description": "I tend to focus on tasks at hand and avoid discussing personal topics, especially under scrutiny",
+    "embedding_key": "I tend to focus on tasks at hand and avoid discussing personal topics, especially under scrutiny",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "focusing on",
+      "tasks at hand"
+    ],
+    "filling": [
+      "node_27",
+      "node_28",
+      "node_30"
+    ]
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 20,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "prioritize",
+    "object": "routine and planning",
+    "description": "I prioritize routine and planning to feel in control and avoid conflict",
+    "original_description": "I prioritize routine and planning to feel in control and avoid conflict",
+    "embedding_key": "I prioritize routine and planning to feel in control and avoid conflict",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "prioritize",
+      "routine and planning"
+    ],
+    "filling": [
+      "node_13",
+      "node_31",
+      "node_32",
+      "node_6",
+      "node_19"
+    ]
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 21,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:22:40",
+    "expiration": "2023-03-15 08:22:40",
+    "subject": "Maeve Millay",
+    "predicate": "value",
+    "object": "Dolores and Bernard",
+    "description": "I value my relationships with Dolores and Bernard, and make time for social activities",
+    "original_description": "I value my relationships with Dolores and Bernard, and make time for social activities",
+    "embedding_key": "I value my relationships with Dolores and Bernard, and make time for social activities",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "value",
+      "dolores and bernard"
+    ],
+    "filling": [
+      "node_21",
+      "node_8",
+      "node_3",
+      "node_11",
+      "node_29"
+    ]
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is unoccupied",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:24:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:piano",
+    "predicate": "undisturbed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:piano is undisturbed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:piano is undisturbed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:piano is undisturbed",
+    "poignancy": 1,
+    "valence": 6,
+    "keywords": [
+      "piano",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "double-checking",
+    "object": "house",
+    "description": "Maeve Millay is double-checking the house",
+    "original_description": "Maeve Millay is double-checking the house",
+    "embedding_key": "Maeve Millay is double-checking the house",
+    "poignancy": 1,
+    "valence": 6,
+    "keywords": [
+      "maeve millay",
+      "house"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading to",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (packing bag)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (packing bag)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (packing bag)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:26:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "procrastinating and discussing sci-fi books with Dolores",
+    "original_description": "procrastinating and discussing sci-fi books with Dolores",
+    "embedding_key": "procrastinating and discussing sci-fi books with Dolores",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "What's taking you so long, Maeve? You know we have a morning rush to get through. Make sure the cafe is spotless and organized before we open."
+      ],
+      [
+        "Maeve Millay",
+        "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+      ],
+      [
+        "Bernard Lowe",
+        "Look, Maeve, I don't have time to babysit you. Just get the cafe ready and let's get started already."
+      ],
+      [
+        "Maeve Millay",
+        "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve, let's get moving. We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."
+      ],
+      [
+        "Maeve Millay",
+        "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, what's taking you so long? We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."
+      ],
+      [
+        "Maeve Millay",
+        "I'm almost ready, Bernard. Just need to grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift."
+      ],
+      [
+        "Bernard Lowe",
+        "What's this book you're talking about, Maeve? Childhood's End, wasn't it? I've heard of it. Dolores Abernathy has been meaning to get into more sci-fi books lately, did you know that?"
+      ],
+      [
+        "Maeve Millay",
+        "That's really cool, Bernard. I'm a big fan of sci-fi too. I've been meaning to read 'Childhood's End' myself. Maybe Dolores and I can discuss it over lunch after my shift."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, make sure to get the cafe customer seating ready for the morning rush. I need to handle the piano and make sure everything is spotless and organized. Don't bother me with questions or ideas for new promotions or events, just focus on the tasks."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, Bernard, I'll make sure to get the cafe customer seating ready. I'll just grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift. Thanks for letting me know she's interested in sci-fi books."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, focus on getting the cafe customer seating ready for the morning rush. I need to handle the piano and make sure everything is spotless and organized. Don't bother me with questions or ideas for new promotions or events, just focus on the tasks."
+      ],
+      [
+        "Maeve Millay",
+        "I'm almost ready, Bernard. I just need to grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift. We can discuss the book over lunch."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, don't forget to restock the coffee supplies before we open. We don't want to run out during the morning rush."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, Bernard, I'll make sure to restock the coffee supplies. I'll be right there to open up the cafe."
+      ]
+    ]
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is procrastinating and discussing sci-fi books with Dolores",
+    "original_description": "Maeve Millay is procrastinating and discussing sci-fi books with Dolores",
+    "embedding_key": "Maeve Millay is procrastinating and discussing sci-fi books with Dolores",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_53"
+    ]
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is procrastinating and discussing sci-fi books with Dolores",
+    "original_description": "Bernard Lowe is procrastinating and discussing sci-fi books with Dolores",
+    "embedding_key": "Bernard Lowe is procrastinating and discussing sci-fi books with Dolores",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:50",
+    "expiration": "2023-03-15 08:30:50",
+    "subject": "Maeve Millay",
+    "predicate": "needs to remember",
+    "object": "None",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores at the cafe after her shift and discuss the book 'Childhood's End' over lunch.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores at the cafe after her shift and discuss the book 'Childhood's End' over lunch.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores at the cafe after her shift and discuss the book 'Childhood's End' over lunch.",
+    "poignancy": 6,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "needs to remember",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:50",
+    "expiration": "2023-03-15 08:30:50",
+    "subject": "Maeve Millay",
+    "predicate": "is interested in",
+    "object": "sci-fi books",
+    "description": "Maeve Millay Maeve Millay found it interesting that Dolores Abernathy is interested in sci-fi books and wants to discuss 'Childhood's End' over lunch.",
+    "original_description": "Maeve Millay Maeve Millay found it interesting that Dolores Abernathy is interested in sci-fi books and wants to discuss 'Childhood's End' over lunch.",
+    "embedding_key": "Maeve Millay Maeve Millay found it interesting that Dolores Abernathy is interested in sci-fi books and wants to discuss 'Childhood's End' over lunch.",
+    "poignancy": 4,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "is interested in",
+      "sci-fi books"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:36:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is walking to Hobbs Cafe",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:05:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Maeve Millay is waking up and completing morning routine (brushing teeth)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (brushing teeth)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (brushing teeth)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up and completing morning routine (washing face)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (washing face)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (washing face)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:12:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is waking up and completing morning routine (brushing teeth)",
+    "original_description": "Dolores Abernathy is waking up and completing morning routine (brushing teeth)",
+    "embedding_key": "Dolores Abernathy is waking up and completing morning routine (brushing teeth)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:12:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk is clear",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk is clear",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk is clear",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "desk",
+      "none"
+    ],
+    "filling": null
+  }
+}

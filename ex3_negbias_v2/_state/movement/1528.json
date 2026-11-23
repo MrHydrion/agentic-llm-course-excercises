@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "micromanaging morning rush preparations @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Bernard, just getting everything ready for the morning rush. How can I help you today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure you're restocking the coffee supplies correctly, Maeve. And don't forget to prepare the equipment for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready, Bernard. Just reviewing the staff schedules and inventory before the morning rush. Should be a smooth morning."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules and inventory before the morning rush. Can you confirm everything is in order?"
+        ],
+        [
+          "Maeve Millay",
+          "I've reviewed the staff schedules and inventory, Bernard. Everything looks good to me. Shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to remind you about the morning routine and work plans before the morning rush. Let's review the staff schedules and inventory one more time to ensure everything is in order."
+        ],
+        [
+          "Maeve Millay",
+          "I've reviewed the staff schedules and inventory, Bernard. Everything looks good to me. Shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to control every aspect of my work environment to feel secure. Make sure the cafe is spotless and prepared for the morning rush. And don't forget to double-check the inventory before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready, Bernard. Just to confirm, shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules and inventory one more time to ensure everything is in order. Make sure the cafe is spotless and prepared for the morning rush. And don't forget to double-check the inventory before we open."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Bernard, I've confirmed the staff schedules and inventory. The cafe is spotless and prepared for the morning rush. I'll double-check the inventory before we open. Shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to remind you that we need to prioritize our tasks and make sure the cafe is spotless before the morning rush. Let's review the staff schedules and inventory one more time to ensure everything is in order."
+        ],
+        [
+          "Maeve Millay",
+          "I've confirmed the staff schedules and inventory, Bernard. The cafe is spotless and prepared for the morning rush. I'll double-check the inventory before we open. Shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules and inventory one more time to ensure everything is in order. Make sure the cafe is spotless and prepared for the morning rush. And don't forget to double-check the inventory before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready, Bernard. The cafe is spotless and prepared for the morning rush. I'll double-check the inventory before we open. Shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, just to confirm, the staff schedules are in order, the cafe is spotless, and the inventory is double-checked. You're good to go for the morning rush. Let's get started."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        116,
+        45
+      ],
+      "pronunciato": "🛍️💬",
+      "description": "serving customers at the counter (managing customer flow and answering questions) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "micromanaging morning rush preparations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Bernard, just getting everything ready for the morning rush. How can I help you today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure you're restocking the coffee supplies correctly, Maeve. And don't forget to prepare the equipment for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready, Bernard. Just reviewing the staff schedules and inventory before the morning rush. Should be a smooth morning."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules and inventory before the morning rush. Can you confirm everything is in order?"
+        ],
+        [
+          "Maeve Millay",
+          "I've reviewed the staff schedules and inventory, Bernard. Everything looks good to me. Shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to remind you about the morning routine and work plans before the morning rush. Let's review the staff schedules and inventory one more time to ensure everything is in order."
+        ],
+        [
+          "Maeve Millay",
+          "I've reviewed the staff schedules and inventory, Bernard. Everything looks good to me. Shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to control every aspect of my work environment to feel secure. Make sure the cafe is spotless and prepared for the morning rush. And don't forget to double-check the inventory before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready, Bernard. Just to confirm, shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules and inventory one more time to ensure everything is in order. Make sure the cafe is spotless and prepared for the morning rush. And don't forget to double-check the inventory before we open."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Bernard, I've confirmed the staff schedules and inventory. The cafe is spotless and prepared for the morning rush. I'll double-check the inventory before we open. Shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to remind you that we need to prioritize our tasks and make sure the cafe is spotless before the morning rush. Let's review the staff schedules and inventory one more time to ensure everything is in order."
+        ],
+        [
+          "Maeve Millay",
+          "I've confirmed the staff schedules and inventory, Bernard. The cafe is spotless and prepared for the morning rush. I'll double-check the inventory before we open. Shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules and inventory one more time to ensure everything is in order. Make sure the cafe is spotless and prepared for the morning rush. And don't forget to double-check the inventory before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything ready, Bernard. The cafe is spotless and prepared for the morning rush. I'll double-check the inventory before we open. Shall I start preparing for the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, just to confirm, the staff schedules are in order, the cafe is spotless, and the inventory is double-checked. You're good to go for the morning rush. Let's get started."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:13:40"
+  }
+}

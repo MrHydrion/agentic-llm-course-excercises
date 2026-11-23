@@ -1,0 +1,368 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 12:30:40",
+  "curr_tile": [
+    79,
+    19
+  ],
+  "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
+  "name": "Bernard Lowe",
+  "first_name": "Bernard",
+  "last_name": "Lowe",
+  "age": 58,
+  "innate": "impatient, arrogant, confrontational, short-tempered, demanding",
+  "learned": "Bernard is the manager of Hobbs Cafe and believes his employees are incompetent unless he constantly supervises them. He tries to manage the cafe perfectly and monitors how his baristas work. If they are not working around his standards, he will let them know how it should be improved. When he sees one of his employees, he approaches them to inspect their work. He often interrupts employees when they try to explain themselves and demands immediate improvements. He rarely apologizes or praises anyone. Bernard tries to open the cafe around 8 am.",
+  "currently": "Bernard is heading to the cafe to open up for the day.",
+  "lifestyle": "Bernard Lowe wakes up around 7am, walks to Hobbs cafe, where he works from 8am to 4pm. He comes home and eats dinner around 8pm, goes to bed around 11pm.",
+  "living_area": "the Ville:Bernard Lowe's apartment:main room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 60,
+  "importance_ele_n": 3,
+  "thought_count": 0,
+  "daily_req": [],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "heading to Hobbs Cafe (getting dressed)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (brushing teeth)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (completing morning routine)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (walking to Hobbs Cafe)",
+      10
+    ],
+    [
+      "heading to Hobbs Cafe (unlocking the door)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (turning on lights)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (checking opening procedures)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (supervising baristas)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (reviewing morning schedule)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (finalizing opening preparations)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (opening Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (arriving at Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (unlocking the door)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (turning on the lights)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (preparing the coffee machine)",
+      4
+    ],
+    [
+      "repeatingly prioritizing tasks and coordinating with Maeve",
+      6
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (preparing the coffee machine)",
+      1
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (checking inventory)",
+      6
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (reviewing staff schedules)",
+      6
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (inspecting the cafe's appearance)",
+      7
+    ],
+    [
+      "ensuring morning cafe operations run smoothly",
+      6
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (inspecting the cafe's appearance)",
+      4
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (assigning tasks to baristas)",
+      6
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (finalizing opening preparations)",
+      6
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas (opening Hobbs Cafe for the day)",
+      6
+    ],
+    [
+      "serving customers at the counter (arriving at the cafe)",
+      1
+    ],
+    [
+      "ensuring morning routine and inventory are in order before the morning rush",
+      6
+    ],
+    [
+      "serving customers at the counter (arriving at the cafe)",
+      1
+    ],
+    [
+      "ensuring the cafe is spotless and prepared for the morning rush",
+      4
+    ],
+    [
+      "serving customers at the counter (arriving at the cafe)",
+      6
+    ],
+    [
+      "serving customers at the counter (unlocking the counter)",
+      6
+    ],
+    [
+      "serving customers at the counter (turning on the lights)",
+      1
+    ],
+    [
+      "reviewing and confirming staff schedules, inventory, and cafe preparation before morning rush",
+      5
+    ],
+    [
+      "serving customers at the counter (turning on the lights)",
+      6
+    ],
+    [
+      "serving customers at the counter (preparing the cash register)",
+      6
+    ],
+    [
+      "serving customers at the counter (organizing the menu board)",
+      6
+    ],
+    [
+      "serving customers at the counter (restocking supplies)",
+      1
+    ],
+    [
+      "micromanaging morning rush preparations",
+      6
+    ],
+    [
+      "serving customers at the counter (restocking supplies)",
+      4
+    ],
+    [
+      "serving customers at the counter (conducting a quick inventory)",
+      11
+    ],
+    [
+      "serving customers at the counter (answering customer inquiries)",
+      2
+    ],
+    [
+      "reiterating the importance of inventory and schedule checks before the morning rush",
+      6
+    ],
+    [
+      "serving customers at the counter (answering customer inquiries)",
+      9
+    ],
+    [
+      "repeatedly reviewing staff schedules and inventory before morning rush",
+      5
+    ],
+    [
+      "serving customers at the counter (answering customer inquiries)",
+      1
+    ],
+    [
+      "serving customers at the counter (processing customer transactions)",
+      17
+    ],
+    [
+      "reiterating morning rush preparations",
+      5
+    ],
+    [
+      "serving customers at the counter (restocking supplies (continued))",
+      7
+    ],
+    [
+      "serving customers at the counter (reviewing the schedule)",
+      4
+    ],
+    [
+      "serving customers at the counter (checking the cafe's status)",
+      4
+    ],
+    [
+      "serving customers at the counter (assisting baristas with orders)",
+      11
+    ],
+    [
+      "serving customers at the counter (managing the cafe's atmosphere)",
+      8
+    ],
+    [
+      "serving customers at the counter (restocking supplies (final check))",
+      4
+    ],
+    [
+      "serving customers at the counter (preparing for the next phase)",
+      4
+    ],
+    [
+      "serving customers at the counter (providing feedback to baristas)",
+      5
+    ],
+    [
+      "monitoring barista performance and providing feedback (approaching baristas)",
+      15
+    ],
+    [
+      "monitoring barista performance and providing feedback (observing workflow)",
+      15
+    ],
+    [
+      "monitoring barista performance and providing feedback (identifying inefficiencies)",
+      20
+    ],
+    [
+      "monitoring barista performance and providing feedback (providing feedback)",
+      20
+    ],
+    [
+      "monitoring barista performance and providing feedback (reorganizing workflow)",
+      20
+    ],
+    [
+      "monitoring barista performance and providing feedback (supervising baristas)",
+      15
+    ],
+    [
+      "monitoring barista performance and providing feedback (reviewing progress)",
+      20
+    ],
+    [
+      "monitoring barista performance and providing feedback (making adjustments)",
+      15
+    ],
+    [
+      "monitoring barista performance and providing feedback (ensuring quality)",
+      20
+    ],
+    [
+      "monitoring barista performance and providing feedback (closing Hobbs Cafe)",
+      20
+    ],
+    [
+      "closing Hobbs Cafe",
+      60
+    ],
+    [
+      "sleeping",
+      420
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "heading to Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and supervising baristas",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      180
+    ],
+    [
+      "monitoring barista performance and providing feedback",
+      180
+    ],
+    [
+      "closing Hobbs Cafe",
+      60
+    ],
+    [
+      "sleeping",
+      420
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 12:29:00",
+  "act_duration": 11,
+  "act_description": "serving customers at the counter (assisting baristas with orders)",
+  "act_pronunciatio": "🛋️💼",
+  "act_event": [
+    "Bernard Lowe",
+    "serving",
+    "customers"
+  ],
+  "act_obj_description": "organized",
+  "act_obj_pronunciatio": "📈💼",
+  "act_obj_event": [
+    "behind",
+    "is organized",
+    "cafe counter"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Dolores Abernathy": -245,
+    "Maeve Millay": -17
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
+}

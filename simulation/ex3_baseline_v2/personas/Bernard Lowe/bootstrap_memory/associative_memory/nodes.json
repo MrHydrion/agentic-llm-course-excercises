@@ -1,0 +1,106 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: .",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: .",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: .",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:03:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:piano",
+    "predicate": "is",
+    "object": "untouched",
+    "description": "the Ville:Hobbs Cafe:cafe:piano is untouched",
+    "original_description": "the Ville:Hobbs Cafe:cafe:piano is untouched",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:piano is untouched",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "piano",
+      "untouched"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (getting ready to leave)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (getting ready to leave)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (getting ready to leave)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:02:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is empty",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  }
+}

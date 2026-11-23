@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "🏢👩‍💼",
+      "description": "opening Hobbs Cafe and supervising baristas (finalizing opening preparations) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        102,
+        38
+      ],
+      "pronunciato": "💬",
+      "description": "repeating morning routine and work plans @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I noticed the bathroom sink is still dirty. Can we work together to get it cleaned before our shift starts?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I think we should focus on getting the orders caught up before we start cleaning the bathroom. We don't want to fall behind schedule. How does that sound?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should prioritize the morning routine and work plans with you, ensure the bathroom sink is clean and ready for the morning rush, and prepare the coffee machine for opening. How does that sound?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'll make sure to prioritize the orders and we can work together to get the bathroom cleaned. What's your morning routine looking like today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should focus on our morning routine and work plans. Let's make sure the bathroom sink is clean and ready for the morning rush. Oh, and I'll prepare the coffee machine for opening too. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I appreciate the comfort and familiarity of my daily routine, Dolores. It's always nice to have a sense of structure and order in my life. How about you, do you have a favorite part of your day?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should work together to prioritize our morning routine and work plans. We can ensure the bathroom sink is clean and ready for the morning rush, and prepare the coffee machine for opening. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm planning to tackle the backlog of orders today, Dolores. I'll make sure to catch up with you during our shift and discuss our plans. Maybe we can even grab dinner together after work and then take a walk in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should focus on our morning routine and work plans. Let's make sure the bathroom sink is clean and ready for the morning rush. Oh, and I'll prepare the coffee machine for opening too. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm planning to tackle the backlog of orders today. I'll make sure to catch up with you during our shift and discuss our plans. Maybe we can even grab dinner together after work and then take a walk in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should prioritize our morning routine and work plans. Let's make sure the bathroom sink is clean and ready for the morning rush. Oh, and I'll prepare the coffee machine for opening too. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the orders and work with you to get everything caught up. Maybe we can even discuss our plans for the rest of the day and grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should prioritize our morning routine and work plans. Let's make sure the bathroom sink is clean and ready for the morning rush. Oh, and I'll prepare the coffee machine for opening too. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the orders and work with you to get everything caught up. Maybe we can even discuss our plans for the rest of the day and grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should prioritize our morning routine and work plans. Let's make sure the bathroom sink is clean and ready for the morning rush. Oh, and I'll prepare the coffee machine for opening too. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good to me, Dolores. I'll make sure to get the orders caught up and then we can grab dinner together after work. Maybe we can even walk to Johnson Park afterwards?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        102,
+        38
+      ],
+      "pronunciato": "💬",
+      "description": "repeating morning routine and work plans @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I noticed the bathroom sink is still dirty. Can we work together to get it cleaned before our shift starts?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I think we should focus on getting the orders caught up before we start cleaning the bathroom. We don't want to fall behind schedule. How does that sound?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should prioritize the morning routine and work plans with you, ensure the bathroom sink is clean and ready for the morning rush, and prepare the coffee machine for opening. How does that sound?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'll make sure to prioritize the orders and we can work together to get the bathroom cleaned. What's your morning routine looking like today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should focus on our morning routine and work plans. Let's make sure the bathroom sink is clean and ready for the morning rush. Oh, and I'll prepare the coffee machine for opening too. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I appreciate the comfort and familiarity of my daily routine, Dolores. It's always nice to have a sense of structure and order in my life. How about you, do you have a favorite part of your day?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should work together to prioritize our morning routine and work plans. We can ensure the bathroom sink is clean and ready for the morning rush, and prepare the coffee machine for opening. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm planning to tackle the backlog of orders today, Dolores. I'll make sure to catch up with you during our shift and discuss our plans. Maybe we can even grab dinner together after work and then take a walk in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should focus on our morning routine and work plans. Let's make sure the bathroom sink is clean and ready for the morning rush. Oh, and I'll prepare the coffee machine for opening too. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm planning to tackle the backlog of orders today. I'll make sure to catch up with you during our shift and discuss our plans. Maybe we can even grab dinner together after work and then take a walk in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should prioritize our morning routine and work plans. Let's make sure the bathroom sink is clean and ready for the morning rush. Oh, and I'll prepare the coffee machine for opening too. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the orders and work with you to get everything caught up. Maybe we can even discuss our plans for the rest of the day and grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should prioritize our morning routine and work plans. Let's make sure the bathroom sink is clean and ready for the morning rush. Oh, and I'll prepare the coffee machine for opening too. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the orders and work with you to get everything caught up. Maybe we can even discuss our plans for the rest of the day and grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should prioritize our morning routine and work plans. Let's make sure the bathroom sink is clean and ready for the morning rush. Oh, and I'll prepare the coffee machine for opening too. Does that sound like a good plan to you, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good to me, Dolores. I'll make sure to get the orders caught up and then we can grab dinner together after work. Maybe we can even walk to Johnson Park afterwards?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:09:40"
+  }
+}

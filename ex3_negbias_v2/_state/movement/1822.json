@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🛍️💰",
+      "description": "serving customers at the counter (processing customer transactions) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "🍴👥",
+      "description": "serving customers at the counter (preparing and serving drinks and snacks) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🍳👥",
+      "description": "working at Hobbs Cafe (processing orders and handling customer requests) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:02:40"
+  }
+}

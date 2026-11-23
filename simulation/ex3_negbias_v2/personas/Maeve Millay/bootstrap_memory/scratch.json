@@ -1,0 +1,430 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 12:30:40",
+  "curr_tile": [
+    116,
+    43
+  ],
+  "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
+  "name": "Maeve Millay",
+  "first_name": "Maeve",
+  "last_name": "Millay",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Maeve Millay is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Maeve and Dolores are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Maeve walks in Johnson Park. She loves her walks in the park.",
+  "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 39,
+  "importance_ele_n": 11,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe by 8:00am",
+    "work at Hobbs Cafe from 8:00am to 4:00pm",
+    "walk to Johnson Park after work",
+    "walk through Johnson Park",
+    "have dinner at the dorm at 8:00pm",
+    "spend time in her room",
+    "go to bed at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up (waking up)",
+      1
+    ],
+    [
+      "exchanging morning routine and work plans at Hobbs Cafe",
+      5
+    ],
+    [
+      "waking up (waking up)",
+      4
+    ],
+    [
+      "waking up (getting out of bed)",
+      15
+    ],
+    [
+      "waking up (brushing teeth)",
+      2
+    ],
+    [
+      "discussing work plans and morning routines",
+      5
+    ],
+    [
+      "waking up (brushing teeth)",
+      8
+    ],
+    [
+      "waking up (washing face)",
+      10
+    ],
+    [
+      "waking up (completing morning routine)",
+      1
+    ],
+    [
+      "coordinating work plans and morning routines",
+      5
+    ],
+    [
+      "waking up (completing morning routine)",
+      4
+    ],
+    [
+      "waking up (getting dressed)",
+      10
+    ],
+    [
+      "waking up (finishing getting ready)",
+      5
+    ],
+    [
+      "having breakfast (getting dressed)",
+      2
+    ],
+    [
+      "planning and discussing morning routines and work shifts",
+      6
+    ],
+    [
+      "having breakfast (getting dressed)",
+      8
+    ],
+    [
+      "having breakfast (preparing breakfast materials)",
+      5
+    ],
+    [
+      "having breakfast (cooking breakfast)",
+      10
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      10
+    ],
+    [
+      "having breakfast (cleaning up breakfast)",
+      5
+    ],
+    [
+      "having breakfast (finishing up breakfast preparations)",
+      1
+    ],
+    [
+      "coordinating tasks and plans for work and personal activities",
+      7
+    ],
+    [
+      "having breakfast (finishing up breakfast preparations)",
+      4
+    ],
+    [
+      "walking to Hobbs Cafe (getting ready to leave the house)",
+      13
+    ],
+    [
+      "walking to Hobbs Cafe (locking the front door)",
+      9
+    ],
+    [
+      "walking to Hobbs Cafe (turning off the lights)",
+      9
+    ],
+    [
+      "walking to Hobbs Cafe (putting away any belongings)",
+      9
+    ],
+    [
+      "walking to Hobbs Cafe (double-checking the house)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (final check before leaving)",
+      4
+    ],
+    [
+      "working at Hobbs Cafe (clocking in and preparing for shift)",
+      4
+    ],
+    [
+      "repeating morning routine and work plans",
+      6
+    ],
+    [
+      "working at Hobbs Cafe (clocking in and preparing for shift)",
+      7
+    ],
+    [
+      "ensuring morning routine and inventory are in order before the morning rush",
+      6
+    ],
+    [
+      "working at Hobbs Cafe (clocking in and preparing for shift)",
+      6
+    ],
+    [
+      "coordinating cafe operations and social plans",
+      7
+    ],
+    [
+      "working at Hobbs Cafe (clocking in and preparing for shift)",
+      5
+    ],
+    [
+      "reviewing and confirming staff schedules, inventory, and cafe preparation before morning rush",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (clocking in and preparing for shift)",
+      12
+    ],
+    [
+      "working at Hobbs Cafe (restocking coffee supplies and preparing equipment)",
+      7
+    ],
+    [
+      "micromanaging morning rush preparations",
+      6
+    ],
+    [
+      "working at Hobbs Cafe (restocking coffee supplies and preparing equipment)",
+      11
+    ],
+    [
+      "coordinating tasks and ensuring a smooth morning rush",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (restocking coffee supplies and preparing equipment)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (processing orders and handling customer requests)",
+      1
+    ],
+    [
+      "repeatedly reviewing staff schedules and inventory before morning rush",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (processing orders and handling customer requests)",
+      18
+    ],
+    [
+      "reiterating morning rush preparations",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (processing orders and handling customer requests)",
+      11
+    ],
+    [
+      "coordinating morning tasks and social plans",
+      7
+    ],
+    [
+      "working at Hobbs Cafe (preparing and serving drinks)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (restocking snacks and supplies)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (cleaning and sanitizing equipment)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (restocking condiments and toppings)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (preparing and serving food)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (handling customer complaints and feedback)",
+      32
+    ],
+    [
+      "working at Hobbs Cafe (processing payments and handling transactions)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (restocking and organizing supplies)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (cleaning and sanitizing the cafe)",
+      27
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      240
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      420
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      240
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Dolores Abernathy",
+  "act_start_time": "February 13, 2023, 12:24:00",
+  "act_duration": 7,
+  "act_description": "coordinating morning tasks and social plans",
+  "act_pronunciatio": "💬",
+  "act_event": [
+    "Maeve Millay",
+    "chat with",
+    "Dolores Abernathy"
+  ],
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
+  "act_obj_event": [
+    "",
+    "",
+    ""
+  ],
+  "chatting_with": "Dolores Abernathy",
+  "chat": [
+    [
+      "Maeve Millay",
+      "Hey Dolores, how's your morning going so far? I'm trying to get everything in order before the morning rush."
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm trying to stay focused on my tasks, but it's hard when there's a lot going on. I'm just trying to get everything done before the morning rush."
+    ],
+    [
+      "Maeve Millay",
+      "Hey Dolores, I'm trying to get everything in order before the morning rush. I need to remember to catch up with you during our shift, tackle the backlog of orders, and grab dinner with you after work, followed by a walk in Johnson Park. Do you have any other tasks on your mind?"
+    ],
+    [
+      "Dolores Abernathy",
+      "Yeah, I'm trying to prioritize my tasks and stay focused. I appreciate you coordinating with me to get everything done. It really helps me feel more in control and prepared for the day."
+    ],
+    [
+      "Maeve Millay",
+      "I'm glad we're on the same page, Dolores. I was thinking of grabbing dinner with you after work and then walking to Johnson Park afterwards. Would that work for you?"
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+    ],
+    [
+      "Maeve Millay",
+      "I'll make sure to grab dinner with you after work and then walk to Johnson Park afterwards. I'm looking forward to it, Dolores. It's always nice to have some time to unwind and catch up."
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+    ],
+    [
+      "Maeve Millay",
+      "I'm glad we're on the same page, Dolores. I'll make sure to review the staff schedules and inventory before the morning rush, and catch up with you during our shift. I'm looking forward to grabbing dinner with you after work and then walking to Johnson Park afterwards. It's always nice to have some time to unwind and catch up."
+    ],
+    [
+      "Dolores Abernathy",
+      "I think we're all set for the morning rush, Maeve. I'll make sure to have everything ready to go by the time the customers start arriving. Let's review the staff schedules and inventory one more time to make sure we're both on the same page."
+    ],
+    [
+      "Maeve Millay",
+      "I've got everything in order for the morning rush, let's make sure to catch up during our shift and tackle that backlog of orders. See you then, Dolores!"
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+    ],
+    [
+      "Maeve Millay",
+      "I'm glad we're on the same page, Dolores. I'll make sure to review the staff schedules and inventory before the morning rush, and catch up with you during our shift. I'm looking forward to grabbing dinner with you after work and then walking to Johnson Park afterwards. It's always nice to have some time to unwind and catch up."
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm glad we're coordinating our tasks, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+    ],
+    [
+      "Maeve Millay",
+      "I'll make sure to grab dinner with you after work and then walk to Johnson Park afterwards. I'm looking forward to it, Dolores. It's always nice to have some time to unwind and catch up."
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm glad we're on the same page, Maeve. I think if we work together, we can get everything done efficiently. Maybe we can also discuss our morning routines and work shifts to make sure we're both prepared?"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Bernard Lowe": -17,
+    "Dolores Abernathy": 78
+  },
+  "chatting_end_time": "February 13, 2023, 12:31:00",
+  "act_path_set": true,
+  "planned_path": null
+}

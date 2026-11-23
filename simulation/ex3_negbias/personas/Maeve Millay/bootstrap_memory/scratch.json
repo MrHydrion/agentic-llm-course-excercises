@@ -1,0 +1,380 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 11:32:50",
+  "curr_tile": [
+    79,
+    19
+  ],
+  "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
+  "name": "Maeve Millay",
+  "first_name": "Maeve",
+  "last_name": "Millay",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Maeve Millay is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Maeve and Dolores are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Maeve walks in Johnson Park. She loves her walks in the park.",
+  "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 65,
+  "importance_ele_n": 2,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe by 8:00am",
+    "work at Hobbs Cafe from 8:00am to 4:00pm",
+    "walk to Johnson Park and walk through the park after work",
+    "have dinner at the dorm at 8:00pm",
+    "spend time in her room in the evening",
+    "go to bed at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine (waking up)",
+      1
+    ],
+    [
+      "exchanging small talk and discussing personal interests before starting work",
+      5
+    ],
+    [
+      "waking up and completing morning routine (waking up)",
+      4
+    ],
+    [
+      "waking up and completing morning routine (brushing teeth)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (washing face)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (having breakfast)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (finishing up morning routine)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (preparing to head to work)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (arriving at Hobbs Cafe)",
+      2
+    ],
+    [
+      "discussing new cappuccino recipe and personal plans",
+      6
+    ],
+    [
+      "waking up and completing morning routine (arriving at Hobbs Cafe)",
+      3
+    ],
+    [
+      "waking up and completing morning routine (starting work at Hobbs Cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (getting ready to leave the house)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (locking the front door)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (double-checking the house)",
+      9
+    ],
+    [
+      "discussing and sharing thoughts on a new cappuccino recipe",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (double-checking the house)",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
+      9
+    ],
+    [
+      "ensuring the cafe is spotless and prepared for the morning rush",
+      4
+    ],
+    [
+      "serving customers at the counter (unlocking the cafe) (unlocking the cafe door)",
+      5
+    ],
+    [
+      "serving customers at the counter (unlocking the cafe) (turning on the lights)",
+      5
+    ],
+    [
+      "serving customers at the counter (unlocking the cafe) (checking the coffee machine)",
+      5
+    ],
+    [
+      "serving customers at the counter (unlocking the cafe) (opening the cash register)",
+      5
+    ],
+    [
+      "serving customers at the counter (unlocking the cafe) (restocking supplies)",
+      1
+    ],
+    [
+      "excitedly discussing a new cappuccino recipe and sharing feedback",
+      5
+    ],
+    [
+      "serving customers at the counter (unlocking the cafe) (restocking supplies)",
+      9
+    ],
+    [
+      "serving customers at the counter (unlocking the cafe) (preparing the coffee station)",
+      10
+    ],
+    [
+      "ensuring cafe readiness and discussing new cappuccino recipe",
+      6
+    ],
+    [
+      "serving customers at the counter (preparing the pastry case)",
+      10
+    ],
+    [
+      "serving customers at the counter (finalizing the cafe setup)",
+      2
+    ],
+    [
+      "discussing a new cappuccino recipe and planning a walk and dinner together",
+      6
+    ],
+    [
+      "serving customers at the counter (finalizing the cafe setup)",
+      1
+    ],
+    [
+      "repeating checks and clarifications on cafe setup and new cappuccino recipe",
+      6
+    ],
+    [
+      "serving customers at the counter (finalizing the cafe setup)",
+      2
+    ],
+    [
+      "serving customers at the counter (welcoming customers)",
+      5
+    ],
+    [
+      "serving customers at the counter (logging in to the register)",
+      4
+    ],
+    [
+      "planning to try out a new cappuccino recipe together",
+      7
+    ],
+    [
+      "serving customers at the counter (logging in to the register)",
+      1
+    ],
+    [
+      "ensuring cafe readiness and experimenting with new cappuccino recipe",
+      7
+    ],
+    [
+      "serving customers at the counter (logging in to the register)",
+      8
+    ],
+    [
+      "excitedly discussing and planning to try out a new cappuccino recipe together",
+      5
+    ],
+    [
+      "serving customers at the counter (logging in to the register)",
+      4
+    ],
+    [
+      "reviewing the steps and details before giving approval",
+      6
+    ],
+    [
+      "serving customers at the counter (logging in to the register)",
+      7
+    ],
+    [
+      "planning to try out and discuss a new cappuccino recipe with Dolores after work",
+      5
+    ],
+    [
+      "serving customers at the counter (logging in to the register)",
+      7
+    ],
+    [
+      "serving customers at the counter (preparing the coffee station)",
+      30
+    ],
+    [
+      "serving customers at the counter (restocking supplies) (replenishing coffee creamer)",
+      6
+    ],
+    [
+      "serving customers at the counter (restocking supplies) (restocking sugar packets)",
+      6
+    ],
+    [
+      "serving customers at the counter (restocking supplies) (refilling napkin dispensers)",
+      6
+    ],
+    [
+      "serving customers at the counter (restocking supplies) (organizing utensils and condiments)",
+      12
+    ],
+    [
+      "serving customers at the counter (restocking supplies) (cleaning and sanitizing the counter)",
+      18
+    ],
+    [
+      "serving customers at the counter (restocking supplies) (wiping down the espresso machine)",
+      12
+    ],
+    [
+      "serving customers at the counter (restocking supplies) (locking the cash register)",
+      6
+    ],
+    [
+      "serving customers at the counter (restocking supplies) (double-checking the register)",
+      6
+    ],
+    [
+      "serving customers at the counter (answering customer inquiries)",
+      30
+    ],
+    [
+      "serving customers at the counter (facing the cash register)",
+      30
+    ],
+    [
+      "serving customers at the counter (processing transactions)",
+      60
+    ],
+    [
+      "serving customers at the counter (maintaining cafe cleanliness)",
+      30
+    ],
+    [
+      "serving customers at the counter (restocking milk and sugar)",
+      30
+    ],
+    [
+      "serving customers at the counter (replenishing napkins and straws)",
+      30
+    ],
+    [
+      "serving customers at the counter (taking a short break)",
+      15
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      180
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      480
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 11:27:00",
+  "act_duration": 7,
+  "act_description": "serving customers at the counter (logging in to the register)",
+  "act_pronunciatio": "🏃‍♂️💰",
+  "act_event": [
+    "Maeve Millay",
+    "serving",
+    "register"
+  ],
+  "act_obj_description": "prepared",
+  "act_obj_pronunciatio": "📦",
+  "act_obj_event": [
+    "behind the cafe counter",
+    "prepared",
+    "None"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Bernard Lowe": -29,
+    "Dolores Abernathy": 49
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
+}

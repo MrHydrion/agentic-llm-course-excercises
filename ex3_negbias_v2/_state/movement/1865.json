@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reiterating morning rush preparations @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi, Bernard. Just making sure everything is in order before the morning rush. How can I help you today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to review the staff schedules and inventory before the morning rush. Make sure everything is in order. I don't want any mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the staff schedules and inventory, Bernard. Everything is in order. Is there anything else I can help you with?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the inventory before we open. I don't want any surprises during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the inventory, Bernard. Is there anything else I can help you with?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I want to review the staff schedules and inventory one more time before we open. Make sure everything is in order, and double-check the inventory before the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the staff schedules and inventory, Bernard. Is there anything else I can help you with?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the coffee supplies are restocked and the equipment is prepared for the morning rush. I don't want any delays or mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the inventory, Bernard. I think we're all set for the morning rush. Is there anything else I can help you with?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the coffee supplies are restocked and the equipment is prepared for the morning rush. I don't want any delays or mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the inventory, Bernard. Is there anything else I can help you with? I have to grab dinner with Dolores after work and then walk to Johnson Park afterwards."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the staff is aware of the morning routine and work plans before we open. I don't want any confusion during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to review the inventory one more time before we open. Is there anything else I need to do?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the orders and make sure everything is in order before we open. I don't want any mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to review the inventory one more time before we open. Is there anything else I need to do?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the staff is aware of the morning routine and work plans before we open. I don't want any confusion during the morning rush."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "🍴👥",
+      "description": "serving customers at the counter (preparing and serving drinks and snacks) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reiterating morning rush preparations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi, Bernard. Just making sure everything is in order before the morning rush. How can I help you today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to review the staff schedules and inventory before the morning rush. Make sure everything is in order. I don't want any mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the staff schedules and inventory, Bernard. Everything is in order. Is there anything else I can help you with?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the inventory before we open. I don't want any surprises during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the inventory, Bernard. Is there anything else I can help you with?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I want to review the staff schedules and inventory one more time before we open. Make sure everything is in order, and double-check the inventory before the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the staff schedules and inventory, Bernard. Is there anything else I can help you with?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the coffee supplies are restocked and the equipment is prepared for the morning rush. I don't want any delays or mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the inventory, Bernard. I think we're all set for the morning rush. Is there anything else I can help you with?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the coffee supplies are restocked and the equipment is prepared for the morning rush. I don't want any delays or mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "I've already reviewed the inventory, Bernard. Is there anything else I can help you with? I have to grab dinner with Dolores after work and then walk to Johnson Park afterwards."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the staff is aware of the morning routine and work plans before we open. I don't want any confusion during the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to review the inventory one more time before we open. Is there anything else I need to do?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the orders and make sure everything is in order before we open. I don't want any mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to review the inventory one more time before we open. Is there anything else I need to do?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the staff is aware of the morning routine and work plans before we open. I don't want any confusion during the morning rush."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:09:50"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciato": "😴🛋️",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        130,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging morning routines and weekend plans @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I'm almost done with my morning routine. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I'm almost done with my morning routine too. How was your weekend?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope you're having a good morning, Maeve. I'm looking forward to a productive day at the cafe. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it too, Dolores. I've got a busy day ahead of me, but I'm hoping to get some things done. How about you, do you have any plans for tonight?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting ready to head to work. I have a pretty busy day ahead of me. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually looking forward to my walk in Johnson Park after work today. The fresh air always helps me clear my head."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to a quiet evening after work. I might do some reading or work on my computer. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I love my walks in Johnson Park, it's a great way to unwind after a long day. I'm sure you'll have a quiet evening after work, perfect for reading or working on your computer."
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope you have a great walk in Johnson Park today, Maeve. I'm looking forward to a relaxing evening after work."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it. It's always nice to take a break from the cafe and get some fresh air. How about you, do you have any favorite spots in the park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope you have a great day at work, Maeve. I'm looking forward to a busy day at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it. It's always nice to take a break from the cafe and get some fresh air. How about you, do you have any favorite spots in the park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope you have a great day at work, Maeve. I'm looking forward to a busy day at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it. It's always nice to take a break from the cafe and get some fresh air. How about you, do you have any favorite spots in the park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to a busy day at the cafe. I have to get a lot of work done. How about you, do you have any big tasks to tackle today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually looking forward to my walk in Johnson Park after work today. The fresh air always helps me clear my head. How about you, do you have any fun plans for the weekend?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        130,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging morning routines and weekend plans @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I'm almost done with my morning routine. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I'm almost done with my morning routine too. How was your weekend?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope you're having a good morning, Maeve. I'm looking forward to a productive day at the cafe. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it too, Dolores. I've got a busy day ahead of me, but I'm hoping to get some things done. How about you, do you have any plans for tonight?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just getting ready to head to work. I have a pretty busy day ahead of me. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually looking forward to my walk in Johnson Park after work today. The fresh air always helps me clear my head."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to a quiet evening after work. I might do some reading or work on my computer. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I love my walks in Johnson Park, it's a great way to unwind after a long day. I'm sure you'll have a quiet evening after work, perfect for reading or working on your computer."
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope you have a great walk in Johnson Park today, Maeve. I'm looking forward to a relaxing evening after work."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it. It's always nice to take a break from the cafe and get some fresh air. How about you, do you have any favorite spots in the park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope you have a great day at work, Maeve. I'm looking forward to a busy day at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it. It's always nice to take a break from the cafe and get some fresh air. How about you, do you have any favorite spots in the park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope you have a great day at work, Maeve. I'm looking forward to a busy day at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it. It's always nice to take a break from the cafe and get some fresh air. How about you, do you have any favorite spots in the park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to a busy day at the cafe. I have to get a lot of work done. How about you, do you have any big tasks to tackle today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually looking forward to my walk in Johnson Park after work today. The fresh air always helps me clear my head. How about you, do you have any fun plans for the weekend?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:15:00"
+  }
+}

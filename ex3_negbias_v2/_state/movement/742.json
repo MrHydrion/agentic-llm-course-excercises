@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "🏢👥",
+      "description": "opening Hobbs Cafe and supervising baristas (arriving at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        117,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating tasks and plans for work and personal activities @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, just finishing up breakfast. Did you have a good morning routine today? I'm looking forward to grabbing dinner with you after work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad you're looking forward to dinner, Maeve. I was thinking of catching up with you during our shift today to discuss our plans and morning routines. Maybe we can even tackle that backlog of orders together."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'll make sure to catch up with you during our shift and we can tackle that backlog together. And I'm really looking forward to grabbing dinner with you after work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I was also thinking of prioritizing my own tasks and morning routine today. It helps me feel more in control and prepared for the day. Maybe we can even swap tips on how to stay organized?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning on tackling that backlog of orders today, so it's good that we're on the same page. I also want to grab dinner with you after work, so let's make sure to catch up then."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I was also thinking of prioritizing my own tasks and morning routine today. It helps me feel more in control and prepared for the day. Maybe we can even swap tips on how to stay organized?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'll make sure to catch up with you during our shift and we can tackle that backlog together. I'm actually looking forward to my walk in Johnson Park after work, it's a great way to unwind."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I noticed the bathroom sink at the cafe was dirty when I got there. Maybe we can work together to get it cleaned during our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to catch up with you during our shift and we can tackle that backlog together. I'm actually looking forward to grabbing dinner with you after work, it'll be nice to unwind and catch up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually concerned about your workload, Maeve. Maybe we can work together to tackle some of those orders and free up some time for personal activities?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually looking forward to my walk in Johnson Park after work, it's a great way to unwind. And I'm glad we're on the same page about tackling that backlog of orders. I think we can make good progress together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think we can make good progress on those orders and even have some free time left over. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I think we can make good progress on those orders and even have some free time left over. What do you think about grabbing dinner together after work and then walking in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think we can work together to tackle our workload and possibly free up some time for personal activities. Maybe we can even swap tips on how to stay organized and make the most of our morning routines."
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning on tackling that backlog of orders today, so it's good that we're on the same page. I'll make sure to catch up with you during our shift and we can work on it together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think we can make good progress on those orders and even have some free time left over. Maybe we can even swap tips on how to stay organized and make the most of our morning routines."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        118,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating tasks and plans for work and personal activities @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, just finishing up breakfast. Did you have a good morning routine today? I'm looking forward to grabbing dinner with you after work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad you're looking forward to dinner, Maeve. I was thinking of catching up with you during our shift today to discuss our plans and morning routines. Maybe we can even tackle that backlog of orders together."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'll make sure to catch up with you during our shift and we can tackle that backlog together. And I'm really looking forward to grabbing dinner with you after work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I was also thinking of prioritizing my own tasks and morning routine today. It helps me feel more in control and prepared for the day. Maybe we can even swap tips on how to stay organized?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning on tackling that backlog of orders today, so it's good that we're on the same page. I also want to grab dinner with you after work, so let's make sure to catch up then."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I was also thinking of prioritizing my own tasks and morning routine today. It helps me feel more in control and prepared for the day. Maybe we can even swap tips on how to stay organized?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a great plan, Dolores. I'll make sure to catch up with you during our shift and we can tackle that backlog together. I'm actually looking forward to my walk in Johnson Park after work, it's a great way to unwind."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I noticed the bathroom sink at the cafe was dirty when I got there. Maybe we can work together to get it cleaned during our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to catch up with you during our shift and we can tackle that backlog together. I'm actually looking forward to grabbing dinner with you after work, it'll be nice to unwind and catch up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm actually concerned about your workload, Maeve. Maybe we can work together to tackle some of those orders and free up some time for personal activities?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually looking forward to my walk in Johnson Park after work, it's a great way to unwind. And I'm glad we're on the same page about tackling that backlog of orders. I think we can make good progress together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think we can make good progress on those orders and even have some free time left over. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I think we can make good progress on those orders and even have some free time left over. What do you think about grabbing dinner together after work and then walking in Johnson Park?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think we can work together to tackle our workload and possibly free up some time for personal activities. Maybe we can even swap tips on how to stay organized and make the most of our morning routines."
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning on tackling that backlog of orders today, so it's good that we're on the same page. I'll make sure to catch up with you during our shift and we can work on it together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think we can make good progress on those orders and even have some free time left over. Maybe we can even swap tips on how to stay organized and make the most of our morning routines."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:02:40"
+  }
+}

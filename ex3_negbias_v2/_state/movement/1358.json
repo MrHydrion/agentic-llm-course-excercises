@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reviewing and confirming staff schedules, inventory, and cafe preparation before morning rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Bernard, it's good to see you're already here. How's your morning going so far?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. I need to review the staff schedules and inventory before the morning rush. Make sure everything is in order."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll make sure to review the staff schedules and inventory before the morning rush. I also need to remember to catch up with Dolores during our shift and discuss our plans, possibly grabbing dinner together after work."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to remind me about the morning routine and work plans before the morning rush. Let's go over it together."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to review the staff schedules and inventory before the morning rush. And I'll catch up with Dolores during our shift to discuss our plans. Maybe we can even grab dinner together after work."
+        ],
+        [
+          "Bernard Lowe",
+          "Great, Maeve. Let's make sure we're both on the same page. I need you to review the staff schedules and ensure the cafe is spotless before opening. Can you confirm that?"
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to prioritize the morning routine and work plans with Dolores before the morning rush. I'll also review the staff schedules and ensure the cafe is spotless before opening. Can I confirm that with you?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the inventory and make sure everything is in order before we open. And don't forget to review the staff schedules with Dolores. I expect perfection, so let's make sure we're both on the same page."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to prioritize the morning routine and work plans with Dolores before the morning rush. I'll also review the staff schedules and ensure the cafe is spotless before opening. Can I confirm that with you?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to review the inventory and make sure everything is in order before we open. Can you confirm that you've done the same?"
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to prioritize the morning routine and work plans with Dolores before the morning rush. I'll also review the staff schedules and ensure the cafe is spotless before opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules and ensure the cafe is spotless before opening. Can you confirm that you've done the same?"
+        ],
+        [
+          "Maeve Millay",
+          "I've reviewed the staff schedules and ensured the cafe is spotless before opening. Everything is in order, Bernard. Shall I start preparing for the morning rush now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to know that you've reviewed the staff schedules and ensured the cafe is spotless before opening. Can you confirm that you've done the same?"
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I've reviewed the staff schedules, ensured the cafe is spotless, and double-checked the inventory. Is there anything else you'd like me to confirm before we start the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules and make sure everything is in order before the morning rush. Can you confirm that you've done the same?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        102,
+        30
+      ],
+      "pronunciato": "🛍️💼",
+      "description": "serving customers at the counter (restocking supplies and preparing for peak hours) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reviewing and confirming staff schedules, inventory, and cafe preparation before morning rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Bernard, it's good to see you're already here. How's your morning going so far?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. I need to review the staff schedules and inventory before the morning rush. Make sure everything is in order."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll make sure to review the staff schedules and inventory before the morning rush. I also need to remember to catch up with Dolores during our shift and discuss our plans, possibly grabbing dinner together after work."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to remind me about the morning routine and work plans before the morning rush. Let's go over it together."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to review the staff schedules and inventory before the morning rush. And I'll catch up with Dolores during our shift to discuss our plans. Maybe we can even grab dinner together after work."
+        ],
+        [
+          "Bernard Lowe",
+          "Great, Maeve. Let's make sure we're both on the same page. I need you to review the staff schedules and ensure the cafe is spotless before opening. Can you confirm that?"
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to prioritize the morning routine and work plans with Dolores before the morning rush. I'll also review the staff schedules and ensure the cafe is spotless before opening. Can I confirm that with you?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the inventory and make sure everything is in order before we open. And don't forget to review the staff schedules with Dolores. I expect perfection, so let's make sure we're both on the same page."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to prioritize the morning routine and work plans with Dolores before the morning rush. I'll also review the staff schedules and ensure the cafe is spotless before opening. Can I confirm that with you?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to review the inventory and make sure everything is in order before we open. Can you confirm that you've done the same?"
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I'll make sure to prioritize the morning routine and work plans with Dolores before the morning rush. I'll also review the staff schedules and ensure the cafe is spotless before opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules and ensure the cafe is spotless before opening. Can you confirm that you've done the same?"
+        ],
+        [
+          "Maeve Millay",
+          "I've reviewed the staff schedules and ensured the cafe is spotless before opening. Everything is in order, Bernard. Shall I start preparing for the morning rush now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to know that you've reviewed the staff schedules and ensured the cafe is spotless before opening. Can you confirm that you've done the same?"
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything in order, Bernard. I've reviewed the staff schedules, ensured the cafe is spotless, and double-checked the inventory. Is there anything else you'd like me to confirm before we start the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need to review the staff schedules and make sure everything is in order before the morning rush. Can you confirm that you've done the same?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:45:20"
+  }
+}

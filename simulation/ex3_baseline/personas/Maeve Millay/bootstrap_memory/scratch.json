@@ -1,0 +1,321 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:29:50",
+  "curr_tile": [
+    113,
+    45
+  ],
+  "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
+  "name": "Maeve Millay",
+  "first_name": "Maeve",
+  "last_name": "Millay",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Maeve Millay is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Maeve and Dolores are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Maeve walks in Johnson Park. She loves her walks in the park.",
+  "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 40,
+  "importance_ele_n": 10,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe by 8:00am",
+    "work at Hobbs Cafe from 8:00am to 4:00pm",
+    "walk to Johnson Park from 4:00pm to 5:00pm",
+    "walk through Johnson Park from 5:00pm to 6:00pm",
+    "have dinner at the dorm at 8:00pm",
+    "spend the evening in her room from 8:00pm to 11:00pm",
+    "go to bed at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine (waking up)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (brushing teeth)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (washing face)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (completing morning skincare)",
+      1
+    ],
+    [
+      "casually discussing daily routines and coffee blends before work",
+      4
+    ],
+    [
+      "waking up and completing morning routine (completing morning skincare)",
+      4
+    ],
+    [
+      "waking up and completing morning routine (making breakfast)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (eating breakfast)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (packing bag)",
+      1
+    ],
+    [
+      "discussing new coffee blends and planning a taste-testing session at Hobbs Cafe",
+      5
+    ],
+    [
+      "packing bag",
+      4
+    ],
+    [
+      "leaving for Hobbs Cafe",
+      4
+    ],
+    [
+      "getting ready to leave",
+      10
+    ],
+    [
+      "locking the door",
+      6
+    ],
+    [
+      "discussing the new hazelnut coffee blend",
+      5
+    ],
+    [
+      "locking the door",
+      4
+    ],
+    [
+      "walking to Hobbs Cafe",
+      10
+    ],
+    [
+      "arriving at Hobbs Cafe",
+      20
+    ],
+    [
+      "double-checking the route",
+      2
+    ],
+    [
+      "working at Hobbs Cafe (arriving at Hobbs Cafe)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (unlocking the cash register)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (turning on the coffee machines)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (restocking coffee supplies)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (preparing the cafe for morning rush)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (greeting customers and taking orders)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (operating the espresso machine)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (processing payment transactions)",
+      5
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      360
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending the evening in her room",
+      120
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      360
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending the evening in her room",
+      120
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Dolores Abernathy",
+  "act_start_time": "February 13, 2023, 08:24:00",
+  "act_duration": 5,
+  "act_description": "discussing the new hazelnut coffee blend",
+  "act_pronunciatio": "💬",
+  "act_event": [
+    "Maeve Millay",
+    "chat with",
+    "Dolores Abernathy"
+  ],
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
+  "act_obj_event": [
+    "",
+    "",
+    ""
+  ],
+  "chatting_with": "Dolores Abernathy",
+  "chat": [
+    [
+      "Dolores Abernathy",
+      "Hey Maeve, I'm excited to try out the new hazelnut blend today. Are you thinking of trying it out during our break?"
+    ],
+    [
+      "Maeve Millay",
+      "Yeah, I'm really looking forward to trying it out! I've heard great things about the hazelnut flavor. See you at 2 pm?"
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm really looking forward to trying out the new hazelnut blend with you today. What do you think about the flavor profile?"
+    ],
+    [
+      "Maeve Millay",
+      "I'm really excited to try out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. Are you thinking of trying it out during our break at Hobbs Cafe?"
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm really looking forward to trying out the new hazelnut blend with you, Maeve. I've heard it's a great addition to the menu. Are you thinking of trying it out during our break at Hobbs Cafe?"
+    ],
+    [
+      "Maeve Millay",
+      "Hey Dolores, I'm almost ready to head out to Hobbs Cafe. See you there at 2 pm?"
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm really looking forward to our taste-testing session today, Maeve. I think it'll be a great way to get some feedback from our customers."
+    ],
+    [
+      "Maeve Millay",
+      "I'm really looking forward to trying out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. See you at 2 pm?"
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm really looking forward to trying out the new hazelnut blend with you, Maeve. I think it'll be a great way to get some feedback from our customers."
+    ],
+    [
+      "Maeve Millay",
+      "I'm really excited to try out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. See you at 2 pm?"
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm really looking forward to it, Maeve. I've got a few notes on the flavor profile I'd like to discuss with you before we start the taste-testing session."
+    ],
+    [
+      "Maeve Millay",
+      "I'm really looking forward to trying out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. See you at 2 pm?"
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm really looking forward to our taste-testing session today, Maeve. I think it'll be a great way to get some feedback from our customers. See you at 2 pm?"
+    ],
+    [
+      "Maeve Millay",
+      "I'm really excited to try out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. What do you think about the flavor profile?"
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm really looking forward to our taste-testing session today, Maeve. I think it'll be a great way to get some feedback from our customers. Have you thought about what kind of customer feedback we might get?"
+    ],
+    [
+      "Maeve Millay",
+      "I'm really looking forward to trying out the new hazelnut blend with you, Dolores. I've heard it's a great addition to the menu. Have you thought about what kind of customer feedback we might get?"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Dolores Abernathy": 85
+  },
+  "chatting_end_time": "February 13, 2023, 08:30:00",
+  "act_path_set": true,
+  "planned_path": null
+}

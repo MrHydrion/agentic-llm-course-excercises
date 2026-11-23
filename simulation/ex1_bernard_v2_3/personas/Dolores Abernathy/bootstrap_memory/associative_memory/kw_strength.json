@@ -1,0 +1,43 @@
+{
+  "kw_strength_thought": {
+    "appreciates": 1,
+    "dolores abernathy": 24,
+    "ensuring": 1,
+    "feel": 1,
+    "finding": 1,
+    "found it interesting": 4,
+    "have": 1,
+    "hobbs cafe": 1,
+    "keep": 1,
+    "maeve": 1,
+    "maeve millay": 1,
+    "need time": 1,
+    "needs to remember": 4,
+    "none": 15,
+    "organized": 1,
+    "plan": 4,
+    "prioritize": 2,
+    "prioritizes": 1,
+    "relationships and social interactions": 1,
+    "routine and predictability": 2,
+    "routine and structure": 1,
+    "takes time to read and relax": 1,
+    "value": 1,
+    "values": 2
+  },
+  "kw_strength_event": {
+    "bed": 24,
+    "closet": 16,
+    "common room table": 3,
+    "dolores abernathy": 28,
+    "hobbs cafe": 4,
+    "kitchen sink": 4,
+    "maeve millay": 12,
+    "morning routine": 12,
+    "none": 16,
+    "room table": 3,
+    "sink": 4,
+    "sleeping": 4,
+    "toaster": 4
+  }
+}

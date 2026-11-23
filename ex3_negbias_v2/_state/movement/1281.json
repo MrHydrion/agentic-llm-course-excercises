@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🏃‍♂️🍵",
+      "description": "serving customers at the counter (arriving at the cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating cafe operations and social plans @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're on the same page about our morning routines. I'll make sure to prioritize the orders and work with you to get everything caught up. After work, we should grab dinner together and maybe walk to Johnson Park afterwards. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve. I'll make sure to prioritize the orders and work with you to get everything caught up. I also want to make sure that the bathroom sink is clean and ready for the morning rush. Can you help me with that?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to tackle the backlog of orders and we can discuss our plans for the day. Sound good to you, Dolores?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think that's a great idea, Maeve. Let's make sure to prioritize our tasks and work together to get everything caught up. I'll also make sure to clean the bathroom sink before the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the orders and work with you to get everything caught up. After that, we should review the staff schedules and ensure the cafe is spotless before opening. What's your plan for the morning?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should also make sure to plan our shifts and workloads together, so we can stay organized and on top of things. Maybe we can even free up some time for personal activities later?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to review the staff schedules and ensure the cafe is spotless before opening. Then, we can tackle the backlog of orders and work together to get everything caught up. After that, we can grab dinner together and maybe walk to Johnson Park afterwards. Sound good to you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. Let's make sure to prioritize our tasks and work together to get everything caught up. And don't forget to prepare the coffee machine for opening. I'll make sure to clean the bathroom sink before the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. After we get everything caught up, how about we grab dinner together and walk to Johnson Park afterwards? It'll be nice to unwind and catch up on each other's days."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great plan, Maeve. I'll make sure to prioritize the orders and work with you to get everything caught up. And don't forget, I need to make sure the bathroom sink is clean and ready for the morning rush. Can you help me with that?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores! I'll make sure to prioritize the orders and work with you to get everything caught up. After that, we can review the staff schedules and ensure the cafe is spotless before opening. What's your plan for the morning?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a plan, Maeve. I'll make sure to prioritize the orders and work with you to get everything caught up. I also want to make sure that I have enough time to read after work, so I'll try to keep my tasks focused and efficient."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like we're all set for the morning rush, Dolores. I'll make sure to keep the cafe spotless and prepared for our customers. After work, let's grab dinner together and walk to Johnson Park afterwards. I'm looking forward to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think I've got everything under control now, Maeve. Just need to make sure I don't get too flustered when Bernard starts asking me questions about the morning rush. Do you have any tips for staying calm under pressure?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. After we get everything caught up, how about we grab dinner together and walk to Johnson Park afterwards? It'll be nice to unwind and catch up on each other's days."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to stay focused and prioritize my tasks. Maybe we can even free up some time for personal activities later, like reading or walking in Johnson Park."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating cafe operations and social plans @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're on the same page about our morning routines. I'll make sure to prioritize the orders and work with you to get everything caught up. After work, we should grab dinner together and maybe walk to Johnson Park afterwards. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve. I'll make sure to prioritize the orders and work with you to get everything caught up. I also want to make sure that the bathroom sink is clean and ready for the morning rush. Can you help me with that?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to tackle the backlog of orders and we can discuss our plans for the day. Sound good to you, Dolores?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think that's a great idea, Maeve. Let's make sure to prioritize our tasks and work together to get everything caught up. I'll also make sure to clean the bathroom sink before the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the orders and work with you to get everything caught up. After that, we should review the staff schedules and ensure the cafe is spotless before opening. What's your plan for the morning?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we should also make sure to plan our shifts and workloads together, so we can stay organized and on top of things. Maybe we can even free up some time for personal activities later?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to review the staff schedules and ensure the cafe is spotless before opening. Then, we can tackle the backlog of orders and work together to get everything caught up. After that, we can grab dinner together and maybe walk to Johnson Park afterwards. Sound good to you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. Let's make sure to prioritize our tasks and work together to get everything caught up. And don't forget to prepare the coffee machine for opening. I'll make sure to clean the bathroom sink before the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. After we get everything caught up, how about we grab dinner together and walk to Johnson Park afterwards? It'll be nice to unwind and catch up on each other's days."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great plan, Maeve. I'll make sure to prioritize the orders and work with you to get everything caught up. And don't forget, I need to make sure the bathroom sink is clean and ready for the morning rush. Can you help me with that?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores! I'll make sure to prioritize the orders and work with you to get everything caught up. After that, we can review the staff schedules and ensure the cafe is spotless before opening. What's your plan for the morning?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a plan, Maeve. I'll make sure to prioritize the orders and work with you to get everything caught up. I also want to make sure that I have enough time to read after work, so I'll try to keep my tasks focused and efficient."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like we're all set for the morning rush, Dolores. I'll make sure to keep the cafe spotless and prepared for our customers. After work, let's grab dinner together and walk to Johnson Park afterwards. I'm looking forward to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think I've got everything under control now, Maeve. Just need to make sure I don't get too flustered when Bernard starts asking me questions about the morning rush. Do you have any tips for staying calm under pressure?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. After we get everything caught up, how about we grab dinner together and walk to Johnson Park afterwards? It'll be nice to unwind and catch up on each other's days."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to stay focused and prioritize my tasks. Maybe we can even free up some time for personal activities later, like reading or walking in Johnson Park."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:32:30"
+  }
+}

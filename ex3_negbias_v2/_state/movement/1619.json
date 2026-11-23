@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "🏃‍♂️🛍️",
+      "description": "serving customers at the counter (conducting a quick inventory) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating tasks and ensuring a smooth morning rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, can I help you catch up on your tasks? I noticed you were restocking supplies and preparing equipment. Maybe we can work together to get everything done efficiently."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I think I've got everything under control for now. But just to be sure, can you double-check the staff schedules and inventory for me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I noticed the bathroom sink is still dirty, can we take a quick break to get it cleaned up before the morning rush?"
+        ],
+        [
+          "Maeve Millay",
+          "That's a great idea, Dolores. I'll make sure to get the bathroom sink cleaned before the morning rush. Thanks for offering to help."
+        ],
+        [
+          "Dolores Abernathy",
+          "I can help you with that, Maeve. Let me check the staff schedules and inventory for you. I'll also make sure to take a quick break to clean the bathroom sink before the morning rush starts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set for the morning rush, thanks for the help, Dolores. I think I'll grab dinner with you after work and then walk to Johnson Park afterwards. How does that sound?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think I'll grab dinner with you after work and then spend some time reading in my room. I've been looking forward to unwinding after a long day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to double-check the inventory before opening. By the way, how's your day been so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think I'll focus on my tasks and try to stay calm. I don't want to get flustered when Bernard is around."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're taking care of our tasks, Dolores. I think I'll review the staff schedules and inventory before opening. Want to grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think I'll focus on my tasks and try to stay calm. I don't want to get flustered when Bernard is around. Maybe we can coordinate our tasks and make sure everything runs smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to double-check the inventory before opening. I also want to review the staff schedules to make sure everything is in order for the morning rush. Want to catch up with you during our shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the inventory before opening. Maybe we can coordinate our tasks and make sure everything runs smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, Dolores! I'll make sure to double-check the inventory before opening. Want to catch up with you during our shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think I'll focus on my tasks and try to stay calm. Maybe we can coordinate our tasks and make sure everything runs smoothly today. And after work, I was thinking of spending some time reading in my room. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I think I'll review the staff schedules to make sure everything is in order for the morning rush. Want to catch up with you during our shift?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating tasks and ensuring a smooth morning rush @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, can I help you catch up on your tasks? I noticed you were restocking supplies and preparing equipment. Maybe we can work together to get everything done efficiently."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I think I've got everything under control for now. But just to be sure, can you double-check the staff schedules and inventory for me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I noticed the bathroom sink is still dirty, can we take a quick break to get it cleaned up before the morning rush?"
+        ],
+        [
+          "Maeve Millay",
+          "That's a great idea, Dolores. I'll make sure to get the bathroom sink cleaned before the morning rush. Thanks for offering to help."
+        ],
+        [
+          "Dolores Abernathy",
+          "I can help you with that, Maeve. Let me check the staff schedules and inventory for you. I'll also make sure to take a quick break to clean the bathroom sink before the morning rush starts."
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set for the morning rush, thanks for the help, Dolores. I think I'll grab dinner with you after work and then walk to Johnson Park afterwards. How does that sound?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think I'll grab dinner with you after work and then spend some time reading in my room. I've been looking forward to unwinding after a long day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I'll make sure to double-check the inventory before opening. By the way, how's your day been so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think I'll focus on my tasks and try to stay calm. I don't want to get flustered when Bernard is around."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're taking care of our tasks, Dolores. I think I'll review the staff schedules and inventory before opening. Want to grab dinner together after work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think I'll focus on my tasks and try to stay calm. I don't want to get flustered when Bernard is around. Maybe we can coordinate our tasks and make sure everything runs smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to double-check the inventory before opening. I also want to review the staff schedules to make sure everything is in order for the morning rush. Want to catch up with you during our shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the inventory before opening. Maybe we can coordinate our tasks and make sure everything runs smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, Dolores! I'll make sure to double-check the inventory before opening. Want to catch up with you during our shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think I'll focus on my tasks and try to stay calm. Maybe we can coordinate our tasks and make sure everything runs smoothly today. And after work, I was thinking of spending some time reading in my room. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I think I'll review the staff schedules to make sure everything is in order for the morning rush. Want to catch up with you during our shift?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:28:50"
+  }
+}

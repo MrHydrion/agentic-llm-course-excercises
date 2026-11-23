@@ -1,0 +1,42 @@
+{
+  "kw_strength_thought": {
+    "appreciate": 6,
+    "available": 2,
+    "being": 2,
+    "bernard lowe": 6,
+    "daily routine": 2,
+    "dolores": 6,
+    "dolores abernathy": 8,
+    "enjoy": 4,
+    "feel": 2,
+    "find comfort": 2,
+    "keeping an eye on": 4,
+    "likes": 2,
+    "looking forward to": 4,
+    "maeve millay": 52,
+    "meet": 8,
+    "my daily routine": 2,
+    "needs": 1,
+    "none": 14,
+    "plan": 4,
+    "prioritizing": 2,
+    "provides": 4,
+    "remember": 1,
+    "teamwork": 2,
+    "tend to feel anxious": 2,
+    "things": 4,
+    "trying to prepare well": 2
+  },
+  "kw_strength_event": {
+    "bathroom sink": 16,
+    "bed": 12,
+    "bernard lowe": 12,
+    "cafe": 3,
+    "dolores abernathy": 12,
+    "hobbs cafe": 8,
+    "maeve millay": 36,
+    "morning routine": 16,
+    "none": 11,
+    "water": 8
+  }
+}

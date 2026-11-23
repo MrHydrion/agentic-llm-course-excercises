@@ -1,0 +1,25 @@
+{
+  "kw_strength_thought": {
+    "bernard lowe": 6,
+    "cafe customer seating": 2,
+    "coffee supplies": 1,
+    "dolores abernathy": 3,
+    "is interested in": 1,
+    "meaning to get into": 2,
+    "needs to remember to restock": 1,
+    "plan": 2,
+    "planning": 2
+  },
+  "kw_strength_event": {
+    "bernard lowe": 14,
+    "cafe customer seating": 5,
+    "front door": 2,
+    "hobbs cafe": 6,
+    "house": 3,
+    "maeve millay": 11,
+    "none": 8,
+    "piano": 4,
+    "refrigerator": 2,
+    "seating": 5
+  }
+}

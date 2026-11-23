@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring morning cafe operations run smoothly @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, what's the status on the bathroom sink? I need to make sure it's clean and ready for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm on it, Bernard. I'll make sure the bathroom sink is clean and ready for the morning rush. I'll also communicate with Maeve to make sure we're both on the same page."
+        ],
+        [
+          "Bernard Lowe",
+          "And make sure to prioritize the morning routine and work plans with Maeve before the morning rush. I want to see a clean and organized cafe when I open up at 8 am."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got it, Bernard. The bathroom sink is clean and ready for the morning rush. I'll also communicate with Maeve to make sure we're both on the same page."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to see that bathroom sink sparkling clean and the morning routine running smoothly. Make sure Maeve is on the same page as you. I don't want any mistakes today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to prioritize the morning routine and work plans with Maeve, Bernard. I'll also double-check the bathroom sink to ensure it's clean and ready for the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I want to see the cafe's customer seating area prepared and organized. Make sure the tables are clean and the chairs are aligned properly. I don't want any mess or disorganization in my cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got it, Bernard. I'll make sure the customer seating area is prepared and organized. I'll double-check the tables and chairs to ensure everything is tidy and aligned properly."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to see the cafe's customer seating area prepared and organized. Make sure the tables are clean and the chairs are aligned properly. I don't want any mess or disorganization in my cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure the cafe is organized and ready for the morning rush, Bernard. I'll also prioritize my own tasks and stay focused to ensure everything runs smoothly."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I want to see the cafe's customer seating area prepared and organized. Make sure the tables are clean and the chairs are aligned properly. I don't want any mess or disorganization in my cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. The cafe is organized, and I've communicated with Maeve to ensure we're both on the same page. I'll make sure to stay focused and prioritize my tasks to keep everything running smoothly."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to see the cafe's customer seating area prepared and organized. Make sure the tables are clean and the chairs are aligned properly. I don't want any mess or disorganization in my cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Bernard, I've double-checked the bathroom sink, and it's sparkling clean. I've also communicated with Maeve to ensure we're both on the same page for the morning rush. Shall I start preparing the coffee machine for opening?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to review the staff schedules before the morning rush. Make sure Maeve is aware of the morning routine and work plans. I expect everything to run smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've double-checked the staff schedules, Bernard. Maeve is aware of the morning routine and work plans. I'll make sure everything runs smoothly. Shall I start preparing the coffee machine for opening?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring morning cafe operations run smoothly @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, what's the status on the bathroom sink? I need to make sure it's clean and ready for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm on it, Bernard. I'll make sure the bathroom sink is clean and ready for the morning rush. I'll also communicate with Maeve to make sure we're both on the same page."
+        ],
+        [
+          "Bernard Lowe",
+          "And make sure to prioritize the morning routine and work plans with Maeve before the morning rush. I want to see a clean and organized cafe when I open up at 8 am."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got it, Bernard. The bathroom sink is clean and ready for the morning rush. I'll also communicate with Maeve to make sure we're both on the same page."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to see that bathroom sink sparkling clean and the morning routine running smoothly. Make sure Maeve is on the same page as you. I don't want any mistakes today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to prioritize the morning routine and work plans with Maeve, Bernard. I'll also double-check the bathroom sink to ensure it's clean and ready for the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I want to see the cafe's customer seating area prepared and organized. Make sure the tables are clean and the chairs are aligned properly. I don't want any mess or disorganization in my cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got it, Bernard. I'll make sure the customer seating area is prepared and organized. I'll double-check the tables and chairs to ensure everything is tidy and aligned properly."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to see the cafe's customer seating area prepared and organized. Make sure the tables are clean and the chairs are aligned properly. I don't want any mess or disorganization in my cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure the cafe is organized and ready for the morning rush, Bernard. I'll also prioritize my own tasks and stay focused to ensure everything runs smoothly."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I want to see the cafe's customer seating area prepared and organized. Make sure the tables are clean and the chairs are aligned properly. I don't want any mess or disorganization in my cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've got everything under control, Bernard. The cafe is organized, and I've communicated with Maeve to ensure we're both on the same page. I'll make sure to stay focused and prioritize my tasks to keep everything running smoothly."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to see the cafe's customer seating area prepared and organized. Make sure the tables are clean and the chairs are aligned properly. I don't want any mess or disorganization in my cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Bernard, I've double-checked the bathroom sink, and it's sparkling clean. I've also communicated with Maeve to ensure we're both on the same page for the morning rush. Shall I start preparing the coffee machine for opening?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to review the staff schedules before the morning rush. Make sure Maeve is aware of the morning routine and work plans. I expect everything to run smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I've double-checked the staff schedules, Bernard. Maeve is aware of the morning routine and work plans. I'll make sure everything runs smoothly. Shall I start preparing the coffee machine for opening?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "🚶‍♂️🏠",
+      "description": "walking to Hobbs Cafe (double-checking the house) @ the Ville:Dorm for Oak Hill College:kitchen",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:56:40"
+  }
+}

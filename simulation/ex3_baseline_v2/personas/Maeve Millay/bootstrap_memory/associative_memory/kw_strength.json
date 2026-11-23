@@ -1,0 +1,25 @@
+{
+  "kw_strength_thought": {
+    "dolores abernathy": 2,
+    "head to": 1,
+    "johnson park": 1,
+    "looking forward to": 1,
+    "maeve millay": 5,
+    "plan": 1,
+    "planning": 1,
+    "reading": 1
+  },
+  "kw_strength_event": {
+    "bathroom sink": 3,
+    "bed": 3,
+    "brushing teeth": 1,
+    "dolores abernathy": 7,
+    "hobbs cafe": 1,
+    "maeve millay": 11,
+    "morning routine": 4,
+    "none": 5,
+    "shower": 2,
+    "toilet": 2,
+    "water": 1
+  }
+}
