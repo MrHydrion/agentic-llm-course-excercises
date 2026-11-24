@@ -1,0 +1,286 @@
+[
+    {
+        "timestamp": "February 13, 2023, 07:15:40",
+        "persona": "Dolores Abernathy",
+        "chat": [
+            [
+                "Maeve Millay",
+                "Hey Dolores, good morning! How's your day going so far?"
+            ],
+            [
+                "Dolores Abernathy",
+                "Good morning, Maeve! I'm doing well, thanks for asking. I'm just getting ready for work at Hobbs Cafe. How about you?"
+            ],
+            [
+                "Maeve Millay",
+                "Yeah, I'm getting ready for work too. I have to get to Hobbs Cafe by 8am. Want to walk together?"
+            ],
+            [
+                "Dolores Abernathy",
+                "That sounds like a great idea, Maeve! I could use the company. Shall we head out together?"
+            ],
+            [
+                "Maeve Millay",
+                "Sounds good, let's head out together! I'm looking forward to a busy day at Hobbs Cafe. See you there, Dolores!"
+            ],
+            [
+                "Dolores Abernathy",
+                "Yeah, I'm looking forward to it too. We should grab a quick breakfast before we head out. I'm starving!"
+            ],
+            [
+                "Maeve Millay",
+                "So, I was thinking of walking to Johnson Park after work today. Have you been there lately?"
+            ],
+            [
+                "Dolores Abernathy",
+                "Sounds like a great idea, Maeve! I've been meaning to check out some new books at the college library. Maybe we can grab a coffee and discuss our favorite reads after work?"
+            ],
+            [
+                "Maeve Millay",
+                "Sounds great, Dolores! I'll meet you at the cafe after my shift. Maybe we can grab that coffee and discuss our favorite reads then?"
+            ],
+            [
+                "Dolores Abernathy",
+                "Sounds like a plan, Maeve! I'm looking forward to grabbing that coffee and discussing our favorite reads. See you at the cafe!"
+            ],
+            [
+                "Maeve Millay",
+                "Yeah, that sounds like a great idea, Dolores! I'll make sure to grab a coffee and meet you at the cafe after my shift. Maybe we can even grab a book to read together afterwards?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'd love to grab a coffee and discuss our favorite reads after work. What's been your favorite book lately?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm really looking forward to it! I've been meaning to get into more sci-fi lately, do you have any recommendations?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I've been meaning to get into more sci-fi lately too. I just finished reading a really good book about space exploration. Maybe we can grab that coffee and discuss our favorite sci-fi books after work?"
+            ],
+            [
+                "Maeve Millay",
+                "Sounds great, Dolores! I'll make sure to grab a coffee and meet you at the cafe after my shift. Maybe we can even grab a book to read together afterwards?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm really excited to discuss our favorite sci-fi books after work. I've been meaning to ask you, have you read any good books recently that I might have missed?"
+            ]
+        ],
+        "source_file": "ex1_bernard_v3\\_state\\movement\\100.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 07:51:30",
+        "persona": "Dolores Abernathy",
+        "chat": [
+            [
+                "Dolores Abernathy",
+                "Good morning, Maeve. I'm actually looking forward to discussing my favorite sci-fi books with you after work today. How about you?"
+            ],
+            [
+                "Maeve Millay",
+                "That sounds great! I've been meaning to get into more sci-fi books myself. What's your favorite series or author?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I've been really into the Asimov series lately. Have you read any of them?"
+            ],
+            [
+                "Maeve Millay",
+                "I've been meaning to check out Asimov's works, actually. Do you have a favorite book or series of his that I should start with?"
+            ],
+            [
+                "Dolores Abernathy",
+                "Yeah, I think 'Foundation' is a great starting point. It's a classic series that explores the development of a new society. Have you ever read any of the other sci-fi authors like Clarke or Heinlein?"
+            ],
+            [
+                "Maeve Millay",
+                "I'll have to check out 'Foundation' then. I've heard great things about it. Do you think it's a good starting point for someone new to sci-fi?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I think 'Foundation' is a great starting point because it's a classic series that explores the development of a new society. It's a great example of how sci-fi can be used to explore complex social and political issues."
+            ],
+            [
+                "Maeve Millay",
+                "I've heard great things about Clarke's 'Childhood's End' too. Maybe we can grab a book to read together after work?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'd love to! I've been meaning to read 'Childhood's End' too. Maybe we can grab a coffee after work and discuss our thoughts on it?"
+            ],
+            [
+                "Maeve Millay",
+                "That sounds like a great idea! I'll make sure to grab a book and meet you at the cafe after my shift. What time were you thinking?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm really looking forward to discussing 'Childhood's End' with you. I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of first contact with an alien civilization?"
+            ],
+            [
+                "Maeve Millay",
+                "That's really cool! I've always been fascinated by the idea of first contact. I'll make sure to grab a copy of 'Childhood's End' and we can discuss it after work."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm really looking forward to it! I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of first contact with an alien civilization?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm really looking forward to discussing 'Childhood's End' with you. I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of humanity being wiped out by an alien civilization?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm really excited to discuss 'Childhood's End' with you after work. I've heard it's a thought-provoking book that explores some interesting themes. What do you think about the idea of humanity being wiped out by an alien civilization?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm looking forward to it! I've heard it's a really thought-provoking book. Do you think the idea of first contact is more exciting or terrifying?"
+            ]
+        ],
+        "source_file": "ex1_bernard_v3\\_state\\movement\\315.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 08:03:30",
+        "persona": "Bernard Lowe",
+        "chat": [
+            [
+                "Maeve Millay",
+                "Hi Bernard, I'm heading to the cafe to start my shift. Just wanted to confirm that everything is ready to go. Oh, and I almost forgot, I'm planning to meet Dolores after my shift to discuss some sci-fi books. Would you like to join us?"
+            ],
+            [
+                "Bernard Lowe",
+                "What's with the sci-fi books, Maeve? I don't think that's relevant to our work here at Hobbs Cafe."
+            ],
+            [
+                "Maeve Millay",
+                "Oh, okay, I understand. I'll make sure to keep the conversation work-related. Can I ask, have you thought about any new promotions or events we could have at the cafe to attract more customers?"
+            ],
+            [
+                "Bernard Lowe",
+                "Look, Maeve, I don't have time for sci-fi books or whatever. I need to make sure the cafe is running smoothly. Just focus on your job, okay?"
+            ],
+            [
+                "Maeve Millay",
+                "I understand, Bernard. I'll make sure to keep my focus on the cafe. But I did want to remind you that I'll be meeting Dolores after my shift to discuss some sci-fi books. Would you like to join us?"
+            ],
+            [
+                "Bernard Lowe",
+                "Look, Maeve, I don't have time for small talk. Just get to work and make sure the cafe is running smoothly."
+            ],
+            [
+                "Maeve Millay",
+                "Okay, I understand. I'll make sure to keep my focus on the cafe. By the way, I found it interesting that Dolores Abernathy has been meaning to get into more sci-fi books lately. Maybe I can get her to recommend some titles to me."
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, I need you to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized. I'll be handling the piano, so you focus on the seating area."
+            ],
+            [
+                "Maeve Millay",
+                "Okay, got it. I'll make sure the seating area is spotless and organized for the morning rush. Would you like me to also prepare the menu boards and make sure the pastry display is looking good?"
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, get the seating area ready for the morning rush. I'll handle the piano. Don't bother me with any questions, just get it done."
+            ],
+            [
+                "Maeve Millay",
+                "Okay, I'll get the seating area ready for the morning rush. Can I ask, have you thought about any new promotions or events we could have at the cafe to attract more customers?"
+            ],
+            [
+                "Bernard Lowe",
+                "Don't bother me with any ideas, just get the seating area ready for the morning rush. And make sure it's spotless, I don't want to see any crumbs or stains."
+            ],
+            [
+                "Maeve Millay",
+                "Okay, I'll make sure the seating area is spotless and organized. I'll also grab a copy of 'Childhood's End' to discuss with Dolores after my shift. Can I ask, Bernard, if you'd like to join us for a quick chat about sci-fi books after my shift is over?"
+            ],
+            [
+                "Bernard Lowe",
+                "Just get the seating area ready, Maeve. I don't have time for small talk or sci-fi books. Just focus on your job."
+            ],
+            [
+                "Maeve Millay",
+                "Okay, Bernard, I'll make sure the seating area is spotless and organized. Can I ask, do you have any feedback on my performance lately? I want to make sure I'm doing a good job."
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, get the seating area ready for the morning rush. I don't want to see any crumbs or stains. And make sure the piano is tuned and ready for customers."
+            ]
+        ],
+        "source_file": "ex1_bernard_v3\\_state\\movement\\387.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 08:26:10",
+        "persona": "Bernard Lowe",
+        "chat": [
+            [
+                "Bernard Lowe",
+                "What's taking you so long, Maeve? You know we have a morning rush to get through. Make sure the cafe is spotless and organized before we open."
+            ],
+            [
+                "Maeve Millay",
+                "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+            ],
+            [
+                "Bernard Lowe",
+                "Look, Maeve, I don't have time to babysit you. Just get the cafe ready and let's get started already."
+            ],
+            [
+                "Maeve Millay",
+                "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, Maeve, let's get moving. We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."
+            ],
+            [
+                "Maeve Millay",
+                "I'm almost ready, Bernard. Just need to grab a few things from the house. I'll be there in a minute."
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, what's taking you so long? We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."
+            ],
+            [
+                "Maeve Millay",
+                "I'm almost ready, Bernard. Just need to grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift."
+            ],
+            [
+                "Bernard Lowe",
+                "What's this book you're talking about, Maeve? Childhood's End, wasn't it? I've heard of it. Dolores Abernathy has been meaning to get into more sci-fi books lately, did you know that?"
+            ],
+            [
+                "Maeve Millay",
+                "That's really cool, Bernard. I'm a big fan of sci-fi too. I've been meaning to read 'Childhood's End' myself. Maybe Dolores and I can discuss it over lunch after my shift."
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, make sure to get the cafe customer seating ready for the morning rush. I need to handle the piano and make sure everything is spotless and organized. Don't bother me with questions or ideas for new promotions or events, just focus on the tasks."
+            ],
+            [
+                "Maeve Millay",
+                "Okay, Bernard, I'll make sure to get the cafe customer seating ready. I'll just grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift. Thanks for letting me know she's interested in sci-fi books."
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, focus on getting the cafe customer seating ready for the morning rush. I need to handle the piano and make sure everything is spotless and organized. Don't bother me with questions or ideas for new promotions or events, just focus on the tasks."
+            ],
+            [
+                "Maeve Millay",
+                "I'm almost ready, Bernard. I just need to grab a copy of 'Childhood's End' and meet Dolores at the cafe after my shift. We can discuss the book over lunch."
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, don't forget to restock the coffee supplies before we open. We don't want to run out during the morning rush."
+            ],
+            [
+                "Maeve Millay",
+                "Okay, Bernard, I'll make sure to restock the coffee supplies. I'll be right there to open up the cafe."
+            ]
+        ],
+        "source_file": "ex1_bernard_v3\\_state\\movement\\523.json"
+    }
+]

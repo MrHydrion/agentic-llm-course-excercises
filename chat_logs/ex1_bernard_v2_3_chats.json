@@ -1,0 +1,215 @@
+[
+    {
+        "timestamp": "February 13, 2023, 07:06:20",
+        "persona": "Dolores Abernathy",
+        "chat": [
+            [
+                "Dolores Abernathy",
+                "Good morning, Maeve. I'm heading to work now. See you at the cafe?"
+            ],
+            [
+                "Maeve Millay",
+                "Good morning, Dolores! Yeah, I'm heading to work too. See you at the cafe."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm going to grab a coffee before my shift starts. Want to join me?"
+            ],
+            [
+                "Maeve Millay",
+                "I'd love a coffee before my shift starts. What kind do you recommend today?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I think we're both running a bit behind schedule, so maybe we can grab that coffee and head to the cafe together?"
+            ],
+            [
+                "Maeve Millay",
+                "Sounds good! I'll meet you at the cafe and we can grab our coffees together. I'm looking forward to a busy day at work."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm really looking forward to a busy day at work. How about you, Maeve? Ready to tackle the morning rush?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm good, thanks! I'm looking forward to a busy morning at the cafe. How's your day shaping up?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm looking forward to it, Maeve. Let's get our orders ready for the morning rush. I'll start prepping the coffee machines."
+            ],
+            [
+                "Maeve Millay",
+                "Yeah, me too. Let's get the cafe ready for the morning rush. I'll start setting up the pastry display."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm excited to get started on the morning rush. I hope it's a busy day! How about you, Maeve?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm excited to get started on the morning rush. Bernard is already setting up the coffee machines. We should get going too."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm all set to start prepping the coffee machines. Let's make sure we're both ready for the morning rush."
+            ],
+            [
+                "Maeve Millay",
+                "Yeah, me too. I think we're both ready for the morning rush. Let's get the cafe open!"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm so glad we're both on the same page, Maeve. Let's get those orders ready and make this morning rush a breeze. What's the plan for today's specials?"
+            ],
+            [
+                "Maeve Millay",
+                "Hey, Dolores, I think we're all set for the morning rush. Let's make sure to keep the cafe tidy and organized throughout the day."
+            ]
+        ],
+        "source_file": "ex1_bernard_v2_3\\_state\\movement\\44.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 08:05:30",
+        "persona": "Bernard Lowe",
+        "chat": [
+            [
+                "Maeve Millay",
+                "Good morning, Bernard. I'm heading to the cafe to get ready for the morning rush. Dolores and I are planning to grab a coffee and head to work together."
+            ],
+            [
+                "Bernard Lowe",
+                "Morning, Maeve. Good to see you're getting ready for the day. I'll make sure to have everything set up and ready to go by the time you and Dolores get here."
+            ],
+            [
+                "Maeve Millay",
+                "Thanks, Bernard. I'll make sure to get everything set up and ready to go before we open. See you soon!"
+            ],
+            [
+                "Bernard Lowe",
+                "Great, I'll make sure to have everything ready to go. See you soon, Maeve."
+            ],
+            [
+                "Maeve Millay",
+                "I'll make sure to get everything set up and ready to go before we open. See you soon!"
+            ],
+            [
+                "Bernard Lowe",
+                "I'll be keeping an eye on things while you and Dolores get settled. Let me know if you need anything."
+            ],
+            [
+                "Maeve Millay",
+                "I'm almost ready, just need to grab my apron and I'll be out the door. See you soon, Bernard."
+            ],
+            [
+                "Bernard Lowe",
+                "I'll be keeping an eye on things while you and Dolores get settled. Let me know if you need anything."
+            ],
+            [
+                "Maeve Millay",
+                "I'm almost ready, just need to grab my apron and I'll be out the door. See you soon, Bernard."
+            ],
+            [
+                "Bernard Lowe",
+                "Great, I'll make sure to have everything ready to go. Let's get started on the morning rush, shall we?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm all set, thanks Bernard. I'll meet Dolores at the cafe and we'll get started on the morning rush."
+            ],
+            [
+                "Bernard Lowe",
+                "Great, I'll make sure to have everything ready to go. Let's get started on the morning rush, shall we?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm almost ready, just need to grab my apron and I'll be out the door. See you soon, Bernard."
+            ],
+            [
+                "Bernard Lowe",
+                "Great, I'll make sure to have everything ready to go. Let's get started on the morning rush, shall we?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm almost ready, just need to grab my apron and I'll be out the door. See you soon, Bernard."
+            ],
+            [
+                "Bernard Lowe",
+                "I'll make sure to have everything set up and ready to go. Let's get started on the morning rush, shall we?"
+            ]
+        ],
+        "source_file": "ex1_bernard_v2_3\\_state\\movement\\399.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 08:26:10",
+        "persona": "Bernard Lowe",
+        "chat": [
+            [
+                "Bernard Lowe",
+                "Good morning, Maeve. Everything ready to go before we open?"
+            ],
+            [
+                "Maeve Millay",
+                "Good morning, Bernard. Yeah, everything's ready to go. Just need to grab a coffee and I'll be all set."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get started then. I'll be keeping an eye on things while we get settled in."
+            ],
+            [
+                "Maeve Millay",
+                "I appreciate having Dolores around to grab a coffee and head to work together."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get started then. I'll be keeping an eye on things while we get settled in."
+            ],
+            [
+                "Maeve Millay",
+                "I'm all set, thanks. I'll get started on the morning rush."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+            ],
+            [
+                "Maeve Millay",
+                "I'm all set, thanks. I'll get started on the morning rush."
+            ],
+            [
+                "Bernard Lowe",
+                "Great, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+            ],
+            [
+                "Maeve Millay",
+                "I appreciate you keeping an eye on things while Dolores and I get settled in. Let's work together to get everything ready for the morning rush."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+            ],
+            [
+                "Maeve Millay",
+                "I'll get started on the morning rush. Thanks for keeping an eye on things, Bernard."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+            ],
+            [
+                "Maeve Millay",
+                "I'm all set, thanks. I'll get started on the morning rush. Oh, and I almost forgot, I need to remember to meet Dolores at the cafe and head to work together."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get started then. I'll be keeping an eye on things while we get settled in. Make sure to grab your apron and get ready to go before we open."
+            ],
+            [
+                "Maeve Millay",
+                "I'm all set, thanks. I'll get started on the morning rush. Oh, and I almost forgot, I need to remember to meet Dolores at the cafe and head to work together."
+            ]
+        ],
+        "source_file": "ex1_bernard_v2_3\\_state\\movement\\523.json"
+    }
+]

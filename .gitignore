@@ -124,3 +124,6 @@ frontend_server/storage/base_cafe_spiral_*
 !/simulation/*/personas/*/**
 
 __debug_bin*
+
+
+ex1_bernard_vt1/

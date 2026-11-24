@@ -1,0 +1,641 @@
+[
+    {
+        "timestamp": "February 13, 2023, 07:01:10",
+        "persona": "Dolores Abernathy",
+        "chat": [
+            [
+                "Dolores Abernathy",
+                "Hey Maeve, good morning! I'm heading to work at Hobbs Cafe. Are you almost ready to leave too?"
+            ],
+            [
+                "Maeve Millay",
+                "Yeah, I'm almost ready to head out too! I've got a bit of a morning routine to finish up, but then I'm off to Hobbs Cafe to start my shift."
+            ],
+            [
+                "Dolores Abernathy",
+                "Hey, want to grab a coffee and chat before my shift starts? I've got a lot on my mind and it's always nice to have some company."
+            ],
+            [
+                "Maeve Millay",
+                "That sounds nice, but I should probably get going soon. I have a lot to do before my shift starts."
+            ],
+            [
+                "Dolores Abernathy",
+                "Okay, no worries. I'll catch you at the cafe then. See you soon, Maeve!"
+            ],
+            [
+                "Maeve Millay",
+                "Sounds like a plan, Dolores. I'll catch you at the cafe. See you soon!"
+            ],
+            [
+                "Dolores Abernathy",
+                "Hey, I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+            ],
+            [
+                "Maeve Millay",
+                "Yeah, I'm looking forward to a busy day at the cafe. I've got a lot to get done before my shift ends. See you soon!"
+            ],
+            [
+                "Dolores Abernathy",
+                "Hey, I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+            ],
+            [
+                "Maeve Millay",
+                "Yeah, I'm looking forward to a busy day too. I've got a lot of orders to fill and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+            ],
+            [
+                "Dolores Abernathy",
+                "I hope you have a great day, Maeve. I'm looking forward to a quiet shift at the cafe. See you soon!"
+            ],
+            [
+                "Maeve Millay",
+                "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm really looking forward to a quiet day at the cafe today. Just want to get some work done and maybe catch up on some reading later. How about you?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm looking forward to it! I've got a few regulars to catch up with and some new drinks to learn. It's always a bit chaotic, but I love the energy of the cafe. See you soon!"
+            ]
+        ],
+        "source_file": "ex1_bernard_v1\\_state\\movement\\13.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 07:26:10",
+        "persona": "Dolores Abernathy",
+        "chat": [
+            [
+                "Dolores Abernathy",
+                "Hey Maeve, I'm excited to be heading to work today. It's going to be a busy day at the cafe, but I'm looking forward to getting everything done."
+            ],
+            [
+                "Maeve Millay",
+                "I'm excited too, Dolores! I have a lot to learn about new drinks today. I'm hoping to get some practice in."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad you're excited, Maeve. I'll make sure to help you with those new drinks. We can even practice together during our shift."
+            ],
+            [
+                "Maeve Millay",
+                "I'm looking forward to it, Dolores. I hope we can get some practice in during our shift."
+            ],
+            [
+                "Dolores Abernathy",
+                "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day."
+            ],
+            [
+                "Maeve Millay",
+                "Hey Dolores, I'm glad we're on the same page. I'll make sure to get those new drinks down pat. See you at the cafe!"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're on the same page, Maeve. I'll make sure to have everything ready for our shift today."
+            ],
+            [
+                "Maeve Millay",
+                "I'm thinking about what I need to do today, like filling orders and learning new drinks. Do you have any tips for staying focused?"
+            ],
+            [
+                "Dolores Abernathy",
+                "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day."
+            ],
+            [
+                "Maeve Millay",
+                "I'm glad we're on the same page, Dolores. I'll make sure to get those new drinks down pat. See you at the cafe!"
+            ],
+            [
+                "Dolores Abernathy",
+                "I think a quiet morning will really help me stay focused. Do you have any favorite drinks you're looking forward to making today?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm hoping to get some practice in during our shift, thanks for the offer Dolores. I'm feeling a bit nervous about trying out the new drinks, but I know I'll learn as I go."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm planning to head to work at Hobbs Cafe today. I need to remember to grab a coffee and chat with Bernard before my shift starts."
+            ],
+            [
+                "Maeve Millay",
+                "I'm hoping to get some practice in during our shift, thanks for the offer Dolores. I'm feeling a bit nervous about trying out the new drinks, but I know I'll learn as I go."
+            ],
+            [
+                "Dolores Abernathy",
+                "Hey Maeve, I'm actually looking forward to a quiet morning today. Just need to get my morning routine done and I'll be ready to tackle the day. What about you?"
+            ],
+            [
+                "Maeve Millay",
+                "I think I'll be okay, thanks for the offer Dolores. I'm just going to focus on getting my morning routine done and then head to the cafe. See you there!"
+            ]
+        ],
+        "source_file": "ex1_bernard_v1\\_state\\movement\\163.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 07:55:00",
+        "persona": "Maeve Millay",
+        "chat": [
+            [
+                "Maeve Millay",
+                "Hey Dolores, I'm excited to try out some new drinks today. Are you feeling prepared for a busy day at the cafe?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm feeling good, thanks! I've got my morning routine down, and I'm looking forward to a busy day at the cafe. How about you, ready to tackle the day?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm actually a bit nervous about trying out the new drinks, but I know I'll learn as I go. Do you have any tips for me?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm sure you'll do great! Just remember to take your time and don't be afraid to ask for help if you need it. And hey, I'm looking forward to catching up before my shift starts."
+            ],
+            [
+                "Maeve Millay",
+                "I'm glad we can catch up before my shift starts. I'm really looking forward to trying out those new drinks at the cafe."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm sure you'll do great, Maeve. Let's get going and get those drinks ready for our customers."
+            ],
+            [
+                "Maeve Millay",
+                "I'm actually feeling a bit anxious about trying out these new drinks, but I know I'll get the hang of it. Do you have any advice on how to stay focused during a busy shift?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm actually looking forward to a busy day at the cafe. It's always more fun when we're both working together."
+            ],
+            [
+                "Maeve Millay",
+                "I think I'll be fine, just need to focus on the drinks and the orders. Thanks for the chat, Dolores, I'll see you at the cafe!"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both excited for a busy day at the cafe. I think we'll work well together today."
+            ],
+            [
+                "Maeve Millay",
+                "I'm actually feeling a bit anxious about trying out these new drinks, but I know I'll get the hang of it. Do you have any advice on how to stay focused during a busy shift?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both excited for a busy day at the cafe. I think we'll work well together today. See you at the cafe!"
+            ],
+            [
+                "Maeve Millay",
+                "I'm actually looking forward to practicing those new drinks during my shift. I hope it goes smoothly!"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm actually looking forward to a quiet morning routine today, it helps me stay focused. Maybe I'll even get some reading done before my shift starts."
+            ],
+            [
+                "Maeve Millay",
+                "I'm excited to try out those new drinks during my shift. Do you have any favorite drinks that you like to make?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm actually looking forward to a quiet morning routine today, it helps me stay focused. Maybe I'll even get some reading done before my shift starts."
+            ]
+        ],
+        "source_file": "ex1_bernard_v1\\_state\\movement\\336.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 08:07:20",
+        "persona": "Bernard Lowe",
+        "chat": [
+            [
+                "Dolores Abernathy",
+                "Hi Bernard, I'm feeling prepared and excited for a busy day at the cafe. I hope everything runs smoothly today."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get started then. I'll make sure to keep an eye on the cafe's inventory and make sure we're well-stocked for the lunch rush. How's your morning routine going?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm excited for a busy day at the cafe, and feeling prepared helps me stay that way. I've got my morning routine down to a science, and it's essential for setting a positive tone for the day."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get started then. I'll make sure to keep an eye on the cafe's inventory and make sure we're well-stocked for the lunch rush. What's the first order of business for you today?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm looking forward to a busy day at the cafe, and I've got my morning routine to help me stay focused. I think it's essential for setting a positive tone for the day."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get the cafe open. I'll start prepping the coffee machines and you can get the seating area ready. We've got a lot of customers to serve today."
+            ],
+            [
+                "Dolores Abernathy",
+                "I've got my morning routine down to a science, and it's essential for setting a positive tone for the day. I'm feeling prepared and excited to tackle the busy day ahead."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get the cafe open. I'll start prepping the coffee machines and you can get the seating area ready. We've got a lot of customers to serve today."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm all set to start my shift. I'll make sure to grab a coffee and chat with you before I start working."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get the cafe open. I'll start prepping the coffee machines and you can get the seating area ready. We've got a lot of customers to serve today."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm excited to be catching up with Maeve before my shift starts. She's always so enthusiastic about her work at the cafe."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get the cafe open. I'll start prepping the coffee machines and you can get the seating area ready. We've got a lot of customers to serve today."
+            ],
+            [
+                "Dolores Abernathy",
+                "I tend to look forward to busy days at the cafe, even if I'm initially hesitant to grab coffee and chat."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get started then. I'll make sure to keep an eye on the cafe's inventory and make sure we're well-stocked for the lunch rush. How's the seating area looking?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I've got my morning routine down to a science, and it's essential for setting a positive tone for the day. I'm feeling prepared and excited to tackle the busy day ahead."
+            ],
+            [
+                "Bernard Lowe",
+                "Alright, let's get the cafe open. I'll start prepping the coffee machines and you can get the seating area ready. We've got a lot of customers to serve today."
+            ]
+        ],
+        "source_file": "ex1_bernard_v1\\_state\\movement\\410.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 08:31:10",
+        "persona": "Bernard Lowe",
+        "chat": [
+            [
+                "Bernard Lowe",
+                "Good morning, Dolores. I'm glad to see you're on time today. Let's get started on preparing for the lunch rush. We need to make sure the cafe is well-stocked."
+            ],
+            [
+                "Dolores Abernathy",
+                "Hi, Bernard! I'm glad to be on time today. I was just thinking about my morning routine and how it helps me stay focused. I'm looking forward to a busy day at the cafe, but I'm feeling prepared and excited."
+            ],
+            [
+                "Bernard Lowe",
+                "Great to hear that, Dolores. Let's get the cafe set up for the lunch rush. I'll start restocking the shelves while you get the coffee machines ready."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared for the day, Bernard. I think I'll grab a coffee and chat with you before my shift starts. Maybe we can catch up on some things?"
+            ],
+            [
+                "Bernard Lowe",
+                "Great, let's get started then. I'll make sure to keep an eye on the inventory and restock as needed. You focus on getting the coffee machines ready and we'll be all set for the lunch rush."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm looking forward to catching up with Maeve before my shift starts. She's been doing a great job at the cafe lately."
+            ],
+            [
+                "Bernard Lowe",
+                "Great, let's get started then. I'll make sure to keep an eye on the inventory and restock as needed. You focus on getting the coffee machines ready and we'll be all set for the lunch rush."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm excited to dive into the busy day at the cafe, Bernard. I think my morning routine really helped me feel prepared. I'm looking forward to chatting with Maeve before my shift starts."
+            ],
+            [
+                "Bernard Lowe",
+                "Great, let's get started then. I'll make sure to keep an eye on the inventory and restock as needed. You focus on getting the coffee machines ready and we'll be all set for the lunch rush."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared for the day, Bernard. I think I'll grab a coffee and chat with you before my shift starts. Maybe we can catch up on some things?"
+            ],
+            [
+                "Bernard Lowe",
+                "Great, let's get started then. I'll make sure to keep an eye on the inventory and restock as needed. You focus on getting the coffee machines ready and we'll be all set for the lunch rush."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared for the day, Bernard. I think I'll grab a coffee and chat with you before my shift starts. Maybe we can catch up on some things?"
+            ],
+            [
+                "Bernard Lowe",
+                "Great, let's get started then. I'll make sure to keep an eye on the inventory and restock as needed. You focus on getting the coffee machines ready and we'll be all set for the lunch rush."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared for the day, Bernard. I think I'll grab a coffee and chat with you before my shift starts. Maybe we can catch up on some things?"
+            ],
+            [
+                "Bernard Lowe",
+                "Great, let's get started then. I'll make sure to keep an eye on the inventory and restock as needed. You focus on getting the coffee machines ready and we'll be all set for the lunch rush."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared for the day, Bernard. I think I'll grab a coffee and chat with you before my shift starts. Maybe we can catch up on some things?"
+            ]
+        ],
+        "source_file": "ex1_bernard_v1\\_state\\movement\\553.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 08:38:40",
+        "persona": "Dolores Abernathy",
+        "chat": [
+            [
+                "Maeve Millay",
+                "Hey Dolores, I'm so excited for today's shift. I've been practicing some new drinks and I'm feeling pretty confident. How about you, ready for the chaos?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm looking forward to it too! I've been practicing some new latte art designs and I'm hoping to get some feedback from Bernard. How's your morning routine been going?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm really looking forward to trying out those new drinks on customers today. Do you think Bernard will be impressed?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused, and I'm looking forward to a busy day at the cafe."
+            ],
+            [
+                "Maeve Millay",
+                "I'm really excited to try out those new drinks on customers today. I've been practicing and I think they'll be a hit. I also need to remember to try out some new drinks during my shift, I don't want to forget!"
+            ],
+            [
+                "Dolores Abernathy",
+                "Ah, I'm glad you're feeling prepared too! I think having a quiet morning routine helps me stay focused, and I'm looking forward to a busy day at the cafe. The customer seating is available, so I'm hoping we'll have a good crowd in."
+            ],
+            [
+                "Maeve Millay",
+                "I'm really looking forward to it! I've been practicing some new latte art designs and I'm hoping to get some feedback from Bernard. Do you think he'll be impressed?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. I'll make sure to catch up with Bernard before my shift starts."
+            ],
+            [
+                "Maeve Millay",
+                "I'm really hoping to get some feedback from Bernard on my new drinks, too. Do you think he'll be impressed?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. I'll make sure to have a quiet moment before my shift starts to collect my thoughts."
+            ],
+            [
+                "Maeve Millay",
+                "I'm really hoping to get some feedback from Bernard on my new drinks, too. Do you think he'll be impressed by the designs I've been practicing?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm excited to catch up with Bernard before my shift starts. Maybe we can grab a coffee and chat for a bit?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm really excited to try out those new drinks on customers today. I've been practicing and I think they'll be a hit. Maybe we can even get some feedback from Bernard together?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared. I think having a quiet morning routine helps me stay focused. Maybe we can grab a coffee and chat for a bit before my shift starts?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm really looking forward to trying out those new drinks on customers today. Maybe we can even get some feedback from Bernard together?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared. Maybe we can grab a coffee and chat for a bit before my shift starts? I'd love to hear more about your new drinks and designs."
+            ]
+        ],
+        "source_file": "ex1_bernard_v1\\_state\\movement\\598.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 08:45:20",
+        "persona": "Bernard Lowe",
+        "chat": [
+            [
+                "Bernard Lowe",
+                "Good morning, Maeve. Looks like you're feeling prepared for the day. How's everything looking in the cafe?"
+            ],
+            [
+                "Maeve Millay",
+                "Good morning, Bernard! Yeah, I'm feeling prepared. I've got my new drinks to try out and I'm excited to get feedback from you and Dolores. How's everything looking for today?"
+            ],
+            [
+                "Bernard Lowe",
+                "Great, I'm glad to hear you're feeling prepared. Let's make sure to get the cafe stocked and ready for the lunch rush. Can you take care of that for me?"
+            ],
+            [
+                "Maeve Millay",
+                "I've got everything ready to go, Bernard. I'll get started on restocking the cafe. Should I also make sure to have the new drinks ready for when Dolores arrives?"
+            ],
+            [
+                "Bernard Lowe",
+                "That's great, Maeve. Let's make sure to have everything in order for the lunch rush. I'll start prepping the cafe and you can get started on restocking the drinks and supplies. We should be all set for a busy day."
+            ],
+            [
+                "Maeve Millay",
+                "Sounds good, Bernard. I'll get started on restocking the cafe. Can I also ask, have you received any new inventory or supplies that I should be aware of?"
+            ],
+            [
+                "Bernard Lowe",
+                "Actually, Maeve, I need you to double-check the inventory and make sure we have enough supplies for the lunch rush. I want to make sure we're well-stocked before Dolores arrives."
+            ],
+            [
+                "Maeve Millay",
+                "I've double-checked the inventory, Bernard. We're all set for the lunch rush. Dolores is on her way, and I've got the new drinks ready to go. Should I start taking orders?"
+            ],
+            [
+                "Bernard Lowe",
+                "Great, Maeve. Let's make sure to have everything in order for the lunch rush. I'll start prepping the cafe and you can get started on restocking the drinks and supplies."
+            ],
+            [
+                "Maeve Millay",
+                "I'm all set, Bernard. I've got the new drinks ready and the cafe is stocked. I'll start taking orders once Dolores arrives."
+            ],
+            [
+                "Bernard Lowe",
+                "Great, Maeve. I'll start prepping the cafe and you can get started on taking orders. Let's make sure to keep the cafe tidy and well-stocked throughout the day."
+            ],
+            [
+                "Maeve Millay",
+                "I've got everything ready to go, Bernard. I'll start taking orders once Dolores arrives. Should I make sure to have the new drinks ready for when she gets here?"
+            ],
+            [
+                "Bernard Lowe",
+                "Let's make sure to have everything in order for the lunch rush. I'll start prepping the cafe and you can get started on taking orders. Let's keep the cafe tidy and well-stocked throughout the day."
+            ],
+            [
+                "Maeve Millay",
+                "I've got everything ready to go, Bernard. Dolores is here and I'll start taking orders. Should I make sure to have the new drinks ready for her?"
+            ],
+            [
+                "Bernard Lowe",
+                "Great, I'm glad to hear that. Make sure to keep an eye on the inventory and restock as needed. And don't forget to take a break during the lunch rush."
+            ],
+            [
+                "Maeve Millay",
+                "I've got everything ready to go, Bernard. Dolores is here and I'll start taking orders. I'll make sure to have the new drinks ready for her too. Should I let her know about the new menu items I'm trying out today?"
+            ]
+        ],
+        "source_file": "ex1_bernard_v1\\_state\\movement\\638.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 09:04:00",
+        "persona": "Maeve Millay",
+        "chat": [
+            [
+                "Maeve Millay",
+                "Hey Dolores, I'm glad we're in sync for today's lunch rush. I've got all the drinks practiced and ready to go. How about you? Ready to tackle the afternoon?"
+            ],
+            [
+                "Dolores Abernathy",
+                "Hey Maeve, I'm feeling pretty prepared for the lunch rush too. I made sure to get some reading done before my shift started, so I'm feeling focused. How's your morning been so far?"
+            ],
+            [
+                "Maeve Millay",
+                "I'm glad we're both feeling prepared. Let's work together to make this lunch rush go smoothly."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+            ],
+            [
+                "Maeve Millay",
+                "I'm glad we're both feeling prepared. I've been practicing some new drinks and I'm excited to try them out on the lunch rush. How about you, do you have any new drinks you're looking forward to making?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+            ],
+            [
+                "Maeve Millay",
+                "I'm glad we're both feeling prepared, Dolores. I think having a routine helps me stay focused and ready for the day. What's your favorite part about working at Hobbs Cafe?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+            ],
+            [
+                "Maeve Millay",
+                "I'm glad we're in sync, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+            ],
+            [
+                "Maeve Millay",
+                "I'm glad we're on the same page, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared, Maeve. I think having a quiet morning routine really helps me stay focused and ready for the day. I'm planning to make time for it again tonight, even though it's a busy day."
+            ],
+            [
+                "Maeve Millay",
+                "I'm glad we're in sync, Dolores. Let's make sure to stay organized and work together to get everything done smoothly. Oh, and I almost forgot, I need to remember to practice those new drinks during my shift today."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm excited for a busy day at the cafe, and feeling prepared helps me stay that way. I think sharing similar enthusiasm for work with you creates a sense of camaraderie and shared purpose."
+            ],
+            [
+                "Maeve Millay",
+                "I'm looking forward to unwinding after my shift. I think a walk in Johnson Park and some quiet time in my room will help me recharge. How about you, do you have any plans for your evening?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm glad we're both feeling prepared, Maeve. Having a quiet morning routine helps me stay focused and ready for the day. I think it's important to prioritize my own needs and desires, even on busy days, to maintain a sense of balance. How about you, do you have any self-care routines that help you unwind after a long day at the cafe?"
+            ]
+        ],
+        "source_file": "ex1_bernard_v1\\_state\\movement\\750.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 09:23:30",
+        "persona": "Bernard Lowe",
+        "chat": [
+            [
+                "Bernard Lowe",
+                "Good morning, Dolores. I see you're all set for the day. Let's get started on the lunch rush, shall we?"
+            ],
+            [
+                "Dolores Abernathy",
+                "Good morning, Bernard. I'm excited to get started on the lunch rush. I've got my morning routine down pat, so I'm feeling focused and prepared."
+            ],
+            [
+                "Bernard Lowe",
+                "Great, let's get started then. I've got the inventory checked and we're all set for the lunch rush. Just a reminder, we need to restock the pastry case by 12:30, okay?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm all set, Bernard. I've got my morning routine to thank for that. I'll make sure to restock the pastry case by 12:30, don't worry."
+            ],
+            [
+                "Bernard Lowe",
+                "Great, let's get started then. I've got the inventory checked and we're all set for the lunch rush. Just a reminder, we need to keep an eye on the inventory and restock as needed to avoid last-minute scrambles."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm all set to start taking orders and making drinks. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder, Bernard!"
+            ],
+            [
+                "Bernard Lowe",
+                "Let's make sure to keep the cafe clean and tidy throughout the day, okay? We don't want any messes or spills to slow us down during the lunch rush."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'll make sure to keep the cafe clean and tidy, Bernard. I'm all set to start taking orders and making drinks. Thanks for the reminder!"
+            ],
+            [
+                "Bernard Lowe",
+                "I'll be keeping an eye on the cafe's inventory and restocking as needed to ensure a smooth operation. Let's get started, Dolores."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm all set to start taking orders and making drinks, Bernard. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder!"
+            ],
+            [
+                "Bernard Lowe",
+                "Great, let's get started then. I'll be keeping an eye on the cafe's inventory and restocking as needed to ensure a smooth operation. How's the pastry case looking?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I've got everything under control, Bernard. I'll make sure to keep the cafe running smoothly during the lunch rush. And, as always, I'll prioritize my quiet morning routine tonight to stay focused and prepared for the day ahead."
+            ],
+            [
+                "Bernard Lowe",
+                "I'm glad to hear that. Make sure to keep an eye on the cafe's inventory and restock as needed to avoid any last-minute scrambles during the lunch rush."
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm all set to start taking orders and making drinks, Bernard. I'll make sure to keep an eye on the inventory and restock as needed. Thanks for the reminder!"
+            ],
+            [
+                "Bernard Lowe",
+                "I'll be checking in periodically to make sure everything is running smoothly. Let's keep the cafe well-stocked and organized, shall we?"
+            ],
+            [
+                "Dolores Abernathy",
+                "I'm looking forward to a busy day at the cafe, and I'm glad I prioritized my quiet morning routine to stay focused. I think it really helped me feel more prepared and excited for the day ahead."
+            ]
+        ],
+        "source_file": "ex1_bernard_v1\\_state\\movement\\867.json"
+    }
+]
