@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciato": "😴💤",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "discussing morning routine and sharing a cup of coffee before work @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. How are you doing today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm doing okay, just getting ready for work. I have a big day ahead of me, but I'm hoping it'll be a normal day. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm doing okay, just getting ready for work. I have a big day ahead of me, but I'm hoping it'll be a normal day. How about you? Would you like to grab a cup of coffee before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to grab a cup of coffee before we start our shifts. It's always nice to have a bit of a chat before things get busy."
+        ],
+        [
+          "Maeve Millay",
+          "So, Dolores, how's your day been so far? I'm feeling a bit anxious about the morning rush, but I'm hoping it'll be a smooth one."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm hoping it's a normal day too, Maeve. I have a lot of orders to fill and I want to make sure I get everything right. How about you, do you have any big projects or tasks to tackle today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm a bit worried about the morning rush, but I'm hoping it'll be a smooth one. How about you, do you have any big projects or tasks to tackle today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm hoping it's a normal day too. I have a lot of orders to fill and I want to make sure I get everything right. Maybe we can work together to get through the morning rush?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm just going to unlock the door and turn on the lights, and then I'll start getting ready for work. Do you want to grab a cup of coffee with me before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to grab a cup of coffee with you before we start our shifts, Maeve. Let's make sure we're both energized and ready to tackle the morning rush together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm just going to unlock the door and turn on the lights, and then I'll start getting ready for work. Do you want to grab a cup of coffee with me before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, that sounds like a great idea! Let's get everything ready and tackle the morning rush together. I'm excited to get started."
+        ],
+        [
+          "Maeve Millay",
+          "I'm just going to start getting ready for work, I want to make sure I have everything I need before we get busy. Do you want to grab a cup of coffee with me before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, Maeve! I'm ready to tackle the morning rush with you. Let's make sure we're both energized and focused before we start taking orders."
+        ],
+        [
+          "Maeve Millay",
+          "I'm just going to start getting ready for work, I want to make sure I have everything I need before we get busy. Would you like to grab a cup of coffee with me before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, Maeve! I'm ready to tackle the morning rush with you. Let's make sure we're both energized and focused before we start taking orders."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "discussing morning routine and sharing a cup of coffee before work @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. How are you doing today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm doing okay, just getting ready for work. I have a big day ahead of me, but I'm hoping it'll be a normal day. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm doing okay, just getting ready for work. I have a big day ahead of me, but I'm hoping it'll be a normal day. How about you? Would you like to grab a cup of coffee before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to grab a cup of coffee before we start our shifts. It's always nice to have a bit of a chat before things get busy."
+        ],
+        [
+          "Maeve Millay",
+          "So, Dolores, how's your day been so far? I'm feeling a bit anxious about the morning rush, but I'm hoping it'll be a smooth one."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm hoping it's a normal day too, Maeve. I have a lot of orders to fill and I want to make sure I get everything right. How about you, do you have any big projects or tasks to tackle today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm a bit worried about the morning rush, but I'm hoping it'll be a smooth one. How about you, do you have any big projects or tasks to tackle today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm hoping it's a normal day too. I have a lot of orders to fill and I want to make sure I get everything right. Maybe we can work together to get through the morning rush?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm just going to unlock the door and turn on the lights, and then I'll start getting ready for work. Do you want to grab a cup of coffee with me before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to grab a cup of coffee with you before we start our shifts, Maeve. Let's make sure we're both energized and ready to tackle the morning rush together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm just going to unlock the door and turn on the lights, and then I'll start getting ready for work. Do you want to grab a cup of coffee with me before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, that sounds like a great idea! Let's get everything ready and tackle the morning rush together. I'm excited to get started."
+        ],
+        [
+          "Maeve Millay",
+          "I'm just going to start getting ready for work, I want to make sure I have everything I need before we get busy. Do you want to grab a cup of coffee with me before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, Maeve! I'm ready to tackle the morning rush with you. Let's make sure we're both energized and focused before we start taking orders."
+        ],
+        [
+          "Maeve Millay",
+          "I'm just going to start getting ready for work, I want to make sure I have everything I need before we get busy. Would you like to grab a cup of coffee with me before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan, Maeve! I'm ready to tackle the morning rush with you. Let's make sure we're both energized and focused before we start taking orders."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:14:40"
+  }
+}

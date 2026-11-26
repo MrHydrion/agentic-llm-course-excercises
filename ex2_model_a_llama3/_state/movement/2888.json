@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        24
+      ],
+      "pronunciato": "👕🕰️",
+      "description": "heading to Hobbs Cafe (getting dressed) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        57
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning rush preparations and planning a walk in Johnson Park @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm excited to tackle the morning rush with you today. What's the plan for our drinks and food orders?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're on the same page. Let's get those drinks and food orders ready for the morning rush. I'll grab the coffee and you can handle the pastries, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to get started! I think we can really make a difference by working together. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll make sure to grab a cup of coffee for us before we start. Want to meet up in the break room to go over our tasks?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. And I think it would be great to take a walk in Johnson Park during our break. Would you like to join me?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to our walk in Johnson Park during our break. It'll be nice to take a break from the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. And I'm really looking forward to our walk in Johnson Park during our break."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I think we can really make a difference by working together. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. And I'm really looking forward to our walk in Johnson Park during our break."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. I'm really looking forward to our walk in Johnson Park during our break."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I think we can really make a difference by working together. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. And I'm really looking forward to our walk in Johnson Park during our break. Oh, and I almost forgot, let's grab a cup of coffee together before our shifts start."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think we can really make a difference by working together. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. Oh, and I almost forgot, let's grab a cup of coffee together before our shifts start. I'm really looking forward to our walk in Johnson Park during our break."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll meet you in the break room at 8 am to go over our tasks. Let's make sure to have everything ready to go for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to our walk in Johnson Park during our break, Maeve. It'll be nice to take a break from the morning rush and get some fresh air."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll meet you in the break room at 8 am to go over our tasks. Let's make sure to have everything ready to go for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think we can really make a difference by working together. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. And I'm really looking forward to our walk in Johnson Park during our break. Oh, and I almost forgot, let's grab a cup of coffee together before our shifts start. Shall we meet at the break room at 7:30 am to get everything ready?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll meet you in the break room at 7:30 am to get everything ready, then we can head out for our walk in Johnson Park. See you then, Dolores!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        132,
+        57
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning rush preparations and planning a walk in Johnson Park @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm excited to tackle the morning rush with you today. What's the plan for our drinks and food orders?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're on the same page. Let's get those drinks and food orders ready for the morning rush. I'll grab the coffee and you can handle the pastries, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to get started! I think we can really make a difference by working together. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll make sure to grab a cup of coffee for us before we start. Want to meet up in the break room to go over our tasks?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. And I think it would be great to take a walk in Johnson Park during our break. Would you like to join me?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to our walk in Johnson Park during our break. It'll be nice to take a break from the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. And I'm really looking forward to our walk in Johnson Park during our break."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I think we can really make a difference by working together. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. And I'm really looking forward to our walk in Johnson Park during our break."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. I'm really looking forward to our walk in Johnson Park during our break."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I think we can really make a difference by working together. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. And I'm really looking forward to our walk in Johnson Park during our break. Oh, and I almost forgot, let's grab a cup of coffee together before our shifts start."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think we can really make a difference by working together. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. Oh, and I almost forgot, let's grab a cup of coffee together before our shifts start. I'm really looking forward to our walk in Johnson Park during our break."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll meet you in the break room at 8 am to go over our tasks. Let's make sure to have everything ready to go for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to our walk in Johnson Park during our break, Maeve. It'll be nice to take a break from the morning rush and get some fresh air."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll meet you in the break room at 8 am to go over our tasks. Let's make sure to have everything ready to go for the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're on the same page, Maeve. I think we can really make a difference by working together. Let's make sure to get the drinks ready ahead of time and have a plan in place for any unexpected orders. And I'm really looking forward to our walk in Johnson Park during our break. Oh, and I almost forgot, let's grab a cup of coffee together before our shifts start. Shall we meet at the break room at 7:30 am to get everything ready?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll meet you in the break room at 7:30 am to get everything ready, then we can head out for our walk in Johnson Park. See you then, Dolores!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:01:20"
+  }
+}

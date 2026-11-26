@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciato": "😴",
+      "description": "sleeping @ the Ville:Bernard Lowe's apartment:main room:bed",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        53
+      ],
+      "pronunciato": "⏰📱",
+      "description": "waking up and completing morning routine (checking phone for reminders) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciato": "😴",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Meave Millay's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:39:20"
+  }
+}

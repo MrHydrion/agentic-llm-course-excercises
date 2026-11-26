@@ -1,0 +1,27 @@
+{
+  "kw_strength_thought": {
+    "coffee": 1,
+    "learned": 1,
+    "learned that": 1,
+    "maeve millay": 4,
+    "needs to remember to start": 1,
+    "none": 3,
+    "plan": 1,
+    "remember to meet": 1
+  },
+  "kw_strength_event": {
+    "bed": 1,
+    "bernard lowe": 4,
+    "cafe": 1,
+    "cafe customer seating": 2,
+    "coffee": 2,
+    "dolores abernathy": 3,
+    "equipment": 1,
+    "hobbs cafe": 1,
+    "kitchen sink": 2,
+    "maeve millay": 9,
+    "none": 6,
+    "occupied": 1,
+    "project ideas": 1
+  }
+}

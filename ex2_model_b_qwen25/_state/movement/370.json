@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciato": "☕⏰",
+      "description": "completing morning routine (checking the cafe opening schedule) @ the Ville:Bernard Lowe's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        130,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging polite farewells before heading to the cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Are you just waking up? I'm heading to Hobbs Cafe. Want to join me?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I'm just getting started. Maybe I'll catch you later at the cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure, that sounds good! See you at the cafe in a bit."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, see you later! Have a great day at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Absolutely, see you there! Take your time and have a good morning, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I'll see you later. Have a great shift!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Maeve! Enjoy your morning. See you later!"
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure, take your time! I'll see you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Maeve! I'll see you at the cafe. Have a good morning!"
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Maeve! I hope you have a nice walk in the park. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Dolores! I hope you have a great day at the cafe too. See you later!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Maeve! I hope you enjoy your walk in the park. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Dolores! I'll see you at the cafe. Have a great day at the cafe!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        47
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging polite farewells before heading to the cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Are you just waking up? I'm heading to Hobbs Cafe. Want to join me?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I'm just getting started. Maybe I'll catch you later at the cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure, that sounds good! See you at the cafe in a bit."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, see you later! Have a great day at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Absolutely, see you there! Take your time and have a good morning, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I'll see you later. Have a great shift!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Maeve! Enjoy your morning. See you later!"
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure, take your time! I'll see you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Maeve! I'll see you at the cafe. Have a good morning!"
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Maeve! I hope you have a nice walk in the park. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Dolores! I hope you have a great day at the cafe too. See you later!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Maeve! I hope you enjoy your walk in the park. See you at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Dolores! I'll see you at the cafe. Have a great day at the cafe!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:00:40"
+  }
+}

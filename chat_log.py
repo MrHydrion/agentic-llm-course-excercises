@@ -3,9 +3,8 @@ import json
 from pathlib import Path
 
 SIMULATIONS = [
-    "ex1_bernard_v1",
-    "ex1_bernard_v2_3",
-    "ex1_bernard_v3",
+    "ex2_model_a_llama3",
+    "ex2_model_b_qwen25",
 ]
 
 BERNARD_NAME = "Bernard Lowe"
@@ -87,7 +86,7 @@ def extract_chats(simulation_name):
 
     conversations = sorted(unique_chats.values(), key=lambda item: item["timestamp"])
 
-    output_folder = Path("chat_logs")
+    output_folder = Path("chat_logs_ex2")
     output_folder.mkdir(exist_ok=True)
     output_file = output_folder / f"{simulation_name}_chats.json"
 

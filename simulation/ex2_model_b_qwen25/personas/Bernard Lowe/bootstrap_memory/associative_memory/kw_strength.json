@@ -1,0 +1,26 @@
+{
+  "kw_strength_thought": {
+    "bernard lowe": 2,
+    "learned": 1,
+    "none": 2,
+    "plan": 1,
+    "remember to check in on": 1
+  },
+  "kw_strength_event": {
+    "bathroom sink": 1,
+    "bed": 1,
+    "bernard lowe": 9,
+    "cafe": 1,
+    "cafe customer seating": 2,
+    "cafe opening schedule": 1,
+    "coffee": 1,
+    "customer feedback": 1,
+    "daily work checklist": 1,
+    "equipment": 1,
+    "inventory list": 1,
+    "kitchen sink": 1,
+    "maeve millay": 3,
+    "none": 5,
+    "occupied": 1
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "overseeing preparations and ensuring flawless execution during the morning rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, I see you're just getting settled. Make sure everything is ready for the morning rush. We don't want any last-minute hiccups today."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, Bernard. Everything is set for the morning. I've double-checked the supplies and cleaned the tables. Ready for the day!"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, I don't want any surprises. Let's make sure everything runs smoothly today. Keep an eye on the coffee machines and the customer flow. I'll be around to check in."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, Bernard. I'll keep a close eye on everything. I appreciate the support and feedback."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, if you need any assistance, just let me know. I'll be around to help if needed, but I expect everything to be perfect today."
+        ],
+        [
+          "Maeve Millay",
+          "Absolutely, Bernard. I'll make sure everything is flawless today. I'll start with the first batch of coffee and then move on to serving customers. See you around!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, start with the first batch of coffee and make sure it's perfect. I'll be by to check in shortly."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Bernard. I'll start with the first batch and make sure it's spot-on. See you around!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure the baristas are up to speed. I'll be inspecting their work shortly."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, Bernard. I'll make sure everyone is up to speed and the coffee is perfect. See you around!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, start the first batch of coffee now and ensure it's flawless. I'll be checking in shortly to make sure everything is running smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Bernard. I'll start the first batch now and make sure it's flawless. See you around!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure the latte art is perfect today. I know you can do it, but I need to see it."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, Bernard. I'll start the first batch now and make sure the latte art is perfect. See you around!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, start with the first batch now and make sure it's flawless. I'll be checking in shortly to ensure everything is perfect."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Bernard. I'll start the first batch now and make sure the latte art is perfect. See you around!"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        116,
+        51
+      ],
+      "pronunciato": "🚶‍♂️🧶",
+      "description": "walking to Hobbs Cafe (putting on coat) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "overseeing preparations and ensuring flawless execution during the morning rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, I see you're just getting settled. Make sure everything is ready for the morning rush. We don't want any last-minute hiccups today."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, Bernard. Everything is set for the morning. I've double-checked the supplies and cleaned the tables. Ready for the day!"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, I don't want any surprises. Let's make sure everything runs smoothly today. Keep an eye on the coffee machines and the customer flow. I'll be around to check in."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, Bernard. I'll keep a close eye on everything. I appreciate the support and feedback."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, if you need any assistance, just let me know. I'll be around to help if needed, but I expect everything to be perfect today."
+        ],
+        [
+          "Maeve Millay",
+          "Absolutely, Bernard. I'll make sure everything is flawless today. I'll start with the first batch of coffee and then move on to serving customers. See you around!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, start with the first batch of coffee and make sure it's perfect. I'll be by to check in shortly."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Bernard. I'll start with the first batch and make sure it's spot-on. See you around!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure the baristas are up to speed. I'll be inspecting their work shortly."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, Bernard. I'll make sure everyone is up to speed and the coffee is perfect. See you around!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, start the first batch of coffee now and ensure it's flawless. I'll be checking in shortly to make sure everything is running smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Bernard. I'll start the first batch now and make sure it's flawless. See you around!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure the latte art is perfect today. I know you can do it, but I need to see it."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, Bernard. I'll start the first batch now and make sure the latte art is perfect. See you around!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, start with the first batch now and make sure it's flawless. I'll be checking in shortly to ensure everything is perfect."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Bernard. I'll start the first batch now and make sure the latte art is perfect. See you around!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:24:10"
+  }
+}
