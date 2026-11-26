@@ -151,32 +151,63 @@ The negativity bias consists of two mechanisms:
 
 **Which Bernard personality did you use (from Exercise 1, the one you used in Exercise 2)? Paste his `innate` and `learned` fields.**
 
-Your answer:
+Your answer:   
+"innate": "impatient, arrogant, confrontational, short-tempered, demanding",
+"learned": "Bernard is the manager of Hobbs Cafe and believes his employees are incompetent unless he constantly supervises them. He tries to manage the cafe perfectly and monitors how his baristas work. If they are not working around his standards, he will let them know how it should be improved. When he sees one of his employees, he approaches them to inspect their work. He often interrupts employees when they try to explain themselves and demands immediate improvements. He rarely apologizes or praises anyone. Bernard tries to open the cafe around 8 am.",
 
 ### 3.1 Valence trajectories
 
 (Attach or paste your plot of Dolores vs Maeve valence over time)
 
-### 3.2 Descriptive statistics
-
+### 3.2 Descriptive statistics 
+(until 12:30)
 | Agent               | Overall valence | Thought valence |
 | ------------------- | --------------- | --------------- |
-| Dolores (neg. bias) |                 |                 |
-| Maeve (control)     |                 |                 |
+| Dolores (neg. bias) |  2.016±2.708    |   2.529±3.038   |
+| Maeve (control)     |  1.777±2.728    |   2.647±2.824   |
 
-**Cohen's d:**
+**Cohen's d: 0.0878**
+**Pooled SD: 2.7191**
 
 **Interpretation (small / medium / large effect):**
+
+Cohen d tells us how big the difference is between Dolores and Maeve. The Cohens d values has a value of 0.0878, meaning that the difference in overall valence between the two agents is negligible.
+The table however shows that dolores, even with an higher value of "negativity_bias" and "valence_w" on 1, has an higher overall valence and a slightly lower thought valiance compared to Maeve.
+This was not expected, since we tried to make Dolores more negative with these changes
+One possible explanation is the local model we chose as our baseline, Llama 3 8B. Smaller local models can sometimes produce inconsistent responses, which may affect how emotions and memories are represented during the simulation and limit the influence of the weights.
+Another reason is that the two agent both experienced different interactions. These interactions could all influence their valence score independently of the negative bias and Dolores might have avoided most of these situation
+Furthermore, giving negative memories more weight does not mean that the agent will have more negative thoughts. 
+Overall, we observed a negligible difference in overall valence, and the expected negative feedback spiral was not clearly visible in this simulation.
 
 ### 3.3 Thought description comparison
 
 **Dolores example thought (negative memory):**
 
+Node_77 with a valence of -5
+
+Original description
+Dolores Abernathy Dolores Abernathy found it noteworthy that Bernard Lowe repeatedly asked her to prioritize the bathroom sink and communicate with Maeve. (154 characters with spaces)
+
+Final description
+Dolores Abernathy found it noteworthy that Bernard Lowe repeatedly asked her to prioritize the bathroom sink and communicate with Maeve, his tone firm and commanding, with a slight emphasis on the word 'communicate', his eyes fixed intently on hers, the fluorescent lights above humming softly in the background, a faint scent of freshly brewed coffee wafting through the air, Dolores' hands tightening around the cup she was holding, her chest feeling a subtle constriction as she took a deep breath, her eyes darting briefly to the sink before returning to Bernard's face, her posture slightly straightening as she nodded to acknowledge his request. (652 character with spaces)
+
+
 **Maeve example thought (comparable event):**
+
+Original description
+Maeve Millay Maeve Millay found it interesting that Bernard Lowe repeatedly asked her to review the staff schedules and inventory before opening, despite her assurances that everything was in order. (192 characters with spaces)
+
+Final description
+Maeve Millay Maeve Millay found it interesting that Bernard Lowe repeatedly asked her to review the staff schedules and inventory before opening, despite her assurances that everything was in order.
+(192 characters with spaces)
 
 **Is Dolores's description longer and more sensorially detailed?**
 
-Your answer:
+Your answer: Looking at the findings, we can see that the final description of the nodes is more detailed, with Dolores example containing more details such as scents the smelled and physical reaction such as her hand tightening around a cup.
+
+This all happend because of the enabling of the asymetric_encoding what, when a negative memory is encoded, expants its descritption with more sensory and emotional details. Maeve didnt have this activated, so her description remained unchanged.
+
+This all shows that asymetric encoding worked as intended, even when we didnt observe significant change in overal valence. 
 
 ### 3.4 Memory intrusion check
 
@@ -188,21 +219,34 @@ If your simulation included off-duty hours, answer the following. If not, write 
 
 **Is there a difference between the two agents?**
 
-Your answer:
+Your answer: Simulation was too short to observe off-duty reflections (due to computation time)
 
 ### 3.5 Consistency across runs (if applicable)
 
 | Run   | Dolores valence | Maeve valence | Cohen's d |
 | ----- | --------------- | ------------- | --------- |
-| Run 1 |                 |               |           |
-| Run 2 |                 |               |           |
+| Run 1 |   2.016±2.708   |  1.777±2.728  |  0.0878   | stopped around 12:30
+| Run 2 |   2.784±3.09    |  2.264±3.354  |  0.1604   | stopped around 11:30
 | Run 3 |                 |               |           |
 
+Across the following runs, we did not observe the expected negative feedback spiral. Dolores had a slightly higher overall valence than Maeve in both simultations, although the difference is negligible to small.
+
+As far as we could verify, the correct settings were enabled for Dolores. We also observed that asymetric encoding exanded her negative feedback, suggesting that part was working. 
 ### 3.6 Tracing the mechanism
 
 **You enabled two changes: negative memories get higher retrieval scores, and negative events get stored with more detail. Looking at your logs, can you trace how these two changes could lead to the valence decline you observed? Think about what happens when a negatively-toned reflection gets stored as a new memory.**
 
-Your answer:
+Your answer: As we mentioned before, we did not see the phenomena. However, we can explai how the mechanism is suppose to work by looking at the logs and nodes
+
+Whenever Dolores has a negative event, it i stored with more detail because of the asymmetric encoding. The negative bias, however, gives negatives memories higher retrieval scores, making them morer likely to be called during the reflections. Reflections are moments where an agent looks back at the memories it stored and generates new thoughs or conclusions based on these experiences. This allows them to learn from past interactions and use these information in future decisions. 
+
+When dolores retrieves these negative memories during reflections, they could influence her interpretations of past experiences, causing her to generate more negative thoughts. This new thought is then stored as another memory, which can also have a high retrieval score because of the higher negative bias. Over time, this could create a feedback loop where negative memories lead to more negative reflections, which are then stored and retrieved again. This could eventually lead to an higher decline in overall valence.
+
+From the log, Dolores has her negative memories with bernard at 10:22 (node_117, valence −5), where she reflected on a negative interaction with Bernard. As mentioned earlier, the description is more detailed because of the active asymetric encoding.
+
+Later, around 10:43, this negative memory was referenced in other thoughts (node_159 and node_188). However, both had a valence of 0. Instead of generating a negative emotion, she states in the memories that she can control her emotions and stay calm.
+
+This all shows that negative thougs do not always lead to new negative thoughs. Although we could observed part of the mechanism, it did not lead to the expected negative feedback spiral. Maybe running the simulation for longer could lead to these kind of results.
 
 ---
 

@@ -22,11 +22,32 @@ def load_memories(path, agent):
     return pd.DataFrame(rows)
 
 
-D_data = load_memories("simulation/ex3_negbias_v2/personas/Dolores Abernathy/bootstrap_memory/associative_memory/nodes.json", "Dolores (Negative Bias)")
-M_data = load_memories("simulation/ex3_negbias_v2/personas/Maeve Millay/bootstrap_memory/associative_memory/nodes.json", "Maeve (Baseline)")
-
-
+D_data = load_memories("simulation/ex3_negbias/personas/Dolores Abernathy/bootstrap_memory/associative_memory/nodes.json", "Dolores (Negative Bias)")
+M_data = load_memories("simulation/ex3_negbias/personas/Maeve Millay/bootstrap_memory/associative_memory/nodes.json", "Maeve (Baseline)")
 df = pd.concat([D_data, M_data], ignore_index=True)
+
+
+# Overall valence (all memory types)
+overall = df.groupby("agent")["valence"].agg(
+    mean="mean",
+    std="std"
+)
+
+# Thought valence only
+thoughts = df[df["type"] == "thought"]
+
+thought_summary = thoughts.groupby("agent")["valence"].agg(
+    mean="mean",
+    std="std"
+)
+
+# Combine into one table
+results = pd.DataFrame({
+    "Overall valence": overall["mean"].round(3).astype(str) + '±' + overall["std"].round(3).astype(str),
+    "Thought valence": thought_summary["mean"].round(3).astype(str) + '±' + thought_summary["std"].round(3).astype(str),
+})
+
+print(results.round(3))
 
 summary = df.groupby("agent")["valence"].agg(
     count="count",
