@@ -1,0 +1,404 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: .",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: .",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: .",
+    "poignancy": 10,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (getting dressed)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (getting dressed)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (getting dressed)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:15:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "heading to",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is heading to Hobbs Cafe (brushing teeth)",
+    "original_description": "Bernard Lowe is heading to Hobbs Cafe (brushing teeth)",
+    "embedding_key": "Bernard Lowe is heading to Hobbs Cafe (brushing teeth)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:20:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "being used",
+    "object": "kitchen sink",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being used",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being used",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being used",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "kitchen sink",
+      "kitchen sink"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:25:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is unattended",
+    "object": "kitchen sink",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unattended",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unattended",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unattended",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "kitchen sink",
+      "kitchen sink"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:26:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "resisting collaboration and prioritizing control",
+    "original_description": "resisting collaboration and prioritizing control",
+    "embedding_key": "resisting collaboration and prioritizing control",
+    "poignancy": 2,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hi, Bernard. I was hoping for a normal day today. Dolores and I are planning to work together to get through the morning rush. Would you like to grab a cup of coffee with us before we start our shifts?"
+      ],
+      [
+        "Bernard Lowe",
+        "What's this about a normal day? I don't pay you to socialize, I pay you to make coffee. Let's get to work."
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. I just think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+      ],
+      [
+        "Bernard Lowe",
+        "What's this plan you're talking about? I'm the one who knows how to run this cafe, not you and Dolores. Just get to work and follow my instructions."
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. But I think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+      ],
+      [
+        "Bernard Lowe",
+        "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today."
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. But I think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+      ],
+      [
+        "Bernard Lowe",
+        "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today."
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. But I think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+      ],
+      [
+        "Bernard Lowe",
+        "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today."
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. I'll make sure to get everything ready for the morning rush. Dolores and I will work together to make it a great day for our customers. Would it be okay if we met in the break room at 7:30 am to coordinate our efforts?"
+      ],
+      [
+        "Bernard Lowe",
+        "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today. And don't bother me with any questions or concerns. I'll be in the back office if you need anything."
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. I'll make sure to get everything ready for the morning rush. Dolores and I will work together to make it a great day for our customers. Would it be okay if we met in the break room at 7:30 am to coordinate our efforts?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, get to work. I'll be monitoring the cafe's progress. Don't bother me unless something goes wrong."
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. Would it be okay if Dolores and I grab a cup of coffee together before our shifts start? It would be great to catch up and make sure we're on the same page for the morning rush."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get this morning rush under control. I'll be keeping an eye on things from the back office. Just make sure to keep the coffee flowing and the customers happy."
+      ]
+    ]
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is resisting collaboration and prioritizing control",
+    "original_description": "Bernard Lowe is resisting collaboration and prioritizing control",
+    "embedding_key": "Bernard Lowe is resisting collaboration and prioritizing control",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_14"
+    ]
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is resisting collaboration and prioritizing control",
+    "original_description": "Maeve Millay is resisting collaboration and prioritizing control",
+    "embedding_key": "Maeve Millay is resisting collaboration and prioritizing control",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "sleeping",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 0,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "sleeping"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:04:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:piano",
+    "predicate": "unplayed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:piano is unplayed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:piano is unplayed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:piano is unplayed",
+    "poignancy": 1,
+    "valence": -5,
+    "keywords": [
+      "piano",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 02:44:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Maeve Millay is waking up and completing morning routine (having breakfast)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (having breakfast)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (having breakfast)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 02:45:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is clean",
+    "object": "kitchen sink",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "kitchen sink",
+      "kitchen sink"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 04:15:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is",
+    "object": "seating",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "cafe customer seating",
+      "seating"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 04:30:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up and completing morning routine (arriving at Hobbs Cafe and preparing to start work)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (arriving at Hobbs Cafe and preparing to start work)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (arriving at Hobbs Cafe and preparing to start work)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 04:31:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 05:46:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "is",
+    "object": "sink",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is clean",
+    "poignancy": 5,
+    "valence": 6,
+    "keywords": [
+      "kitchen sink",
+      "sink"
+    ],
+    "filling": null
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciato": "😴💤",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        131,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "making plans and coordinating efforts to tackle the morning rush together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're both having a normal day. Want to grab a cup of coffee with me before our shifts start?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve! I'm always up for a cup of coffee before work. Thanks for inviting me."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're grabbing coffee together, Dolores. It's always nice to have a bit of normalcy in the morning. What's your plan for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to getting through the morning rush together, Maeve. It's always less stressful when we're working together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're having a normal day, Dolores. I was worried it might be crazy busy. How's your morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're working together, Maeve. It's always less stressful when we're on the same page."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're grabbing coffee together, Dolores. I was thinking about grabbing a cup of coffee with you before we start our shifts. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, me too, Maeve. I'm glad we're working together today. I was thinking we could try to get through the morning rush a little faster than usual, maybe by anticipating the orders and getting the drinks ready ahead of time."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I was thinking about taking a walk in Johnson Park during my break today. Would you like to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're working together today, Maeve. I was thinking we could try to get through the morning rush a little faster than usual, maybe by anticipating the orders and getting the drinks ready ahead of time."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I was thinking about taking a walk in Johnson Park during my break today. Would you like to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, that sounds like a great idea, Maeve. I'll try to get the drinks ready ahead of time. Let's work together to get through the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll make sure to get the drinks ready ahead of time too. Let's work together to get through the morning rush and make it a great day for our customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think that's a great idea, Maeve. Let's work together to get through the morning rush and make it a great day for our customers."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll make sure to get the drinks ready ahead of time too. Let's work together to get through the morning rush and make it a great day for our customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we can do that. Let's work together to get all the drinks ready ahead of time so we can focus on taking orders during the morning rush."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        51
+      ],
+      "pronunciato": "💬",
+      "description": "making plans and coordinating efforts to tackle the morning rush together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm glad we're both having a normal day. Want to grab a cup of coffee with me before our shifts start?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great, Maeve! I'm always up for a cup of coffee before work. Thanks for inviting me."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're grabbing coffee together, Dolores. It's always nice to have a bit of normalcy in the morning. What's your plan for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm looking forward to getting through the morning rush together, Maeve. It's always less stressful when we're working together."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're having a normal day, Dolores. I was worried it might be crazy busy. How's your morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're working together, Maeve. It's always less stressful when we're on the same page."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're grabbing coffee together, Dolores. I was thinking about grabbing a cup of coffee with you before we start our shifts. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, me too, Maeve. I'm glad we're working together today. I was thinking we could try to get through the morning rush a little faster than usual, maybe by anticipating the orders and getting the drinks ready ahead of time."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I was thinking about taking a walk in Johnson Park during my break today. Would you like to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're working together today, Maeve. I was thinking we could try to get through the morning rush a little faster than usual, maybe by anticipating the orders and getting the drinks ready ahead of time."
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. I was thinking about taking a walk in Johnson Park during my break today. Would you like to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, that sounds like a great idea, Maeve. I'll try to get the drinks ready ahead of time. Let's work together to get through the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll make sure to get the drinks ready ahead of time too. Let's work together to get through the morning rush and make it a great day for our customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think that's a great idea, Maeve. Let's work together to get through the morning rush and make it a great day for our customers."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores. I'll make sure to get the drinks ready ahead of time too. Let's work together to get through the morning rush and make it a great day for our customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we can do that. Let's work together to get all the drinks ready ahead of time so we can focus on taking orders during the morning rush."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:42:30"
+  }
+}

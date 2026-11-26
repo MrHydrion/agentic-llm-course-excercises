@@ -1,0 +1,236 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:30:50",
+  "curr_tile": [
+    72,
+    23
+  ],
+  "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
+  "name": "Maeve Millay",
+  "first_name": "Maeve",
+  "last_name": "Millay",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Maeve Millay is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Maeve and Dolores are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Maeve walks in Johnson Park. She loves her walks in the park.",
+  "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 28,
+  "importance_ele_n": 17,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "prepare and serve coffee from 8:00am to 12:00pm",
+    "have lunch at 12:00pm",
+    "walk to Johnson Park from 1:00pm to 2:00pm",
+    "work the counter from 2:00pm to 4:00pm",
+    "have dinner at the dorm at 8:00pm",
+    "spend time in her room from 9:00pm to 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "exchanging polite farewells before heading to the cafe",
+      2
+    ],
+    [
+      "sipping coffee and discussing project ideas (reviewing notes)",
+      5
+    ],
+    [
+      "sipping coffee and discussing project ideas (discussing project ideas)",
+      5
+    ],
+    [
+      "sipping coffee and discussing project ideas (sipping coffee)",
+      5
+    ],
+    [
+      "sipping coffee and discussing project ideas (planning next steps)",
+      4
+    ],
+    [
+      "overseeing preparations and ensuring flawless execution during the morning rush",
+      4
+    ],
+    [
+      "sipping coffee and discussing project ideas (planning next steps)",
+      1
+    ],
+    [
+      "sipping coffee and discussing project ideas (organizing thoughts)",
+      5
+    ],
+    [
+      "sipping coffee and discussing project ideas (noting down ideas)",
+      5
+    ],
+    [
+      "sipping coffee and discussing project ideas (evaluating feasibility)",
+      5
+    ],
+    [
+      "sipping coffee and discussing project ideas (outlining project plan)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (drafting proposal)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (reviewing draft)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (seeking feedback)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (incorporating feedback)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (finalizing proposal)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (proofreading)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (saving document)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (organizing files)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (cleaning up workspace)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (preparing for next shift)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (packing up materials)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (preparing for lunch)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (resting before lunch)",
+      10
+    ],
+    [
+      "sipping coffee and discussing project ideas (having lunch)",
+      5
+    ],
+    [
+      "brainstorming and planning the project",
+      180
+    ],
+    [
+      "reviewing past project successes and failures",
+      90
+    ],
+    [
+      "finalizing project plan and setting goals",
+      84
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "walking to Johnson Park",
+      120
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      180
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing morning routine",
+      60
+    ],
+    [
+      "preparing and serving coffee",
+      480
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "walking to Johnson Park",
+      120
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 08:26:00",
+  "act_duration": 5,
+  "act_description": "sipping coffee and discussing project ideas (organizing thoughts)",
+  "act_pronunciatio": "☕💬",
+  "act_event": [
+    "Maeve Millay",
+    "sipping",
+    "coffee"
+  ],
+  "act_obj_description": "occupied",
+  "act_obj_pronunciatio": "ocup",
+  "act_obj_event": [
+    "cafe customer",
+    "seating",
+    "None"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Bernard Lowe": 61,
+    "Dolores Abernathy": -62
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
+}

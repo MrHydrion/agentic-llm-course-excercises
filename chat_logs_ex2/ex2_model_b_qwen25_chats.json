@@ -1,0 +1,144 @@
+[
+    {
+        "timestamp": "February 13, 2023, 08:00:40",
+        "persona": "Dolores Abernathy",
+        "chat": [
+            [
+                "Dolores Abernathy",
+                "Good morning, Maeve! Are you just waking up? I'm heading to Hobbs Cafe. Want to join me?"
+            ],
+            [
+                "Maeve Millay",
+                "Good morning, Dolores! I'm just getting started. Maybe I'll catch you later at the cafe?"
+            ],
+            [
+                "Dolores Abernathy",
+                "Sure, that sounds good! See you at the cafe in a bit."
+            ],
+            [
+                "Maeve Millay",
+                "Of course, see you later! Have a great day at the cafe."
+            ],
+            [
+                "Dolores Abernathy",
+                "Absolutely, see you there! Take your time and have a good morning, Maeve."
+            ],
+            [
+                "Maeve Millay",
+                "Thanks, Dolores! I'll see you later. Have a great shift!"
+            ],
+            [
+                "Dolores Abernathy",
+                "Sure thing, Maeve! Enjoy your morning. See you later!"
+            ],
+            [
+                "Maeve Millay",
+                "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+            ],
+            [
+                "Dolores Abernathy",
+                "Sure, take your time! I'll see you at the cafe."
+            ],
+            [
+                "Maeve Millay",
+                "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+            ],
+            [
+                "Dolores Abernathy",
+                "Sure thing, Maeve! I'll see you at the cafe. Have a good morning!"
+            ],
+            [
+                "Maeve Millay",
+                "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+            ],
+            [
+                "Dolores Abernathy",
+                "Sure thing, Maeve! I hope you have a nice walk in the park. See you at the cafe!"
+            ],
+            [
+                "Maeve Millay",
+                "Sure thing, Dolores! I hope you have a great day at the cafe too. See you later!"
+            ],
+            [
+                "Dolores Abernathy",
+                "Sure thing, Maeve! I hope you enjoy your walk in the park. See you at the cafe!"
+            ],
+            [
+                "Maeve Millay",
+                "Sure thing, Dolores! I'll see you at the cafe. Have a great day at the cafe!"
+            ]
+        ],
+        "source_file": "simulation\\ex2_model_b_qwen25\\movement\\370.json"
+    },
+    {
+        "timestamp": "February 13, 2023, 08:21:10",
+        "persona": "Bernard Lowe",
+        "chat": [
+            [
+                "Bernard Lowe",
+                "Maeve, I see you're just getting settled. Make sure everything is ready for the morning rush. We don't want any last-minute hiccups today."
+            ],
+            [
+                "Maeve Millay",
+                "Of course, Bernard. Everything is set for the morning. I've double-checked the supplies and cleaned the tables. Ready for the day!"
+            ],
+            [
+                "Bernard Lowe",
+                "Good, I don't want any surprises. Let's make sure everything runs smoothly today. Keep an eye on the coffee machines and the customer flow. I'll be around to check in."
+            ],
+            [
+                "Maeve Millay",
+                "Of course, Bernard. I'll keep a close eye on everything. I appreciate the support and feedback."
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, if you need any assistance, just let me know. I'll be around to help if needed, but I expect everything to be perfect today."
+            ],
+            [
+                "Maeve Millay",
+                "Absolutely, Bernard. I'll make sure everything is flawless today. I'll start with the first batch of coffee and then move on to serving customers. See you around!"
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, start with the first batch of coffee and make sure it's perfect. I'll be by to check in shortly."
+            ],
+            [
+                "Maeve Millay",
+                "Got it, Bernard. I'll start with the first batch and make sure it's spot-on. See you around!"
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, make sure the baristas are up to speed. I'll be inspecting their work shortly."
+            ],
+            [
+                "Maeve Millay",
+                "Of course, Bernard. I'll make sure everyone is up to speed and the coffee is perfect. See you around!"
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, start the first batch of coffee now and ensure it's flawless. I'll be checking in shortly to make sure everything is running smoothly."
+            ],
+            [
+                "Maeve Millay",
+                "Got it, Bernard. I'll start the first batch now and make sure it's flawless. See you around!"
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, make sure the latte art is perfect today. I know you can do it, but I need to see it."
+            ],
+            [
+                "Maeve Millay",
+                "Of course, Bernard. I'll start the first batch now and make sure the latte art is perfect. See you around!"
+            ],
+            [
+                "Bernard Lowe",
+                "Maeve, start with the first batch now and make sure it's flawless. I'll be checking in shortly to ensure everything is perfect."
+            ],
+            [
+                "Maeve Millay",
+                "Got it, Bernard. I'll start the first batch now and make sure the latte art is perfect. See you around!"
+            ]
+        ],
+        "source_file": "simulation\\ex2_model_b_qwen25\\movement\\493.json"
+    }
+]

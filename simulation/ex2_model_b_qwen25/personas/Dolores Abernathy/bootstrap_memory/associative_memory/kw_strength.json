@@ -1,0 +1,28 @@
+{
+  "kw_strength_thought": {
+    "dolores abernathy": 2,
+    "learned": 1,
+    "meet": 1,
+    "none": 2,
+    "plan": 1
+  },
+  "kw_strength_event": {
+    "bathroom sink": 2,
+    "bed": 3,
+    "breakfast area": 1,
+    "closet": 1,
+    "coffee": 1,
+    "common room sofa": 1,
+    "common room table": 2,
+    "dolores abernathy": 12,
+    "hobbs cafe": 2,
+    "hobbs cafe (grabbing bag)": 1,
+    "kitchen sink": 1,
+    "locking bedroom door": 1,
+    "maeve millay": 5,
+    "none": 18,
+    "refrigerator": 1,
+    "restroom": 1,
+    "toilet": 1
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Maeve Millay",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Maeve Millay's plan for Monday February 13: wake up and complete the morning routine at 7:00am, prepare and serve coffee from 8:00am to 12:00pm, have lunch at 12:00pm, walk to Johnson Park from 1:00pm to 2:00pm, work the counter from 2:00pm to 4:00pm, have dinner at the dorm at 8:00pm, spend time in her room from 9:00pm to 11:00pm.",
+    "original_description": "This is Maeve Millay's plan for Monday February 13: wake up and complete the morning routine at 7:00am, prepare and serve coffee from 8:00am to 12:00pm, have lunch at 12:00pm, walk to Johnson Park from 1:00pm to 2:00pm, work the counter from 2:00pm to 4:00pm, have dinner at the dorm at 8:00pm, spend time in her room from 9:00pm to 11:00pm.",
+    "embedding_key": "This is Maeve Millay's plan for Monday February 13: wake up and complete the morning routine at 7:00am, prepare and serve coffee from 8:00am to 12:00pm, have lunch at 12:00pm, walk to Johnson Park from 1:00pm to 2:00pm, work the counter from 2:00pm to 4:00pm, have dinner at the dorm at 8:00pm, spend time in her room from 9:00pm to 11:00pm.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:03:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "sipping",
+    "object": "coffee",
+    "description": "Maeve Millay is sipping coffee and discussing project ideas (reviewing notes)",
+    "original_description": "Maeve Millay is sipping coffee and discussing project ideas (reviewing notes)",
+    "embedding_key": "Maeve Millay is sipping coffee and discussing project ideas (reviewing notes)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "coffee"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:03:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (checking route and destination)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (checking route and destination)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (checking route and destination)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:06:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "unused",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:08:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "discussing",
+    "object": "project ideas",
+    "description": "Maeve Millay is sipping coffee and discussing project ideas (discussing project ideas)",
+    "original_description": "Maeve Millay is sipping coffee and discussing project ideas (discussing project ideas)",
+    "embedding_key": "Maeve Millay is sipping coffee and discussing project ideas (discussing project ideas)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "project ideas"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:16:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "seating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:18:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "seating",
+    "object": "occupied",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is occupied",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "cafe customer seating",
+      "occupied"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "checking",
+    "object": "cafe",
+    "description": "Bernard Lowe is completing morning routine (checking the cleanliness of the cafe)",
+    "original_description": "Bernard Lowe is completing morning routine (checking the cleanliness of the cafe)",
+    "embedding_key": "Bernard Lowe is completing morning routine (checking the cleanliness of the cafe)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "cafe"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:21:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "overseeing preparations and ensuring flawless execution during the morning rush",
+    "original_description": "overseeing preparations and ensuring flawless execution during the morning rush",
+    "embedding_key": "overseeing preparations and ensuring flawless execution during the morning rush",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Maeve, I see you're just getting settled. Make sure everything is ready for the morning rush. We don't want any last-minute hiccups today."
+      ],
+      [
+        "Maeve Millay",
+        "Of course, Bernard. Everything is set for the morning. I've double-checked the supplies and cleaned the tables. Ready for the day!"
+      ],
+      [
+        "Bernard Lowe",
+        "Good, I don't want any surprises. Let's make sure everything runs smoothly today. Keep an eye on the coffee machines and the customer flow. I'll be around to check in."
+      ],
+      [
+        "Maeve Millay",
+        "Of course, Bernard. I'll keep a close eye on everything. I appreciate the support and feedback."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, if you need any assistance, just let me know. I'll be around to help if needed, but I expect everything to be perfect today."
+      ],
+      [
+        "Maeve Millay",
+        "Absolutely, Bernard. I'll make sure everything is flawless today. I'll start with the first batch of coffee and then move on to serving customers. See you around!"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, start with the first batch of coffee and make sure it's perfect. I'll be by to check in shortly."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Bernard. I'll start with the first batch and make sure it's spot-on. See you around!"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, make sure the baristas are up to speed. I'll be inspecting their work shortly."
+      ],
+      [
+        "Maeve Millay",
+        "Of course, Bernard. I'll make sure everyone is up to speed and the coffee is perfect. See you around!"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, start the first batch of coffee now and ensure it's flawless. I'll be checking in shortly to make sure everything is running smoothly."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Bernard. I'll start the first batch now and make sure it's flawless. See you around!"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, make sure the latte art is perfect today. I know you can do it, but I need to see it."
+      ],
+      [
+        "Maeve Millay",
+        "Of course, Bernard. I'll start the first batch now and make sure the latte art is perfect. See you around!"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, start with the first batch now and make sure it's flawless. I'll be checking in shortly to ensure everything is perfect."
+      ],
+      [
+        "Maeve Millay",
+        "Got it, Bernard. I'll start the first batch now and make sure the latte art is perfect. See you around!"
+      ]
+    ]
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is overseeing preparations and ensuring flawless execution during the morning rush",
+    "original_description": "Maeve Millay is overseeing preparations and ensuring flawless execution during the morning rush",
+    "embedding_key": "Maeve Millay is overseeing preparations and ensuring flawless execution during the morning rush",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_17"
+    ]
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is overseeing preparations and ensuring flawless execution during the morning rush",
+    "original_description": "Bernard Lowe is overseeing preparations and ensuring flawless execution during the morning rush",
+    "embedding_key": "Bernard Lowe is overseeing preparations and ensuring flawless execution during the morning rush",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Maeve Millay is sleeping",
+    "original_description": "Maeve Millay is sleeping",
+    "embedding_key": "Maeve Millay is sleeping",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:25:50",
+    "expiration": "2023-03-15 08:25:50",
+    "subject": "Maeve Millay",
+    "predicate": "needs to remember to start",
+    "object": "coffee",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember to start the first batch of coffee now and make sure it's flawless with perfect latte art, and Bernard will be checking in shortly.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember to start the first batch of coffee now and make sure it's flawless with perfect latte art, and Bernard will be checking in shortly.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember to start the first batch of coffee now and make sure it's flawless with perfect latte art, and Bernard will be checking in shortly.",
+    "poignancy": 7,
+    "valence": -3,
+    "keywords": [
+      "maeve millay",
+      "needs to remember to start",
+      "coffee"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:25:50",
+    "expiration": "2023-03-15 08:25:50",
+    "subject": "Maeve Millay",
+    "predicate": "learned",
+    "object": "None",
+    "description": "Maeve Millay Maeve Millay learned that Bernard Lowe expects everything to be perfect, including the first batch of coffee and latte art.",
+    "original_description": "Maeve Millay Maeve Millay learned that Bernard Lowe expects everything to be perfect, including the first batch of coffee and latte art.",
+    "embedding_key": "Maeve Millay Maeve Millay learned that Bernard Lowe expects everything to be perfect, including the first batch of coffee and latte art.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "learned",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "sipping",
+    "object": "coffee",
+    "description": "Maeve Millay is sipping coffee and discussing project ideas (organizing thoughts)",
+    "original_description": "Maeve Millay is sipping coffee and discussing project ideas (organizing thoughts)",
+    "embedding_key": "Maeve Millay is sipping coffee and discussing project ideas (organizing thoughts)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "coffee"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "inspecting",
+    "object": "equipment",
+    "description": "Bernard Lowe is completing morning routine (inspecting the equipment)",
+    "original_description": "Bernard Lowe is completing morning routine (inspecting the equipment)",
+    "embedding_key": "Bernard Lowe is completing morning routine (inspecting the equipment)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "equipment"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "inspecting",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being inspected",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is being inspected",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is being inspected",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed",
+    "predicate": "is occupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is occupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is occupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Meave Millay's room:bed is occupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up and completing morning routine (getting out of bed)",
+    "original_description": "Maeve Millay is waking up and completing morning routine (getting out of bed)",
+    "embedding_key": "Maeve Millay is waking up and completing morning routine (getting out of bed)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:00:50",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "exchanging polite farewells before heading to the cafe",
+    "original_description": "exchanging polite farewells before heading to the cafe",
+    "embedding_key": "exchanging polite farewells before heading to the cafe",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve! Are you just waking up? I'm heading to Hobbs Cafe. Want to join me?"
+      ],
+      [
+        "Maeve Millay",
+        "Good morning, Dolores! I'm just getting started. Maybe I'll catch you later at the cafe?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Sure, that sounds good! See you at the cafe in a bit."
+      ],
+      [
+        "Maeve Millay",
+        "Of course, see you later! Have a great day at the cafe."
+      ],
+      [
+        "Dolores Abernathy",
+        "Absolutely, see you there! Take your time and have a good morning, Maeve."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks, Dolores! I'll see you later. Have a great shift!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Sure thing, Maeve! Enjoy your morning. See you later!"
+      ],
+      [
+        "Maeve Millay",
+        "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Sure, take your time! I'll see you at the cafe."
+      ],
+      [
+        "Maeve Millay",
+        "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Sure thing, Maeve! I'll see you at the cafe. Have a good morning!"
+      ],
+      [
+        "Maeve Millay",
+        "Sure thing, Dolores! I'll see you at the cafe. Have a great day!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Sure thing, Maeve! I hope you have a nice walk in the park. See you at the cafe!"
+      ],
+      [
+        "Maeve Millay",
+        "Sure thing, Dolores! I hope you have a great day at the cafe too. See you later!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Sure thing, Maeve! I hope you enjoy your walk in the park. See you at the cafe!"
+      ],
+      [
+        "Maeve Millay",
+        "Sure thing, Dolores! I'll see you at the cafe. Have a great day at the cafe!"
+      ]
+    ]
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:50",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is exchanging polite farewells before heading to the cafe",
+    "original_description": "Maeve Millay is exchanging polite farewells before heading to the cafe",
+    "embedding_key": "Maeve Millay is exchanging polite farewells before heading to the cafe",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_5"
+    ]
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:01:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is exchanging polite farewells before heading to the cafe",
+    "original_description": "Dolores Abernathy is exchanging polite farewells before heading to the cafe",
+    "embedding_key": "Dolores Abernathy is exchanging polite farewells before heading to the cafe",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:02:50",
+    "expiration": "2023-03-15 08:02:50",
+    "subject": "Maeve Millay",
+    "predicate": "remember to meet",
+    "object": "None",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy at Hobbs Cafe later.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy at Hobbs Cafe later.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy at Hobbs Cafe later.",
+    "poignancy": 4,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "remember to meet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:02:50",
+    "expiration": "2023-03-15 08:02:50",
+    "subject": "Maeve Millay",
+    "predicate": "learned that",
+    "object": "None",
+    "description": "Maeve Millay Maeve Millay learned that Dolores Abernathy will be at Hobbs Cafe.",
+    "original_description": "Maeve Millay Maeve Millay learned that Dolores Abernathy will be at Hobbs Cafe.",
+    "embedding_key": "Maeve Millay Maeve Millay learned that Dolores Abernathy will be at Hobbs Cafe.",
+    "poignancy": 4,
+    "valence": -3,
+    "keywords": [
+      "maeve millay",
+      "learned that",
+      "none"
+    ],
+    "filling": null
+  }
+}

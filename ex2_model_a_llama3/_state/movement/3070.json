@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "resisting collaboration and prioritizing control @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi, Bernard. I was hoping for a normal day today. Dolores and I are planning to work together to get through the morning rush. Would you like to grab a cup of coffee with us before we start our shifts?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this about a normal day? I don't pay you to socialize, I pay you to make coffee. Let's get to work."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I just think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this plan you're talking about? I'm the one who knows how to run this cafe, not you and Dolores. Just get to work and follow my instructions."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to get everything ready for the morning rush. Dolores and I will work together to make it a great day for our customers. Would it be okay if we met in the break room at 7:30 am to coordinate our efforts?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today. And don't bother me with any questions or concerns. I'll be in the back office if you need anything."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to get everything ready for the morning rush. Dolores and I will work together to make it a great day for our customers. Would it be okay if we met in the break room at 7:30 am to coordinate our efforts?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, get to work. I'll be monitoring the cafe's progress. Don't bother me unless something goes wrong."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. Would it be okay if Dolores and I grab a cup of coffee together before our shifts start? It would be great to catch up and make sure we're on the same page for the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get this morning rush under control. I'll be keeping an eye on things from the back office. Just make sure to keep the coffee flowing and the customers happy."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        106,
+        47
+      ],
+      "pronunciato": "🚶‍♀️🏃‍♀️",
+      "description": "walking to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "resisting collaboration and prioritizing control @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi, Bernard. I was hoping for a normal day today. Dolores and I are planning to work together to get through the morning rush. Would you like to grab a cup of coffee with us before we start our shifts?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this about a normal day? I don't pay you to socialize, I pay you to make coffee. Let's get to work."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I just think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this plan you're talking about? I'm the one who knows how to run this cafe, not you and Dolores. Just get to work and follow my instructions."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to get everything ready for the morning rush. Dolores and I will work together to make it a great day for our customers. Would it be okay if we met in the break room at 7:30 am to coordinate our efforts?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Maeve, I don't have time for this. Just get to work and follow my instructions. We have a lot to get done today. And don't bother me with any questions or concerns. I'll be in the back office if you need anything."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to get everything ready for the morning rush. Dolores and I will work together to make it a great day for our customers. Would it be okay if we met in the break room at 7:30 am to coordinate our efforts?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, get to work. I'll be monitoring the cafe's progress. Don't bother me unless something goes wrong."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. Would it be okay if Dolores and I grab a cup of coffee together before our shifts start? It would be great to catch up and make sure we're on the same page for the morning rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get this morning rush under control. I'll be keeping an eye on things from the back office. Just make sure to keep the coffee flowing and the customers happy."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:31:40"
+  }
+}

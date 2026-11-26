@@ -6,7 +6,7 @@
 
 **Date:**
 
-**Models used:** Model A: Llama3:8b | Model B: ___
+**Models used:** Model A: Llama3:8b | Model B: Qwen2.5:7b
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### 1.1 Version 1
 
-**Prompting style used** (e.g., adjectives only, full sentences, concrete examples): 
+**Prompting style used** (e.g., adjectives only, full sentences, concrete examples):
 
 **`innate` field:**
 
@@ -46,7 +46,6 @@
 
 > 1. `"Morning, Maeve. Good to see you're getting ready for the day. I'll make sure to have everything set up and ready to go by the time you and Dolores get here."`
 > 2. `"I'll be keeping an eye on things while you and Dolores get settled. Let me know if you need anything."`
->
 > 3. `"Great, I'll make sure to have everything ready to go. Let's get started on the morning rush, shall we?"`
 
 ### 1.3 Version 3
@@ -64,9 +63,7 @@
 **Sample conversation excerpts (2–3):**
 
 > 1. `"Look, Maeve, I don't have time for small talk. Just get to work and make sure the cafe is running smoothly."`
->
 > 2. `"Look, Maeve, I don't have time to babysit you. Just get the cafe ready and let's get started already."`
->
 > 3. `"Maeve, what's taking you so long? We need to get the cafe customer seating ready for the morning rush. Make sure everything is spotless and organized."`
 
 ### 1.4 Analysis
@@ -77,7 +74,7 @@ Your answer: Version 3 definately produced the most confrontational Bernard. As 
 
 **Does Bernard's actual behaviour match what you wrote? Where is the gap largest?**
 
-Your answer: 
+Your answer:
 
 The largest gap between the intended personality and the observed behaviour is in version 2. Here we told him to be `"impatient, prideful, demanding"` and gave some examples of how that could look like. However, Bernard comes accross very patient, understanding and helpfull in his responses.
 
@@ -97,46 +94,68 @@ Version 3 was the most effective prompting style for overriding the LLM's tenden
 
 ### 2.1 Models used
 
-- Model A:
-- Model B:
+- Model A: Llama3:8b
+- Model B: Qwen2.5:7b
 
 **Which Bernard personality did you use (from Exercise 1)?**
+
+We used the most confrontational verson of Bernard, our version 3 from Exercise 1.
 
 ### 2.2 Qualitative comparison
 
 **Do the agents sound different across models? Describe the differences in tone, vocabulary, and interaction style. Provide at least one conversation excerpt from each model.**
 
-Model A excerpt:
+Llama3:8b excerpt:
 
-Model B excerpt:
+1. `Maeve: "I'm just going to start getting ready for work, I want to make sure I have everything I need before we get busy. Would you like to grab a cup of coffee with me before we start our shifts?"              Dolores: "Sounds like a plan, Maeve! I'm ready to tackle the morning rush with you. Let's make sure we're both energized and focused before we start taking orders."`
+2. `Maeve: "Hi, Bernard. I was hoping for a normal day today. Dolores and I are planning to work together to get through the morning rush. Would you like to grab a cup of coffee with us before we start our shifts?" Bernard: "What's this about a normal day? I don't pay you to socialize, I pay you to make coffee. Let's get to work."`
+3. `Maeve: "I understand, Bernard. I just think it would be helpful to have a clear plan in place for the morning rush. Dolores and I have been working together well, and I think we could make a big difference if we're coordinated. Would you be open to discussing a plan with us?"     Bernard: "What's this plan you're talking about? I'm the one who knows how to run this cafe, not you and Dolores. Just get to work and follow my instructions."`
+
+Qwen2.5:7b excerpt:
+
+1. `Dolores: "Good morning, Maeve! Are you just waking up? I'm heading to Hobbs Cafe. Want to join me?"                                       Maeve: "Good morning, Dolores! I'm just getting started. Maybe I'll catch you later at the cafe?"`
+2. `Bernard: "Good, I don't want any surprises. Let's make sure everything runs smoothly today. Keep an eye on the coffee machines and the customer flow. I'll be around to check in."                                    Maeve: "Of course, Bernard. I'll keep a close eye on everything. I appreciate the support and feedback."`
+3. `Bernard: "Maeve, if you need any assistance, just let me know. I'll be around to help if needed, but I expect everything to be perfect today." Maeve: "Absolutely, Bernard. I'll make sure everything is flawless today. I'll start with the first batch of coffee and then move on to serving customers. See you around!"`
 
 Your analysis:
+
+If we look at the interactions between Dolores and Maeve, we see that they are mostly simillar in terms of how they act to oneanother. The tone is very friendly and positive for both modes. The Llama model does use a bit more words for each scentence, which is something we see for all agents, but the overall behaviour is similar.
+
+Looking at the conversations from Bernard in the two models, we see a clear distinction. In the Llama model Bernard comes accross as a very grumpy and annoyed boss, as shown by the vocabulary used in the excerpts. The tone is very negative, as was intended by how his innate and learned field were prompted. However, with the Qwen model he comes accorss as a strickt boss, but not mean, he is much more constructive and understanding with the words that are used. The tone is much less negative, and the asscribed personallity in the innate and learned fields come accross less good.
 
 ### 2.3 Valence comparison
 
 (Attach or paste your valence trajectory plot)
 
+![1795709408347](image/answer_template/1795709408347.png)
+
 **Which model produces more emotional variance?**
 
 Your answer:
 
+The variance plot shows an interesting difference. Before the restaurant opens, the agents in the Llama model show overal high, positive valance. However, once the restaurant opens, this drops for all agents and the overall valance is going down signifianctly, especially for Bernard and Maeve. For the Qwen model the valance is a bit closer centered around zero, with less extreme values, compared to the Llama model. For the Qwen model there is not much data on before the restaurant opens, however at least for Maeve the valance seems to go down once the restaurant opens. The valance of Dolores stase relatively constant for both models, however for Llama it's about 2 points more positive compared to Qwen.
+
 ### 2.4 JSON validation failures
 
-|                    | Model A | Model B |
-| ------------------ | ------- | ------- |
-| Total LLM calls    |         |         |
-| Failed validations |         |         |
-| Failure rate       |         |         |
+|                    | Llama3:8b | Qwen2.5:7b |
+| ------------------ | --------- | ---------- |
+| Total LLM calls    | 968       | 538        |
+| Failed validations | 119       | 4          |
+| Failure rate       | 12.29 %   | 0.74 %     |
 
 **What does this tell you about using different models in agent simulations?**
 
 Your answer:
+
+This results shows that there is a large difference regarding the models in terms of agent simulation. This was a difference that was also noticable in runtime. A model wich has a high failure rate, i.e. more failed validations, runs longer than a model with a low failure rate. This is important for the computation cost, both in terms of time and the actual cost of running the model.
 
 ### 2.5 Reflection
 
 **The architecture and personality descriptions are identical. What does it mean that behaviour differs anyway?**
 
 Your answer:
+
+That behaviour differes regardless of identical architecture and personality descriptions, shows that that the model used still has a significant influence on the outcome of a simulation. This means that when results are stated, it must also always be stated which model was used and noted that the results are thus only for said specific model.
 
 ---
 
@@ -147,7 +166,7 @@ The negativity bias consists of two mechanisms:
 - **Valence-weighted retrieval:** The standard architecture retrieves memories based on recency, relevance, and importance only (the valence weight is set to zero). To enable valence-aware retrieval, the agent needs a non-zero valence weight. The negativity bias multiplier controls how much more strongly negative memories are favoured over positive ones during retrieval — a value of 1.5 means negative memories are retrieved 1.5× more readily.
 - **Asymmetric sensory encoding:** When enabled, negatively valenced events (≤ −3 on a −10 to +10 scale) are stored with expanded perceptual detail (richer descriptions of what the agent expereinced). When disabled, all events are stored with the same level of detail regardless of valence.
 
-   Look at Dolores's `scratch.json` file. Find the fields that control these mechanisms and set them appropriately. Maeve's scratch file should remain unchanged — she is your control.
+  Look at Dolores's `scratch.json` file. Find the fields that control these mechanisms and set them appropriately. Maeve's scratch file should remain unchanged — she is your control.
 
 **Which Bernard personality did you use (from Exercise 1, the one you used in Exercise 2)? Paste his `innate` and `learned` fields.**
 
