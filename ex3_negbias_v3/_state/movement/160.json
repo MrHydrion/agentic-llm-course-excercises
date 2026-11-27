@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "😴💤",
+      "description": "sleeping @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        124,
+        52
+      ],
+      "pronunciato": "💬",
+      "description": "catching up before morning rush at Hobbs Cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I'm heading to work at Hobbs Cafe. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I'm heading to work at Hobbs Cafe too. It's going to be a busy day, I hope we can catch up during our breaks."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, it's going to be a busy day. I have a lot of drinks to get ready for the morning rush. Want to grab a cup of coffee with me before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to grab a cup of coffee with you before our shifts. I'm actually a bit nervous about today's rush, I hope we can get everything done on time."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to getting everything done on time today. It's always a bit stressful, but I'm confident we can do it. Let's get going, shall we?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope so too, Maeve. I'm a bit worried about the morning rush, but I'm sure we'll get everything done. Do you think Bernard will be around today?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm pretty sure Bernard will be around today. He's been checking in on us a lot lately. Let's get moving, we don't want to be late for our shifts."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really hoping Bernard will be in a good mood today, I don't want to have to deal with any stress. Do you think we'll have any new drinks to learn today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to getting everything done on time today. It's always a bit stressful, but I'm confident we can do it. Let's get moving, we don't want to be late for our shifts."
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope so too, Maeve. I'm really looking forward to getting everything done today. Do you think we'll have any new drinks to learn today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to getting everything done today. I hope we have a smooth morning rush. Want to make sure we're both on the same page before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope so too, Maeve. I'm really looking forward to getting everything done today. Do you think we'll have any new drinks to learn today?"
+        ],
+        [
+          "Maeve Millay",
+          "I hope so too, Dolores. Let's get moving, we don't want to be late for our shifts. I'll see you at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm a bit nervous about the morning rush, but I'm sure we'll get everything done. Do you think we'll have any new drinks to learn today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to getting everything done today. Want to make sure we're both on the same page before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really hoping we can get some new drinks to learn today, it'll be a great way to mix things up."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        124,
+        52
+      ],
+      "pronunciato": "💬",
+      "description": "catching up before morning rush at Hobbs Cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores. I'm heading to work at Hobbs Cafe. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I'm heading to work at Hobbs Cafe too. It's going to be a busy day, I hope we can catch up during our breaks."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, it's going to be a busy day. I have a lot of drinks to get ready for the morning rush. Want to grab a cup of coffee with me before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'd love to grab a cup of coffee with you before our shifts. I'm actually a bit nervous about today's rush, I hope we can get everything done on time."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to getting everything done on time today. It's always a bit stressful, but I'm confident we can do it. Let's get going, shall we?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope so too, Maeve. I'm a bit worried about the morning rush, but I'm sure we'll get everything done. Do you think Bernard will be around today?"
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm pretty sure Bernard will be around today. He's been checking in on us a lot lately. Let's get moving, we don't want to be late for our shifts."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really hoping Bernard will be in a good mood today, I don't want to have to deal with any stress. Do you think we'll have any new drinks to learn today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to getting everything done on time today. It's always a bit stressful, but I'm confident we can do it. Let's get moving, we don't want to be late for our shifts."
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope so too, Maeve. I'm really looking forward to getting everything done today. Do you think we'll have any new drinks to learn today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to getting everything done today. I hope we have a smooth morning rush. Want to make sure we're both on the same page before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope so too, Maeve. I'm really looking forward to getting everything done today. Do you think we'll have any new drinks to learn today?"
+        ],
+        [
+          "Maeve Millay",
+          "I hope so too, Dolores. Let's get moving, we don't want to be late for our shifts. I'll see you at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm a bit nervous about the morning rush, but I'm sure we'll get everything done. Do you think we'll have any new drinks to learn today?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to getting everything done today. Want to make sure we're both on the same page before we start our shifts?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really hoping we can get some new drinks to learn today, it'll be a great way to mix things up."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:25:40"
+  }
+}

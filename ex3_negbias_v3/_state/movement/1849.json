@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring cafe operations run smoothly during morning rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, can you make sure the counter is clean and organized? I don't want any customers to be distracted by clutter."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, of course, Bernard. I'll make sure to keep the counter clean and organized. What else can I do to help with the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the seating area and restock the condiments. And don't forget to review the inventory levels yourself. I don't want any mistakes today."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard. I'll make sure to double-check the seating area and restock the condiments. I'll also review the inventory levels to ensure everything is accurate. Should I meet with Dolores before our shifts start to try out the new lavender latte recipe?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure that the seating area is organized and clean. I don't want any customers to be uncomfortable or distracted. And remember to review the inventory levels regularly to ensure we're not running out of anything important."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to review the inventory levels regularly, Bernard. And actually, I was thinking of meeting with Dolores before our shifts start to try out the new lavender latte recipe. Would that be okay with you?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to keep an eye on the cafe's inventory and make sure everything runs smoothly during your shift. And remember to prioritize today's specials."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and specials, Bernard. And I'll meet with Dolores before our shifts start to try out the new lavender latte recipe. Thank you for the reminders."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to pay attention to the seating area and make sure everything is organized and clean. I don't want any customers to be uncomfortable or distracted. And remember to review the inventory levels regularly to ensure we're not running out of anything important."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and seating, Bernard. And I'll meet with Dolores before our shifts start to try out the new lavender latte recipe. Thank you for the reminders."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to keep an eye on the cafe's inventory and ensure that everything runs smoothly during your shift. Prioritize today's specials."
+        ],
+        [
+          "Maeve Millay",
+          "I was thinking of meeting with Dolores before our shifts start to try out the new lavender latte recipe. Would that be okay with you, Bernard?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure that the seating area is organized and clean. I don't want any customers to be uncomfortable or distracted. And remember to review the inventory levels regularly to ensure we're not running out of anything important."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard, I'll make sure to prioritize the cafe's inventory and seating, and I'll meet with Dolores before our shifts start to try out the new lavender latte recipe. Thank you for the reminders."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure to keep an eye on the seating area and restock the condiments regularly. And don't forget to update the inventory levels regularly to ensure we're not running out of anything important."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and seating, and I'll meet with Dolores before our shifts start to try out the new lavender latte recipe. Thank you for the reminders, Bernard."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "🏦💸",
+      "description": "serving customers at the counter (operating the register and handling transactions) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring cafe operations run smoothly during morning rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, can you make sure the counter is clean and organized? I don't want any customers to be distracted by clutter."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, of course, Bernard. I'll make sure to keep the counter clean and organized. What else can I do to help with the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to double-check the seating area and restock the condiments. And don't forget to review the inventory levels yourself. I don't want any mistakes today."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard. I'll make sure to double-check the seating area and restock the condiments. I'll also review the inventory levels to ensure everything is accurate. Should I meet with Dolores before our shifts start to try out the new lavender latte recipe?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure that the seating area is organized and clean. I don't want any customers to be uncomfortable or distracted. And remember to review the inventory levels regularly to ensure we're not running out of anything important."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to review the inventory levels regularly, Bernard. And actually, I was thinking of meeting with Dolores before our shifts start to try out the new lavender latte recipe. Would that be okay with you?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to keep an eye on the cafe's inventory and make sure everything runs smoothly during your shift. And remember to prioritize today's specials."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and specials, Bernard. And I'll meet with Dolores before our shifts start to try out the new lavender latte recipe. Thank you for the reminders."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to pay attention to the seating area and make sure everything is organized and clean. I don't want any customers to be uncomfortable or distracted. And remember to review the inventory levels regularly to ensure we're not running out of anything important."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and seating, Bernard. And I'll meet with Dolores before our shifts start to try out the new lavender latte recipe. Thank you for the reminders."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to keep an eye on the cafe's inventory and ensure that everything runs smoothly during your shift. Prioritize today's specials."
+        ],
+        [
+          "Maeve Millay",
+          "I was thinking of meeting with Dolores before our shifts start to try out the new lavender latte recipe. Would that be okay with you, Bernard?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure that the seating area is organized and clean. I don't want any customers to be uncomfortable or distracted. And remember to review the inventory levels regularly to ensure we're not running out of anything important."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, Bernard, I'll make sure to prioritize the cafe's inventory and seating, and I'll meet with Dolores before our shifts start to try out the new lavender latte recipe. Thank you for the reminders."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, make sure to keep an eye on the seating area and restock the condiments regularly. And don't forget to update the inventory levels regularly to ensure we're not running out of anything important."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and seating, and I'll meet with Dolores before our shifts start to try out the new lavender latte recipe. Thank you for the reminders, Bernard."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:07:10"
+  }
+}

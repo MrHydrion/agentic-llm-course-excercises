@@ -1,0 +1,356 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 13:13:00",
+  "curr_tile": [
+    79,
+    19
+  ],
+  "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
+  "name": "Maeve Millay",
+  "first_name": "Maeve",
+  "last_name": "Millay",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Maeve Millay is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Maeve and Dolores are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Maeve walks in Johnson Park. She loves her walks in the park.",
+  "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 47,
+  "importance_ele_n": 9,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe by 8:00am",
+    "work at Hobbs Cafe from 8:00am to 4:00pm",
+    "walk in Johnson Park from 4:00pm to 5:00pm",
+    "have dinner at the dorm at 8:00pm",
+    "spend time in her room from 8:00pm to 11:00pm",
+    "go to bed at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine (waking up)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (brushing teeth)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (washing face)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (getting dressed)",
+      2
+    ],
+    [
+      "catching up before morning rush at Hobbs Cafe",
+      5
+    ],
+    [
+      "waking up and completing morning routine (getting dressed)",
+      8
+    ],
+    [
+      "waking up and completing morning routine (having breakfast)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (packing bag)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (double-checking schedule)",
+      10
+    ],
+    [
+      "waking up and completing morning routine (locking the door)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (heading to Hobbs Cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (getting ready to walk)",
+      2
+    ],
+    [
+      "collaborating on new drink recipes and cafe menu ideas",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (getting ready to walk)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (locking the door)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (walking to the cafe)",
+      9
+    ],
+    [
+      "brainstorming new drink recipes and cafe menu ideas over coffee",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (walking to the cafe)",
+      6
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at the cafe)",
+      11
+    ],
+    [
+      "planning new drink recipes and cafe operations",
+      6
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at the cafe)",
+      1
+    ],
+    [
+      "brainstorming new drink recipes and experimenting with flavors",
+      7
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at the cafe)",
+      3
+    ],
+    [
+      "walking to Hobbs Cafe (unlocking the cafe door)",
+      4
+    ],
+    [
+      "resisting innovation and process changes",
+      9
+    ],
+    [
+      "walking to Hobbs Cafe (unlocking the cafe door)",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (organizing cafe supplies)",
+      9
+    ],
+    [
+      "experimenting with new flavors and recipe variations",
+      7
+    ],
+    [
+      "walking to Hobbs Cafe (organizing cafe supplies)",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (preparing for cafe duties)",
+      10
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (arriving at Hobbs Cafe and getting settled)",
+      10
+    ],
+    [
+      "coordinating cafe operations and inventory management",
+      6
+    ],
+    [
+      "relaxing and experimenting with new flavors together",
+      6
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (arriving at Hobbs Cafe and getting settled)",
+      9
+    ],
+    [
+      "keeping cafe operations running smoothly while experimenting with new recipe",
+      7
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (arriving at Hobbs Cafe and getting settled)",
+      6
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (reviewing notes and preparing for the day)",
+      11
+    ],
+    [
+      "excitedly planning to experiment with new flavors and recipes",
+      5
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (reviewing notes and preparing for the day)",
+      14
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (operating the cash register and processing transactions)",
+      1
+    ],
+    [
+      "working together to stay organized and focused",
+      8
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (operating the cash register and processing transactions)",
+      28
+    ],
+    [
+      "nervously exploring a new recipe together",
+      7
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (operating the cash register and processing transactions)",
+      12
+    ],
+    [
+      "ensuring cafe operations run smoothly during morning rush",
+      6
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (operating the cash register and processing transactions)",
+      10
+    ],
+    [
+      "collaborating on a new lavender latte recipe",
+      7
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (operating the cash register and processing transactions)",
+      19
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (preparing and serving drinks)",
+      12
+    ],
+    [
+      "sticking to standard cafe operations",
+      8
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (preparing and serving drinks)",
+      17
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (answering customer questions and maintaining cafe cleanliness)",
+      29
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (restocking supplies and assisting with cafe events)",
+      29
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (maintaining cafe equipment and performing routine tasks)",
+      29
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (greeting and serving customers during the lunch rush)",
+      29
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (processing transactions and preparing for the afternoon)",
+      29
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (serving customers and maintaining cafe cleanliness during the afternoon)",
+      29
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (restocking supplies and preparing for the evening)",
+      29
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (maintaining cafe equipment and performing routine tasks during the evening)",
+      12
+    ],
+    [
+      "walking in Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      180
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe",
+      480
+    ],
+    [
+      "walking in Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 13:09:00",
+  "act_duration": 17,
+  "act_description": "serving customers at the counter at Hobbs Cafe (preparing and serving drinks)",
+  "act_pronunciatio": "🍵💼",
+  "act_event": [
+    "Maeve Millay",
+    "serving",
+    "drinks"
+  ],
+  "act_obj_description": "stocked",
+  "act_obj_pronunciatio": "🛍️💼",
+  "act_obj_event": [
+    "behind",
+    "stocked",
+    "cafe counter"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Bernard Lowe": 47,
+    "Dolores Abernathy": -182
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
+}

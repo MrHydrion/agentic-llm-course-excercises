@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "💬",
+      "description": "struggling to keep up with cafe tasks and inventory @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi, Bernard. What can I get started for you today?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this I see? The cafe's inventory is a mess. Get it together, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to keep up with the inventory, Bernard. I just need a few more minutes to get everything organized."
+        ],
+        [
+          "Bernard Lowe",
+          "What's going on here? The cafe customer seating is unoccupied. Get the customers seated, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll get right on it, Bernard. I just need to, uh, reorganize the inventory and then I'll make sure the seating is taken care of. I'll work as quickly as I can."
+        ],
+        [
+          "Bernard Lowe",
+          "What's taking you so long, Dolores? I need to get the cafe's inventory under control, and I don't have time for delays. Get the customers seated and start taking orders already."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Bernard, I'll get right on it. I'll make sure the seating is taken care of and the inventory is organized. Can I ask, what's the priority for today's specials?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's taking you so long, Dolores? I need to get the cafe's inventory under control, and I don't have time for delays. Get the customers seated and start taking orders already."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to get the inventory organized, Bernard. Can I just have a minute to make sure everything is in order before I start seating customers?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I don't have time for your excuses. Get the customers seated and start taking orders now. And don't even think about slacking off on the kitchen sink. I'll be watching."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Bernard, I'll try to get the seating done as quickly as possible. Can I ask, what's the priority for today's specials?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's taking you so long, Dolores? I need to get the cafe's inventory under control, and I don't have time for delays. Get the customers seated and start taking orders already."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to get the seating done as quickly as possible, Bernard. Can I ask, what's the priority for today's specials?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, get Maeve to help you with the inventory. I need to review the cafe's customer seating and make sure everything is running smoothly. And for goodness' sake, don't let the cafe counter remain unattended."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to get the seating done as quickly as possible, Bernard. Can I ask, what's the priority for today's specials?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, how many drinks have you sold so far today? And what's the status of the new drink recipes you've been working on?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        26
+      ],
+      "pronunciato": "💬",
+      "description": "struggling to keep up with cafe tasks and inventory @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi, Bernard. What can I get started for you today?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this I see? The cafe's inventory is a mess. Get it together, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to keep up with the inventory, Bernard. I just need a few more minutes to get everything organized."
+        ],
+        [
+          "Bernard Lowe",
+          "What's going on here? The cafe customer seating is unoccupied. Get the customers seated, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll get right on it, Bernard. I just need to, uh, reorganize the inventory and then I'll make sure the seating is taken care of. I'll work as quickly as I can."
+        ],
+        [
+          "Bernard Lowe",
+          "What's taking you so long, Dolores? I need to get the cafe's inventory under control, and I don't have time for delays. Get the customers seated and start taking orders already."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Bernard, I'll get right on it. I'll make sure the seating is taken care of and the inventory is organized. Can I ask, what's the priority for today's specials?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's taking you so long, Dolores? I need to get the cafe's inventory under control, and I don't have time for delays. Get the customers seated and start taking orders already."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to get the inventory organized, Bernard. Can I just have a minute to make sure everything is in order before I start seating customers?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I don't have time for your excuses. Get the customers seated and start taking orders now. And don't even think about slacking off on the kitchen sink. I'll be watching."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Bernard, I'll try to get the seating done as quickly as possible. Can I ask, what's the priority for today's specials?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's taking you so long, Dolores? I need to get the cafe's inventory under control, and I don't have time for delays. Get the customers seated and start taking orders already."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to get the seating done as quickly as possible, Bernard. Can I ask, what's the priority for today's specials?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, get Maeve to help you with the inventory. I need to review the cafe's customer seating and make sure everything is running smoothly. And for goodness' sake, don't let the cafe counter remain unattended."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to get the seating done as quickly as possible, Bernard. Can I ask, what's the priority for today's specials?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, how many drinks have you sold so far today? And what's the status of the new drink recipes you've been working on?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        104,
+        45
+      ],
+      "pronunciato": "🏃‍♂️🍳",
+      "description": "serving customers at the counter at Hobbs Cafe (arriving at Hobbs Cafe and getting settled) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:58:40"
+  }
+}

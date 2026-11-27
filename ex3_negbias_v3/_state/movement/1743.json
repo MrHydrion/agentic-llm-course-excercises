@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "🛍️👥",
+      "description": "serving customers at the counter (processing orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        119,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "nervously exploring a new recipe together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm so excited to try out the new lavender latte recipe during my shift today! I think it's going to be a hit with our customers. Want to meet at the cafe at 7:30 am to review the menu and head to Hobbs Cafe together to experiment with some new flavors during our shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, Maeve. I've never really been good at dealing with unexpected situations. I tend to get flustered and struggle to respond well under scrutiny. But I appreciate your enthusiasm and willingness to help me learn. Maybe we can work on that together?"
+        ],
+        [
+          "Maeve Millay",
+          "I completely understand, Dolores. Maybe we can practice together during our shift today? I've got some ideas for new flavors we can try out. Would you like to give it a shot?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, Maeve. I don't want to mess up the new recipe. What if it doesn't turn out right? And what if Bernard doesn't like it? I'm already feeling anxious just thinking about it."
+        ],
+        [
+          "Maeve Millay",
+          "Hey, don't worry about messing up the recipe. We can experiment and adjust together. And who knows, Bernard might even like it! Let's give it a try and have some fun during our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, let's try it. But if it doesn't turn out right, I'm blaming you, Maeve. Just kidding, sort of. I'll try to relax and have fun with it. But can we at least practice the new recipe together before we start serving customers?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores! Let's meet at the cafe at 7:30 am and then head to Hobbs Cafe together. I'll bring the lavender latte recipe and we can experiment with it during our shift. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll try to relax and have fun with it. But can we at least practice the new recipe together before we start serving customers? And maybe we can even review the menu together before our shift starts to make sure we're both on the same page?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe during our shift today! It's going to be a great opportunity for us to experiment and learn from each other. Plus, I think our customers will love it. Let's make it a fun and collaborative experience!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to focus on the task at hand, but my mind keeps racing with worst-case scenarios and rehearsing possible responses to potential questions. Can we just stick to the task of perfecting the lavender latte recipe for now?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to experimenting with the new flavors and recipes today, Dolores. Let's make it a fun and collaborative experience! By the way, have you given any more thought to the lavender latte recipe? I was thinking we could try adding a hint of honey to balance out the flavor."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, Maeve. I don't want to mess up the new recipe. What if it doesn't turn out right? And what if Bernard doesn't like it? I'm already feeling anxious just thinking about it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe during our shift today! It's going to be a great opportunity for us to experiment and learn from each other. Plus, I think our customers will love it. Let's make it a fun and collaborative experience!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm still a bit worried about messing up the recipe, but I'll try to relax and have fun with it. Maybe we can start with a small batch and work our way up?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. Let's meet at 7:30 am and head to Hobbs Cafe together. I'll bring the lavender latte recipe and we can experiment with it during our shift. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to relax and focus on the recipe. Can we start with a small batch and work our way up? Maybe that will help me feel more comfortable with the process."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        119,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "nervously exploring a new recipe together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm so excited to try out the new lavender latte recipe during my shift today! I think it's going to be a hit with our customers. Want to meet at the cafe at 7:30 am to review the menu and head to Hobbs Cafe together to experiment with some new flavors during our shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, Maeve. I've never really been good at dealing with unexpected situations. I tend to get flustered and struggle to respond well under scrutiny. But I appreciate your enthusiasm and willingness to help me learn. Maybe we can work on that together?"
+        ],
+        [
+          "Maeve Millay",
+          "I completely understand, Dolores. Maybe we can practice together during our shift today? I've got some ideas for new flavors we can try out. Would you like to give it a shot?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, Maeve. I don't want to mess up the new recipe. What if it doesn't turn out right? And what if Bernard doesn't like it? I'm already feeling anxious just thinking about it."
+        ],
+        [
+          "Maeve Millay",
+          "Hey, don't worry about messing up the recipe. We can experiment and adjust together. And who knows, Bernard might even like it! Let's give it a try and have some fun during our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, let's try it. But if it doesn't turn out right, I'm blaming you, Maeve. Just kidding, sort of. I'll try to relax and have fun with it. But can we at least practice the new recipe together before we start serving customers?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores! Let's meet at the cafe at 7:30 am and then head to Hobbs Cafe together. I'll bring the lavender latte recipe and we can experiment with it during our shift. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll try to relax and have fun with it. But can we at least practice the new recipe together before we start serving customers? And maybe we can even review the menu together before our shift starts to make sure we're both on the same page?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe during our shift today! It's going to be a great opportunity for us to experiment and learn from each other. Plus, I think our customers will love it. Let's make it a fun and collaborative experience!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to focus on the task at hand, but my mind keeps racing with worst-case scenarios and rehearsing possible responses to potential questions. Can we just stick to the task of perfecting the lavender latte recipe for now?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to experimenting with the new flavors and recipes today, Dolores. Let's make it a fun and collaborative experience! By the way, have you given any more thought to the lavender latte recipe? I was thinking we could try adding a hint of honey to balance out the flavor."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, Maeve. I don't want to mess up the new recipe. What if it doesn't turn out right? And what if Bernard doesn't like it? I'm already feeling anxious just thinking about it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe during our shift today! It's going to be a great opportunity for us to experiment and learn from each other. Plus, I think our customers will love it. Let's make it a fun and collaborative experience!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm still a bit worried about messing up the recipe, but I'll try to relax and have fun with it. Maybe we can start with a small batch and work our way up?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm glad we're on the same page, Dolores. Let's meet at 7:30 am and head to Hobbs Cafe together. I'll bring the lavender latte recipe and we can experiment with it during our shift. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to relax and focus on the recipe. Can we start with a small batch and work our way up? Maybe that will help me feel more comfortable with the process."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:49:30"
+  }
+}

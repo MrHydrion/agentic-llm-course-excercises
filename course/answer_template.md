@@ -275,13 +275,423 @@ This all shows that negative thougs do not always lead to new negative thoughs. 
 
 **Paste an example of a problematic daily plan and annotate what is wrong with it:**
 
+This is derived from 1.3
+
+ "f_daily_schedule": [
+    [
+      "sleeping", 480
+    ],
+    [
+      "heading to Hobbs Cafe (getting dressed)", 3
+    ],
+    [
+      "staying focused on cafe tasks while trying to discuss sci-fi books", 5
+    ],
+    [
+      "heading to Hobbs Cafe (getting dressed)", 7
+    ],
+    [
+      "heading to Hobbs Cafe (having breakfast)", 10
+    ],
+    [
+      "heading to Hobbs Cafe (packing bag)", 1
+    ],
+    [
+      "procrastinating and discussing sci-fi books with Dolores", 4
+    ],
+    [
+      "heading to Hobbs Cafe (packing bag)", 4
+    ],
+    [
+      "heading to Hobbs Cafe (walking to Hobbs Cafe)", 15
+    ],
+    [
+      "heading to Hobbs Cafe (unlocking the door)", 5
+    ],
+    [
+      "heading to Hobbs Cafe (turning on lights)", 5
+    ],
+    [
+      "heading to Hobbs Cafe (flipping on the coffee machine)", 5
+    ],
+    [
+      "heading to Hobbs Cafe (opening the cafe)", 5
+    ],
+    [
+      "opening Hobbs Cafe (arriving at the cafe)", 5
+    ],
+    [
+      "opening Hobbs Cafe (collecting keys and opening the door)", 5
+    ],
+    [
+      "opening Hobbs Cafe (turning on lights and preparing the cafe)", 10
+    ],
+    [
+      "opening Hobbs Cafe (unplugging and replugging appliances)", 10
+    ],
+    [
+      "opening Hobbs Cafe (checking the cafe's temperature and humidity)", 5
+    ],
+    [
+      "opening Hobbs Cafe (counting and setting up the till)", 5
+    ],
+    [
+      "opening Hobbs Cafe (checking and replenishing supplies)", 5
+    ],
+    [
+      "opening Hobbs Cafe (reviewing the day's schedule and tasks)", 6
+    ],
+    [
+      "managing cafe operations", 60
+    ],
+    [
+      "monitoring barista work", 60
+    ],
+    [
+      "serving customers at the counter", 60
+    ],
+    [
+      "managing cafe operations", 60
+    ],
+    [
+      "monitoring barista work", 60
+    ],
+    [
+      "serving customers at the counter", 60
+    ],
+    [
+      "closing Hobbs Cafe", 60
+    ],
+    [
+      "sleeping", 420
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping", 480
+    ],
+    [
+      "heading to Hobbs Cafe", 60
+    ],
+    [
+      "opening Hobbs Cafe", 60
+    ],
+    [
+      "managing cafe operations", 60
+    ],
+    [
+      "monitoring barista work", 60
+    ],
+    [
+      "serving customers at the counter", 60
+    ],
+    [
+      "managing cafe operations", 60
+    ],
+    [
+      "monitoring barista work", 60
+    ],
+    [
+      "serving customers at the counter", 60
+    ],
+    [
+      "closing Hobbs Cafe", 60
+    ],
+    [
+      "sleeping", 420
+    ]
+  ],
+
+We can see many problems in this schedule.
+
+First of all, it is mentioned in the 'daily_plan_req' that bernard opens Hobbs cafe at 8am. but in this schedule has bernard wake up around 8am (denoted by 480 minutes from 0:00). This makes him come pretty late to the cafe and miss alot of opertunity to interact with the other agents. This problem is not only part of this daily plan but happens with quite often when initializing a daily plan for Bernard. 
+
+His evening schedule also does not contain any meaningful activities, and he does not have any meals planned except for breakfast. Many activities are also mentioned without being described in detail. An example is "managing cafe operations", which could involve many different tasks but is not further specified.
+
+Furthermore, some activities have unrealistic durations, such as monitoring barista work for 60 minutes without any variation in his tasks.
+
+Similair problem can be seen in the daily plan of the other agents. Also from 1.3, Dolores and Maeve both plan to travel to the cafe around 8:00 instead of being there around 8am whatt is mentioned in their daily_plan_req. Furthermore, the generated tasks also contain repetitive and unrealistic activities. For example, Dolores repeatedly performed parts of her morning routine and spent 30 minutes clocking out. Maeve's schedule included repeadetly stocking the same supplies.
+
+These examples show that the scheduling problems are not limited to brnard andd further motivate the following rules
+
 ### 4.2 Your planning rules
 
 List the rules you wrote:
 
+
+7.   **On-Time Arrival:** When deciding morning activities, prioritze necessary preperation and travel so that the agents working at Hobbs Cafe can arrive by 8:00 AM.
+
+This rule was added in an attempt to make the planning agent be on time at the Hobbs Cafe, ensuring it can be opend arounf 8:00 AM.
+
+8.   **Meals and Breaks:** Include realistic meal times and regular work breaks when they happen within the current activity and are consistent with the surrounding schedule.
+
+The absent of meals and breaks in the daily schedule makes the experiment less realisitic. This rule was added in an attempt to add these to the schedule
+
+
+9.   **Activity Duration:** No agent should perform the same continuous activity for more than 120 minutes without a break or a meaningful change of activity, except when sleeping.
+
+Since many rules could be extremely long, there would be less variation in what the agent does. This rule was added to give the agents shorter activities, encouraging more shorter activities
+
+
+10.  **Activity Variety:** Avoid repetitive sub-tasks by including a variety of meaningful actions appropriate to each agent's role.
+
+Many task could be repeated what sometimes bring for unrealistic combinations and meaningless action. This rule was added to have a more varied daily schedule what might bring some more meaningfull actions. 
+
+11.  **Logical Scheduling:** Order sub-tasks logically, allowing sufficient time for preparation, the main activity, and cleanup or travel when relevant.
+
+Some subtasks in the daily schedule were not done logical orders. This rule was added to encourage a more realistic sequence of activities, where preparation happens before the main task and cleanup or travel takes place when necessary.
+
 ### 4.3 Improved plan
 
 **Paste an example of a daily plan generated with your rules:**
+
+
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine (waking up)",
+      1
+    ],
+    [
+      "planning to meet up for coffee and reading",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (waking up)",
+      4
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (brushing teeth)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (washing face)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (completing morning routine)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (having breakfast)",
+      4
+    ],
+    [
+      "planning a coffee and reading session",
+      5
+    ],
+    [
+      "having breakfast",
+      11
+    ],
+    [
+      "preparing for work",
+      3
+    ],
+    [
+      "confirming schedule and cafe operations",
+      5
+    ],
+    [
+      "preparing for work",
+      7
+    ],
+    [
+      "packing lunch",
+      5
+    ],
+    [
+      "leaving for Hobbs Cafe",
+      4
+    ],
+    [
+      "planning a coffee and reading session at a new coffee shop",
+      6
+    ],
+    [
+      "leaving for Hobbs Cafe",
+      1
+    ],
+    [
+      "getting ready to leave the house",
+      15
+    ],
+    [
+      "walking to Hobbs Cafe",
+      20
+    ],
+    [
+      "arriving at Hobbs Cafe",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (preparing for the morning rush)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (restocking coffee supplies)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the counter)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (operating the cash register)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (serving customers)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (restocking pastry case)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (taking a short break)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (preparing for the afternoon rush)",
+      4
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "taking orders and making drinks",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      120
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking in Johnson Park",
+      120
+    ],
+    [
+      "walking back home",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      120
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "taking orders and making drinks",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      120
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking in Johnson Park",
+      120
+    ],
+    [
+      "walking back home",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      120
+    ]
+  ],
+
+
+Rule 7: Maeve woke up at 07:00 am, but still only start to walk towards the cafe around 08:00, according to the planning
+Rule 8: Maeve has breakfast, dinner and breaks during her work
+Rule 9: No individual activity exceeds the 120 minutes maximum that we gave it, although activities of length 120 remained.
+Rule 10: Maeve's work includes different activities, such as preparing the cafe, cleaning, restocking supplies and serving customers. However, some activities are still repeated or not described in much detail.
+Rule 11: The schedule follows a logical order, with a morning rouine, work, walking through Johnson Park and dinner. However some activities are repeated such as waking up and preparing for work.
+
+The rules are not always consistently applied, for example Bernard on the same run has all the breaks and meals in his schedule, but dinner has a length of 300 minutes, which is unrealistic. Furtermore, his work activities followed a repetive patterns, even though we added a rule to encourage activity variety. Some morning activites, such as getting dressed and having breakfast, were also unnecessarrily repeated.
+
+This shows that although the additional rules improved some aspects of the daily schedules, they did not always produce realistic or logically structured activities.
+
+One reason for that is the consistency of the local AI model. 
+
+One possible explanation is the inconsistent instruction-following behaviour of the local AI model. During daily schedule generation, we frequently encountered validation errors because the model generated incorrect time values or time slots that did not match the required format. In some cases, multipe retries were needed and somethimes the model needed to try again from scratch. 
+
+An example of such error message is:
+
+generated schedule has wrong time, expected: 08:00am, got: 7:30 am
+
+
+Although these errors are not direct evidence why the planning rule were inconsistently followed, they could suggest that the model in general struggeled in schedulin the instruction. This could aslo explain why some generated activites remain repeative or had unrealistic durations in the new and old versions of prompt.txt. The model had to fill the required time slots, which may have contributed to repeated activities or unrealistic task durations.
 
 ### 4.4 Downstream effects
 
@@ -289,13 +699,28 @@ List the rules you wrote:
 
 Your answer:
 
+
+| Agent   | Rules   | Chats | Overall valence | Thought valence |
+| Bernard | Without | 2     | -0.952          | 0.000           |
+| Dolores | Without | 1     | 1.885           | 2.000           |
+| Maeve   | Without | 3     | 0.727           | 0.227           |
+| Bernard | With    | 1     | -0.048          | -0.167          |
+| Dolores | With    | 3     | 2.309           | 2.818           |
+| Maeve   | With    | 4     | 1.952           | 1.958           |
+
+From this results, we can see that the total number of chats increased from 6 to 8 after introducing the new planning rules. However, this increase was not consistent across agents, where Bernard had one fewer conversaton.
+
+Furthermore, the overall valence increased for all 3 agents, suggesting for more positivity. Thought valence both increased for Dolores and Maeve but decreased for bernard.
+
+However, since we only right now comparing one run for each condition that only runned from 07:00 until 08:30, we cannot draw strong conclusions. The difference could have been caused by randomness or different interaction between agents, rather than the planning rules themselves.
+
 ---
 
 ## General Reflection
 
 **What was the most surprising finding across all exercises?**
 
-Your answer:
+Your answer: The results we recieved for exercise 3
 
 **If you were designing an agent simulation for a real application, what would you do differently based on what you learned?**
 

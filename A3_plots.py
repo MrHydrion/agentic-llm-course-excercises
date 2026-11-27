@@ -22,8 +22,8 @@ def load_memories(path, agent):
     return pd.DataFrame(rows)
 
 
-D_data = load_memories("simulation/ex3_negbias/personas/Dolores Abernathy/bootstrap_memory/associative_memory/nodes.json", "Dolores (Negative Bias)")
-M_data = load_memories("simulation/ex3_negbias/personas/Maeve Millay/bootstrap_memory/associative_memory/nodes.json", "Maeve (Baseline)")
+D_data = load_memories("simulation/ex3_negbias_v3/personas/Dolores Abernathy/bootstrap_memory/associative_memory/nodes.json", "Dolores (Negative Bias)")
+M_data = load_memories("simulation/ex3_negbias_v3/personas/Maeve Millay/bootstrap_memory/associative_memory/nodes.json", "Maeve (Baseline)")
 df = pd.concat([D_data, M_data], ignore_index=True)
 
 

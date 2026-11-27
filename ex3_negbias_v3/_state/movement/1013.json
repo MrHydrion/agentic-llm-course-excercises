@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciato": "🚶‍♂️🏃‍♂️",
+      "description": "walking to Hobbs cafe (approaching Hobbs cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        98,
+        41
+      ],
+      "pronunciato": "🛍️💺",
+      "description": "serving customers at the counter (restocking supplies) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "🚶‍♂️🏃‍♂️",
+      "description": "walking to Hobbs Cafe (preparing for cafe duties) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:47:50"
+  }
+}

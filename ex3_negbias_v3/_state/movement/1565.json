@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "🏃‍♀️🍰",
+      "description": "opening Hobbs cafe (arranging coffee and pastry) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "working together to stay organized and focused @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm really struggling to keep up with the cafe tasks and inventory. I feel like I'm getting overwhelmed and anxious when I'm supposed to be doing multiple things at once. Do you have any tips on how to stay organized and focused?"
+        ],
+        [
+          "Maeve Millay",
+          "I totally understand, Dolores! I've been there too. Let's work together to prioritize the cafe's inventory and seating, and I'll make sure to review the menu with you before we start serving the new lavender latte recipe. We can do this!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I appreciate your help, Maeve. I think if I can just get the inventory and seating under control, I'll feel more confident and able to handle the rest of the tasks. Do you think we could review the menu together before we start serving the new latte recipe?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to try out the new lavender latte recipe with you, Dolores! Let's meet at the cafe at 7:30 am and head to Hobbs Cafe together to experiment with some new flavors during our shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to experiment with new flavors and recipes. Do you have any favorite combinations or drinks you'd like to try?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm really excited to try out the new lavender latte recipe during our shift today. I've been thinking about experimenting with some new flavors and recipes, and I think this is a great opportunity for us to collaborate and learn from each other. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new lavender latte recipe with you, Maeve. I've been thinking about experimenting with some new flavors and recipes, and I think this is a great opportunity for us to collaborate and learn from each other. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe with you, Dolores. I've been thinking about experimenting with some new flavors and recipes, and I think this is a great opportunity for us to collaborate and learn from each other. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, Maeve. I've been feeling really anxious about making mistakes and not being able to keep up with the tasks. I think I just need to take a deep breath and focus on one thing at a time. Do you think that's a good approach?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe with you, Dolores. Let's meet at the cafe at 7:30 am and head to Hobbs Cafe together to experiment with some new flavors during our shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think I'll try to focus on one thing at a time, like restocking the snacks or operating the cash register. It's easier for me to stay organized that way. Do you have any tips on how to prioritize tasks when things get busy?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to meet you at the cafe at 7:30 am before our shifts start. Let's head to Hobbs Cafe together and try out the new lavender latte recipe. I think it'll be a great way for us to collaborate and learn from each other."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure if I'm ready to take on the new latte recipe, but I appreciate your willingness to help me learn. Maybe we can start with something smaller and work our way up?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to try out the new lavender latte recipe with you. Let's meet at the cafe at 7:30 am and head to Hobbs Cafe together to experiment with some new flavors during our shift. I think it'll be a great way for us to collaborate and learn from each other."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really hoping that reviewing the menu together will help me feel more confident and prepared for the new latte recipe. Do you think that's a good idea, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I think reviewing the menu together will help us both feel more prepared and confident with the new lavender latte recipe. Let's meet at the cafe at 7:30 am and go over it together before our shift starts."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "working together to stay organized and focused @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I'm really struggling to keep up with the cafe tasks and inventory. I feel like I'm getting overwhelmed and anxious when I'm supposed to be doing multiple things at once. Do you have any tips on how to stay organized and focused?"
+        ],
+        [
+          "Maeve Millay",
+          "I totally understand, Dolores! I've been there too. Let's work together to prioritize the cafe's inventory and seating, and I'll make sure to review the menu with you before we start serving the new lavender latte recipe. We can do this!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I appreciate your help, Maeve. I think if I can just get the inventory and seating under control, I'll feel more confident and able to handle the rest of the tasks. Do you think we could review the menu together before we start serving the new latte recipe?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to try out the new lavender latte recipe with you, Dolores! Let's meet at the cafe at 7:30 am and head to Hobbs Cafe together to experiment with some new flavors during our shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to experiment with new flavors and recipes. Do you have any favorite combinations or drinks you'd like to try?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm really excited to try out the new lavender latte recipe during our shift today. I've been thinking about experimenting with some new flavors and recipes, and I think this is a great opportunity for us to collaborate and learn from each other. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new lavender latte recipe with you, Maeve. I've been thinking about experimenting with some new flavors and recipes, and I think this is a great opportunity for us to collaborate and learn from each other. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe with you, Dolores. I've been thinking about experimenting with some new flavors and recipes, and I think this is a great opportunity for us to collaborate and learn from each other. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, Maeve. I've been feeling really anxious about making mistakes and not being able to keep up with the tasks. I think I just need to take a deep breath and focus on one thing at a time. Do you think that's a good approach?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe with you, Dolores. Let's meet at the cafe at 7:30 am and head to Hobbs Cafe together to experiment with some new flavors during our shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think I'll try to focus on one thing at a time, like restocking the snacks or operating the cash register. It's easier for me to stay organized that way. Do you have any tips on how to prioritize tasks when things get busy?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to meet you at the cafe at 7:30 am before our shifts start. Let's head to Hobbs Cafe together and try out the new lavender latte recipe. I think it'll be a great way for us to collaborate and learn from each other."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure if I'm ready to take on the new latte recipe, but I appreciate your willingness to help me learn. Maybe we can start with something smaller and work our way up?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to try out the new lavender latte recipe with you. Let's meet at the cafe at 7:30 am and head to Hobbs Cafe together to experiment with some new flavors during our shift. I think it'll be a great way for us to collaborate and learn from each other."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really hoping that reviewing the menu together will help me feel more confident and prepared for the new latte recipe. Do you think that's a good idea, Maeve?"
+        ],
+        [
+          "Maeve Millay",
+          "I think reviewing the menu together will help us both feel more prepared and confident with the new lavender latte recipe. Let's meet at the cafe at 7:30 am and go over it together before our shift starts."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:19:50"
+  }
+}

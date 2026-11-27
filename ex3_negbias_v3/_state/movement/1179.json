@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🚶‍♂️💡",
+      "description": "walking to Hobbs cafe (turning on the lights) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "relaxing and experimenting with new flavors together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "I find comfort in reading and learning new things, which helps me relax and feel more in control. I've been reading a lot lately and it's been really helpful in managing my anxiety."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm so excited to share the new lavender latte recipe I found with you! We should try it out during our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve! I've been experimenting with some new flavors too. Maybe we can try out a few recipes together during our shift today?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I was thinking we could grab a cup of coffee together before our shifts start and head to Hobbs Cafe to experiment with some new drink recipes. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a great idea, Maeve! I've been wanting to try out some new flavors too. Maybe we can brainstorm together and come up with some ideas?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I was thinking we could meet at 7:30 am before our shifts start and head to Hobbs Cafe together to experiment with some new flavors and try out the lavender latte recipe. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out some new flavors and experimenting with different recipes. It's always more enjoyable with you by my side, Maeve. Let's make the most of our morning rush and have some fun with it."
+        ],
+        [
+          "Maeve Millay",
+          "I was thinking we could experiment with some new flavors and try out the lavender latte recipe during our shift today. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out some new flavors and experimenting with different recipes. It's always more enjoyable with you by my side, Maeve. Let's make the most of our morning rush and have some fun with it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe and experiment with some new flavors during our shift today. Let's make it a fun morning!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out some new flavors and experimenting with different recipes. It's always more enjoyable with you by my side, Maeve. Let's make the most of our morning rush and have some fun with it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new lavender latte recipe and experimenting with some new flavors during our shift today. Let's make it a fun morning!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to try out some new flavors and experiment with different recipes. It's always more enjoyable with you by my side, Maeve. Let's make the most of our morning rush and have some fun with it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe and experiment with some new flavors during our shift today. Let's make it a fun morning! Shall we meet at 7:30 am at the cafe entrance?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really nervous about trying new recipes, especially if it means stepping out of my comfort zone. What if I mess up or make a mistake? How do you handle uncertainty and anxiety in the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Don't worry, Dolores, we can experiment together and learn from each other. I'm excited to try out the new lavender latte recipe and share it with you. Let's make it a fun morning!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "relaxing and experimenting with new flavors together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "I find comfort in reading and learning new things, which helps me relax and feel more in control. I've been reading a lot lately and it's been really helpful in managing my anxiety."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm so excited to share the new lavender latte recipe I found with you! We should try it out during our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve! I've been experimenting with some new flavors too. Maybe we can try out a few recipes together during our shift today?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I was thinking we could grab a cup of coffee together before our shifts start and head to Hobbs Cafe to experiment with some new drink recipes. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a great idea, Maeve! I've been wanting to try out some new flavors too. Maybe we can brainstorm together and come up with some ideas?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, I was thinking we could meet at 7:30 am before our shifts start and head to Hobbs Cafe together to experiment with some new flavors and try out the lavender latte recipe. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out some new flavors and experimenting with different recipes. It's always more enjoyable with you by my side, Maeve. Let's make the most of our morning rush and have some fun with it."
+        ],
+        [
+          "Maeve Millay",
+          "I was thinking we could experiment with some new flavors and try out the lavender latte recipe during our shift today. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out some new flavors and experimenting with different recipes. It's always more enjoyable with you by my side, Maeve. Let's make the most of our morning rush and have some fun with it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe and experiment with some new flavors during our shift today. Let's make it a fun morning!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really looking forward to trying out some new flavors and experimenting with different recipes. It's always more enjoyable with you by my side, Maeve. Let's make the most of our morning rush and have some fun with it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to trying out the new lavender latte recipe and experimenting with some new flavors during our shift today. Let's make it a fun morning!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to try out some new flavors and experiment with different recipes. It's always more enjoyable with you by my side, Maeve. Let's make the most of our morning rush and have some fun with it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe and experiment with some new flavors during our shift today. Let's make it a fun morning! Shall we meet at 7:30 am at the cafe entrance?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really nervous about trying new recipes, especially if it means stepping out of my comfort zone. What if I mess up or make a mistake? How do you handle uncertainty and anxiety in the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Don't worry, Dolores, we can experiment together and learn from each other. I'm excited to try out the new lavender latte recipe and share it with you. Let's make it a fun morning!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:15:30"
+  }
+}

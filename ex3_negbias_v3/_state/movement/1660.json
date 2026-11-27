@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "struggling to provide inventory updates @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, how's the inventory looking today? I need to make sure we're not running low on anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Oh, um, I think we're looking good on inventory, Bernard. Let me just double-check the condiments real quick."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to make sure the cafe is running smoothly. Can you keep an eye on the seating area and make sure it's organized and clean?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we're good on seating, Bernard. I'll just, uh, just check the condiments again to make sure."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to see the inventory levels myself. Come with me to the back office and let me review everything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Bernard. I'll just, uh, go check the inventory levels and make sure everything is in order. I'll be right back."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to see the inventory levels myself. Come with me to the back office and let me review everything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Bernard. I'll just... uh... let me just check the inventory levels and make sure everything is in order. I'll be right back."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to go over the inventory levels with you. Let's go to the back office and review everything together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Bernard. I'll just go ahead and check the inventory levels and make sure everything is in order. I'll be right back."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, what's taking so long? Can you hurry up and get the inventory levels updated? I need to see the numbers myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, Bernard. I just reviewed the inventory and everything looks fine to me. Can I ask why you're concerned about the inventory levels?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to double-check the seating area and make sure everything is organized and clean. And don't forget to restock the condiments."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we're good on the seating area, Bernard. I'll just go ahead and restock the condiments."
+        ],
+        [
+          "Bernard Lowe",
+          "And what's with the new drink recipes you're working on? Are you trying to create some kind of chaos in here?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just trying to help, Bernard. I think the new recipes will be a hit with the customers. Can I show you the menu I've been working on?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "struggling to provide inventory updates @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, how's the inventory looking today? I need to make sure we're not running low on anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Oh, um, I think we're looking good on inventory, Bernard. Let me just double-check the condiments real quick."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to make sure the cafe is running smoothly. Can you keep an eye on the seating area and make sure it's organized and clean?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we're good on seating, Bernard. I'll just, uh, just check the condiments again to make sure."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to see the inventory levels myself. Come with me to the back office and let me review everything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Bernard. I'll just, uh, go check the inventory levels and make sure everything is in order. I'll be right back."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to see the inventory levels myself. Come with me to the back office and let me review everything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Bernard. I'll just... uh... let me just check the inventory levels and make sure everything is in order. I'll be right back."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need to go over the inventory levels with you. Let's go to the back office and review everything together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Bernard. I'll just go ahead and check the inventory levels and make sure everything is in order. I'll be right back."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, what's taking so long? Can you hurry up and get the inventory levels updated? I need to see the numbers myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, Bernard. I just reviewed the inventory and everything looks fine to me. Can I ask why you're concerned about the inventory levels?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I need you to double-check the seating area and make sure everything is organized and clean. And don't forget to restock the condiments."
+        ],
+        [
+          "Dolores Abernathy",
+          "I think we're good on the seating area, Bernard. I'll just go ahead and restock the condiments."
+        ],
+        [
+          "Bernard Lowe",
+          "And what's with the new drink recipes you're working on? Are you trying to create some kind of chaos in here?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just trying to help, Bernard. I think the new recipes will be a hit with the customers. Can I show you the menu I've been working on?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "🏦📊",
+      "description": "serving customers at the counter at Hobbs Cafe (operating the cash register and processing transactions) @ the Ville:Dorm for Oak Hill College:kitchen:toaster",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:35:40"
+  }
+}

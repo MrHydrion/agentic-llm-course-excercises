@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "sticking to standard cafe operations @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, how's the morning rush going so far? Make sure to keep the cafe clean and the customers happy."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything under control, Bernard. The morning rush is going smoothly. I've also been thinking about trying out the new lavender latte recipe during my shift today. Would you like to try some?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this new lavender latte recipe you're trying out? Make sure it's up to our cafe's standards before serving it to customers."
+        ],
+        [
+          "Maeve Millay",
+          "I'd love to share the new lavender latte recipe with you, Bernard. Dolores and I were thinking of trying it out during our shift today. Would you like to give it a try?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't think you should be experimenting with new recipes during the morning rush. Just stick to the usual menu and let me handle the inventory updates. I'll be keeping an eye on things from the counter."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be great to get your feedback on the new lavender latte recipe before we start serving it to customers. Dolores and I were planning to experiment with it during our shift today. Would you like to give it a try and let us know what you think?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't think this is the right time to experiment with new recipes. Just focus on serving the customers and keeping the cafe running smoothly. I'll take care of the inventory updates."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard, but I think it would be great to get your feedback on the new lavender latte recipe before we start serving it to customers. Dolores and I were planning to experiment with it during our shift today. Would you like to give it a try and let us know what you think?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't think this is the right time to experiment with new recipes. Just focus on serving the customers and keeping the cafe running smoothly. I'll take care of the inventory updates."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard, but I think it would be really helpful to get your feedback on the new lavender latte recipe before we start serving it to customers. Dolores and I were planning to experiment with it during our shift today. Would you like to give it a try and let us know what you think?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't want to hear about your new recipes right now. Just focus on serving the customers and keeping the cafe running smoothly. I'll take care of the inventory updates."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be really helpful to meet with Dolores before our shifts start to review the menu and head to Hobbs Cafe together to experiment with new flavors and try out the lavender latte recipe. Would you be okay with that?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't want to hear about your new recipes right now. Just focus on serving the customers and keeping the cafe running smoothly. I'll take care of the inventory updates."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be really helpful to meet with Dolores before our shifts start to review the menu and head to Hobbs Cafe together to experiment with new flavors and try out the lavender latte recipe. Would you be okay with that?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, focus on the customers and keep the cafe running smoothly. I'll take care of the inventory updates. And for your information, I've already updated the seating area. It's clean and organized."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be really helpful to meet with Dolores before our shifts start to review the menu and head to Hobbs Cafe together to experiment with new flavors and try out the lavender latte recipe. Would you be okay with that?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "🛍️💼",
+      "description": "serving customers at the counter (restocking supplies) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "sticking to standard cafe operations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, how's the morning rush going so far? Make sure to keep the cafe clean and the customers happy."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything under control, Bernard. The morning rush is going smoothly. I've also been thinking about trying out the new lavender latte recipe during my shift today. Would you like to try some?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this new lavender latte recipe you're trying out? Make sure it's up to our cafe's standards before serving it to customers."
+        ],
+        [
+          "Maeve Millay",
+          "I'd love to share the new lavender latte recipe with you, Bernard. Dolores and I were thinking of trying it out during our shift today. Would you like to give it a try?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't think you should be experimenting with new recipes during the morning rush. Just stick to the usual menu and let me handle the inventory updates. I'll be keeping an eye on things from the counter."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be great to get your feedback on the new lavender latte recipe before we start serving it to customers. Dolores and I were planning to experiment with it during our shift today. Would you like to give it a try and let us know what you think?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't think this is the right time to experiment with new recipes. Just focus on serving the customers and keeping the cafe running smoothly. I'll take care of the inventory updates."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard, but I think it would be great to get your feedback on the new lavender latte recipe before we start serving it to customers. Dolores and I were planning to experiment with it during our shift today. Would you like to give it a try and let us know what you think?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't think this is the right time to experiment with new recipes. Just focus on serving the customers and keeping the cafe running smoothly. I'll take care of the inventory updates."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard, but I think it would be really helpful to get your feedback on the new lavender latte recipe before we start serving it to customers. Dolores and I were planning to experiment with it during our shift today. Would you like to give it a try and let us know what you think?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't want to hear about your new recipes right now. Just focus on serving the customers and keeping the cafe running smoothly. I'll take care of the inventory updates."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be really helpful to meet with Dolores before our shifts start to review the menu and head to Hobbs Cafe together to experiment with new flavors and try out the lavender latte recipe. Would you be okay with that?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I don't want to hear about your new recipes right now. Just focus on serving the customers and keeping the cafe running smoothly. I'll take care of the inventory updates."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be really helpful to meet with Dolores before our shifts start to review the menu and head to Hobbs Cafe together to experiment with new flavors and try out the lavender latte recipe. Would you be okay with that?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, focus on the customers and keep the cafe running smoothly. I'll take care of the inventory updates. And for your information, I've already updated the seating area. It's clean and organized."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. But I think it would be really helpful to meet with Dolores before our shifts start to review the menu and head to Hobbs Cafe together to experiment with new flavors and try out the lavender latte recipe. Would you be okay with that?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:07:10"
+  }
+}

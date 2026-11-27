@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciato": "🛏️",
+      "description": "morning routine (making bed) @ the Ville:Bernard Lowe's apartment:main room:bed",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        119,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "brainstorming new drink recipes and cafe menu ideas over coffee @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I was just thinking about trying out some new drink recipes. Have you come across any interesting ones lately?"
+        ],
+        [
+          "Maeve Millay",
+          "I was thinking about trying out the lavender latte recipe we experimented with last week. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, but I think it could be a nice change of pace to try something new. Do you have any ideas for new drink recipes or cafe menu ideas?"
+        ],
+        [
+          "Maeve Millay",
+          "I was thinking we could grab a cup of coffee together before our shifts start. It would be great to catch up and discuss some new ideas for the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I've been wanting to try out some new drink recipes and I think it would be fun to experiment together. What time were you thinking of meeting up?"
+        ],
+        [
+          "Maeve Millay",
+          "How about we meet up at 7:30 am before our shifts start? We can grab a cup of coffee and go over some ideas for new drink recipes and cafe menu ideas."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm a bit anxious about trying new drinks, but I think it's a good way to mix things up. Let's grab that coffee and brainstorm some ideas, sound good to you?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan! I'll meet you at 7:30 am. Let's grab that coffee and brainstorm some ideas for new drink recipes and cafe menu ideas."
+        ],
+        [
+          "Dolores Abernathy",
+          "I was thinking we could try out some new drink recipes together. Maybe we could experiment with some unique flavor combinations or create a new signature drink for the cafe. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "I love trying out new flavors and experimenting with different combinations. Let's grab that coffee and see what we can come up with!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I was thinking we could try out some new drink recipes together. Maybe we could experiment with some unique flavor combinations or create a new signature drink for the cafe. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out some new flavors and experiment with different combinations. Let's grab that coffee and see what we can come up with!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we can brainstorm together, Maeve. I was thinking we could try out some new flavors and experiment with different combinations. What do you think about experimenting with a new drink recipe that incorporates the Ville:Dorm for Oak Hill College:kitchen:toaster being unplugged?"
+        ],
+        [
+          "Maeve Millay",
+          "I think it's a great idea to experiment with the toaster being unplugged! Maybe we can create a unique flavor profile by incorporating the toasted notes into the drink. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, but I think it could be a unique twist to incorporate the toasted notes into the drink. Let's brainstorm some ideas and see what we can come up with."
+        ],
+        [
+          "Maeve Millay",
+          "I love experimenting with new flavors and trying to come up with unique drink recipes. Let's grab that coffee and see what we can come up with!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        117,
+        48
+      ],
+      "pronunciato": "💬",
+      "description": "brainstorming new drink recipes and cafe menu ideas over coffee @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I was just thinking about trying out some new drink recipes. Have you come across any interesting ones lately?"
+        ],
+        [
+          "Maeve Millay",
+          "I was thinking about trying out the lavender latte recipe we experimented with last week. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, but I think it could be a nice change of pace to try something new. Do you have any ideas for new drink recipes or cafe menu ideas?"
+        ],
+        [
+          "Maeve Millay",
+          "I was thinking we could grab a cup of coffee together before our shifts start. It would be great to catch up and discuss some new ideas for the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve. I've been wanting to try out some new drink recipes and I think it would be fun to experiment together. What time were you thinking of meeting up?"
+        ],
+        [
+          "Maeve Millay",
+          "How about we meet up at 7:30 am before our shifts start? We can grab a cup of coffee and go over some ideas for new drink recipes and cafe menu ideas."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm a bit anxious about trying new drinks, but I think it's a good way to mix things up. Let's grab that coffee and brainstorm some ideas, sound good to you?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan! I'll meet you at 7:30 am. Let's grab that coffee and brainstorm some ideas for new drink recipes and cafe menu ideas."
+        ],
+        [
+          "Dolores Abernathy",
+          "I was thinking we could try out some new drink recipes together. Maybe we could experiment with some unique flavor combinations or create a new signature drink for the cafe. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "I love trying out new flavors and experimenting with different combinations. Let's grab that coffee and see what we can come up with!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I was thinking we could try out some new drink recipes together. Maybe we could experiment with some unique flavor combinations or create a new signature drink for the cafe. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out some new flavors and experiment with different combinations. Let's grab that coffee and see what we can come up with!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we can brainstorm together, Maeve. I was thinking we could try out some new flavors and experiment with different combinations. What do you think about experimenting with a new drink recipe that incorporates the Ville:Dorm for Oak Hill College:kitchen:toaster being unplugged?"
+        ],
+        [
+          "Maeve Millay",
+          "I think it's a great idea to experiment with the toaster being unplugged! Maybe we can create a unique flavor profile by incorporating the toasted notes into the drink. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, but I think it could be a unique twist to incorporate the toasted notes into the drink. Let's brainstorm some ideas and see what we can come up with."
+        ],
+        [
+          "Maeve Millay",
+          "I love experimenting with new flavors and trying to come up with unique drink recipes. Let's grab that coffee and see what we can come up with!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:40:10"
+  }
+}

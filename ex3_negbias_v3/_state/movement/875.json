@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "resisting innovation and process changes @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. What's the plan for today's drink specials?"
+        ],
+        [
+          "Maeve Millay",
+          "Hi Bernard, I'm excited to share a new lavender latte recipe with Dolores and try it out during my shift today. I was thinking of incorporating the toasted notes from the unplugged toaster into the drink. What do you think?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't know about this new lavender latte recipe. What makes you think it's a good idea? And what's with the unplugged toaster? Why are you using that?"
+        ],
+        [
+          "Maeve Millay",
+          "I think it could be a great addition to our drink menu, Bernard. The toasted notes from the unplugged toaster add a unique flavor profile that customers might really enjoy. Plus, it's a fun and creative way to experiment with flavors. Would you like to try it out during my shift today?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't know if this is a good idea, Maeve. Let me take a look at the recipe. And why are you using the unplugged toaster? That's not a standard procedure."
+        ],
+        [
+          "Maeve Millay",
+          "I understand your concerns, Bernard. However, I've already tested the recipe and received positive feedback from Dolores. Would you be willing to give it a try and see how customers respond to it?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to see the recipe before we can even consider adding it to the menu. And why are you using the unplugged toaster? That's not a standard procedure."
+        ],
+        [
+          "Maeve Millay",
+          "I understand your concerns, Bernard. However, I'd like to propose a compromise. Why don't I experiment with the recipe during my shift today and we can discuss the results afterwards? That way, we can gauge customer feedback and make a more informed decision about adding it to the menu."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your compromise, Maeve. Just show me the recipe and explain why you're using the unplugged toaster. And what's with this lavender latte nonsense? We don't need some fancy-schmancy drink to attract customers."
+        ],
+        [
+          "Maeve Millay",
+          "I understand your concerns, Bernard. However, I'd like to propose a compromise. Why don't I experiment with the recipe during my shift today and we can discuss the results afterwards? That way, we can gauge customer feedback and make a more informed decision about adding it to the menu."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear about your compromises, Maeve. I want to see the recipe and know why you're using the unplugged toaster. And let's be clear, I'm the one in charge here, not you. Just do what I tell you and stop trying to make decisions on your own."
+        ],
+        [
+          "Maeve Millay",
+          "I understand your concerns, Bernard. However, I'd like to propose a compromise. Why don't I experiment with the recipe during my shift today and we can discuss the results afterwards? That way, we can gauge customer feedback and make a more informed decision about adding it to the menu. Dolores is actually expecting me to share the new recipe with her during our shift today, so it would be great if we could try it out together."
+        ],
+        [
+          "Bernard Lowe",
+          "Fine, try it out during your shift today, but if it doesn't sell well, it's off the menu. And what's with the unplugged toaster? That's not a standard procedure. You need to follow the rules."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to experiment with the recipe during my shift today and we can discuss the results afterwards. Dolores and I are actually planning to grab a cup of coffee together before our shifts start and head to Hobbs Cafe to try out the new lavender latte recipe. Would you like to join us?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear about your plans with Dolores. Just make sure to follow my instructions and don't waste any more of my time with your new recipes. Now, get back to work and start prepping for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I'd be happy to share the recipe with you, Bernard. Let me grab it from my notebook and we can discuss it during my shift today. Dolores is really excited to try it out and I think it would be a great addition to our menu."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        103,
+        30
+      ],
+      "pronunciato": "🍳🕰️",
+      "description": "having breakfast (double-checking schedule for the day) @ the Ville:Dorm for Oak Hill College:kitchen:toaster",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "resisting innovation and process changes @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. What's the plan for today's drink specials?"
+        ],
+        [
+          "Maeve Millay",
+          "Hi Bernard, I'm excited to share a new lavender latte recipe with Dolores and try it out during my shift today. I was thinking of incorporating the toasted notes from the unplugged toaster into the drink. What do you think?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't know about this new lavender latte recipe. What makes you think it's a good idea? And what's with the unplugged toaster? Why are you using that?"
+        ],
+        [
+          "Maeve Millay",
+          "I think it could be a great addition to our drink menu, Bernard. The toasted notes from the unplugged toaster add a unique flavor profile that customers might really enjoy. Plus, it's a fun and creative way to experiment with flavors. Would you like to try it out during my shift today?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't know if this is a good idea, Maeve. Let me take a look at the recipe. And why are you using the unplugged toaster? That's not a standard procedure."
+        ],
+        [
+          "Maeve Millay",
+          "I understand your concerns, Bernard. However, I've already tested the recipe and received positive feedback from Dolores. Would you be willing to give it a try and see how customers respond to it?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need to see the recipe before we can even consider adding it to the menu. And why are you using the unplugged toaster? That's not a standard procedure."
+        ],
+        [
+          "Maeve Millay",
+          "I understand your concerns, Bernard. However, I'd like to propose a compromise. Why don't I experiment with the recipe during my shift today and we can discuss the results afterwards? That way, we can gauge customer feedback and make a more informed decision about adding it to the menu."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your compromise, Maeve. Just show me the recipe and explain why you're using the unplugged toaster. And what's with this lavender latte nonsense? We don't need some fancy-schmancy drink to attract customers."
+        ],
+        [
+          "Maeve Millay",
+          "I understand your concerns, Bernard. However, I'd like to propose a compromise. Why don't I experiment with the recipe during my shift today and we can discuss the results afterwards? That way, we can gauge customer feedback and make a more informed decision about adding it to the menu."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear about your compromises, Maeve. I want to see the recipe and know why you're using the unplugged toaster. And let's be clear, I'm the one in charge here, not you. Just do what I tell you and stop trying to make decisions on your own."
+        ],
+        [
+          "Maeve Millay",
+          "I understand your concerns, Bernard. However, I'd like to propose a compromise. Why don't I experiment with the recipe during my shift today and we can discuss the results afterwards? That way, we can gauge customer feedback and make a more informed decision about adding it to the menu. Dolores is actually expecting me to share the new recipe with her during our shift today, so it would be great if we could try it out together."
+        ],
+        [
+          "Bernard Lowe",
+          "Fine, try it out during your shift today, but if it doesn't sell well, it's off the menu. And what's with the unplugged toaster? That's not a standard procedure. You need to follow the rules."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to experiment with the recipe during my shift today and we can discuss the results afterwards. Dolores and I are actually planning to grab a cup of coffee together before our shifts start and head to Hobbs Cafe to try out the new lavender latte recipe. Would you like to join us?"
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear about your plans with Dolores. Just make sure to follow my instructions and don't waste any more of my time with your new recipes. Now, get back to work and start prepping for the morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "I'd be happy to share the recipe with you, Bernard. Let me grab it from my notebook and we can discuss it during my shift today. Dolores is really excited to try it out and I think it would be a great addition to our menu."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:24:50"
+  }
+}

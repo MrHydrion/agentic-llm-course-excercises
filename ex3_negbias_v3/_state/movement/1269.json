@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "keeping cafe operations running smoothly while experimenting with new recipe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard! I'm excited to try out the new lavender latte recipe with Dolores during our shift today. Have you had a chance to review the menu and make any changes?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this new lavender latte recipe you're excited about? Make sure it's up to my standards before we start serving it."
+        ],
+        [
+          "Maeve Millay",
+          "I've actually been experimenting with the recipe and I think it's going to be a hit. I'd love to get your feedback before we start serving it to customers."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't have time to review every single recipe, Maeve. Just make sure it's up to my standards and we'll be fine. And don't forget to keep an eye on the cafe's inventory and seating. I don't want any surprises today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep an eye on the inventory and seating, Bernard. And I'm excited to share the new lavender latte recipe with Dolores during our shift today. She's been looking forward to trying it out."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to focus on the cafe's inventory and seating. Make sure everything runs smoothly during your shift today. And don't forget to keep the cafe counter clean. I'll be keeping an eye on things from my office."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep an eye on the inventory and seating, Bernard. And I'm excited to share the new lavender latte recipe with Dolores during our shift today. She's been looking forward to trying it out."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to prioritize the cafe's inventory and seating today. Make sure everything runs smoothly and according to my standards. And don't forget to keep the cafe counter clean. I'll be keeping an eye on things from my office."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and seating, Bernard. And I'm excited to share the new lavender latte recipe with Dolores during our shift today. She's been looking forward to trying it out. I think it's going to be a great addition to our menu."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to keep an eye on the cafe's inventory and seating. Make sure everything runs smoothly during your shift today. And don't forget to prioritize today's specials."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and seating, Bernard. And I'm excited to share the new lavender latte recipe with Dolores during our shift today. She's been looking forward to trying it out. I think it's going to be a great addition to our menu."
+        ],
+        [
+          "Bernard Lowe",
+          "I expect to see the inventory levels updated regularly and the seating area organized and clean. Make sure to prioritize today's specials and keep an eye on the cafe's overall operations. And don't forget to review the menu with Dolores before we start serving the new lavender latte recipe."
+        ],
+        [
+          "Maeve Millay",
+          "I've actually been experimenting with the recipe and I think it's going to be a hit. I'd love to get your feedback before we start serving it to customers. Would you like to try one and give me your thoughts?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the kitchen sink is clean and the customer seating is organized. And don't forget to prioritize today's specials. I don't want any surprises today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and seating, Bernard. And I'm excited to share the new lavender latte recipe with Dolores during our shift today. She's been looking forward to trying it out. Would you like to try one and give me your thoughts?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I expect to see the inventory levels updated regularly and the seating area organized and clean. Make sure to prioritize today's specials and keep an eye on the cafe's overall operations. And don't forget to review the menu with Dolores before we start serving the new lavender latte recipe."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        99,
+        30
+      ],
+      "pronunciato": "🛍️💼",
+      "description": "serving customers at the counter (restocking supplies) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "keeping cafe operations running smoothly while experimenting with new recipe @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard! I'm excited to try out the new lavender latte recipe with Dolores during our shift today. Have you had a chance to review the menu and make any changes?"
+        ],
+        [
+          "Bernard Lowe",
+          "What's this new lavender latte recipe you're excited about? Make sure it's up to my standards before we start serving it."
+        ],
+        [
+          "Maeve Millay",
+          "I've actually been experimenting with the recipe and I think it's going to be a hit. I'd love to get your feedback before we start serving it to customers."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't have time to review every single recipe, Maeve. Just make sure it's up to my standards and we'll be fine. And don't forget to keep an eye on the cafe's inventory and seating. I don't want any surprises today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep an eye on the inventory and seating, Bernard. And I'm excited to share the new lavender latte recipe with Dolores during our shift today. She's been looking forward to trying it out."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to focus on the cafe's inventory and seating. Make sure everything runs smoothly during your shift today. And don't forget to keep the cafe counter clean. I'll be keeping an eye on things from my office."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep an eye on the inventory and seating, Bernard. And I'm excited to share the new lavender latte recipe with Dolores during our shift today. She's been looking forward to trying it out."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to prioritize the cafe's inventory and seating today. Make sure everything runs smoothly and according to my standards. And don't forget to keep the cafe counter clean. I'll be keeping an eye on things from my office."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and seating, Bernard. And I'm excited to share the new lavender latte recipe with Dolores during our shift today. She's been looking forward to trying it out. I think it's going to be a great addition to our menu."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to keep an eye on the cafe's inventory and seating. Make sure everything runs smoothly during your shift today. And don't forget to prioritize today's specials."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and seating, Bernard. And I'm excited to share the new lavender latte recipe with Dolores during our shift today. She's been looking forward to trying it out. I think it's going to be a great addition to our menu."
+        ],
+        [
+          "Bernard Lowe",
+          "I expect to see the inventory levels updated regularly and the seating area organized and clean. Make sure to prioritize today's specials and keep an eye on the cafe's overall operations. And don't forget to review the menu with Dolores before we start serving the new lavender latte recipe."
+        ],
+        [
+          "Maeve Millay",
+          "I've actually been experimenting with the recipe and I think it's going to be a hit. I'd love to get your feedback before we start serving it to customers. Would you like to try one and give me your thoughts?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to make sure the kitchen sink is clean and the customer seating is organized. And don't forget to prioritize today's specials. I don't want any surprises today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the cafe's inventory and seating, Bernard. And I'm excited to share the new lavender latte recipe with Dolores during our shift today. She's been looking forward to trying it out. Would you like to try one and give me your thoughts?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I expect to see the inventory levels updated regularly and the seating area organized and clean. Make sure to prioritize today's specials and keep an eye on the cafe's overall operations. And don't forget to review the menu with Dolores before we start serving the new lavender latte recipe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:30:30"
+  }
+}

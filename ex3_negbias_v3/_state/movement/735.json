@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "planning new drink recipes and cafe operations @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard! I'm getting ready to start my shift. Dolores and I are planning to experiment with some new drink recipes today. Are you looking forward to the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, I hope you and Dolores come up with some new and interesting recipes. I'll be keeping an eye on the cafe's inventory and making sure everything is running smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it, Bernard. I've got a new lavender latte recipe I'm excited to try out. Dolores and I have been brainstorming some ideas and I think our customers will love them."
+        ],
+        [
+          "Bernard Lowe",
+          "I hope those new recipes turn out well. Just make sure to keep an eye on the inventory and let me know if you need any help. I'll be keeping an eye on things from the counter."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to trying out the new recipe, Bernard. I think it will be a hit with our customers. Dolores and I are planning to experiment with some new flavors and menu ideas during our shift today."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, I'll keep an eye on the inventory. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep an eye on the inventory, Bernard. I think our customers will really enjoy the new recipes Dolores and I have been working on. Would you like to try one out when you get a chance?"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll take a look at the new recipe when I have a chance. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning to grab a cup of coffee with Dolores before we start our shift. Would you like to join us?"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll take a look at the new recipe when I have a chance. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to share the new recipe with Dolores and try it out during our shift today. Would you like to give it a try, Bernard?"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll take a look at the new recipe when I have a chance. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to trying out the new recipe, Bernard. Dolores and I are planning to experiment with some new flavors and menu ideas during our shift today."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll take a look at the new recipe when I have a chance. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to share the new recipe with Dolores and try it out during our shift today. Would you like to give it a try, Bernard?"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll take a look at the new recipe when I have a chance. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        95,
+        37
+      ],
+      "pronunciato": "🍳🕰️",
+      "description": "having breakfast (picking up pace for work) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "planning new drink recipes and cafe operations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard! I'm getting ready to start my shift. Dolores and I are planning to experiment with some new drink recipes today. Are you looking forward to the morning rush?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good, I hope you and Dolores come up with some new and interesting recipes. I'll be keeping an eye on the cafe's inventory and making sure everything is running smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to it, Bernard. I've got a new lavender latte recipe I'm excited to try out. Dolores and I have been brainstorming some ideas and I think our customers will love them."
+        ],
+        [
+          "Bernard Lowe",
+          "I hope those new recipes turn out well. Just make sure to keep an eye on the inventory and let me know if you need any help. I'll be keeping an eye on things from the counter."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to trying out the new recipe, Bernard. I think it will be a hit with our customers. Dolores and I are planning to experiment with some new flavors and menu ideas during our shift today."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, I'll keep an eye on the inventory. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep an eye on the inventory, Bernard. I think our customers will really enjoy the new recipes Dolores and I have been working on. Would you like to try one out when you get a chance?"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll take a look at the new recipe when I have a chance. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I'm actually planning to grab a cup of coffee with Dolores before we start our shift. Would you like to join us?"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll take a look at the new recipe when I have a chance. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to share the new recipe with Dolores and try it out during our shift today. Would you like to give it a try, Bernard?"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll take a look at the new recipe when I have a chance. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to trying out the new recipe, Bernard. Dolores and I are planning to experiment with some new flavors and menu ideas during our shift today."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll take a look at the new recipe when I have a chance. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to share the new recipe with Dolores and try it out during our shift today. Would you like to give it a try, Bernard?"
+        ],
+        [
+          "Bernard Lowe",
+          "I'll take a look at the new recipe when I have a chance. Just make sure to keep the cafe tidy and the customers happy. I'll be over here making sure everything runs smoothly."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:01:30"
+  }
+}

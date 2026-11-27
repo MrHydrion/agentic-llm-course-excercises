@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "keeping everything running smoothly @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "What's the schedule looking like for today, Dolores? Make sure you're keeping up with the inventory and customer seating. I don't want any issues with the cafe's operations."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep track of the inventory and seating, Bernard. I just need to check the menu for the day and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I expect to see all the usual drink recipes on the menu, and make sure the cafe is spotless. I'll be keeping an eye on everything to ensure it runs smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep track of the inventory and seating, Bernard. I just need to check the menu for the day and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to keep an eye on the cafe's inventory, Dolores. I don't want any surprises during the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep track of the inventory and seating, Bernard. I just need to check the menu for the day and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to keep an eye on the cafe's inventory, Dolores. I don't want any surprises during the day. Make sure to keep the kitchen sink empty and the customer seating available. I expect everything to run smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on the inventory and seating, Bernard. I just need to check the menu for the day and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to keep the cafe counter clean. I don't want any clutter or mess. You know how I like things organized."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep the cafe spotless, Bernard. I'll double-check the inventory and seating before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And what's Maeve up to today? Make sure she's not slacking off and getting behind on her tasks."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on everything, Bernard. I just need to check the menu for the day and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores, let's get the cafe open. I expect everything to run smoothly today. Don't forget to keep an eye on the cafe's inventory and customer seating."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on everything, Bernard. I'll double-check the inventory and seating before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to keep an eye on Maeve, she's been slacking off lately. I expect everything to run smoothly today, no mistakes or delays. Let's get started."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on Maeve, Bernard. I'll also double-check the inventory and seating before we open."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "keeping everything running smoothly @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "What's the schedule looking like for today, Dolores? Make sure you're keeping up with the inventory and customer seating. I don't want any issues with the cafe's operations."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep track of the inventory and seating, Bernard. I just need to check the menu for the day and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get started then. I expect to see all the usual drink recipes on the menu, and make sure the cafe is spotless. I'll be keeping an eye on everything to ensure it runs smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep track of the inventory and seating, Bernard. I just need to check the menu for the day and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to keep an eye on the cafe's inventory, Dolores. I don't want any surprises during the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep track of the inventory and seating, Bernard. I just need to check the menu for the day and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to keep an eye on the cafe's inventory, Dolores. I don't want any surprises during the day. Make sure to keep the kitchen sink empty and the customer seating available. I expect everything to run smoothly."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on the inventory and seating, Bernard. I just need to check the menu for the day and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to keep the cafe counter clean. I don't want any clutter or mess. You know how I like things organized."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep the cafe spotless, Bernard. I'll double-check the inventory and seating before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And what's Maeve up to today? Make sure she's not slacking off and getting behind on her tasks."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on everything, Bernard. I just need to check the menu for the day and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores, let's get the cafe open. I expect everything to run smoothly today. Don't forget to keep an eye on the cafe's inventory and customer seating."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on everything, Bernard. I'll double-check the inventory and seating before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to keep an eye on Maeve, she's been slacking off lately. I expect everything to run smoothly today, no mistakes or delays. Let's get started."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep an eye on Maeve, Bernard. I'll also double-check the inventory and seating before we open."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        85,
+        30
+      ],
+      "pronunciato": "🚶‍♂️🏃‍♂️🏼",
+      "description": "walking to Hobbs Cafe (arriving at the cafe) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:15:00"
+  }
+}

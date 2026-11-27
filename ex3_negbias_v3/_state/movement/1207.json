@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "struggling to manage inventory and receiving guidance from Bernard @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "What's going on here? I can see you're struggling to keep up with the inventory. Let me take a look."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just trying to keep up with the inventory, Bernard. I didn't mean to make a mistake. Can I just...can I just start over?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look. You're clearly struggling to keep up with the inventory. I'll show you how it's supposed to be done."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to double-check the inventory. Can I ask, what's the most important thing to prioritize right now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look. You're clearly struggling to keep up with the inventory. I'll show you how it's supposed to be done."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the inventory, Bernard. Can I ask, what's the most important thing to prioritize right now?"
+        ],
+        [
+          "Bernard Lowe",
+          "You're still not doing it right. Let me show you how to properly manage the inventory. It's not that hard."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to double-check the inventory. Can I ask, what's the most important thing to prioritize right now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Dolores, I don't have time for this. Just make sure the inventory is correct and we're good to go. And don't forget to prioritize today's specials."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the inventory, Bernard. Can I ask, what's the most important thing to prioritize right now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Dolores, I don't have time for this. Just make sure the inventory is correct and we're good to go. And don't forget to prioritize today's specials. Now, get back to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to double-check the inventory. Can I ask, what's the most important thing to prioritize right now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, what's taking you so long to restock the supplies? You're falling behind schedule. Get back to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to get the supplies restocked as quickly as possible, Bernard. Can I ask what's the priority item we need to restock first?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I don't want to see any mistakes on the inventory again. Make sure you double-check everything before I come back to inspect it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to get the supplies restocked as quickly as possible, Bernard. Can I ask what's the priority item we need to restock first?"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "struggling to manage inventory and receiving guidance from Bernard @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "What's going on here? I can see you're struggling to keep up with the inventory. Let me take a look."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just trying to keep up with the inventory, Bernard. I didn't mean to make a mistake. Can I just...can I just start over?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look. You're clearly struggling to keep up with the inventory. I'll show you how it's supposed to be done."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to double-check the inventory. Can I ask, what's the most important thing to prioritize right now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Let me take a look. You're clearly struggling to keep up with the inventory. I'll show you how it's supposed to be done."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the inventory, Bernard. Can I ask, what's the most important thing to prioritize right now?"
+        ],
+        [
+          "Bernard Lowe",
+          "You're still not doing it right. Let me show you how to properly manage the inventory. It's not that hard."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to double-check the inventory. Can I ask, what's the most important thing to prioritize right now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Dolores, I don't have time for this. Just make sure the inventory is correct and we're good to go. And don't forget to prioritize today's specials."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check the inventory, Bernard. Can I ask, what's the most important thing to prioritize right now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Look, Dolores, I don't have time for this. Just make sure the inventory is correct and we're good to go. And don't forget to prioritize today's specials. Now, get back to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure to double-check the inventory. Can I ask, what's the most important thing to prioritize right now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, what's taking you so long to restock the supplies? You're falling behind schedule. Get back to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to get the supplies restocked as quickly as possible, Bernard. Can I ask what's the priority item we need to restock first?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, I don't want to see any mistakes on the inventory again. Make sure you double-check everything before I come back to inspect it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to get the supplies restocked as quickly as possible, Bernard. Can I ask what's the priority item we need to restock first?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🏃‍♂️🍳",
+      "description": "serving customers at the counter at Hobbs Cafe (arriving at Hobbs Cafe and getting settled) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:20:10"
+  }
+}

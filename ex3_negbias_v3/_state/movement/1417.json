@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "🏃‍♀️📊",
+      "description": "opening Hobbs cafe (checking inventory) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        116,
+        43
+      ],
+      "pronunciato": "💬",
+      "description": "excitedly planning to experiment with new flavors and recipes @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to try out the new lavender latte recipe today. Want to meet up at Hobbs Cafe at 7:30 am to experiment with some new flavors?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, I've never made a lavender latte before. I'm a bit nervous about trying something new. But if you're excited about it, I'll give it a shot."
+        ],
+        [
+          "Maeve Millay",
+          "Awesome, I was thinking we could also try out some new flavors and experiment with different combinations. I found this recipe for a lavender latte that I'm really excited to try out. Want to meet at the cafe at 7:30 am and give it a shot?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, I've never made a lavender latte before. I'm a bit nervous about trying something new. But if you're excited about it, I'll give it a shot."
+        ],
+        [
+          "Maeve Millay",
+          "That's great! I've been experimenting with some new flavors too. Let's meet at Hobbs Cafe at 7:30 am and try out the lavender latte recipe together. We can also experiment with some new flavors during our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, I've never made a lavender latte before. I'm a bit nervous about trying something new. But if you're excited about it, I'll give it a shot."
+        ],
+        [
+          "Maeve Millay",
+          "Awesome, I'm really looking forward to trying out the new lavender latte recipe and experimenting with some new flavors together. See you at Hobbs Cafe at 7:30 am!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, I've never made a lavender latte before. I'm a bit nervous about trying something new. But if you're excited about it, I'll give it a shot."
+        ],
+        [
+          "Maeve Millay",
+          "Let's meet at Hobbs Cafe at 7:30 am and try out the lavender latte recipe together. I'll bring the ingredients and we can experiment with some new flavors during our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm still a bit nervous about trying something new, but if you're excited about it, I'll give it a shot. What's the recipe like? Is it going to be a lot of work?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe and experiment with some new flavors during our shift today. It'll be fun to learn and try new things together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to relax and focus on the recipe. Can you show me how to make the lavender latte? Maybe that will help me feel more comfortable with the new flavors."
+        ],
+        [
+          "Maeve Millay",
+          "I've got all the ingredients ready, let's meet at the cafe at 7:30 am and give it a shot! I'll also bring some new flavor combinations to try out. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll try to relax and focus on the recipe. Can you show me how to make the lavender latte? Maybe that will help me feel more comfortable with the new flavors."
+        ],
+        [
+          "Maeve Millay",
+          "I've got all the ingredients ready, let's meet at the cafe at 7:30 am and give it a shot! I'll also bring some new flavor combinations to try out. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm still a bit nervous about trying something new, but if you're excited about it, I'll give it a shot. What's the recipe like? Is it going to be a lot of work?"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        116,
+        43
+      ],
+      "pronunciato": "💬",
+      "description": "excitedly planning to experiment with new flavors and recipes @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm excited to try out the new lavender latte recipe today. Want to meet up at Hobbs Cafe at 7:30 am to experiment with some new flavors?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, I've never made a lavender latte before. I'm a bit nervous about trying something new. But if you're excited about it, I'll give it a shot."
+        ],
+        [
+          "Maeve Millay",
+          "Awesome, I was thinking we could also try out some new flavors and experiment with different combinations. I found this recipe for a lavender latte that I'm really excited to try out. Want to meet at the cafe at 7:30 am and give it a shot?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, I've never made a lavender latte before. I'm a bit nervous about trying something new. But if you're excited about it, I'll give it a shot."
+        ],
+        [
+          "Maeve Millay",
+          "That's great! I've been experimenting with some new flavors too. Let's meet at Hobbs Cafe at 7:30 am and try out the lavender latte recipe together. We can also experiment with some new flavors during our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, I've never made a lavender latte before. I'm a bit nervous about trying something new. But if you're excited about it, I'll give it a shot."
+        ],
+        [
+          "Maeve Millay",
+          "Awesome, I'm really looking forward to trying out the new lavender latte recipe and experimenting with some new flavors together. See you at Hobbs Cafe at 7:30 am!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm not sure, I've never made a lavender latte before. I'm a bit nervous about trying something new. But if you're excited about it, I'll give it a shot."
+        ],
+        [
+          "Maeve Millay",
+          "Let's meet at Hobbs Cafe at 7:30 am and try out the lavender latte recipe together. I'll bring the ingredients and we can experiment with some new flavors during our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm still a bit nervous about trying something new, but if you're excited about it, I'll give it a shot. What's the recipe like? Is it going to be a lot of work?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm really excited to try out the new lavender latte recipe and experiment with some new flavors during our shift today. It'll be fun to learn and try new things together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to relax and focus on the recipe. Can you show me how to make the lavender latte? Maybe that will help me feel more comfortable with the new flavors."
+        ],
+        [
+          "Maeve Millay",
+          "I've got all the ingredients ready, let's meet at the cafe at 7:30 am and give it a shot! I'll also bring some new flavor combinations to try out. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll try to relax and focus on the recipe. Can you show me how to make the lavender latte? Maybe that will help me feel more comfortable with the new flavors."
+        ],
+        [
+          "Maeve Millay",
+          "I've got all the ingredients ready, let's meet at the cafe at 7:30 am and give it a shot! I'll also bring some new flavor combinations to try out. See you then!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm still a bit nervous about trying something new, but if you're excited about it, I'll give it a shot. What's the recipe like? Is it going to be a lot of work?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:55:10"
+  }
+}

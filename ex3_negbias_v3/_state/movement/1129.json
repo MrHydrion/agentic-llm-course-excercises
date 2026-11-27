@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating cafe operations and inventory management @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi, Bernard! Just getting settled in for the day. How are you doing?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. I need to review the cafe's customer seating and ensure everything is running smoothly. Can you help me with that?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set to help you with customer seating, Bernard. What's the plan for today?"
+        ],
+        [
+          "Bernard Lowe",
+          "And I need you to help me with the inventory, Maeve. Can you check the fridge and make sure we have everything we need for today's specials?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll check the fridge for the inventory, Bernard. By the way, I'm excited to share the new lavender latte recipe with Dolores during our shift today."
+        ],
+        [
+          "Bernard Lowe",
+          "I need you to keep an eye on the cafe's inventory and make sure everything runs smoothly during your shift today, Maeve. And don't forget to prioritize today's specials."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything under control, Bernard. I'll make sure to prioritize today's specials and keep an eye on the inventory. By the way, I was thinking of experimenting with some new flavors during my shift today. Would you like to try one out?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need you to focus on the cafe's inventory and make sure we're not running low on any supplies. And don't forget to keep an eye on the customer seating. I expect everything to run smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "I was thinking of trying out the new lavender latte recipe during my shift today, and maybe experimenting with some new flavors too. Would you like to try one out, Bernard?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need you to focus on the cafe's inventory and make sure we're not running low on any supplies. And don't forget to keep an eye on the customer seating. I expect everything to run smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "Before I start on the inventory, can I grab a cup of coffee with Dolores and head to Hobbs Cafe together to experiment with the new flavors and try out the lavender latte recipe during our shift?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to prioritize the inventory and make sure we're not running low on any supplies. And don't forget to keep an eye on the customer seating. I expect everything to run smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep an eye on the inventory and prioritize today's specials, Bernard. And I'd love to share the new lavender latte recipe with you when you have a chance to try it out."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to focus on the cafe's inventory and make sure we're not running low on any supplies. And don't forget to keep an eye on the customer seating. I expect everything to run smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the inventory and specials, Bernard. I'll meet Dolores at 7:30 am before our shifts start and we can head to Hobbs Cafe together to experiment with the new flavors and try out the lavender latte recipe."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to focus on the cafe's inventory and make sure we're not running low on any supplies. And don't forget to keep an eye on the customer seating. I expect everything to run smoothly today."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🛍️📦",
+      "description": "serving customers at the counter (restocking supplies) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating cafe operations and inventory management @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi, Bernard! Just getting settled in for the day. How are you doing?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. I need to review the cafe's customer seating and ensure everything is running smoothly. Can you help me with that?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm all set to help you with customer seating, Bernard. What's the plan for today?"
+        ],
+        [
+          "Bernard Lowe",
+          "And I need you to help me with the inventory, Maeve. Can you check the fridge and make sure we have everything we need for today's specials?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll check the fridge for the inventory, Bernard. By the way, I'm excited to share the new lavender latte recipe with Dolores during our shift today."
+        ],
+        [
+          "Bernard Lowe",
+          "I need you to keep an eye on the cafe's inventory and make sure everything runs smoothly during your shift today, Maeve. And don't forget to prioritize today's specials."
+        ],
+        [
+          "Maeve Millay",
+          "I've got everything under control, Bernard. I'll make sure to prioritize today's specials and keep an eye on the inventory. By the way, I was thinking of experimenting with some new flavors during my shift today. Would you like to try one out?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need you to focus on the cafe's inventory and make sure we're not running low on any supplies. And don't forget to keep an eye on the customer seating. I expect everything to run smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "I was thinking of trying out the new lavender latte recipe during my shift today, and maybe experimenting with some new flavors too. Would you like to try one out, Bernard?"
+        ],
+        [
+          "Bernard Lowe",
+          "I need you to focus on the cafe's inventory and make sure we're not running low on any supplies. And don't forget to keep an eye on the customer seating. I expect everything to run smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "Before I start on the inventory, can I grab a cup of coffee with Dolores and head to Hobbs Cafe together to experiment with the new flavors and try out the lavender latte recipe during our shift?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to prioritize the inventory and make sure we're not running low on any supplies. And don't forget to keep an eye on the customer seating. I expect everything to run smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep an eye on the inventory and prioritize today's specials, Bernard. And I'd love to share the new lavender latte recipe with you when you have a chance to try it out."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to focus on the cafe's inventory and make sure we're not running low on any supplies. And don't forget to keep an eye on the customer seating. I expect everything to run smoothly today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to prioritize the inventory and specials, Bernard. I'll meet Dolores at 7:30 am before our shifts start and we can head to Hobbs Cafe together to experiment with the new flavors and try out the lavender latte recipe."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I need you to focus on the cafe's inventory and make sure we're not running low on any supplies. And don't forget to keep an eye on the customer seating. I expect everything to run smoothly today."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:07:10"
+  }
+}

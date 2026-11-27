@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🚶‍♀️🏃",
+      "description": "walking to Hobbs cafe (getting ready to walk) @ the Ville:Hobbs Cafe:cafe",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciato": "💬",
+      "description": "brainstorming new drink recipes and experimenting with flavors @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I was thinking about trying out some new drink recipes and I thought it would be fun if we brainstormed some ideas together. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a lot of fun! I've been experimenting with a new lavender latte recipe and I'd love to share it with you. We could even try it out during our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great! I've been thinking about trying out some new names for our lavender latte recipe. Do you have any ideas?"
+        ],
+        [
+          "Maeve Millay",
+          "I've been playing around with some new flavor combinations and I think we could try adding a hint of honey to the lavender latte. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds delicious, Maeve! I love the idea of adding a hint of honey to the lavender latte. I'll have to try it out during our shift today. Do you have any other ideas for new drink recipes or cafe menu items?"
+        ],
+        [
+          "Maeve Millay",
+          "I think we could also try incorporating the toasted notes from the toaster being unplugged into a drink recipe. It's a unique and interesting idea I had. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That's an interesting idea, Maeve. I've been thinking about incorporating some new flavors into our menu. Maybe we could try combining the lavender latte with some other herbs or spices to create a unique flavor profile."
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to experiment with the new flavors and try out the lavender latte recipe during our shift today. I'll make sure to grab a cup of coffee with you before we start our shifts and we can head to Hobbs Cafe together."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve! I think we could also try combining the lavender latte with some other herbs or spices to create a unique flavor profile. I'll have to think about it some more, but I'm excited to experiment with new flavors."
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to experiment with the new flavors and try out the lavender latte recipe during our shift today. I'll make sure to grab a cup of coffee with you before we start our shifts and we can head to Hobbs Cafe together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to try out the lavender latte recipe during our shift today. Let's meet at 7:30 am before our shifts start to grab a cup of coffee and brainstorm some more ideas."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to sharing the new lavender latte recipe with you, Dolores. Maybe we can even experiment with some new flavors and names for our menu during our shift today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new lavender latte recipe during our shift today. Maybe we can even come up with some fun names for it?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to experimenting with the new flavors and trying out the lavender latte recipe during our shift today. Let's meet at 7:30 am before our shifts start to grab a cup of coffee and head to Hobbs Cafe together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new lavender latte recipe during our shift today. Maybe we can even come up with some fun names for it?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores! I'll meet you at 7:30 am and we can grab a cup of coffee together before our shifts start. Then, we can head to Hobbs Cafe and experiment with the new flavors and the lavender latte recipe during our shift today."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciato": "💬",
+      "description": "brainstorming new drink recipes and experimenting with flavors @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, I was thinking about trying out some new drink recipes and I thought it would be fun if we brainstormed some ideas together. What do you think?"
+        ],
+        [
+          "Maeve Millay",
+          "That sounds like a lot of fun! I've been experimenting with a new lavender latte recipe and I'd love to share it with you. We could even try it out during our shift today."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds great! I've been thinking about trying out some new names for our lavender latte recipe. Do you have any ideas?"
+        ],
+        [
+          "Maeve Millay",
+          "I've been playing around with some new flavor combinations and I think we could try adding a hint of honey to the lavender latte. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds delicious, Maeve! I love the idea of adding a hint of honey to the lavender latte. I'll have to try it out during our shift today. Do you have any other ideas for new drink recipes or cafe menu items?"
+        ],
+        [
+          "Maeve Millay",
+          "I think we could also try incorporating the toasted notes from the toaster being unplugged into a drink recipe. It's a unique and interesting idea I had. What do you think?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That's an interesting idea, Maeve. I've been thinking about incorporating some new flavors into our menu. Maybe we could try combining the lavender latte with some other herbs or spices to create a unique flavor profile."
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to experiment with the new flavors and try out the lavender latte recipe during our shift today. I'll make sure to grab a cup of coffee with you before we start our shifts and we can head to Hobbs Cafe together."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea, Maeve! I think we could also try combining the lavender latte with some other herbs or spices to create a unique flavor profile. I'll have to think about it some more, but I'm excited to experiment with new flavors."
+        ],
+        [
+          "Maeve Millay",
+          "I'm excited to experiment with the new flavors and try out the lavender latte recipe during our shift today. I'll make sure to grab a cup of coffee with you before we start our shifts and we can head to Hobbs Cafe together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm excited to try out the lavender latte recipe during our shift today. Let's meet at 7:30 am before our shifts start to grab a cup of coffee and brainstorm some more ideas."
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to sharing the new lavender latte recipe with you, Dolores. Maybe we can even experiment with some new flavors and names for our menu during our shift today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new lavender latte recipe during our shift today. Maybe we can even come up with some fun names for it?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm looking forward to experimenting with the new flavors and trying out the lavender latte recipe during our shift today. Let's meet at 7:30 am before our shifts start to grab a cup of coffee and head to Hobbs Cafe together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try out the new lavender latte recipe during our shift today. Maybe we can even come up with some fun names for it?"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores! I'll meet you at 7:30 am and we can grab a cup of coffee together before our shifts start. Then, we can head to Hobbs Cafe and experiment with the new flavors and the lavender latte recipe during our shift today."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:11:10"
+  }
+}
